@@ -1,0 +1,904 @@
+iso3,country,employment_in_industry,year,indicator,indicator.label,note_source.label
+ALB,Albania,10.19,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+ALB,Albania,9.59,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+ALB,Albania,9.3,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+ALB,Albania,8.76,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+ALB,Albania,8.73,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+ALB,Albania,6.65,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+ALB,Albania,6.49,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+ALB,Albania,13.7,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+ALB,Albania,13.39,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+ALB,Albania,13.64,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+ALB,Albania,13.52,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+ALB,Albania,13.48,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+ALB,Albania,22.55,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,17.77,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,19.94,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,20.59,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,18.86,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,17.26,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,16.81,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,17.44,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ALB,Albania,18.57,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ALB,Albania,19.35,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ARM,Armenia,16.97,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+ARM,Armenia,18.97,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Including armed forces and/or conscripts | Age coverage - minimum age: 16 years old
+ARM,Armenia,22.31,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,17.08,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,17.41,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,16.68,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,17.68,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,17,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,16.73,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,15.91,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,15.78,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,16.71,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+AUT,Austria,32.1,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,30.3,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,29.64,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,29.56,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,29.76,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,30.02,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,29.37,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,28.85,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,28.92,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,26.69,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,27.57,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,28.16,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,27.32,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,26.24,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,24.97,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,24.91,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,26.03,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,26.08,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,25.91,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,25.75,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,25.76,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,25.56,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,24.92,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,25.44,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+AZE,Azerbaijan,17.77,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Including armed forces and/or conscripts
+AZE,Azerbaijan,15.12,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Including armed forces and/or conscripts
+AZE,Azerbaijan,14,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Including armed forces and/or conscripts
+AZE,Azerbaijan,11.12,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+AZE,Azerbaijan,11.17,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+AZE,Azerbaijan,10.88,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+AZE,Azerbaijan,10.82,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+AZE,Azerbaijan,11.53,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+AZE,Azerbaijan,12.9,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,11.91,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+AZE,Azerbaijan,12.08,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+AZE,Azerbaijan,12.35,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,12.63,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,12.7,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+AZE,Azerbaijan,14.37,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Employment definition: Excluding own-use production workers | Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,14.72,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Employment definition: Excluding own-use production workers | Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+BEL,Belgium,28.25,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,27.63,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,27.55,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,27.25,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,25.77,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,25.81,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,25.49,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,25.78,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,24.92,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,24.94,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,24.69,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,24.69,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,24.42,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,24.67,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,23.47,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,23.38,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,23.23,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,21.76,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,21.7,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,21.39,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,21.43,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,21.26,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,20.76,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,21.06,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,33.5,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+BGR,Bulgaria,32.58,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+BGR,Bulgaria,32,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+BGR,Bulgaria,30.63,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+BGR,Bulgaria,28.86,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+BGR,Bulgaria,32.66,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,32.72,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,32.63,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,32.11,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,32.85,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,34.22,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,34.47,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,35.5,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,36.43,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,35.24,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,32.98,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,31.45,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,31.32,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,30.19,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,30.12,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,29.89,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,29.79,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,29.9,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,30.11,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+BIH,Bosnia and Herzegovina,30.76,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,32.58,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,32.47,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,31.48,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,30.86,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,28.88,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,30.36,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,30,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,31.28,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,32.13,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BLR,Belarus,31.07,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Age coverage - minimum age: 16 years old
+BLR,Belarus,31.5,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding non-permanent residents | Institutional sector coverage: Private sector only | Age coverage - maximum age: 74 years old
+BLR,Belarus,30.76,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding non-permanent residents | Institutional sector coverage: Private sector only | Age coverage - maximum age: 74 years old
+BLR,Belarus,30.62,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding non-permanent residents
+CYP,Cyprus,25.25,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+CYP,Cyprus,23.77,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,23.69,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,23.18,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,22.88,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,23.38,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,24.05,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,22.65,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,22.52,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,23.05,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,21.82,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,20.4,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,20.9,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,20.17,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,17.56,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,16.52,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,16.23,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,17.05,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,17.05,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,16.66,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,42.23,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: OECD
+CZE,Czech Republic,41.99,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: OECD
+CZE,Czech Republic,41.53,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,41.5,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,40.54,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,39.91,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,40.51,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,40.09,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,39.87,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,39.29,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,39.47,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,39.96,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,40.21,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,40.52,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,38.57,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,37.99,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,38.45,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,38.12,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,37.51,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,38.04,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,38.02,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,38.07,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,38.05,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,37.5,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,36,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,35.27,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,34.67,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,34.39,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,33.83,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,33.53,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,32.78,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,32.37,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,31.38,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,31.25,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,29.84,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,29.65,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,29.9,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,29.34,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,28.8,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,28.31,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,28.24,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,28.19,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,27.78,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,28.05,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,27.69,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,27.38,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,27.4,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,27.34,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,27.03,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,26.35,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,26.13,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,26.38,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,26.83,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,25.25,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,25.34,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,23.43,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,23.1,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,23.64,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,23.85,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,23.3,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,23.48,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,23.1,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,20.28,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,19.6,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,19.87,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,19.68,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,19.43,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,19.21,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,19.23,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,18.46,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,18.62,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,18.61,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,30.2,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,29.47,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,29.91,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,30.51,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,30.68,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,30.83,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,31.46,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,31.04,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,30.71,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,30.21,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,29.57,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,29.4,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,29.11,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,27.83,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,24.58,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,22.97,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,21.76,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,20.67,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,19.75,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,19.45,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,19.9,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,19.61,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,20.06,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,20.33,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,34.23,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Including armed forces and/or conscripts | Age coverage - maximum age: 69 years old
+EST,Estonia,33.65,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Including armed forces and/or conscripts | Age coverage - maximum age: 69 years old
+EST,Estonia,33.43,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,32.95,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,31.64,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,34.99,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,33.75,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,29.8,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,30.7,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,33.95,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,34.05,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,33.52,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,35.1,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,35.2,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,31.39,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,30.27,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,32.41,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,31.08,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,30.24,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,30.11,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,30.6,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,29.64,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,29.84,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,29.65,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,27.58,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,26.78,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,27.32,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,28.19,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,27.65,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,27.88,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,27,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,27.08,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,26.59,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,25.98,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,25.75,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,25.61,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,25.66,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,25.03,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,23.85,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,23.19,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,22.89,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,22.69,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,22.75,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,21.79,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,21.63,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,22.08,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,22.11,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,22.27,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,26.93,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,26.5,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,26.55,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,26.32,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,26.29,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,26.26,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,26.03,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,25.39,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,23.95,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,24.18,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,23.69,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,23.76,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,23.29,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,23.13,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,22.56,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,22.15,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,22.08,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,21.66,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,21.13,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,20.32,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,20.12,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,20.03,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,20.24,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+FRA,France,20,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,27.3,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,27.3,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,26.77,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,26.58,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,25.74,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,25.1,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,24.57,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,23.86,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,23.3,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,22.24,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,22.16,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,22,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,22.11,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,21.93,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,19.48,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,19.07,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,19.04,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,18.88,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,18.69,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,18.8,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,18.53,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,18.36,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,18.13,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,18.02,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GEO,Georgia,10.18,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,9.44,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,9.8,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,9.28,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,8.22,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,8.35,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,8.83,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,9.29,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,9.05,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,10.37,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,10.21,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,10.59,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,10.91,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,10.78,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,10.77,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,11.07,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,10.97,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,11.87,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,13.17,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GRC,Greece,23.2,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,22.87,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,22.46,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,23.24,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,22.96,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,22.6,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,23.06,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,22.8,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,22.54,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,22.45,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,22.39,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,22.02,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,22.44,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,22.22,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,21.13,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,19.59,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,17.69,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,16.54,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,15.56,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,14.98,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,14.94,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,15.24,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,15.41,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,15.25,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,29.11,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: November | Population coverage: Including armed forces and/or conscripts
+HRV,Croatia,29.54,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: June | Population coverage: Including armed forces and/or conscripts
+HRV,Croatia,26.42,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: March
+HRV,Croatia,29.82,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,30.23,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,29.63,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,28.62,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,29.32,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,30.63,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,30.84,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,29.01,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,27.43,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,27.92,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,27.87,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,27.59,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,26.93,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,26.67,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,26.92,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,26.38,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,27.37,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,32.57,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts | Age coverage - maximum age: 74 years old
+HUN,Hungary,33.24,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,33.23,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,34.78,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,34.35,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,33.77,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,34.42,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,34.14,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,33.4,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,32.95,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,32.48,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,32.32,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,32.51,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,32.22,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,31.16,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,30.7,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,30.84,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,29.79,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,29.9,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,30.39,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,30.28,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,30.41,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,31.52,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,32.42,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,27.69,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,27.23,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,28.47,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,28.68,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,28.3,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,28.46,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,28.93,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,27.62,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,27.74,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,27.58,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,27.6,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,27.61,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,25.66,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,23.2,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,19.78,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,18.01,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,17.41,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,16.96,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,17.21,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,17.27,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,18.06,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,18.49,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,18.77,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,18.75,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,33.66,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,33.35,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,32.62,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,32.73,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,32.38,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,31.79,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,31.74,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,31.59,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,31.77,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,30.84,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,30.68,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,30.05,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,30.13,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,29.8,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,29.24,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,28.61,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,28.29,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,27.58,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,27.05,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,26.9,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,26.6,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,26.12,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,26,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,26.1,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+KAZ,Kazakhstan,16.34,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,16.28,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,16.96,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,17.41,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,18.01,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,18.44,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,18.92,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,18.92,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,18.64,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,18.72,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,18.96,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,19.38,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,19.82,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,19.68,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+KAZ,Kazakhstan,20.56,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,20.98,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+KAZ,Kazakhstan,19.85,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KGZ,Kyrgyzstan,16.72,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+KGZ,Kyrgyzstan,14.57,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+KGZ,Kyrgyzstan,13.53,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+KGZ,Kyrgyzstan,13.05,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+KGZ,Kyrgyzstan,11.55,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+KGZ,Kyrgyzstan,10.48,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+KGZ,Kyrgyzstan,10.35,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+KGZ,Kyrgyzstan,11.99,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,15.02,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,17.58,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,17.58,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,19.4,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,20.28,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,20.65,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,21.71,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+KGZ,Kyrgyzstan,20.21,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+KGZ,Kyrgyzstan,20.43,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+KGZ,Kyrgyzstan,20.9,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+KGZ,Kyrgyzstan,22.09,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+KGZ,Kyrgyzstan,23.14,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+LTU,Lithuania,28.52,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts | Age coverage - minimum age: 14 years old
+LTU,Lithuania,29.07,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,27.07,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,26.78,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,26.64,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,27.37,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,27.24,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,28.2,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,29.06,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,29.57,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,30.55,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,30.52,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,26.85,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,24.56,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,24.56,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,25.08,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,25.53,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,24.72,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,25.07,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,25.14,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,25.13,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,25.77,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,25.11,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,22.9,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,23.29,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,21.52,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,21.9,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,20.75,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,21.36,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,20.06,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,19.23,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,18.8,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,17.27,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,16.68,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,16.91,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,15.26,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,12.6,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,12.66,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,12.95,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,12.4,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,11.71,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,10.75,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,11.43,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,10.72,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,8.96,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,10.68,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,27.22,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+LVA,Latvia,25.75,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+LVA,Latvia,27.05,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,25.76,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,26.76,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,26.25,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,25.53,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,27.07,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,26.94,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,26.48,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,27.35,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,28.6,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,29.39,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,24.34,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,23.07,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,22.9,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,23.47,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,23.9,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,23.84,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,23.64,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,24.1,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,23.29,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,23.61,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MDA,"Moldova, Republic of",15.06,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+MDA,"Moldova, Republic of",14.76,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+MDA,"Moldova, Republic of",14.62,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+MDA,"Moldova, Republic of",13.65,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+MDA,"Moldova, Republic of",13.89,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+MDA,"Moldova, Republic of",13.9,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+MDA,"Moldova, Republic of",14.44,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+MDA,"Moldova, Republic of",16.05,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+MDA,"Moldova, Republic of",16.25,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+MDA,"Moldova, Republic of",16,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+MDA,"Moldova, Republic of",18.19,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+MDA,"Moldova, Republic of",18.75,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+MDA,"Moldova, Republic of",19.67,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+MDA,"Moldova, Republic of",19.28,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 76 years or older, but bounded"
+MDA,"Moldova, Republic of",18.65,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",18.75,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",19.28,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",17.69,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",17.9,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",17.85,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",17.14,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",16.65,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",16.51,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MKD,North Macedonia,33.3,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: April
+MKD,North Macedonia,33.91,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: April
+MKD,North Macedonia,32.62,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,31.33,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,30,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,29.87,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,30.38,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,30.36,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,30.5,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,30.31,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,30.55,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,31.36,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,32.71,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,30.93,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,31.53,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,29.88,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,29.45,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,29.85,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,28.34,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,26.32,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,25.56,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,25.02,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,25.52,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,24.52,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,22.17,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,21.57,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,20.72,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,20.01,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,19.86,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,19.81,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,18.62,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,22.31,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: October
+MNE,Montenegro,19.23,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: October | Age coverage - maximum age: 64 years old
+MNE,Montenegro,17.54,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: October
+MNE,Montenegro,20.03,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+MNE,Montenegro,19.55,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,17.92,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,17.77,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,17.56,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,17.46,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,17.46,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,17.08,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,18.9,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,22.64,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,21.83,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,21.54,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,21.68,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,21.17,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,20.21,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,20.38,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,19.01,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,19.23,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,19.12,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,20.02,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,19.7,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,19,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,18.02,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,17.02,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,16,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,15.32,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,15.48,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,15.14,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,14.96,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,15.16,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,15.14,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,14.9,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,14.61,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,31.97,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+POL,Poland,31.67,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+POL,Poland,31.06,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,30.73,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,28.54,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,28.55,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,29.04,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,29.24,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,29.97,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,30.72,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,31.87,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,31.1,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,30.28,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,30.66,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,30.4,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,30.52,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,30.49,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,30.44,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,31.33,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,31.54,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,31.66,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,32.18,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,31.27,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,31.02,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,35.21,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,34.35,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,34.44,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,33.45,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,33.33,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,32.66,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,31.06,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,30.39,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,30.31,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,30.24,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,28.99,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,27.8,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,27.26,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,26.85,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,25.15,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,23.7,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,23.86,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,24.35,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,24.5,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,24.74,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,24.85,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,30.95,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: March | Age coverage - minimum age: 14 years old
+ROU,Romania,31.52,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+ROU,Romania,30.3,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,28.77,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,27.06,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,25.79,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,25.85,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,29.59,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,29.14,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,31.06,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,30.45,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,30.71,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,31.41,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,31.6,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,30.02,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,28.32,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,28.56,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,28.21,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,28.28,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,28.93,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,28.46,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,29.88,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,30.12,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,30.03,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+RUS,Russian Federation,33.96,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+RUS,Russian Federation,32.55,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+RUS,Russian Federation,30.01,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Age coverage - maximum age: 72 years old
+RUS,Russian Federation,29.13,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: October | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,29,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,29.24,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,30.18,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,30.17,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,30.23,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,29.63,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,29.56,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,29.25,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,29.16,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,28.97,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,27.46,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding institutional population | Age coverage - maximum age: 72 years old"
+RUS,Russian Federation,27.74,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,27.45,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,27.77,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,27.73,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,27.52,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,27.18,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,26.95,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,26.97,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,26.81,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,26.92,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: October
+SRB,Serbia,27.58,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: October
+SRB,Serbia,29.3,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: October
+SRB,Serbia,29.45,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: October
+SRB,Serbia,26.19,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,25.29,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,25.58,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,26.8,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,26.46,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,25.86,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,24.66,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,24.46,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,24.42,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,25.3,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,26.9,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SVK,Slovakia,38.88,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: OECD
+SVK,Slovakia,39.54,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: OECD
+SVK,Slovakia,39.29,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: OECD
+SVK,Slovakia,39.44,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,38.43,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,37.24,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,37.05,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,38.15,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,38.09,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,39.12,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,38.75,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,38.79,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,39.37,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,40.12,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,37.92,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,37.11,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,37.48,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,37.53,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,35.82,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,35.44,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,36.1,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,36.46,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,37.16,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,36.52,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,43.08,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: May
+SVN,Slovenia,41.91,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,40.38,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,39.34,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,37.68,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,37.41,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,38.2,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,38.5,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,36.87,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,35.96,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,36.89,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,35.33,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,34.85,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,34.96,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,32.98,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,32.45,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,31.5,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,30.81,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,30.88,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,30.75,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,31.62,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,32.91,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,33.05,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,33.13,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,25.45,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,25.85,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,25.51,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,25.86,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,24.99,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,24.36,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,23.69,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,22.93,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,22.57,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,22.35,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,21.98,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,21.85,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,21.57,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,21.23,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,20.09,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,19.85,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,19.84,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,19.54,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,19.05,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,18.5,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,18.17,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,18.08,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,18.07,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,18.06,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+TJK,Tajikistan,17.92,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+TJK,Tajikistan,15.63,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Age coverage - maximum age: 75 years old
+TUR,Turkey,22.26,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: October | Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,22.9,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: October | Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,24.12,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: October | Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,23.61,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: October | Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,22.76,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),Data reference period: October | Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,26.77,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,26.75,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,25.3,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,26.22,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,26.46,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,26.03,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,26.39,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,27.86,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,27.23,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,26.78,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,26.54,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,26.66,2018,EMP_TIND_NOC_RT,Share of industry in total employment (%),Repository: Eurostat special tabulation
+UKR,Ukraine,28,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+UKR,Ukraine,26.38,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+UKR,Ukraine,24.57,1997,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+UKR,Ukraine,23.82,1998,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+UKR,Ukraine,22.6,1999,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+UKR,Ukraine,20.81,2000,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+UKR,Ukraine,26.32,2001,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,25.18,2002,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,24.58,2003,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,24.56,2004,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,24.25,2005,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,24.23,2006,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,23.93,2007,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,23.43,2008,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,25.71,2009,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,25.49,2010,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,25.56,2011,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,25.72,2012,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,24.81,2013,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,26.14,2014,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,24.69,2015,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,24.24,2016,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,24.3,2017,EMP_TIND_NOC_RT,Share of industry in total employment (%),"Employment definition: Including subsistence workers | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UZB,Uzbekistan,19.11,1995,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA
+UZB,Uzbekistan,19.23,1996,EMP_TIND_NOC_RT,Share of industry in total employment (%),NA

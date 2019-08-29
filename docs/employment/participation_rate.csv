@@ -1,0 +1,876 @@
+iso3,country,participation_rate,year,indicator,indicator.label,note_source.label
+ALB,Albania,40.3,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+ALB,Albania,59.61,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+ALB,Albania,35,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ALB,Albania,34.79,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ALB,Albania,34.5,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ALB,Albania,34.45,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ALB,Albania,48.7278,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,53.1922,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,54.9928,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,55.2018,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,59.9375,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,56.9948,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,52.4181,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,53.7,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ALB,Albania,55.661318191,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ALB,Albania,58.3,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ARM,Armenia,61.52,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+ARM,Armenia,52.9443,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,55.8946,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,59.2,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 75 years old
+ARM,Armenia,61.2,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 75 years old
+ARM,Armenia,59.3875,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,54.1082,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,59.4176,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,63.0214,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,62.2924,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,60.719,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,60.8198,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+AUT,Austria,59.4299,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,58.8293,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,58.4351,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,58.8481,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,58.9859,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,58.7143,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,58.2375,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,58.9605,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,59.1519,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,57.2584,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,58.5583,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,59.0824,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,59.9362,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,60.173,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,60.445,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,60.396,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,60.4893,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,60.7628,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,60.9202,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,60.6941,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,60.7227,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,61.2074,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,61.2188,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AUT,Austria,61.3667,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+AZE,Azerbaijan,64.66,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Age coverage - minimum age: 16 years old
+AZE,Azerbaijan,46.4,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,46.3,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,64.78,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,63.94,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,65.1,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,64.8,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,64.4,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,64.5,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,64.7,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,65.1,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,65.4,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,66,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,66.2,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Employment definition: Excluding own-use production workers | Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,66.3,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Employment definition: Excluding own-use production workers | Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+BLR,Belarus,45.9,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+BLR,Belarus,58.67,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+BLR,Belarus,82.1,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Age coverage - minimum age: 16 years old
+BLR,Belarus,70.8,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding non-permanent residents | Institutional sector coverage: Private sector only | Age coverage - maximum age: 74 years old
+BLR,Belarus,71.3,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding non-permanent residents | Institutional sector coverage: Private sector only | Age coverage - maximum age: 74 years old
+BEL,Belgium,50.5355,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,50.4081,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,50.5236,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,50.8522,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,51.9108,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,52.2927,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,50.8909,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,51.188,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,51.3478,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,52.0296,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,53.2994,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,53.1143,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,53.5928,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,53.6782,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,53.4728,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,54.0699,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,53.1986,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,53.2491,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,53.559,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,53.506,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,53.3095,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,53.1131,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,53.8363,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,54.1879,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BIH,Bosnia and Herzegovina,42.6678,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,43.4187,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,43.3642,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,43.175,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,44.1644,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,43.6567,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,43.7928,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,43.425,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,41.9052,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+BGR,Bulgaria,50.1806,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,51.3728,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,50.8212,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,49.922,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,50.5522,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,49.6889,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,51.2932,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,52.596,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,53.8083,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,53.0243,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,53.3939,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,52.5117,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,53.0791,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,53.9004,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,54.1428,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,54.0675,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,53.3313,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,55.3545,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,55.3225,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,38.9,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Including armed forces and/or conscripts
+HRV,Croatia,53.3,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: March
+HRV,Croatia,51.1746,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,50.2856,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,51.1526,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,49.6238,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,49.19,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,52.9287,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,53.1179,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,53.1156,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,52.5839,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,51.8377,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,51.3688,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,50.8414,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,52.3615,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,52.7301,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,51.3163,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,51.6069,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,51.1873,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,62.53,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding armed forces and/or conscripts
+CYP,Cyprus,60.2797,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,61.6913,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,61.8637,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,63.1697,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,63.0355,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,63.1976,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,63.5384,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,64.3881,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,64.2065,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,63.7257,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,64.2715,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,63.7366,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,63.4273,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,63.2974,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,63.7491,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,62.2911,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,61.2595,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,61.6333,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,62.396,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,61.508,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+CZE,Czech Republic,61.242,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+CZE,Czech Republic,60.693600000000004,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,60.5998,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,60.6106,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,60.0637,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,59.6377,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,59.4623,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,59.2348,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,58.9726,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,59.3778,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,59.267,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,58.7737,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,58.5025,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,58.6775,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,58.4417,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,58.2625,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,58.6402,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,59.2751,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,59.3096,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,59.4232,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,59.9189,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,60.2184,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,60.5612,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,64.6053,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,65.1956,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,65.4408,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,65.1787,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,65.8006,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,65.5358,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,65.1505,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,65.6382,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,65.4775,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,65.9319,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,65.6488,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,65.9327,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,65.7132,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,65.9971,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,65.3348,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,64.3651,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,63.9343,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,63.1582,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,62.3559,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,62.1892,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,62.2182,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,63.5551,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,62.2676,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,62.4914,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,65.451,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+EST,Estonia,64.731,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+EST,Estonia,65.016,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,60.0663,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,58.615,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,58.9338,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,58.2371,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,57.2163,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,58.97,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,59.0659,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,58.7389,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,60.6373,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,60.5534,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,61.1061,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,60.7197,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,60.4995,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,61.3048,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,61.3111,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,61.3255,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,61.1204,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,62.1246,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,62.869,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,63.655,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+EST,Estonia,63.8047,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,61.106,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,59.3579,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,60.138,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,60.2664,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,62.9697,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,63.2145,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,63.2851,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,63.2196,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,62.8288,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,62.1047,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,60.7447,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,61.03,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,61.2359,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,61.4778,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,60.4867,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,59.9567,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,59.9069,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,59.7466,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,59.1402,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,58.9442,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,58.9414,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,58.6078,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,58.8825,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FIN,Finland,59.4444,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,55.4449,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,55.7698,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,55.4451,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,55.4611,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,55.7482,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,55.7033,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,55.4988,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,55.7153,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,56.4056,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,56.2535,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,56.2353,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,56.152,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,56.2765,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,56.3663,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,56.5821,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,56.5131,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,56.2632,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,56.4688,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,56.4365,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,56.1105,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,56.0637,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,55.9333,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,55.7539,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+FRA,France,55.7947,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GEO,Georgia,66,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,64.1,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,66.21,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,64.95,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,66.02,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,64.77,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,64.05,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,62.6,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding institutional population"
+GEO,Georgia,64.5875,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,65.4938,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,66.2182,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,67.5542,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,67.1517,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,67.6967,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,68.781,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,68.4246,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,65.8321,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+DEU,Germany,57.7172,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,57.6129,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,57.6729,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,57.6837,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,57.8654,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,57.4591,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,57.4809,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,57.2734,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,57.3179,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,56.8726,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,58.4165,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,58.9571,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,59.1493,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,59.2372,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,59.392,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,59.3698,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,60.0901,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,60.0673,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,60.3529,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,60.4078,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,60.169,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,61.0075,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,61.2099,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+DEU,Germany,61.283,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,49.2041,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,49.6616,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,48.8536,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,52.0591,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,52.3567,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,52.2852,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,51.5368,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,51.7963,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,52.2429,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,52.9884,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,52.9014,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,53.0792,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,52.9347,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,52.9755,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,53.4476,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,53.5046,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,52.6646,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,52.3294,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,52.0278,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,51.8271,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,51.9941,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,52.1501,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,52.0841,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GRC,Greece,51.8922,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,52.371,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+HUN,Hungary,48.3162,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,47.6058,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,48.3698,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,49.3049,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,49.5555,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,48.8674,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,48.9156,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,49.7342,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,49.4866,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,50.1722,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,50.6547,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,50.3236,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,49.9088,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,49.8552,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,50.3436,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,50.6774,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,51.6601,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,52.1802,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,53.6809,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,54.7571,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,55.696,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,56.2739,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,56.7315,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,53.9353,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,54.8719,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,55.4455,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,56.4527,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,57.9512,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,58.9864,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,59.1864,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,59.5996,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,59.6963,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,60.0679,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,61.96,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,63.175,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,66.6272,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,65.9425,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,64.087,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,62.6039,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,61.9668,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,61.639,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,61.9632,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,61.7552,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,61.8267,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,62.182,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,61.9831,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,62.17,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,47.2942,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,47.4453,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,47.4954,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,47.7797,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,48.0589,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,48.1451,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,48.3052,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,48.7791,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,49.2611,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,49.6812,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,49.1107,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,49.0769,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,48.7525,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,49.1016,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,48.4774,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,48.2051,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,48.1434,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,49.0834,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,48.7932,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,49.0586,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,48.9685,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,49.5018,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,49.8148,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ITA,Italy,49.917,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+KAZ,Kazakhstan,70.11,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,70.02,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,69.86,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,71.12,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,70.7,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,71.2,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,71.3,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,71.147750944,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,69.7,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KGZ,Kyrgyzstan,64.4,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: November
+KGZ,Kyrgyzstan,63.68,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: November
+KGZ,Kyrgyzstan,65.49,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: November
+KGZ,Kyrgyzstan,63.91,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+KGZ,Kyrgyzstan,64.28,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+KGZ,Kyrgyzstan,64.85,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+KGZ,Kyrgyzstan,64.2,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+KGZ,Kyrgyzstan,62.46,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+KGZ,Kyrgyzstan,62.35,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+KGZ,Kyrgyzstan,62.38,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+KGZ,Kyrgyzstan,61.53,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+KGZ,Kyrgyzstan,60.08,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Employment definition: Excluding own-use production workers
+KGZ,Kyrgyzstan,59.8,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Employment definition: Excluding own-use production workers
+LVA,Latvia,59.085,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,57.7397,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,56.1841,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,56.5877,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,57.9843,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,57.0984,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,57.4024,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,57.3603,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,59.0965,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,60.255,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,61.5451,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,60.1299,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,58.8843,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,58.5235,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,59.7273,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,59.4345,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,59.2725,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,60.0656,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,60.4185,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,60.8312,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,61.4407,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,61.21,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding armed forces and/or conscripts | Age coverage - minimum age: 14 years old
+LTU,Lithuania,61.0459,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,61.2075,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,60.2568,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,59.0512,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,58.4574,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,60.2043,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,57.1495,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,56.2837,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,55.2524,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,55.5451,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,55.8153,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,56.5494,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,56.8161,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,57.3904,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,57.7296,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,57.9989,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,58.9278,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,59.157,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,60.3302,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,60.6016,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,61.5481,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,50.7985,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,50.9592,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,51.1944,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,51.3508,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,52.3591,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,53.4119,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,53.8146,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,54.7647,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,54.1749,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,55.0049,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,55.5555,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,55.0079,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,55.9305,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,56.0111,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,58.1635,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,57.6992,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,57.5881,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,58.7507,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,59.393,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,60.0794,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,59.9776,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,58.9075,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,59.3144,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,59.8848,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,48.84,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Age coverage - minimum age: 16 years old
+MLT,Malta,47.98,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Age coverage - maximum age: 64 years old
+MLT,Malta,47.85,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Age coverage - maximum age: 64 years old
+MLT,Malta,47.73,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Age coverage - maximum age: 64 years old
+MLT,Malta,38.4,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Age coverage - maximum age: 64 years old
+MLT,Malta,49.6827,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,50.3276,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,50.3675,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,50.3217,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,49.0344,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,49.0728,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,49.1094,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,49.8528,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,50.0455,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,50.2271,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,50.7712,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,51.4352,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,52.5738,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,54.1199,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,55.2681,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,55.7413,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,56.7302,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,57.9016,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MLT,Malta,59.4932,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MDA,"Moldova, Republic of",56.58,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+MDA,"Moldova, Republic of",49.72,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+MDA,"Moldova, Republic of",48.77,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+MDA,"Moldova, Republic of",42.8,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 76 years or older, but bounded"
+MDA,"Moldova, Republic of",41.6139,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",42.2686,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",40.7213,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",41.3746,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",41.2381,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",44.018,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",42.6339,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",42.1976,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",43.2698,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+MNE,Montenegro,51.1,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding institutional population
+MNE,Montenegro,48.5438,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MNE,Montenegro,50.0308,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MNE,Montenegro,50.0791,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MNE,Montenegro,52.6811,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MNE,Montenegro,53.7212,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MNE,Montenegro,54.5155,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MNE,Montenegro,54.661,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MNE,Montenegro,56.0009,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,59.2025,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,59.7092,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,60.942,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,61.6903,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,62.4797,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,63.5336,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,64.1795,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,64.8781,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,64.7516,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,64.9036,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,63.4283,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,63.5813,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,64.5428,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,65.3061,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,65.4392,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,64.8377,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,64.5352,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,65.0026,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,64.9485,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,64.3905,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,64.3827,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,64.087,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,64.0137,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,64.2784,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,54.95,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),"Age coverage - maximum age: 76 years or older, but bounded"
+MKD,North Macedonia,53.13,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),"Data reference period: April | Age coverage - maximum age: 76 years or older, but bounded"
+MKD,North Macedonia,52.64,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: April
+MKD,North Macedonia,54.51,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),"Data reference period: April | Age coverage - maximum age: 76 years or older, but bounded"
+MKD,North Macedonia,54.0167,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,54.519,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,55.1175,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,55.4784,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,55.6923,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,55.4812,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,55.1657,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,55.8453,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,55.9239,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,55.381,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,54.8863,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,55.1338,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,55.1943,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,58.761,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+POL,Poland,58.216,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+POL,Poland,57.4926,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,57.0778,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,56.5208,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,56.8114,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,56.8503,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,55.6674,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,54.6327,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,54.37,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,54.9015,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,54.0023,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,53.7055,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,54.2213,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,54.9236,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,55.3167,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,55.5464,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,55.8672,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,55.9367,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,56.2486,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,56.1594,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,56.2173,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,56.437,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+POL,Poland,56.3381,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,58.1402,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,57.725,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,57.7416,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,60.6015,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,60.6697,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,60.8208,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,61.4308,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,62.0219,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,61.9918,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,61.538,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,61.8646,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,62.0739,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,62.2191,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,62.0364,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,61.3577,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,61.2314,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,60.5125,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,60.1574,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,59.2985,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,58.8237,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,58.5953,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,58.4544,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,58.9555,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,59.1133,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,53.4,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+ROU,Romania,64.8,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+ROU,Romania,66.012200000000007,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,65.1072,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,64.961,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,64.436,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,63.2118,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,57.782,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,55.9276,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,55.6041,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,53.9376,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,54.9672,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,54.7693,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,54.5087,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,54.4401,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,54.8698,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,54.1109,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,54.6131,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,54.533,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,54.8701,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,54.5438,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,53.7225,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,54.939,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ROU,Romania,54.9769,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+RUS,Russian Federation,65.143,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,63.892,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,62.248,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,61.136,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,65.276,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,65.461,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,64.205,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,64.869,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,64.693,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,65.412,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,65.98,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,66.341,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,67.085,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,67.434,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,67.634,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,67.69,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,68.3501,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,68.642,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,68.5099,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,68.8841,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,69.1408,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,69.5421,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,62.7607,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,62.8634,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,55.5,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: October
+SRB,Serbia,53.5,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: October
+SRB,Serbia,51.04,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: October
+SRB,Serbia,50.99,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),"Data reference period: October | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts"
+SRB,Serbia,51.4911,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,49.1282,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,46.9376,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,46.4459,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,46.6987,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,48.4703,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,51.9415,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,51.5889,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,53.3267,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,53.9703,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,54.4913,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+SVK,Slovakia,59.824,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+SVK,Slovakia,60.148,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+SVK,Slovakia,59.674,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+SVK,Slovakia,59.3085,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,59.3381,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,59.7566,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,60.4772,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,59.7358,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,60.0777,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,60.0984,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,59.4903,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,59.1448,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,58.8488,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,59.3043,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,58.8721,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,58.9949,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,58.7671,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,59.2101,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,59.2846,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,59.3523,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,59.6447,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,60.0519,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,59.9475,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,59.7863,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,58.73,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Data reference period: May
+SVN,Slovenia,57.5115,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,58.333,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,59.594,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,57.8834,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,57.4111,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,57.6685,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,58.1075,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,56.4465,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,58.9704,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,59.2483,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,59.2954,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,59.6964,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,59.4885,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,59.4373,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,59.1718,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,57.9241,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,57.543,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,57.2465,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,57.6738,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,57.3176,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,56.5958,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,58.4261,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,58.8108,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,50.046,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,50.3544,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,50.8116,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,51.1026,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,51.6142,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,52.7709,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,52.0924,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,53.773,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,54.9354,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,55.8517,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,57.0913,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,57.9453,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,58.5774,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,59.3689,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,59.4951,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,59.6102,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,59.6789,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,59.746,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,59.3629,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,58.9285,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,58.8277,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,58.5157,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,58.1109,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+ESP,Spain,57.9193,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,69.0895,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,61.3082,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,60.7886,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,60.1846,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,60.8788,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,60.4067,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,62.7387,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,62.6639,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,62.7544,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,62.5364,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,62.8654,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,63.3519,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,63.6866,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,63.9349,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,63.3105,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,70.5334,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,70.9358,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,71.1333,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,71.502,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,71.955,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,72.0013,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,72.0928,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,72.7239,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,73.1791,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+TJK,Tajikistan,30.3,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+TJK,Tajikistan,63.05,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Population coverage: Excluding armed forces and/or conscripts
+TJK,Tajikistan,41.9409,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: ILO-STATISTICS - Micro data processing
+TUR,Turkey,54.125,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+TUR,Turkey,53.734,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+TUR,Turkey,52.553,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+TUR,Turkey,52.796,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+TUR,Turkey,52.7,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+TUR,Turkey,49.948,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+TUR,Turkey,49.822,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+TUR,Turkey,49.577,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+TUR,Turkey,48.331,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+TUR,Turkey,46.306,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+TUR,Turkey,46.431,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: OECD
+TUR,Turkey,45.523,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,45.5434,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,46.1911,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,47.0644,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,48.1325,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,49.309,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,49.3801,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,50.294,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,50.493,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,51.2427,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,51.9654,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,52.79,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,53.1634,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+UKR,Ukraine,68.74,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Age coverage - maximum age: 70 years old
+UKR,Ukraine,67.68,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Age coverage - maximum age: 74 years old
+UKR,Ukraine,59.5,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Age coverage - maximum age: 74 years old
+UKR,Ukraine,63.2,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Age coverage - maximum age: 70 years old
+UKR,Ukraine,62.71,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+UKR,Ukraine,62.57,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Age coverage - maximum age: 70 years old
+UKR,Ukraine,62.33,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Age coverage - maximum age: 70 years old
+UKR,Ukraine,61.97,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Age coverage - maximum age: 70 years old
+UKR,Ukraine,62.17,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,55.81,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+UKR,Ukraine,56.24,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA
+UKR,Ukraine,63.3,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,63.7,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,64.3,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,64.6,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,65,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,62.36,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,62.36,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,62.15,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,62,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),"Employment definition: Including subsistence workers | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+GBR,United Kingdom,61.575,1995,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,61.6874,1996,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,61.861,1997,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,61.7606,1998,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,61.6744,1999,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,61.9144,2000,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,61.5477,2001,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,61.7931,2002,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,61.8779,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,61.8829,2004,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,62.2717,2005,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,62.6888,2006,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,62.5239,2007,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,62.7623,2008,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,62.562,2009,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,62.3512,2010,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,62.3261,2011,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,62.4748,2012,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,62.6103,2013,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,62.6745,2014,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,62.7424,2015,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,62.9199,2016,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,62.882,2017,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,63.0795,2018,EAP_DWAP_NOC_RT,Labour force participation rate (%),Repository: Eurostat special tabulation
+UZB,Uzbekistan,37.4,2003,EAP_DWAP_NOC_RT,Labour force participation rate (%),NA

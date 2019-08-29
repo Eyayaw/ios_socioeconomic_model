@@ -1,0 +1,488 @@
+iso3,country,emmigrants,year,time_period,indicator
+ARM,Armenia,12043,1995,1995,Number of emigrants - Number
+AZE,Azerbaijan,16033,1995,NA,Number of emigrants - Number
+KAZ,Kazakhstan,309632,1995,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,37302,1995,NA,Number of emigrants - Number
+TJK,Tajikistan,45322,1995,NA,Number of emigrants - Number
+TKM,Turkmenistan,20893,1995,NA,Number of emigrants - Number
+UZB,Uzbekistan,116877,1995,NA,Number of emigrants - Number
+BGR,Bulgaria,52900,1995,NA,Number of emigrants - Number
+BLR,Belarus,35071,1995,NA,Number of emigrants - Number
+CZE,Czech Republic,541,1995,NA,Number of emigrants - Number
+HRV,Croatia,15413,1995,NA,Number of emigrants - Number
+HUN,Hungary,3173,1995,NA,Number of emigrants - Number
+LTU,Lithuania,25688,1995,NA,Number of emigrants - Number
+LVA,Latvia,16512,1995,NA,Number of emigrants - Number
+MDA,Republic of Moldova,5432,1995,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,392,1995,NA,Number of emigrants - Number
+POL,Poland,26344,1995,NA,Number of emigrants - Number
+ROU,Romania,25675,1995,NA,Number of emigrants - Number
+RUS,Russian Federation,347338,1995,NA,Number of emigrants - Number
+SVK,Slovakia,213,1995,NA,Number of emigrants - Number
+SVN,Slovenia,3372,1995,NA,Number of emigrants - Number
+UKR,Ukraine,277534,1995,NA,Number of emigrants - Number
+ARM,Armenia,9094,1996,1996,Number of emigrants - Number
+AZE,Azerbaijan,13151,1996,NA,Number of emigrants - Number
+KAZ,Kazakhstan,229412,1996,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,27584,1996,NA,Number of emigrants - Number
+TJK,Tajikistan,34128,1996,NA,Number of emigrants - Number
+TKM,Turkmenistan,30287,1996,NA,Number of emigrants - Number
+UZB,Uzbekistan,59715,1996,NA,Number of emigrants - Number
+BGR,Bulgaria,66100,1996,NA,Number of emigrants - Number
+BLR,Belarus,22539,1996,NA,Number of emigrants - Number
+CZE,Czech Republic,728,1996,NA,Number of emigrants - Number
+HRV,Croatia,10027,1996,NA,Number of emigrants - Number
+HUN,Hungary,3642,1996,NA,Number of emigrants - Number
+LTU,Lithuania,26394,1996,NA,Number of emigrants - Number
+LVA,Latvia,12828,1996,NA,Number of emigrants - Number
+MDA,Republic of Moldova,4720,1996,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,247,1996,NA,Number of emigrants - Number
+POL,Poland,21297,1996,NA,Number of emigrants - Number
+ROU,Romania,21526,1996,NA,Number of emigrants - Number
+RUS,Russian Federation,291642,1996,NA,Number of emigrants - Number
+SVK,Slovakia,222,1996,NA,Number of emigrants - Number
+SVN,Slovenia,2985,1996,NA,Number of emigrants - Number
+UKR,Ukraine,260715,1996,NA,Number of emigrants - Number
+ARM,Armenia,11149,1997,1997,Number of emigrants - Number
+AZE,Azerbaijan,15703,1997,NA,Number of emigrants - Number
+KAZ,Kazakhstan,299455,1997,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,19538,1997,NA,Number of emigrants - Number
+TJK,Tajikistan,21112,1997,NA,Number of emigrants - Number
+TKM,Turkmenistan,20872,1997,NA,Number of emigrants - Number
+UZB,Uzbekistan,48560,1997,NA,Number of emigrants - Number
+BLR,Belarus,16709,1997,NA,Number of emigrants - Number
+CZE,Czech Republic,805,1997,NA,Number of emigrants - Number
+HRV,Croatia,18531,1997,NA,Number of emigrants - Number
+HUN,Hungary,2822,1997,NA,Number of emigrants - Number
+LTU,Lithuania,24957,1997,NA,Number of emigrants - Number
+LVA,Latvia,12333,1997,NA,Number of emigrants - Number
+MDA,Republic of Moldova,5503,1997,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,282,1997,NA,Number of emigrants - Number
+POL,Poland,20222,1997,NA,Number of emigrants - Number
+ROU,Romania,19945,1997,NA,Number of emigrants - Number
+RUS,Russian Federation,232987,1997,NA,Number of emigrants - Number
+SVK,Slovakia,572,1997,NA,Number of emigrants - Number
+SVN,Slovenia,5447,1997,NA,Number of emigrants - Number
+UKR,Ukraine,203600,1997,NA,Number of emigrants - Number
+ARM,Armenia,10412,1998,1998,Number of emigrants - Number
+AZE,Azerbaijan,10498,1998,NA,Number of emigrants - Number
+KAZ,Kazakhstan,243663,1998,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,15671,1998,NA,Number of emigrants - Number
+TJK,Tajikistan,17591,1998,NA,Number of emigrants - Number
+TKM,Turkmenistan,13910,1998,NA,Number of emigrants - Number
+UZB,Uzbekistan,62371,1998,NA,Number of emigrants - Number
+BLR,Belarus,13247,1998,NA,Number of emigrants - Number
+CZE,Czech Republic,1241,1998,NA,Number of emigrants - Number
+HRV,Croatia,7592,1998,NA,Number of emigrants - Number
+HUN,Hungary,3059,1998,NA,Number of emigrants - Number
+LTU,Lithuania,24828,1998,NA,Number of emigrants - Number
+LVA,Latvia,8874,1998,NA,Number of emigrants - Number
+MDA,Republic of Moldova,4783,1998,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,248,1998,NA,Number of emigrants - Number
+POL,Poland,22177,1998,NA,Number of emigrants - Number
+ROU,Romania,17536,1998,NA,Number of emigrants - Number
+RUS,Russian Federation,213377,1998,NA,Number of emigrants - Number
+SVK,Slovakia,746,1998,NA,Number of emigrants - Number
+SVN,Slovenia,6708,1998,NA,Number of emigrants - Number
+UKR,Ukraine,165425,1998,NA,Number of emigrants - Number
+ARM,Armenia,8604,1999,1999,Number of emigrants - Number
+AZE,Azerbaijan,9142,1999,NA,Number of emigrants - Number
+KAZ,Kazakhstan,164947,1999,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,17818,1999,NA,Number of emigrants - Number
+TJK,Tajikistan,14686,1999,NA,Number of emigrants - Number
+TKM,Turkmenistan,13158,1999,NA,Number of emigrants - Number
+UZB,Uzbekistan,60249,1999,NA,Number of emigrants - Number
+BLR,Belarus,13238,1999,NA,Number of emigrants - Number
+CZE,Czech Republic,1136,1999,NA,Number of emigrants - Number
+HRV,Croatia,14285,1999,NA,Number of emigrants - Number
+HUN,Hungary,2821,1999,NA,Number of emigrants - Number
+LTU,Lithuania,23418,1999,NA,Number of emigrants - Number
+LVA,Latvia,5898,1999,NA,Number of emigrants - Number
+MDA,Republic of Moldova,6318,1999,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,141,1999,NA,Number of emigrants - Number
+POL,Poland,21536,1999,NA,Number of emigrants - Number
+ROU,Romania,12594,1999,NA,Number of emigrants - Number
+RUS,Russian Federation,214963,1999,NA,Number of emigrants - Number
+SVK,Slovakia,618,1999,NA,Number of emigrants - Number
+SVN,Slovenia,2606,1999,NA,Number of emigrants - Number
+UKR,Ukraine,110600,1999,NA,Number of emigrants - Number
+ARM,Armenia,12813,2000,2000,Number of emigrants - Number
+AZE,Azerbaijan,9947,2000,NA,Number of emigrants - Number
+KAZ,Kazakhstan,155749,2000,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,27887,2000,NA,Number of emigrants - Number
+TJK,Tajikistan,14554,2000,NA,Number of emigrants - Number
+TKM,Turkmenistan,10671,2000,NA,Number of emigrants - Number
+UZB,Uzbekistan,62545,2000,NA,Number of emigrants - Number
+BLR,Belarus,13812,2000,NA,Number of emigrants - Number
+CZE,Czech Republic,1263,2000,NA,Number of emigrants - Number
+EST,Estonia,1784,2000,NA,Number of emigrants - Number
+HRV,Croatia,5953,2000,NA,Number of emigrants - Number
+HUN,Hungary,2208,2000,NA,Number of emigrants - Number
+LTU,Lithuania,21816,2000,NA,Number of emigrants - Number
+LVA,Latvia,22911,2000,NA,Number of emigrants - Number
+MDA,Republic of Moldova,9128,2000,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,172,2000,NA,Number of emigrants - Number
+POL,Poland,26999,2000,NA,Number of emigrants - Number
+ROU,Romania,14753,2000,NA,Number of emigrants - Number
+RUS,Russian Federation,145720,2000,NA,Number of emigrants - Number
+SVK,Slovakia,811,2000,NA,Number of emigrants - Number
+SVN,Slovenia,3570,2000,NA,Number of emigrants - Number
+UKR,Ukraine,100300,2000,NA,Number of emigrants - Number
+ARM,Armenia,11906,2001,2001,Number of emigrants - Number
+AZE,Azerbaijan,7288,2001,NA,Number of emigrants - Number
+KAZ,Kazakhstan,141710,2001,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,31633,2001,NA,Number of emigrants - Number
+TJK,Tajikistan,12914,2001,NA,Number of emigrants - Number
+TKM,Turkmenistan,9827,2001,NA,Number of emigrants - Number
+UZB,Uzbekistan,79537,2001,NA,Number of emigrants - Number
+BLR,Belarus,14270,2001,NA,Number of emigrants - Number
+CZE,Czech Republic,21469,2001,NA,Number of emigrants - Number
+EST,Estonia,2175,2001,NA,Number of emigrants - Number
+HRV,Croatia,7488,2001,NA,Number of emigrants - Number
+HUN,Hungary,1944,2001,NA,Number of emigrants - Number
+LTU,Lithuania,7253,2001,NA,Number of emigrants - Number
+LVA,Latvia,24539,2001,NA,Number of emigrants - Number
+MDA,Republic of Moldova,6446,2001,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,503,2001,NA,Number of emigrants - Number
+POL,Poland,23368,2001,NA,Number of emigrants - Number
+ROU,Romania,9921,2001,NA,Number of emigrants - Number
+RUS,Russian Federation,121166,2001,NA,Number of emigrants - Number
+SVK,Slovakia,1011,2001,NA,Number of emigrants - Number
+SVN,Slovenia,4811,2001,NA,Number of emigrants - Number
+UKR,Ukraine,88800,2001,NA,Number of emigrants - Number
+ARM,Armenia,10927,2002,2002,Number of emigrants - Number
+AZE,Azerbaijan,4320,2002,NA,Number of emigrants - Number
+KAZ,Kazakhstan,120223,2002,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,32717,2002,NA,Number of emigrants - Number
+TJK,Tajikistan,12000,2002,NA,Number of emigrants - Number
+TKM,Turkmenistan,9048,2002,NA,Number of emigrants - Number
+UZB,Uzbekistan,86558,2002,NA,Number of emigrants - Number
+BLR,Belarus,13378,2002,NA,Number of emigrants - Number
+CZE,Czech Republic,32389,2002,NA,Number of emigrants - Number
+EST,Estonia,2038,2002,NA,Number of emigrants - Number
+HRV,Croatia,11767,2002,NA,Number of emigrants - Number
+HUN,Hungary,2388,2002,NA,Number of emigrants - Number
+LTU,Lithuania,7086,2002,NA,Number of emigrants - Number
+LVA,Latvia,15837,2002,NA,Number of emigrants - Number
+MDA,Republic of Moldova,6592,2002,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,141,2002,NA,Number of emigrants - Number
+POL,Poland,24532,2002,NA,Number of emigrants - Number
+ROU,Romania,8154,2002,NA,Number of emigrants - Number
+RUS,Russian Federation,106685,2002,NA,Number of emigrants - Number
+SVK,Slovakia,1411,2002,NA,Number of emigrants - Number
+SVN,Slovenia,7269,2002,NA,Number of emigrants - Number
+UKR,Ukraine,76264,2002,NA,Number of emigrants - Number
+ARM,Armenia,9548,2003,2003,Number of emigrants - Number
+AZE,Azerbaijan,3754,2003,NA,Number of emigrants - Number
+KAZ,Kazakhstan,73890,2003,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,21209,2003,NA,Number of emigrants - Number
+TJK,Tajikistan,10187,2003,NA,Number of emigrants - Number
+TKM,Turkmenistan,16096,2003,NA,Number of emigrants - Number
+UZB,Uzbekistan,95228,2003,NA,Number of emigrants - Number
+BLR,Belarus,12986,2003,NA,Number of emigrants - Number
+CZE,Czech Republic,34226,2003,NA,Number of emigrants - Number
+EST,Estonia,3073,2003,NA,Number of emigrants - Number
+HRV,Croatia,6534,2003,NA,Number of emigrants - Number
+HUN,Hungary,2553,2003,NA,Number of emigrants - Number
+LTU,Lithuania,11032,2003,NA,Number of emigrants - Number
+LVA,Latvia,15647,2003,NA,Number of emigrants - Number
+MDA,Republic of Moldova,7376,2003,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,144,2003,NA,Number of emigrants - Number
+POL,Poland,20813,2003,NA,Number of emigrants - Number
+ROU,Romania,143977,2003,NA,Number of emigrants - Number
+RUS,Russian Federation,94018,2003,NA,Number of emigrants - Number
+SVK,Slovakia,1194,2003,NA,Number of emigrants - Number
+SVN,Slovenia,5867,2003,NA,Number of emigrants - Number
+UKR,Ukraine,63699,2003,NA,Number of emigrants - Number
+ARM,Armenia,9227,2004,2004,Number of emigrants - Number
+AZE,Azerbaijan,2800,2004,NA,Number of emigrants - Number
+KAZ,Kazakhstan,65530,2004,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,22607,2004,NA,Number of emigrants - Number
+TJK,Tajikistan,7846,2004,NA,Number of emigrants - Number
+TKM,Turkmenistan,9643,2004,NA,Number of emigrants - Number
+UZB,Uzbekistan,95481,2004,NA,Number of emigrants - Number
+BLR,Belarus,12510,2004,NA,Number of emigrants - Number
+CZE,Czech Republic,34818,2004,NA,Number of emigrants - Number
+EST,Estonia,2927,2004,NA,Number of emigrants - Number
+HRV,Croatia,6812,2004,NA,Number of emigrants - Number
+HUN,Hungary,3466,2004,NA,Number of emigrants - Number
+LTU,Lithuania,15165,2004,NA,Number of emigrants - Number
+LVA,Latvia,20167,2004,NA,Number of emigrants - Number
+MDA,Republic of Moldova,7166,2004,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,669,2004,NA,Number of emigrants - Number
+POL,Poland,18877,2004,NA,Number of emigrants - Number
+ROU,Romania,194488,2004,NA,Number of emigrants - Number
+RUS,Russian Federation,79795,2004,NA,Number of emigrants - Number
+SVK,Slovakia,1586,2004,NA,Number of emigrants - Number
+SVN,Slovenia,8269,2004,NA,Number of emigrants - Number
+UKR,Ukraine,46182,2004,NA,Number of emigrants - Number
+ARM,Armenia,9303,2005,2005,Number of emigrants - Number
+AZE,Azerbaijan,2906,2005,NA,Number of emigrants - Number
+KAZ,Kazakhstan,52139,2005,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,30741,2005,NA,Number of emigrants - Number
+TJK,Tajikistan,7275,2005,NA,Number of emigrants - Number
+TKM,Turkmenistan,8733,2005,NA,Number of emigrants - Number
+UZB,Uzbekistan,104991,2005,NA,Number of emigrants - Number
+BLR,Belarus,11082,2005,NA,Number of emigrants - Number
+CZE,Czech Republic,24065,2005,NA,Number of emigrants - Number
+EST,Estonia,4610,2005,NA,Number of emigrants - Number
+HRV,Croatia,6012,2005,NA,Number of emigrants - Number
+HUN,Hungary,3320,2005,NA,Number of emigrants - Number
+LTU,Lithuania,15571,2005,NA,Number of emigrants - Number
+LVA,Latvia,17643,2005,NA,Number of emigrants - Number
+MDA,Republic of Moldova,6827,2005,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,1300,2005,NA,Number of emigrants - Number
+POL,Poland,22242,2005,NA,Number of emigrants - Number
+ROU,Romania,175297,2005,NA,Number of emigrants - Number
+RUS,Russian Federation,69798,2005,NA,Number of emigrants - Number
+SVK,Slovakia,1873,2005,NA,Number of emigrants - Number
+SVN,Slovenia,8605,2005,NA,Number of emigrants - Number
+UKR,Ukraine,34997,2005,NA,Number of emigrants - Number
+ARM,Armenia,8053,2006,2006,Number of emigrants - Number
+AZE,Azerbaijan,2644,2006,NA,Number of emigrants - Number
+KAZ,Kazakhstan,33690,2006,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,34423,2006,NA,Number of emigrants - Number
+TJK,Tajikistan,8334,2006,NA,Number of emigrants - Number
+TKM,Turkmenistan,10093,2006,NA,Number of emigrants - Number
+UZB,Uzbekistan,67323,2006,NA,Number of emigrants - Number
+BLR,Belarus,8498,2006,NA,Number of emigrants - Number
+CZE,Czech Republic,33463,2006,NA,Number of emigrants - Number
+EST,Estonia,5527,2006,NA,Number of emigrants - Number
+HRV,Croatia,7692,2006,NA,Number of emigrants - Number
+HUN,Hungary,3956,2006,NA,Number of emigrants - Number
+LTU,Lithuania,12602,2006,NA,Number of emigrants - Number
+LVA,Latvia,17019,2006,NA,Number of emigrants - Number
+MDA,Republic of Moldova,6685,2006,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,1108,2006,NA,Number of emigrants - Number
+POL,Poland,46936,2006,NA,Number of emigrants - Number
+ROU,Romania,188439,2006,NA,Number of emigrants - Number
+RUS,Russian Federation,54061,2006,NA,Number of emigrants - Number
+SVK,Slovakia,1735,2006,NA,Number of emigrants - Number
+SVN,Slovenia,13749,2006,NA,Number of emigrants - Number
+UKR,Ukraine,29982,2006,NA,Number of emigrants - Number
+ARM,Armenia,7461,2007,2007,Number of emigrants - Number
+AZE,Azerbaijan,3083,2007,NA,Number of emigrants - Number
+KAZ,Kazakhstan,42435,2007,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,54608,2007,NA,Number of emigrants - Number
+TJK,Tajikistan,11414,2007,NA,Number of emigrants - Number
+UZB,Uzbekistan,66207,2007,NA,Number of emigrants - Number
+BGR,Bulgaria,2958,2007,NA,Number of emigrants - Number
+BLR,Belarus,9479,2007,NA,Number of emigrants - Number
+CZE,Czech Republic,20500,2007,NA,Number of emigrants - Number
+EST,Estonia,4384,2007,NA,Number of emigrants - Number
+HRV,Croatia,9002,2007,NA,Number of emigrants - Number
+HUN,Hungary,4133,2007,NA,Number of emigrants - Number
+LTU,Lithuania,13853,2007,NA,Number of emigrants - Number
+LVA,Latvia,15463,2007,NA,Number of emigrants - Number
+MDA,Republic of Moldova,7172,2007,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,240,2007,NA,Number of emigrants - Number
+POL,Poland,35480,2007,NA,Number of emigrants - Number
+ROU,Romania,544074,2007,NA,Number of emigrants - Number
+RUS,Russian Federation,47013,2007,NA,Number of emigrants - Number
+SVK,Slovakia,1831,2007,NA,Number of emigrants - Number
+SVN,Slovenia,14943,2007,NA,Number of emigrants - Number
+UKR,Ukraine,29669,2007,NA,Number of emigrants - Number
+MNE,Montenegro,736,2007,NA,Number of emigrants - Number
+ARM,Armenia,6747,2008,2008,Number of emigrants - Number
+AZE,Azerbaijan,2530,2008,NA,Number of emigrants - Number
+KAZ,Kazakhstan,44813,2008,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,41287,2008,NA,Number of emigrants - Number
+TJK,Tajikistan,10391,2008,NA,Number of emigrants - Number
+UZB,Uzbekistan,51236,2008,NA,Number of emigrants - Number
+BGR,Bulgaria,2112,2008,NA,Number of emigrants - Number
+BLR,Belarus,9268,2008,NA,Number of emigrants - Number
+CZE,Czech Republic,6027,2008,NA,Number of emigrants - Number
+EST,Estonia,4406,2008,NA,Number of emigrants - Number
+HRV,Croatia,7488,2008,NA,Number of emigrants - Number
+HUN,Hungary,4241,2008,NA,Number of emigrants - Number
+LTU,Lithuania,17015,2008,NA,Number of emigrants - Number
+LVA,Latvia,27045,2008,NA,Number of emigrants - Number
+MDA,Republic of Moldova,6988,2008,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,751,2008,NA,Number of emigrants - Number
+POL,Poland,30140,2008,NA,Number of emigrants - Number
+ROU,Romania,302796,2008,NA,Number of emigrants - Number
+RUS,Russian Federation,39508,2008,NA,Number of emigrants - Number
+SVK,Slovakia,1705,2008,NA,Number of emigrants - Number
+SVN,Slovenia,12109,2008,NA,Number of emigrants - Number
+UKR,Ukraine,22402,2008,NA,Number of emigrants - Number
+ARM,Armenia,4797,2009,2009,Number of emigrants - Number
+AZE,Azerbaijan,1373,2009,NA,Number of emigrants - Number
+KAZ,Kazakhstan,33985,2009,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,33380,2009,NA,Number of emigrants - Number
+TJK,Tajikistan,8284,2009,NA,Number of emigrants - Number
+UZB,Uzbekistan,52186,2009,NA,Number of emigrants - Number
+BGR,Bulgaria,19039,2009,NA,Number of emigrants - Number
+BLR,Belarus,7643,2009,NA,Number of emigrants - Number
+CZE,Czech Republic,11629,2009,NA,Number of emigrants - Number
+EST,Estonia,4658,2009,NA,Number of emigrants - Number
+HRV,Croatia,9940,2009,NA,Number of emigrants - Number
+HUN,Hungary,5600,2009,NA,Number of emigrants - Number
+LTU,Lithuania,21970,2009,NA,Number of emigrants - Number
+LVA,Latvia,38208,2009,NA,Number of emigrants - Number
+MDA,Republic of Moldova,6663,2009,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,792,2009,NA,Number of emigrants - Number
+POL,Poland,41933,2009,NA,Number of emigrants - Number
+ROU,Romania,246626,2009,NA,Number of emigrants - Number
+RUS,Russian Federation,32458,2009,NA,Number of emigrants - Number
+SVK,Slovakia,1979,2009,NA,Number of emigrants - Number
+SVN,Slovenia,18788,2009,NA,Number of emigrants - Number
+UKR,Ukraine,19470,2009,NA,Number of emigrants - Number
+ARM,Armenia,3273,2010,2010,Number of emigrants - Number
+AZE,Azerbaijan,799,2010,NA,Number of emigrants - Number
+KAZ,Kazakhstan,26541,2010,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,54531,2010,NA,Number of emigrants - Number
+TJK,Tajikistan,5379,2010,NA,Number of emigrants - Number
+UZB,Uzbekistan,44420,2010,NA,Number of emigrants - Number
+BGR,Bulgaria,27708,2010,NA,Number of emigrants - Number
+BLR,Belarus,6866,2010,NA,Number of emigrants - Number
+CZE,Czech Republic,14867,2010,NA,Number of emigrants - Number
+EST,Estonia,5294,2010,NA,Number of emigrants - Number
+HRV,Croatia,9860,2010,NA,Number of emigrants - Number
+HUN,Hungary,6047,2010,NA,Number of emigrants - Number
+LTU,Lithuania,83157,2010,NA,Number of emigrants - Number
+LVA,Latvia,39651,2010,NA,Number of emigrants - Number
+MDA,Republic of Moldova,4714,2010,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,1007,2010,NA,Number of emigrants - Number
+POL,Poland,41216,2010,NA,Number of emigrants - Number
+ROU,Romania,197985,2010,NA,Number of emigrants - Number
+RUS,Russian Federation,33578,2010,NA,Number of emigrants - Number
+SVK,Slovakia,1889,2010,NA,Number of emigrants - Number
+SVN,Slovenia,15937,2010,NA,Number of emigrants - Number
+UKR,Ukraine,14677,2010,NA,Number of emigrants - Number
+ARM,Armenia,2637,2011,2011,Number of emigrants - Number
+AZE,Azerbaijan,484,2011,NA,Number of emigrants - Number
+KAZ,Kazakhstan,32920,2011,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,45740,2011,NA,Number of emigrants - Number
+TJK,Tajikistan,3991,2011,NA,Number of emigrants - Number
+UZB,Uzbekistan,50816,2011,NA,Number of emigrants - Number
+ALB,Albania,55162,2011,NA,Number of emigrants - Number
+BGR,Bulgaria,9517,2011,NA,Number of emigrants - Number
+BLR,Belarus,7610,2011,NA,Number of emigrants - Number
+CZE,Czech Republic,5701,2011,NA,Number of emigrants - Number
+EST,Estonia,6214,2011,NA,Number of emigrants - Number
+HRV,Croatia,12699,2011,NA,Number of emigrants - Number
+HUN,Hungary,2687,2011,NA,Number of emigrants - Number
+LTU,Lithuania,53863,2011,NA,Number of emigrants - Number
+LVA,Latvia,30311,2011,NA,Number of emigrants - Number
+MDA,Republic of Moldova,3920,2011,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,1290,2011,NA,Number of emigrants - Number
+POL,Poland,44337,2011,NA,Number of emigrants - Number
+ROU,Romania,195551,2011,NA,Number of emigrants - Number
+RUS,Russian Federation,36774,2011,NA,Number of emigrants - Number
+SVK,Slovakia,1863,2011,NA,Number of emigrants - Number
+SVN,Slovenia,12024,2011,NA,Number of emigrants - Number
+UKR,Ukraine,14588,2011,NA,Number of emigrants - Number
+AZE,Azerbaijan,226,2012,2012,Number of emigrants - Number
+GEO,Georgia,90584,2012,NA,Number of emigrants - Number
+KAZ,Kazakhstan,29722,2012,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,13019,2012,NA,Number of emigrants - Number
+TJK,Tajikistan,4155,2012,NA,Number of emigrants - Number
+UZB,Uzbekistan,45447,2012,NA,Number of emigrants - Number
+ALB,Albania,52307,2012,NA,Number of emigrants - Number
+BGR,Bulgaria,16615,2012,NA,Number of emigrants - Number
+BLR,Belarus,8712,2012,NA,Number of emigrants - Number
+CZE,Czech Republic,20005,2012,NA,Number of emigrants - Number
+EST,Estonia,6321,2012,NA,Number of emigrants - Number
+HRV,Croatia,12877,2012,NA,Number of emigrants - Number
+HUN,Hungary,9916,2012,NA,Number of emigrants - Number
+LTU,Lithuania,41100,2012,NA,Number of emigrants - Number
+LVA,Latvia,25163,2012,NA,Number of emigrants - Number
+MDA,Republic of Moldova,3062,2012,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,1415,2012,NA,Number of emigrants - Number
+POL,Poland,49731,2012,NA,Number of emigrants - Number
+ROU,Romania,170186,2012,NA,Number of emigrants - Number
+RUS,Russian Federation,122751,2012,NA,Number of emigrants - Number
+SVK,Slovakia,2003,2012,NA,Number of emigrants - Number
+SVN,Slovenia,14378,2012,NA,Number of emigrants - Number
+UKR,Ukraine,14517,2012,NA,Number of emigrants - Number
+AZE,Azerbaijan,781,2013,2013,Number of emigrants - Number
+GEO,Georgia,95064,2013,NA,Number of emigrants - Number
+KAZ,Kazakhstan,24384,2013,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,11552,2013,NA,Number of emigrants - Number
+TJK,Tajikistan,3535,2013,NA,Number of emigrants - Number
+UZB,Uzbekistan,38589,2013,NA,Number of emigrants - Number
+ALB,Albania,49425,2013,NA,Number of emigrants - Number
+BGR,Bulgaria,19678,2013,NA,Number of emigrants - Number
+BLR,Belarus,7792,2013,NA,Number of emigrants - Number
+CZE,Czech Republic,30876,2013,NA,Number of emigrants - Number
+EST,Estonia,6740,2013,NA,Number of emigrants - Number
+HRV,Croatia,15262,2013,NA,Number of emigrants - Number
+HUN,Hungary,13111,2013,NA,Number of emigrants - Number
+LTU,Lithuania,38818,2013,NA,Number of emigrants - Number
+LVA,Latvia,22561,2013,NA,Number of emigrants - Number
+MDA,Republic of Moldova,2585,2013,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,1041,2013,NA,Number of emigrants - Number
+POL,Poland,66297,2013,NA,Number of emigrants - Number
+ROU,Romania,161755,2013,NA,Number of emigrants - Number
+RUS,Russian Federation,186382,2013,NA,Number of emigrants - Number
+SVK,Slovakia,2770,2013,NA,Number of emigrants - Number
+SVN,Slovenia,13384,2013,NA,Number of emigrants - Number
+UKR,Ukraine,22187,2013,NA,Number of emigrants - Number
+AZE,Azerbaijan,795,2014,2014,Number of emigrants - Number
+GEO,Georgia,88704,2014,NA,Number of emigrants - Number
+KAZ,Kazakhstan,28946,2014,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,11685,2014,NA,Number of emigrants - Number
+TJK,Tajikistan,3287,2014,NA,Number of emigrants - Number
+UZB,Uzbekistan,42228,2014,NA,Number of emigrants - Number
+ALB,Albania,46525,2014,NA,Number of emigrants - Number
+BGR,Bulgaria,28727,2014,NA,Number of emigrants - Number
+BLR,Belarus,9219,2014,NA,Number of emigrants - Number
+CZE,Czech Republic,19964,2014,NA,Number of emigrants - Number
+EST,Estonia,4637,2014,NA,Number of emigrants - Number
+HRV,Croatia,20858,2014,NA,Number of emigrants - Number
+HUN,Hungary,10828,2014,NA,Number of emigrants - Number
+LTU,Lithuania,36621,2014,NA,Number of emigrants - Number
+LVA,Latvia,19017,2014,NA,Number of emigrants - Number
+MDA,Republic of Moldova,2374,2014,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,839,2014,NA,Number of emigrants - Number
+POL,Poland,54960,2014,NA,Number of emigrants - Number
+ROU,Romania,172871,2014,NA,Number of emigrants - Number
+RUS,Russian Federation,310496,2014,NA,Number of emigrants - Number
+SVK,Slovakia,3644,2014,NA,Number of emigrants - Number
+SVN,Slovenia,14336,2014,NA,Number of emigrants - Number
+UKR,Ukraine,21599,2014,NA,Number of emigrants - Number
+AZE,Azerbaijan,1557,2015,2015,Number of emigrants - Number
+GEO,Georgia,95965,2015,NA,Number of emigrants - Number
+KAZ,Kazakhstan,30047,2015,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,7788,2015,NA,Number of emigrants - Number
+TJK,Tajikistan,2871,2015,NA,Number of emigrants - Number
+UZB,Uzbekistan,31765,2015,NA,Number of emigrants - Number
+ALB,Albania,41443,2015,NA,Number of emigrants - Number
+BGR,Bulgaria,29470,2015,NA,Number of emigrants - Number
+BLR,Belarus,9855,2015,NA,Number of emigrants - Number
+CZE,Czech Republic,18945,2015,NA,Number of emigrants - Number
+EST,Estonia,13003,2015,NA,Number of emigrants - Number
+HRV,Croatia,29651,2015,NA,Number of emigrants - Number
+HUN,Hungary,10373,2015,NA,Number of emigrants - Number
+LTU,Lithuania,44533,2015,NA,Number of emigrants - Number
+LVA,Latvia,20119,2015,NA,Number of emigrants - Number
+MDA,Republic of Moldova,2236,2015,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,1016,2015,NA,Number of emigrants - Number
+POL,Poland,62601,2015,NA,Number of emigrants - Number
+ROU,Romania,194718,2015,NA,Number of emigrants - Number
+RUS,Russian Federation,353233,2015,NA,Number of emigrants - Number
+SVK,Slovakia,3870,2015,NA,Number of emigrants - Number
+SVN,Slovenia,14913,2015,NA,Number of emigrants - Number
+UKR,Ukraine,21409,2015,NA,Number of emigrants - Number
+AZE,Azerbaijan,1711,2016,2016,Number of emigrants - Number
+GEO,Georgia,98288,2016,NA,Number of emigrants - Number
+KAZ,Kazakhstan,34900,2016,NA,Number of emigrants - Number
+KGZ,Kyrgyzstan,7125,2016,NA,Number of emigrants - Number
+TJK,Tajikistan,2757,2016,NA,Number of emigrants - Number
+UZB,Uzbekistan,28069,2016,NA,Number of emigrants - Number
+ALB,Albania,32532,2016,NA,Number of emigrants - Number
+BGR,Bulgaria,30570,2016,NA,Number of emigrants - Number
+BLR,Belarus,13098,2016,NA,Number of emigrants - Number
+CZE,Czech Republic,17439,2016,NA,Number of emigrants - Number
+EST,Estonia,13792,2016,NA,Number of emigrants - Number
+HRV,Croatia,36436,2016,NA,Number of emigrants - Number
+HUN,Hungary,10464,2016,NA,Number of emigrants - Number
+LTU,Lithuania,50333,2016,NA,Number of emigrants - Number
+LVA,Latvia,20574,2016,NA,Number of emigrants - Number
+MDA,Republic of Moldova,2507,2016,NA,Number of emigrants - Number
+MKD,The Former Yugoslav Republic of Macedonia,630,2016,NA,Number of emigrants - Number
+POL,Poland,44466,2016,NA,Number of emigrants - Number
+ROU,Romania,209456,2016,NA,Number of emigrants - Number
+RUS,Russian Federation,313210,2016,NA,Number of emigrants - Number
+SVK,Slovakia,3801,2016,NA,Number of emigrants - Number
+SVN,Slovenia,15572,2016,NA,Number of emigrants - Number

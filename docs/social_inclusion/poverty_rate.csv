@@ -1,0 +1,1105 @@
+iso2c,country,poverty_rate,year
+AL,Albania,NA,2018
+AL,Albania,NA,2017
+AL,Albania,NA,2016
+AL,Albania,NA,2015
+AL,Albania,NA,2014
+AL,Albania,NA,2013
+AL,Albania,14.3,2012
+AL,Albania,NA,2011
+AL,Albania,NA,2010
+AL,Albania,NA,2009
+AL,Albania,12.4,2008
+AL,Albania,NA,2007
+AL,Albania,NA,2006
+AL,Albania,18.5,2005
+AL,Albania,NA,2004
+AL,Albania,NA,2003
+AL,Albania,25.4,2002
+AL,Albania,NA,2001
+AL,Albania,NA,2000
+AL,Albania,NA,1999
+AL,Albania,NA,1998
+AL,Albania,NA,1997
+AL,Albania,NA,1996
+AL,Albania,NA,1995
+AM,Armenia,NA,2018
+AM,Armenia,25.7,2017
+AM,Armenia,29.4,2016
+AM,Armenia,29.8,2015
+AM,Armenia,30,2014
+AM,Armenia,32,2013
+AM,Armenia,32.4,2012
+AM,Armenia,35,2011
+AM,Armenia,35.8,2010
+AM,Armenia,34.1,2009
+AM,Armenia,27.6,2008
+AM,Armenia,26.4,2007
+AM,Armenia,30.2,2006
+AM,Armenia,40.1,2005
+AM,Armenia,53.5,2004
+AM,Armenia,NA,2003
+AM,Armenia,NA,2002
+AM,Armenia,NA,2001
+AM,Armenia,NA,2000
+AM,Armenia,NA,1999
+AM,Armenia,NA,1998
+AM,Armenia,NA,1997
+AM,Armenia,NA,1996
+AM,Armenia,NA,1995
+AT,Austria,NA,2018
+AT,Austria,NA,2017
+AT,Austria,NA,2016
+AT,Austria,NA,2015
+AT,Austria,NA,2014
+AT,Austria,NA,2013
+AT,Austria,NA,2012
+AT,Austria,NA,2011
+AT,Austria,NA,2010
+AT,Austria,NA,2009
+AT,Austria,NA,2008
+AT,Austria,NA,2007
+AT,Austria,NA,2006
+AT,Austria,NA,2005
+AT,Austria,NA,2004
+AT,Austria,NA,2003
+AT,Austria,NA,2002
+AT,Austria,NA,2001
+AT,Austria,NA,2000
+AT,Austria,NA,1999
+AT,Austria,NA,1998
+AT,Austria,NA,1997
+AT,Austria,NA,1996
+AT,Austria,NA,1995
+AZ,Azerbaijan,NA,2018
+AZ,Azerbaijan,NA,2017
+AZ,Azerbaijan,NA,2016
+AZ,Azerbaijan,NA,2015
+AZ,Azerbaijan,NA,2014
+AZ,Azerbaijan,NA,2013
+AZ,Azerbaijan,6,2012
+AZ,Azerbaijan,7.6,2011
+AZ,Azerbaijan,9.1,2010
+AZ,Azerbaijan,10.9,2009
+AZ,Azerbaijan,13.2,2008
+AZ,Azerbaijan,15.8,2007
+AZ,Azerbaijan,NA,2006
+AZ,Azerbaijan,NA,2005
+AZ,Azerbaijan,NA,2004
+AZ,Azerbaijan,NA,2003
+AZ,Azerbaijan,NA,2002
+AZ,Azerbaijan,49.6,2001
+AZ,Azerbaijan,NA,2000
+AZ,Azerbaijan,NA,1999
+AZ,Azerbaijan,NA,1998
+AZ,Azerbaijan,NA,1997
+AZ,Azerbaijan,NA,1996
+AZ,Azerbaijan,NA,1995
+BE,Belgium,NA,2018
+BE,Belgium,NA,2017
+BE,Belgium,NA,2016
+BE,Belgium,NA,2015
+BE,Belgium,NA,2014
+BE,Belgium,NA,2013
+BE,Belgium,NA,2012
+BE,Belgium,NA,2011
+BE,Belgium,NA,2010
+BE,Belgium,NA,2009
+BE,Belgium,NA,2008
+BE,Belgium,NA,2007
+BE,Belgium,NA,2006
+BE,Belgium,NA,2005
+BE,Belgium,NA,2004
+BE,Belgium,NA,2003
+BE,Belgium,NA,2002
+BE,Belgium,NA,2001
+BE,Belgium,NA,2000
+BE,Belgium,NA,1999
+BE,Belgium,NA,1998
+BE,Belgium,NA,1997
+BE,Belgium,NA,1996
+BE,Belgium,NA,1995
+BG,Bulgaria,NA,2018
+BG,Bulgaria,NA,2017
+BG,Bulgaria,23.4,2016
+BG,Bulgaria,22.9,2015
+BG,Bulgaria,22,2014
+BG,Bulgaria,21.8,2013
+BG,Bulgaria,21,2012
+BG,Bulgaria,21.2,2011
+BG,Bulgaria,22.2,2010
+BG,Bulgaria,20.7,2009
+BG,Bulgaria,21.8,2008
+BG,Bulgaria,21.4,2007
+BG,Bulgaria,22,2006
+BG,Bulgaria,18.4,2005
+BG,Bulgaria,NA,2004
+BG,Bulgaria,NA,2003
+BG,Bulgaria,14,2002
+BG,Bulgaria,16,2001
+BG,Bulgaria,14,2000
+BG,Bulgaria,NA,1999
+BG,Bulgaria,NA,1998
+BG,Bulgaria,NA,1997
+BG,Bulgaria,NA,1996
+BG,Bulgaria,NA,1995
+BA,Bosnia and Herzegovina,NA,2018
+BA,Bosnia and Herzegovina,NA,2017
+BA,Bosnia and Herzegovina,NA,2016
+BA,Bosnia and Herzegovina,16.9,2015
+BA,Bosnia and Herzegovina,NA,2014
+BA,Bosnia and Herzegovina,NA,2013
+BA,Bosnia and Herzegovina,NA,2012
+BA,Bosnia and Herzegovina,17.9,2011
+BA,Bosnia and Herzegovina,NA,2010
+BA,Bosnia and Herzegovina,NA,2009
+BA,Bosnia and Herzegovina,NA,2008
+BA,Bosnia and Herzegovina,18.2,2007
+BA,Bosnia and Herzegovina,NA,2006
+BA,Bosnia and Herzegovina,NA,2005
+BA,Bosnia and Herzegovina,NA,2004
+BA,Bosnia and Herzegovina,NA,2003
+BA,Bosnia and Herzegovina,NA,2002
+BA,Bosnia and Herzegovina,NA,2001
+BA,Bosnia and Herzegovina,NA,2000
+BA,Bosnia and Herzegovina,NA,1999
+BA,Bosnia and Herzegovina,NA,1998
+BA,Bosnia and Herzegovina,NA,1997
+BA,Bosnia and Herzegovina,NA,1996
+BA,Bosnia and Herzegovina,NA,1995
+BY,Belarus,NA,2018
+BY,Belarus,5.9,2017
+BY,Belarus,5.7,2016
+BY,Belarus,5.1,2015
+BY,Belarus,4.8,2014
+BY,Belarus,5.5,2013
+BY,Belarus,6.3,2012
+BY,Belarus,7.3,2011
+BY,Belarus,5.2,2010
+BY,Belarus,5.4,2009
+BY,Belarus,6.1,2008
+BY,Belarus,7.7,2007
+BY,Belarus,11.1,2006
+BY,Belarus,12.7,2005
+BY,Belarus,17.8,2004
+BY,Belarus,27.1,2003
+BY,Belarus,30.5,2002
+BY,Belarus,28.9,2001
+BY,Belarus,41.9,2000
+BY,Belarus,NA,1999
+BY,Belarus,NA,1998
+BY,Belarus,NA,1997
+BY,Belarus,NA,1996
+BY,Belarus,NA,1995
+CY,Cyprus,NA,2018
+CY,Cyprus,NA,2017
+CY,Cyprus,NA,2016
+CY,Cyprus,NA,2015
+CY,Cyprus,NA,2014
+CY,Cyprus,NA,2013
+CY,Cyprus,NA,2012
+CY,Cyprus,NA,2011
+CY,Cyprus,NA,2010
+CY,Cyprus,NA,2009
+CY,Cyprus,NA,2008
+CY,Cyprus,NA,2007
+CY,Cyprus,NA,2006
+CY,Cyprus,NA,2005
+CY,Cyprus,NA,2004
+CY,Cyprus,NA,2003
+CY,Cyprus,NA,2002
+CY,Cyprus,NA,2001
+CY,Cyprus,NA,2000
+CY,Cyprus,NA,1999
+CY,Cyprus,NA,1998
+CY,Cyprus,NA,1997
+CY,Cyprus,NA,1996
+CY,Cyprus,NA,1995
+CZ,Czech Republic,NA,2018
+CZ,Czech Republic,NA,2017
+CZ,Czech Republic,NA,2016
+CZ,Czech Republic,NA,2015
+CZ,Czech Republic,NA,2014
+CZ,Czech Republic,9.7,2013
+CZ,Czech Republic,8.6,2012
+CZ,Czech Republic,9.6,2011
+CZ,Czech Republic,9.8,2010
+CZ,Czech Republic,9,2009
+CZ,Czech Republic,8.6,2008
+CZ,Czech Republic,9,2007
+CZ,Czech Republic,9.6,2006
+CZ,Czech Republic,9.9,2005
+CZ,Czech Republic,10.4,2004
+CZ,Czech Republic,NA,2003
+CZ,Czech Republic,NA,2002
+CZ,Czech Republic,NA,2001
+CZ,Czech Republic,NA,2000
+CZ,Czech Republic,NA,1999
+CZ,Czech Republic,NA,1998
+CZ,Czech Republic,NA,1997
+CZ,Czech Republic,NA,1996
+CZ,Czech Republic,NA,1995
+DE,Germany,NA,2018
+DE,Germany,NA,2017
+DE,Germany,NA,2016
+DE,Germany,NA,2015
+DE,Germany,NA,2014
+DE,Germany,NA,2013
+DE,Germany,NA,2012
+DE,Germany,NA,2011
+DE,Germany,NA,2010
+DE,Germany,NA,2009
+DE,Germany,NA,2008
+DE,Germany,NA,2007
+DE,Germany,NA,2006
+DE,Germany,NA,2005
+DE,Germany,NA,2004
+DE,Germany,NA,2003
+DE,Germany,NA,2002
+DE,Germany,NA,2001
+DE,Germany,NA,2000
+DE,Germany,NA,1999
+DE,Germany,NA,1998
+DE,Germany,NA,1997
+DE,Germany,NA,1996
+DE,Germany,NA,1995
+DK,Denmark,NA,2018
+DK,Denmark,NA,2017
+DK,Denmark,NA,2016
+DK,Denmark,NA,2015
+DK,Denmark,NA,2014
+DK,Denmark,NA,2013
+DK,Denmark,NA,2012
+DK,Denmark,NA,2011
+DK,Denmark,NA,2010
+DK,Denmark,NA,2009
+DK,Denmark,NA,2008
+DK,Denmark,NA,2007
+DK,Denmark,NA,2006
+DK,Denmark,NA,2005
+DK,Denmark,NA,2004
+DK,Denmark,NA,2003
+DK,Denmark,NA,2002
+DK,Denmark,NA,2001
+DK,Denmark,NA,2000
+DK,Denmark,NA,1999
+DK,Denmark,NA,1998
+DK,Denmark,NA,1997
+DK,Denmark,NA,1996
+DK,Denmark,NA,1995
+ES,Spain,NA,2018
+ES,Spain,NA,2017
+ES,Spain,NA,2016
+ES,Spain,NA,2015
+ES,Spain,NA,2014
+ES,Spain,NA,2013
+ES,Spain,NA,2012
+ES,Spain,NA,2011
+ES,Spain,NA,2010
+ES,Spain,NA,2009
+ES,Spain,NA,2008
+ES,Spain,NA,2007
+ES,Spain,NA,2006
+ES,Spain,NA,2005
+ES,Spain,NA,2004
+ES,Spain,NA,2003
+ES,Spain,NA,2002
+ES,Spain,NA,2001
+ES,Spain,NA,2000
+ES,Spain,NA,1999
+ES,Spain,NA,1998
+ES,Spain,NA,1997
+ES,Spain,NA,1996
+ES,Spain,NA,1995
+EE,Estonia,NA,2018
+EE,Estonia,NA,2017
+EE,Estonia,NA,2016
+EE,Estonia,NA,2015
+EE,Estonia,NA,2014
+EE,Estonia,21.8,2013
+EE,Estonia,NA,2012
+EE,Estonia,NA,2011
+EE,Estonia,NA,2010
+EE,Estonia,NA,2009
+EE,Estonia,NA,2008
+EE,Estonia,NA,2007
+EE,Estonia,NA,2006
+EE,Estonia,NA,2005
+EE,Estonia,NA,2004
+EE,Estonia,NA,2003
+EE,Estonia,NA,2002
+EE,Estonia,NA,2001
+EE,Estonia,NA,2000
+EE,Estonia,NA,1999
+EE,Estonia,NA,1998
+EE,Estonia,NA,1997
+EE,Estonia,NA,1996
+EE,Estonia,NA,1995
+FI,Finland,NA,2018
+FI,Finland,NA,2017
+FI,Finland,NA,2016
+FI,Finland,NA,2015
+FI,Finland,NA,2014
+FI,Finland,NA,2013
+FI,Finland,NA,2012
+FI,Finland,NA,2011
+FI,Finland,NA,2010
+FI,Finland,NA,2009
+FI,Finland,NA,2008
+FI,Finland,NA,2007
+FI,Finland,NA,2006
+FI,Finland,NA,2005
+FI,Finland,NA,2004
+FI,Finland,NA,2003
+FI,Finland,NA,2002
+FI,Finland,NA,2001
+FI,Finland,NA,2000
+FI,Finland,NA,1999
+FI,Finland,NA,1998
+FI,Finland,NA,1997
+FI,Finland,NA,1996
+FI,Finland,NA,1995
+FR,France,NA,2018
+FR,France,NA,2017
+FR,France,NA,2016
+FR,France,NA,2015
+FR,France,NA,2014
+FR,France,NA,2013
+FR,France,NA,2012
+FR,France,NA,2011
+FR,France,NA,2010
+FR,France,NA,2009
+FR,France,NA,2008
+FR,France,NA,2007
+FR,France,NA,2006
+FR,France,NA,2005
+FR,France,NA,2004
+FR,France,NA,2003
+FR,France,NA,2002
+FR,France,NA,2001
+FR,France,NA,2000
+FR,France,NA,1999
+FR,France,NA,1998
+FR,France,NA,1997
+FR,France,NA,1996
+FR,France,NA,1995
+GB,United Kingdom,NA,2018
+GB,United Kingdom,NA,2017
+GB,United Kingdom,NA,2016
+GB,United Kingdom,NA,2015
+GB,United Kingdom,NA,2014
+GB,United Kingdom,NA,2013
+GB,United Kingdom,NA,2012
+GB,United Kingdom,NA,2011
+GB,United Kingdom,NA,2010
+GB,United Kingdom,NA,2009
+GB,United Kingdom,NA,2008
+GB,United Kingdom,NA,2007
+GB,United Kingdom,NA,2006
+GB,United Kingdom,NA,2005
+GB,United Kingdom,NA,2004
+GB,United Kingdom,NA,2003
+GB,United Kingdom,NA,2002
+GB,United Kingdom,NA,2001
+GB,United Kingdom,NA,2000
+GB,United Kingdom,NA,1999
+GB,United Kingdom,NA,1998
+GB,United Kingdom,NA,1997
+GB,United Kingdom,NA,1996
+GB,United Kingdom,NA,1995
+GE,Georgia,NA,2018
+GE,Georgia,21.9,2017
+GE,Georgia,22,2016
+GE,Georgia,21.6,2015
+GE,Georgia,23.5,2014
+GE,Georgia,26.2,2013
+GE,Georgia,30,2012
+GE,Georgia,34.1,2011
+GE,Georgia,37.3,2010
+GE,Georgia,34.9,2009
+GE,Georgia,34.9,2008
+GE,Georgia,38.8,2007
+GE,Georgia,36.9,2006
+GE,Georgia,35.4,2005
+GE,Georgia,34.3,2004
+GE,Georgia,NA,2003
+GE,Georgia,NA,2002
+GE,Georgia,NA,2001
+GE,Georgia,NA,2000
+GE,Georgia,NA,1999
+GE,Georgia,NA,1998
+GE,Georgia,NA,1997
+GE,Georgia,NA,1996
+GE,Georgia,NA,1995
+GR,Greece,NA,2018
+GR,Greece,NA,2017
+GR,Greece,NA,2016
+GR,Greece,NA,2015
+GR,Greece,NA,2014
+GR,Greece,NA,2013
+GR,Greece,NA,2012
+GR,Greece,NA,2011
+GR,Greece,NA,2010
+GR,Greece,NA,2009
+GR,Greece,NA,2008
+GR,Greece,NA,2007
+GR,Greece,NA,2006
+GR,Greece,NA,2005
+GR,Greece,NA,2004
+GR,Greece,NA,2003
+GR,Greece,NA,2002
+GR,Greece,NA,2001
+GR,Greece,NA,2000
+GR,Greece,NA,1999
+GR,Greece,NA,1998
+GR,Greece,NA,1997
+GR,Greece,NA,1996
+GR,Greece,NA,1995
+HR,Croatia,NA,2018
+HR,Croatia,NA,2017
+HR,Croatia,NA,2016
+HR,Croatia,19.5,2015
+HR,Croatia,20,2014
+HR,Croatia,19.4,2013
+HR,Croatia,19.5,2012
+HR,Croatia,20.4,2011
+HR,Croatia,20.9,2010
+HR,Croatia,20.6,2009
+HR,Croatia,NA,2008
+HR,Croatia,NA,2007
+HR,Croatia,NA,2006
+HR,Croatia,NA,2005
+HR,Croatia,NA,2004
+HR,Croatia,NA,2003
+HR,Croatia,NA,2002
+HR,Croatia,NA,2001
+HR,Croatia,NA,2000
+HR,Croatia,NA,1999
+HR,Croatia,NA,1998
+HR,Croatia,NA,1997
+HR,Croatia,NA,1996
+HR,Croatia,NA,1995
+HU,Hungary,NA,2018
+HU,Hungary,NA,2017
+HU,Hungary,NA,2016
+HU,Hungary,NA,2015
+HU,Hungary,14.9,2014
+HU,Hungary,15,2013
+HU,Hungary,15,2012
+HU,Hungary,14.3,2011
+HU,Hungary,14.1,2010
+HU,Hungary,12.3,2009
+HU,Hungary,12.4,2008
+HU,Hungary,12.4,2007
+HU,Hungary,12.3,2006
+HU,Hungary,15.9,2005
+HU,Hungary,13.5,2004
+HU,Hungary,NA,2003
+HU,Hungary,NA,2002
+HU,Hungary,NA,2001
+HU,Hungary,NA,2000
+HU,Hungary,NA,1999
+HU,Hungary,NA,1998
+HU,Hungary,NA,1997
+HU,Hungary,NA,1996
+HU,Hungary,NA,1995
+IE,Ireland,NA,2018
+IE,Ireland,NA,2017
+IE,Ireland,NA,2016
+IE,Ireland,NA,2015
+IE,Ireland,NA,2014
+IE,Ireland,NA,2013
+IE,Ireland,NA,2012
+IE,Ireland,NA,2011
+IE,Ireland,NA,2010
+IE,Ireland,NA,2009
+IE,Ireland,NA,2008
+IE,Ireland,NA,2007
+IE,Ireland,NA,2006
+IE,Ireland,NA,2005
+IE,Ireland,NA,2004
+IE,Ireland,NA,2003
+IE,Ireland,NA,2002
+IE,Ireland,NA,2001
+IE,Ireland,NA,2000
+IE,Ireland,NA,1999
+IE,Ireland,NA,1998
+IE,Ireland,NA,1997
+IE,Ireland,NA,1996
+IE,Ireland,NA,1995
+IT,Italy,NA,2018
+IT,Italy,NA,2017
+IT,Italy,NA,2016
+IT,Italy,NA,2015
+IT,Italy,NA,2014
+IT,Italy,NA,2013
+IT,Italy,NA,2012
+IT,Italy,NA,2011
+IT,Italy,NA,2010
+IT,Italy,NA,2009
+IT,Italy,NA,2008
+IT,Italy,NA,2007
+IT,Italy,NA,2006
+IT,Italy,NA,2005
+IT,Italy,NA,2004
+IT,Italy,NA,2003
+IT,Italy,NA,2002
+IT,Italy,NA,2001
+IT,Italy,NA,2000
+IT,Italy,NA,1999
+IT,Italy,NA,1998
+IT,Italy,NA,1997
+IT,Italy,NA,1996
+IT,Italy,NA,1995
+KZ,Kazakhstan,NA,2018
+KZ,Kazakhstan,2.5,2017
+KZ,Kazakhstan,2.5,2016
+KZ,Kazakhstan,2.7,2015
+KZ,Kazakhstan,2.8,2014
+KZ,Kazakhstan,2.9,2013
+KZ,Kazakhstan,3.8,2012
+KZ,Kazakhstan,5.5,2011
+KZ,Kazakhstan,6.5,2010
+KZ,Kazakhstan,8.2,2009
+KZ,Kazakhstan,12.1,2008
+KZ,Kazakhstan,12.7,2007
+KZ,Kazakhstan,18.2,2006
+KZ,Kazakhstan,31.6,2005
+KZ,Kazakhstan,33.9,2004
+KZ,Kazakhstan,37.5,2003
+KZ,Kazakhstan,44.5,2002
+KZ,Kazakhstan,46.7,2001
+KZ,Kazakhstan,NA,2000
+KZ,Kazakhstan,NA,1999
+KZ,Kazakhstan,NA,1998
+KZ,Kazakhstan,NA,1997
+KZ,Kazakhstan,NA,1996
+KZ,Kazakhstan,NA,1995
+KG,Kyrgyz Republic,NA,2018
+KG,Kyrgyz Republic,25.6,2017
+KG,Kyrgyz Republic,25.4,2016
+KG,Kyrgyz Republic,32.1,2015
+KG,Kyrgyz Republic,30.6,2014
+KG,Kyrgyz Republic,37,2013
+KG,Kyrgyz Republic,38,2012
+KG,Kyrgyz Republic,36.8,2011
+KG,Kyrgyz Republic,33.7,2010
+KG,Kyrgyz Republic,31.7,2009
+KG,Kyrgyz Republic,31.7,2008
+KG,Kyrgyz Republic,35,2007
+KG,Kyrgyz Republic,39.9,2006
+KG,Kyrgyz Republic,NA,2005
+KG,Kyrgyz Republic,NA,2004
+KG,Kyrgyz Republic,NA,2003
+KG,Kyrgyz Republic,NA,2002
+KG,Kyrgyz Republic,NA,2001
+KG,Kyrgyz Republic,NA,2000
+KG,Kyrgyz Republic,NA,1999
+KG,Kyrgyz Republic,NA,1998
+KG,Kyrgyz Republic,NA,1997
+KG,Kyrgyz Republic,NA,1996
+KG,Kyrgyz Republic,NA,1995
+LT,Lithuania,NA,2018
+LT,Lithuania,NA,2017
+LT,Lithuania,NA,2016
+LT,Lithuania,NA,2015
+LT,Lithuania,22.2,2014
+LT,Lithuania,19.1,2013
+LT,Lithuania,20.6,2012
+LT,Lithuania,18.6,2011
+LT,Lithuania,19.2,2010
+LT,Lithuania,20.5,2009
+LT,Lithuania,20.3,2008
+LT,Lithuania,20.9,2007
+LT,Lithuania,19.1,2006
+LT,Lithuania,20,2005
+LT,Lithuania,20.5,2004
+LT,Lithuania,NA,2003
+LT,Lithuania,NA,2002
+LT,Lithuania,NA,2001
+LT,Lithuania,NA,2000
+LT,Lithuania,NA,1999
+LT,Lithuania,NA,1998
+LT,Lithuania,NA,1997
+LT,Lithuania,NA,1996
+LT,Lithuania,NA,1995
+LU,Luxembourg,NA,2018
+LU,Luxembourg,NA,2017
+LU,Luxembourg,NA,2016
+LU,Luxembourg,NA,2015
+LU,Luxembourg,NA,2014
+LU,Luxembourg,NA,2013
+LU,Luxembourg,NA,2012
+LU,Luxembourg,NA,2011
+LU,Luxembourg,NA,2010
+LU,Luxembourg,NA,2009
+LU,Luxembourg,NA,2008
+LU,Luxembourg,NA,2007
+LU,Luxembourg,NA,2006
+LU,Luxembourg,NA,2005
+LU,Luxembourg,NA,2004
+LU,Luxembourg,NA,2003
+LU,Luxembourg,NA,2002
+LU,Luxembourg,NA,2001
+LU,Luxembourg,NA,2000
+LU,Luxembourg,NA,1999
+LU,Luxembourg,NA,1998
+LU,Luxembourg,NA,1997
+LU,Luxembourg,NA,1996
+LU,Luxembourg,NA,1995
+LV,Latvia,NA,2018
+LV,Latvia,NA,2017
+LV,Latvia,NA,2016
+LV,Latvia,NA,2015
+LV,Latvia,22.5,2014
+LV,Latvia,21.2,2013
+LV,Latvia,19.4,2012
+LV,Latvia,19.2,2011
+LV,Latvia,19,2010
+LV,Latvia,20.9,2009
+LV,Latvia,26.4,2008
+LV,Latvia,25.9,2007
+LV,Latvia,21.2,2006
+LV,Latvia,23.5,2005
+LV,Latvia,19.4,2004
+LV,Latvia,NA,2003
+LV,Latvia,NA,2002
+LV,Latvia,NA,2001
+LV,Latvia,NA,2000
+LV,Latvia,NA,1999
+LV,Latvia,NA,1998
+LV,Latvia,NA,1997
+LV,Latvia,NA,1996
+LV,Latvia,NA,1995
+MD,Moldova,NA,2018
+MD,Moldova,NA,2017
+MD,Moldova,NA,2016
+MD,Moldova,9.6,2015
+MD,Moldova,11.4,2014
+MD,Moldova,12.7,2013
+MD,Moldova,16.6,2012
+MD,Moldova,17.5,2011
+MD,Moldova,21.9,2010
+MD,Moldova,26.3,2009
+MD,Moldova,26.4,2008
+MD,Moldova,25.8,2007
+MD,Moldova,30.2,2006
+MD,Moldova,NA,2005
+MD,Moldova,26.5,2004
+MD,Moldova,29,2003
+MD,Moldova,40.4,2002
+MD,Moldova,54.6,2001
+MD,Moldova,NA,2000
+MD,Moldova,NA,1999
+MD,Moldova,NA,1998
+MD,Moldova,NA,1997
+MD,Moldova,NA,1996
+MD,Moldova,NA,1995
+MK,North Macedonia,NA,2018
+MK,North Macedonia,22.2,2017
+MK,North Macedonia,21.9,2016
+MK,North Macedonia,21.5,2015
+MK,North Macedonia,22.1,2014
+MK,North Macedonia,24.2,2013
+MK,North Macedonia,26.2,2012
+MK,North Macedonia,26.8,2011
+MK,North Macedonia,27,2010
+MK,North Macedonia,NA,2009
+MK,North Macedonia,NA,2008
+MK,North Macedonia,NA,2007
+MK,North Macedonia,NA,2006
+MK,North Macedonia,NA,2005
+MK,North Macedonia,NA,2004
+MK,North Macedonia,NA,2003
+MK,North Macedonia,NA,2002
+MK,North Macedonia,NA,2001
+MK,North Macedonia,NA,2000
+MK,North Macedonia,NA,1999
+MK,North Macedonia,NA,1998
+MK,North Macedonia,NA,1997
+MK,North Macedonia,NA,1996
+MK,North Macedonia,NA,1995
+MT,Malta,NA,2018
+MT,Malta,NA,2017
+MT,Malta,NA,2016
+MT,Malta,NA,2015
+MT,Malta,NA,2014
+MT,Malta,NA,2013
+MT,Malta,NA,2012
+MT,Malta,NA,2011
+MT,Malta,NA,2010
+MT,Malta,NA,2009
+MT,Malta,NA,2008
+MT,Malta,NA,2007
+MT,Malta,NA,2006
+MT,Malta,NA,2005
+MT,Malta,NA,2004
+MT,Malta,NA,2003
+MT,Malta,NA,2002
+MT,Malta,NA,2001
+MT,Malta,NA,2000
+MT,Malta,NA,1999
+MT,Malta,NA,1998
+MT,Malta,NA,1997
+MT,Malta,NA,1996
+MT,Malta,NA,1995
+ME,Montenegro,NA,2018
+ME,Montenegro,NA,2017
+ME,Montenegro,NA,2016
+ME,Montenegro,24,2015
+ME,Montenegro,24.4,2014
+ME,Montenegro,24.1,2013
+ME,Montenegro,25.2,2012
+ME,Montenegro,NA,2011
+ME,Montenegro,NA,2010
+ME,Montenegro,NA,2009
+ME,Montenegro,NA,2008
+ME,Montenegro,NA,2007
+ME,Montenegro,NA,2006
+ME,Montenegro,NA,2005
+ME,Montenegro,NA,2004
+ME,Montenegro,NA,2003
+ME,Montenegro,NA,2002
+ME,Montenegro,NA,2001
+ME,Montenegro,NA,2000
+ME,Montenegro,NA,1999
+ME,Montenegro,NA,1998
+ME,Montenegro,NA,1997
+ME,Montenegro,NA,1996
+ME,Montenegro,NA,1995
+NL,Netherlands,NA,2018
+NL,Netherlands,NA,2017
+NL,Netherlands,NA,2016
+NL,Netherlands,NA,2015
+NL,Netherlands,NA,2014
+NL,Netherlands,NA,2013
+NL,Netherlands,NA,2012
+NL,Netherlands,NA,2011
+NL,Netherlands,NA,2010
+NL,Netherlands,NA,2009
+NL,Netherlands,NA,2008
+NL,Netherlands,NA,2007
+NL,Netherlands,NA,2006
+NL,Netherlands,NA,2005
+NL,Netherlands,NA,2004
+NL,Netherlands,NA,2003
+NL,Netherlands,NA,2002
+NL,Netherlands,NA,2001
+NL,Netherlands,NA,2000
+NL,Netherlands,NA,1999
+NL,Netherlands,NA,1998
+NL,Netherlands,NA,1997
+NL,Netherlands,NA,1996
+NL,Netherlands,NA,1995
+PL,Poland,NA,2018
+PL,Poland,NA,2017
+PL,Poland,15,2016
+PL,Poland,17.3,2015
+PL,Poland,17.6,2014
+PL,Poland,17,2013
+PL,Poland,17.3,2012
+PL,Poland,17.1,2011
+PL,Poland,17.7,2010
+PL,Poland,17.6,2009
+PL,Poland,17.1,2008
+PL,Poland,16.9,2007
+PL,Poland,17.3,2006
+PL,Poland,19.1,2005
+PL,Poland,20.5,2004
+PL,Poland,NA,2003
+PL,Poland,NA,2002
+PL,Poland,NA,2001
+PL,Poland,NA,2000
+PL,Poland,NA,1999
+PL,Poland,NA,1998
+PL,Poland,NA,1997
+PL,Poland,NA,1996
+PL,Poland,NA,1995
+PT,Portugal,NA,2018
+PT,Portugal,NA,2017
+PT,Portugal,NA,2016
+PT,Portugal,NA,2015
+PT,Portugal,NA,2014
+PT,Portugal,NA,2013
+PT,Portugal,NA,2012
+PT,Portugal,NA,2011
+PT,Portugal,NA,2010
+PT,Portugal,NA,2009
+PT,Portugal,NA,2008
+PT,Portugal,NA,2007
+PT,Portugal,NA,2006
+PT,Portugal,NA,2005
+PT,Portugal,NA,2004
+PT,Portugal,NA,2003
+PT,Portugal,NA,2002
+PT,Portugal,NA,2001
+PT,Portugal,NA,2000
+PT,Portugal,NA,1999
+PT,Portugal,NA,1998
+PT,Portugal,NA,1997
+PT,Portugal,NA,1996
+PT,Portugal,NA,1995
+RO,Romania,NA,2018
+RO,Romania,NA,2017
+RO,Romania,23.6,2016
+RO,Romania,25.3,2015
+RO,Romania,25.4,2014
+RO,Romania,25.1,2013
+RO,Romania,23,2012
+RO,Romania,22.9,2011
+RO,Romania,22.3,2010
+RO,Romania,21.6,2009
+RO,Romania,22.1,2008
+RO,Romania,23.6,2007
+RO,Romania,24.6,2006
+RO,Romania,NA,2005
+RO,Romania,NA,2004
+RO,Romania,NA,2003
+RO,Romania,NA,2002
+RO,Romania,NA,2001
+RO,Romania,NA,2000
+RO,Romania,NA,1999
+RO,Romania,NA,1998
+RO,Romania,NA,1997
+RO,Romania,NA,1996
+RO,Romania,NA,1995
+RU,Russian Federation,NA,2018
+RU,Russian Federation,13.2,2017
+RU,Russian Federation,13.3,2016
+RU,Russian Federation,13.3,2015
+RU,Russian Federation,11.2,2014
+RU,Russian Federation,10.8,2013
+RU,Russian Federation,10.7,2012
+RU,Russian Federation,12.7,2011
+RU,Russian Federation,12.5,2010
+RU,Russian Federation,13,2009
+RU,Russian Federation,13.4,2008
+RU,Russian Federation,13.3,2007
+RU,Russian Federation,15.2,2006
+RU,Russian Federation,17.8,2005
+RU,Russian Federation,17.6,2004
+RU,Russian Federation,20.3,2003
+RU,Russian Federation,24.6,2002
+RU,Russian Federation,NA,2001
+RU,Russian Federation,29,2000
+RU,Russian Federation,NA,1999
+RU,Russian Federation,NA,1998
+RU,Russian Federation,NA,1997
+RU,Russian Federation,NA,1996
+RU,Russian Federation,NA,1995
+RS,Serbia,NA,2018
+RS,Serbia,NA,2017
+RS,Serbia,25.7,2016
+RS,Serbia,25.9,2015
+RS,Serbia,26.7,2014
+RS,Serbia,25,2013
+RS,Serbia,24.5,2012
+RS,Serbia,NA,2011
+RS,Serbia,NA,2010
+RS,Serbia,NA,2009
+RS,Serbia,NA,2008
+RS,Serbia,NA,2007
+RS,Serbia,NA,2006
+RS,Serbia,NA,2005
+RS,Serbia,NA,2004
+RS,Serbia,NA,2003
+RS,Serbia,NA,2002
+RS,Serbia,NA,2001
+RS,Serbia,NA,2000
+RS,Serbia,NA,1999
+RS,Serbia,NA,1998
+RS,Serbia,NA,1997
+RS,Serbia,NA,1996
+RS,Serbia,NA,1995
+SK,Slovak Republic,NA,2018
+SK,Slovak Republic,NA,2017
+SK,Slovak Republic,NA,2016
+SK,Slovak Republic,NA,2015
+SK,Slovak Republic,NA,2014
+SK,Slovak Republic,12.6,2013
+SK,Slovak Republic,12.8,2012
+SK,Slovak Republic,13.2,2011
+SK,Slovak Republic,13,2010
+SK,Slovak Republic,12,2009
+SK,Slovak Republic,11,2008
+SK,Slovak Republic,10.9,2007
+SK,Slovak Republic,10.6,2006
+SK,Slovak Republic,11.6,2005
+SK,Slovak Republic,13.3,2004
+SK,Slovak Republic,NA,2003
+SK,Slovak Republic,NA,2002
+SK,Slovak Republic,NA,2001
+SK,Slovak Republic,NA,2000
+SK,Slovak Republic,NA,1999
+SK,Slovak Republic,NA,1998
+SK,Slovak Republic,NA,1997
+SK,Slovak Republic,NA,1996
+SK,Slovak Republic,NA,1995
+SI,Slovenia,NA,2018
+SI,Slovenia,NA,2017
+SI,Slovenia,NA,2016
+SI,Slovenia,NA,2015
+SI,Slovenia,14.3,2014
+SI,Slovenia,14.5,2013
+SI,Slovenia,14.5,2012
+SI,Slovenia,13.5,2011
+SI,Slovenia,13.6,2010
+SI,Slovenia,12.7,2009
+SI,Slovenia,11.3,2008
+SI,Slovenia,12.3,2007
+SI,Slovenia,11.5,2006
+SI,Slovenia,11.6,2005
+SI,Slovenia,12.2,2004
+SI,Slovenia,NA,2003
+SI,Slovenia,NA,2002
+SI,Slovenia,NA,2001
+SI,Slovenia,NA,2000
+SI,Slovenia,NA,1999
+SI,Slovenia,NA,1998
+SI,Slovenia,NA,1997
+SI,Slovenia,NA,1996
+SI,Slovenia,NA,1995
+SE,Sweden,NA,2018
+SE,Sweden,NA,2017
+SE,Sweden,NA,2016
+SE,Sweden,NA,2015
+SE,Sweden,NA,2014
+SE,Sweden,NA,2013
+SE,Sweden,NA,2012
+SE,Sweden,NA,2011
+SE,Sweden,NA,2010
+SE,Sweden,NA,2009
+SE,Sweden,NA,2008
+SE,Sweden,NA,2007
+SE,Sweden,NA,2006
+SE,Sweden,NA,2005
+SE,Sweden,NA,2004
+SE,Sweden,NA,2003
+SE,Sweden,NA,2002
+SE,Sweden,NA,2001
+SE,Sweden,NA,2000
+SE,Sweden,NA,1999
+SE,Sweden,NA,1998
+SE,Sweden,NA,1997
+SE,Sweden,NA,1996
+SE,Sweden,NA,1995
+TJ,Tajikistan,NA,2018
+TJ,Tajikistan,NA,2017
+TJ,Tajikistan,NA,2016
+TJ,Tajikistan,31.3,2015
+TJ,Tajikistan,32,2014
+TJ,Tajikistan,34.3,2013
+TJ,Tajikistan,NA,2012
+TJ,Tajikistan,NA,2011
+TJ,Tajikistan,NA,2010
+TJ,Tajikistan,NA,2009
+TJ,Tajikistan,NA,2008
+TJ,Tajikistan,NA,2007
+TJ,Tajikistan,NA,2006
+TJ,Tajikistan,NA,2005
+TJ,Tajikistan,NA,2004
+TJ,Tajikistan,NA,2003
+TJ,Tajikistan,NA,2002
+TJ,Tajikistan,NA,2001
+TJ,Tajikistan,NA,2000
+TJ,Tajikistan,NA,1999
+TJ,Tajikistan,NA,1998
+TJ,Tajikistan,NA,1997
+TJ,Tajikistan,NA,1996
+TJ,Tajikistan,NA,1995
+TM,Turkmenistan,NA,2018
+TM,Turkmenistan,NA,2017
+TM,Turkmenistan,NA,2016
+TM,Turkmenistan,NA,2015
+TM,Turkmenistan,NA,2014
+TM,Turkmenistan,NA,2013
+TM,Turkmenistan,NA,2012
+TM,Turkmenistan,NA,2011
+TM,Turkmenistan,NA,2010
+TM,Turkmenistan,NA,2009
+TM,Turkmenistan,NA,2008
+TM,Turkmenistan,NA,2007
+TM,Turkmenistan,NA,2006
+TM,Turkmenistan,NA,2005
+TM,Turkmenistan,NA,2004
+TM,Turkmenistan,NA,2003
+TM,Turkmenistan,NA,2002
+TM,Turkmenistan,NA,2001
+TM,Turkmenistan,NA,2000
+TM,Turkmenistan,NA,1999
+TM,Turkmenistan,NA,1998
+TM,Turkmenistan,NA,1997
+TM,Turkmenistan,NA,1996
+TM,Turkmenistan,NA,1995
+TR,Turkey,NA,2018
+TR,Turkey,13.5,2017
+TR,Turkey,14.3,2016
+TR,Turkey,14.7,2015
+TR,Turkey,15,2014
+TR,Turkey,15,2013
+TR,Turkey,16.3,2012
+TR,Turkey,16.1,2011
+TR,Turkey,16.9,2010
+TR,Turkey,17.1,2009
+TR,Turkey,16.7,2008
+TR,Turkey,16.3,2007
+TR,Turkey,18.6,2006
+TR,Turkey,NA,2005
+TR,Turkey,NA,2004
+TR,Turkey,NA,2003
+TR,Turkey,NA,2002
+TR,Turkey,NA,2001
+TR,Turkey,NA,2000
+TR,Turkey,NA,1999
+TR,Turkey,NA,1998
+TR,Turkey,NA,1997
+TR,Turkey,NA,1996
+TR,Turkey,NA,1995
+UA,Ukraine,NA,2018
+UA,Ukraine,2.4,2017
+UA,Ukraine,3.8,2016
+UA,Ukraine,6.4,2015
+UA,Ukraine,8.6,2014
+UA,Ukraine,8.3,2013
+UA,Ukraine,9,2012
+UA,Ukraine,7.8,2011
+UA,Ukraine,8.6,2010
+UA,Ukraine,5.8,2009
+UA,Ukraine,7.1,2008
+UA,Ukraine,12.7,2007
+UA,Ukraine,49.7,2006
+UA,Ukraine,55.3,2005
+UA,Ukraine,65.6,2004
+UA,Ukraine,76.2,2003
+UA,Ukraine,83.3,2002
+UA,Ukraine,NA,2001
+UA,Ukraine,NA,2000
+UA,Ukraine,NA,1999
+UA,Ukraine,NA,1998
+UA,Ukraine,NA,1997
+UA,Ukraine,NA,1996
+UA,Ukraine,NA,1995
+UZ,Uzbekistan,NA,2018
+UZ,Uzbekistan,NA,2017
+UZ,Uzbekistan,NA,2016
+UZ,Uzbekistan,NA,2015
+UZ,Uzbekistan,NA,2014
+UZ,Uzbekistan,14.1,2013
+UZ,Uzbekistan,15,2012
+UZ,Uzbekistan,NA,2011
+UZ,Uzbekistan,NA,2010
+UZ,Uzbekistan,NA,2009
+UZ,Uzbekistan,NA,2008
+UZ,Uzbekistan,NA,2007
+UZ,Uzbekistan,NA,2006
+UZ,Uzbekistan,NA,2005
+UZ,Uzbekistan,NA,2004
+UZ,Uzbekistan,NA,2003
+UZ,Uzbekistan,NA,2002
+UZ,Uzbekistan,NA,2001
+UZ,Uzbekistan,NA,2000
+UZ,Uzbekistan,NA,1999
+UZ,Uzbekistan,NA,1998
+UZ,Uzbekistan,NA,1997
+UZ,Uzbekistan,NA,1996
+UZ,Uzbekistan,NA,1995

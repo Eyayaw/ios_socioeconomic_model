@@ -1,0 +1,875 @@
+iso3,country,employment_in_employers,year,indicator,indicator.label,note_source.label
+ALB,Albania,3.21,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,1.75,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,1.44,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,1.57,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,1.89,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,1.53,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,1.74,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,1.94,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ALB,Albania,2.37,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ALB,Albania,2.99,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ARM,Armenia,0.53,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,1.15,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,0.54,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,0.52,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,0.64,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,0.54,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,0.46,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,1.41,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,0.91,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,1.04,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,1.22,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+AUT,Austria,4.83,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.9,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.9,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,5.14,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.94,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,5,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.89,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,5.22,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,5.09,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.26,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.62,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.81,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.88,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.69,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.74,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.78,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.68,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.62,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.49,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.71,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.51,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.55,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.65,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.57,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+AZE,Azerbaijan,7.09,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: End of the year | Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,4.29,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+AZE,Azerbaijan,3.25,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+AZE,Azerbaijan,2.19,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: End of the year | Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,5.05,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: End of the year | Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,2.95,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: End of the year | Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,12.2,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: End of the year | Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,12.09,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: End of the year | Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,10.75,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: End of the year | Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,9.56,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: End of the year | Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,10.08,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: End of the year | Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,9.99,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: End of the year | Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,12.35,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: End of the year | Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,13.14,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,13.16,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Employment definition: Excluding own-use production workers | Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,12.73,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Employment definition: Excluding own-use production workers | Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+BEL,Belgium,1.9,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.85,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.43,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.81,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.46,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.53,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.49,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.04,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.13,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.53,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.65,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.67,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.51,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.2,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.47,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.47,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.13,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.09,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.3,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.11,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.3,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.15,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,4.09,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,3.79,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,2.35,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.61,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.36,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.59,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.81,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.84,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.94,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,4.05,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.66,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.49,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.68,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.63,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.56,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.92,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.81,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.57,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.56,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.65,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,3.72,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+BIH,Bosnia and Herzegovina,5.1,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,4.81,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,4.99,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,4.25,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,4.88,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,4.32,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,5.02,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,4.58,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,4.01,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,4.33,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,5.17,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,4.92,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BLR,Belarus,0.8,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding non-permanent residents | Institutional sector coverage: Private sector only | Age coverage - maximum age: 74 years old
+BLR,Belarus,0.89,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding non-permanent residents | Institutional sector coverage: Private sector only | Age coverage - maximum age: 74 years old
+BLR,Belarus,0.88,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding non-permanent residents
+CYP,Cyprus,6.15,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,6.5,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,5.65,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,5.73,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,6.45,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,7.39,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,6.34,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,6.09,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,5.55,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,5.15,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,4.73,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,4.53,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,4.1,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,4.04,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,3.7,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,2.32,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,1.81,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,2.09,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,2.17,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.79,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+CZE,Czech Republic,4.06,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+CZE,Czech Republic,4.04,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,4.12,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,4.17,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,4.17,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,4.14,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,4.03,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,4.21,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,4.02,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.72,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,4.06,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.74,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.57,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.72,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.65,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.61,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.39,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.36,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.46,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.52,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.14,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.14,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.13,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,5.12,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,5.05,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,5.08,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,5.09,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,5.11,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,5.03,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,5.02,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,4.96,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,5,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,5.17,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,4.91,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,4.88,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,4.84,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,4.77,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,4.83,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,4.86,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,4.77,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,4.76,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,4.72,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,4.64,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,4.62,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,4.43,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,4.36,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,4.25,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,4.26,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.91,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.86,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,4.24,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,4.16,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,4.2,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,4.05,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,4.14,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,4.04,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.46,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.7,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,4,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.85,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.85,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.94,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.62,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.64,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.54,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.45,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.5,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.54,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.42,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.11,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.16,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.88,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.2,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.23,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.19,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,6,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.63,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.41,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.17,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.32,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.36,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.09,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.36,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.42,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.69,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.6,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.5,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.16,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.19,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.09,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.06,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.97,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.96,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.1,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.97,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,2.34,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,2.67,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.59,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,2.97,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,2.21,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,1.82,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,2.59,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.31,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,2.58,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,2.67,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.3,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.39,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.85,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.48,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.95,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.79,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.77,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.42,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.64,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.88,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,4.67,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,4.49,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,3.7,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,3.86,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.55,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,3.75,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.16,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.32,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,3.96,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.11,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.19,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,3.84,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.04,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,3.79,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.07,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.17,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.09,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.02,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.02,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.23,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.23,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.05,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,3.93,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,3.58,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.69,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.66,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.67,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.7,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.58,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.33,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.19,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.07,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.35,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.36,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.35,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.47,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.41,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.63,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.48,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.46,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.44,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.34,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.3,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.24,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.27,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.26,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.18,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.23,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,3.36,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,3.13,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,3.23,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,3.13,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,3.19,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,3.19,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,3.16,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,3.05,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,3.01,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,3.05,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,2.94,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,2.92,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,2.88,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,2.81,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,2.78,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,2.64,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,2.52,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,2.52,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,2.47,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,2.54,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,2.44,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,2.42,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,2.38,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,2.06,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GEO,Georgia,1.52,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,1.15,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,1.5,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,1.53,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,1.54,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,1.17,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,1.09,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,1.07,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,0.76,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,1.14,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,1.15,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding institutional population"
+GEO,Georgia,1.99,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GRC,Greece,6.41,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,6.93,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,7.13,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,7.27,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,7.57,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,7.97,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,8.18,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,7.49,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,7.19,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,7.95,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,7.87,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,8.01,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,8.02,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,8.34,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,8.27,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,7.85,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,7.66,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,7.06,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,6.65,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,6.33,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,6.88,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,7.4,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,7.31,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,7.62,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,5.1,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: November | Population coverage: Including armed forces and/or conscripts
+HRV,Croatia,4.87,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: June | Population coverage: Including armed forces and/or conscripts
+HRV,Croatia,5.25,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Including armed forces and/or conscripts
+HRV,Croatia,5.09,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Including armed forces and/or conscripts
+HRV,Croatia,5.11,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Including armed forces and/or conscripts
+HRV,Croatia,5.04,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Including armed forces and/or conscripts
+HRV,Croatia,5.5,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,4.99,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,4.88,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,5.02,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,5.07,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,5.34,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,5.31,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,4.91,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,4.73,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,4.55,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,4.51,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,4.39,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,5.22,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,5.2,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,5.19,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,4.83,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,4.72,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,2.11,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,2.59,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,2.69,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,2.99,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.07,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.5,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.26,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.13,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.86,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.88,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.46,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.25,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.14,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.34,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.43,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.28,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.26,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.22,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.11,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.1,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,4.94,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,4.63,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,4.32,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.76,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.09,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.43,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,6.17,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.89,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.97,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.99,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.88,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.78,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.78,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.62,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.42,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.53,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.53,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.44,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.11,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,4.84,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,4.74,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,4.65,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,4.63,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,4.58,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,4.62,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,4.54,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,4.32,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,12.73,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,12.81,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,12.71,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,12.39,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,12.62,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,12.81,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,12.22,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,12.16,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,12.3,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,7.27,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,7.18,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,7.12,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,7.04,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,6.92,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,6.75,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,6.7,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,6.67,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,6.62,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,6.91,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,6.6,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,6.62,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,6.48,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,6.16,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,6.06,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+KAZ,Kazakhstan,0.88,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,0.88,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,0.93,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,1.14,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,1.24,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,1.47,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,1.61,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,1.55,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,2.17,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,1.99,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,2.09,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,2.14,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,1.85,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,1.35,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,1.45,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KGZ,Kyrgyzstan,1.59,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,1.36,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,1.04,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,1.36,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,1.13,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,0.6,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+KGZ,Kyrgyzstan,0.62,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+KGZ,Kyrgyzstan,0.73,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+KGZ,Kyrgyzstan,0.8,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+KGZ,Kyrgyzstan,1.35,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+KGZ,Kyrgyzstan,1.44,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+KGZ,Kyrgyzstan,1.79,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+KGZ,Kyrgyzstan,2.48,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+KGZ,Kyrgyzstan,1.57,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Employment definition: Excluding own-use production workers
+LTU,Lithuania,3.53,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.03,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,1.72,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.45,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.13,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.29,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,1.85,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.01,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.21,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.07,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.14,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.42,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.28,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.37,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.2,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.2,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.29,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.29,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.36,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.44,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,2.4,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,6.33,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,6.38,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,5.6,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,5.35,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,5.43,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,6.05,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,4.46,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,5.12,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.49,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.81,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.82,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.65,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.95,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.42,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.82,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,3.22,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.66,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,3.17,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.67,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.43,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,3.58,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,3.91,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,3.57,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.93,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,3.06,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+LVA,Latvia,3.17,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+LVA,Latvia,3.15,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,3.84,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,4.12,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,4.37,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,3.15,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,3.32,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,3.14,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,3.36,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,3.32,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,3.24,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,3.47,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,3.77,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,3.94,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,3.66,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,3.9,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,4.2,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,3.98,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,4.3,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,4.23,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,4.68,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,4.29,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MDA,"Moldova, Republic of",0.56,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+MDA,"Moldova, Republic of",0.53,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+MDA,"Moldova, Republic of",0.49,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+MDA,"Moldova, Republic of",0.76,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+MDA,"Moldova, Republic of",0.57,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+MDA,"Moldova, Republic of",0.64,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+MDA,"Moldova, Republic of",0.66,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+MDA,"Moldova, Republic of",0.97,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+MDA,"Moldova, Republic of",0.9,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+MDA,"Moldova, Republic of",0.96,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+MDA,"Moldova, Republic of",0.88,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 76 years or older, but bounded"
+MDA,"Moldova, Republic of",0.64,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",0.67,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",0.55,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",0.73,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",0.72,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",0.51,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",0.58,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",0.34,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",0.31,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MKD,North Macedonia,2.92,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: April
+MKD,North Macedonia,3.52,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: April
+MKD,North Macedonia,7.97,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: April
+MKD,North Macedonia,4.31,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: April
+MKD,North Macedonia,6.38,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: April
+MKD,North Macedonia,6.84,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: April
+MKD,North Macedonia,7.6,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: April
+MKD,North Macedonia,5.89,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+MKD,North Macedonia,5.74,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+MKD,North Macedonia,5.94,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,5.53,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,4.94,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,5.15,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,5.39,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,5.7,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,4.79,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,4.66,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,3.9,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,4.31,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,4.42,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,4.49,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,4.25,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,3.85,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,3.62,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.15,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.47,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.43,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.51,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.43,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.94,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.46,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.34,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.47,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.28,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.37,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.38,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.42,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.49,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.54,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.52,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,4.29,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,17.34,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: October | Age coverage - maximum age: 64 years old
+MNE,Montenegro,6.39,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,8.83,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,8.6,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,8.31,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,9.03,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,8.72,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,8.58,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,8.32,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,4.02,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.83,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.93,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.96,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.91,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.25,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.34,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.5,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.58,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.73,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,4.06,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,4.11,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,4.07,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.97,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.95,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.91,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.88,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.85,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.87,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.96,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.83,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,4.03,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.98,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.99,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,3.68,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,4.05,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,3.84,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,3.89,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,3.7,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,3.78,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,3.78,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,3.99,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,3.95,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,4.03,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,4.04,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,4.06,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,4.12,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,4.23,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,4.22,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,4.17,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,4.2,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,4.13,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,3.93,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,3.95,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,4.04,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,4.05,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,6.35,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,6.56,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,6.12,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,6.21,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,6,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,6.21,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,6.25,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,6.28,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,6.35,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,6.41,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,5.86,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,5.44,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,5.57,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,5.54,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,5.42,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,5.17,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,5.16,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,5.05,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,5.23,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,5.2,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,4.8,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,4.77,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,4.75,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,4.84,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.41,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: March | Age coverage - minimum age: 14 years old
+ROU,Romania,1.29,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),NA
+ROU,Romania,1.29,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.21,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,0.91,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.07,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.19,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.4,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.31,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.57,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.69,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.61,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.46,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.33,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.42,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.32,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.19,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.24,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.27,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.14,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.12,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.03,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.05,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,1.05,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+RUS,Russian Federation,0.39,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Age coverage - maximum age: 72 years old
+RUS,Russian Federation,0.4,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: March | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,1.23,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Age coverage - maximum age: 72 years old
+RUS,Russian Federation,1.16,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: October | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,0.87,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Age coverage - maximum age: 72 years old
+RUS,Russian Federation,0.92,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Age coverage - maximum age: 72 years old
+RUS,Russian Federation,1.34,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Age coverage - maximum age: 72 years old
+RUS,Russian Federation,1.3,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Age coverage - maximum age: 72 years old
+RUS,Russian Federation,1.15,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Age coverage - maximum age: 72 years old
+RUS,Russian Federation,1.3,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Age coverage - maximum age: 72 years old
+RUS,Russian Federation,1.28,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Age coverage - maximum age: 72 years old
+RUS,Russian Federation,1.22,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Age coverage - maximum age: 72 years old
+RUS,Russian Federation,1.39,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Age coverage - maximum age: 72 years old
+RUS,Russian Federation,1.49,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Age coverage - maximum age: 72 years old
+RUS,Russian Federation,1.34,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding institutional population | Age coverage - maximum age: 72 years old"
+RUS,Russian Federation,1.27,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,1.23,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,1.17,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,1.28,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,1.33,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,1.29,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,1.28,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,1.35,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,1.45,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,4.96,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: October
+SRB,Serbia,4.23,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: October
+SRB,Serbia,4.5,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: October
+SRB,Serbia,4.18,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: October
+SRB,Serbia,4.36,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,3.56,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,3.62,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,3.86,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,3.89,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,3.78,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,3.57,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,3.77,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,3.34,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,3.31,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,3.59,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SVK,Slovakia,1.98,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+SVK,Slovakia,1.95,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+SVK,Slovakia,2.3,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+SVK,Slovakia,2.53,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,2.32,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,2.53,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,2.69,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,2.34,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,2.67,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.41,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.23,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.1,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.12,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.2,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.42,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.57,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.51,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.03,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.13,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.23,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.12,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.19,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.2,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,2.92,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.63,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: May
+SVN,Slovenia,3.45,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.12,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.54,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.67,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.68,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.74,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.55,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.2,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.46,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.27,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.58,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.31,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.17,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.35,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.76,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.59,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.41,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.26,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.48,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.55,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.67,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.82,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,3.79,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.88,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,4.12,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,4.18,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,4.05,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,4.11,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.94,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.73,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.75,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.75,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.65,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.92,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.9,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.91,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.77,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.76,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.92,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.67,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.77,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.81,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.61,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.58,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.64,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.6,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.52,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+TJK,Tajikistan,0.41,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Age coverage - maximum age: 75 years old
+TUR,Turkey,5.14,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,5.29,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,5.55,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,4.97,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,4.68,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,5.13,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,5.68,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,5.74,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,5.9,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,5.68,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,5.32,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,5.16,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,4.99,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,4.63,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,4.53,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,4.42,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,4.55,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,4.54,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,4.46,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),Repository: Eurostat special tabulation
+UKR,Ukraine,10.22,1995,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: October | Age coverage - maximum age: 70 years old
+UKR,Ukraine,10.88,1996,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: October | Age coverage - maximum age: 70 years old
+UKR,Ukraine,16.01,1997,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: October | Age coverage - maximum age: 70 years old
+UKR,Ukraine,17.54,1998,EMP_TEER_NOC_RT,Share of employers in total employment (%),Data reference period: November | Age coverage - maximum age: 70 years old
+UKR,Ukraine,7.81,1999,EMP_TEER_NOC_RT,Share of employers in total employment (%),Age coverage - maximum age: 70 years old
+UKR,Ukraine,8.95,2000,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,9.63,2001,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,10.29,2002,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,10.93,2003,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,15.88,2004,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,17.72,2005,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,18.58,2006,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,18.93,2007,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,17.65,2008,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,1.01,2009,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,1.03,2010,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,1.07,2011,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,1.04,2012,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,1.02,2013,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,1.25,2014,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,1.23,2015,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,1.16,2016,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,0.88,2017,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Employment definition: Including subsistence workers | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,1.05,2018,EMP_TEER_NOC_RT,Share of employers in total employment (%),"Employment definition: Including subsistence workers | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"

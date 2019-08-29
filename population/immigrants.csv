@@ -1,0 +1,489 @@
+iso3,country,immigrants,year,time_period
+ARM,Armenia,4278,1995,1995
+AZE,Azerbaijan,6222,1995,NA
+KAZ,Kazakhstan,71137,1995,NA
+KGZ,Kyrgyzstan,18368,1995,NA
+TJK,Tajikistan,5484,1995,NA
+TKM,Turkmenistan,7456,1995,NA
+UZB,Uzbekistan,33590,1995,NA
+BGR,Bulgaria,2400,1995,NA
+BLR,Belarus,34866,1995,NA
+CZE,Czech Republic,10540,1995,NA
+HRV,Croatia,42026,1995,NA
+HUN,Hungary,15435,1995,NA
+LTU,Lithuania,2020,1995,NA
+LVA,Latvia,2799,1995,NA
+MDA,Republic of Moldova,9640,1995,NA
+MKD,The Former Yugoslav Republic of Macedonia,2088,1995,NA
+POL,Poland,8121,1995,NA
+ROU,Romania,4458,1995,NA
+RUS,Russian Federation,866857,1995,NA
+SVK,Slovakia,3055,1995,NA
+SVN,Slovenia,5879,1995,NA
+UKR,Ukraine,182763,1995,NA
+ARM,Armenia,2706,1996,1996
+AZE,Azerbaijan,5781,1996,NA
+KAZ,Kazakhstan,53874,1996,NA
+KGZ,Kyrgyzstan,15910,1996,NA
+TJK,Tajikistan,3691,1996,NA
+TKM,Turkmenistan,4407,1996,NA
+UZB,Uzbekistan,16974,1996,NA
+BGR,Bulgaria,1562,1996,NA
+BLR,Belarus,31902,1996,NA
+CZE,Czech Republic,10857,1996,NA
+HRV,Croatia,44596,1996,NA
+HUN,Hungary,14984,1996,NA
+LTU,Lithuania,3025,1996,NA
+LVA,Latvia,2747,1996,NA
+MDA,Republic of Moldova,8958,1996,NA
+MKD,The Former Yugoslav Republic of Macedonia,1489,1996,NA
+POL,Poland,8186,1996,NA
+ROU,Romania,2053,1996,NA
+RUS,Russian Federation,647026,1996,NA
+SVK,Slovakia,2477,1996,NA
+SVN,Slovenia,9495,1996,NA
+UKR,Ukraine,129538,1996,NA
+ARM,Armenia,2672,1997,1997
+AZE,Azerbaijan,7528,1997,NA
+KAZ,Kazakhstan,38067,1997,NA
+KGZ,Kyrgyzstan,12799,1997,NA
+TJK,Tajikistan,3311,1997,NA
+TKM,Turkmenistan,4079,1997,NA
+UZB,Uzbekistan,5321,1997,NA
+BGR,Bulgaria,1795,1997,NA
+BLR,Belarus,31417,1997,NA
+CZE,Czech Republic,12880,1997,NA
+HRV,Croatia,52343,1997,NA
+HUN,Hungary,14442,1997,NA
+LTU,Lithuania,2536,1997,NA
+LVA,Latvia,2913,1997,NA
+MDA,Republic of Moldova,7968,1997,NA
+MKD,The Former Yugoslav Republic of Macedonia,1295,1997,NA
+POL,Poland,8426,1997,NA
+ROU,Romania,6600,1997,NA
+RUS,Russian Federation,597651,1997,NA
+SVK,Slovakia,2303,1997,NA
+SVN,Slovenia,7889,1997,NA
+UKR,Ukraine,129100,1997,NA
+ARM,Armenia,2215,1998,1998
+AZE,Azerbaijan,5404,1998,NA
+KAZ,Kazakhstan,40624,1998,NA
+KGZ,Kyrgyzstan,10219,1998,NA
+TJK,Tajikistan,2743,1998,NA
+TKM,Turkmenistan,4172,1998,NA
+UZB,Uzbekistan,5284,1998,NA
+BLR,Belarus,33182,1998,NA
+CZE,Czech Republic,10729,1998,NA
+HRV,Croatia,51784,1998,NA
+HUN,Hungary,17269,1998,NA
+LTU,Lithuania,2706,1998,NA
+LVA,Latvia,3123,1998,NA
+MDA,Republic of Moldova,6349,1998,NA
+MKD,The Former Yugoslav Republic of Macedonia,1057,1998,NA
+POL,Poland,8916,1998,NA
+ROU,Romania,11907,1998,NA
+RUS,Russian Federation,513551,1998,NA
+SVK,Slovakia,2052,1998,NA
+SVN,Slovenia,4603,1998,NA
+UKR,Ukraine,71810,1998,NA
+ARM,Armenia,1725,1999,1999
+AZE,Azerbaijan,4806,1999,NA
+KAZ,Kazakhstan,41320,1999,NA
+KGZ,Kyrgyzstan,7879,1999,NA
+TJK,Tajikistan,1778,1999,NA
+TKM,Turkmenistan,3941,1999,NA
+UZB,Uzbekistan,8945,1999,NA
+BLR,Belarus,30830,1999,NA
+CZE,Czech Republic,9910,1999,NA
+HRV,Croatia,32910,1999,NA
+HUN,Hungary,21422,1999,NA
+LTU,Lithuania,2679,1999,NA
+LVA,Latvia,1813,1999,NA
+MDA,Republic of Moldova,4399,1999,NA
+MKD,The Former Yugoslav Republic of Macedonia,1118,1999,NA
+POL,Poland,7525,1999,NA
+ROU,Romania,10078,1999,NA
+RUS,Russian Federation,379726,1999,NA
+SVK,Slovakia,2072,1999,NA
+SVN,Slovenia,4941,1999,NA
+UKR,Ukraine,65800,1999,NA
+ARM,Armenia,1598,2000,2000
+AZE,Azerbaijan,4361,2000,NA
+KAZ,Kazakhstan,47442,2000,NA
+KGZ,Kyrgyzstan,5349,2000,NA
+TJK,Tajikistan,1719,2000,NA
+TKM,Turkmenistan,1195,2000,NA
+UZB,Uzbekistan,5418,2000,NA
+BLR,Belarus,25943,2000,NA
+CZE,Czech Republic,7802,2000,NA
+EST,Estonia,35,2000,NA
+HRV,Croatia,29385,2000,NA
+HUN,Hungary,20184,2000,NA
+LTU,Lithuania,1510,2000,NA
+LVA,Latvia,6483,2000,NA
+MDA,Republic of Moldova,2748,2000,NA
+MKD,The Former Yugoslav Republic of Macedonia,1199,2000,NA
+POL,Poland,7331,2000,NA
+ROU,Romania,11024,2000,NA
+RUS,Russian Federation,359330,2000,NA
+SVK,Slovakia,2274,2000,NA
+SVN,Slovenia,6185,2000,NA
+UKR,Ukraine,53700,2000,NA
+ARM,Armenia,1574,2001,2001
+AZE,Azerbaijan,2574,2001,NA
+KAZ,Kazakhstan,53548,2001,NA
+KGZ,Kyrgyzstan,5048,2001,NA
+TJK,Tajikistan,1681,2001,NA
+TKM,Turkmenistan,778,2001,NA
+UZB,Uzbekistan,7155,2001,NA
+BLR,Belarus,23355,2001,NA
+CZE,Czech Republic,12918,2001,NA
+EST,Estonia,241,2001,NA
+HRV,Croatia,24415,2001,NA
+HUN,Hungary,20308,2001,NA
+LTU,Lithuania,4694,2001,NA
+LVA,Latvia,5376,2001,NA
+MDA,Republic of Moldova,2755,2001,NA
+MKD,The Former Yugoslav Republic of Macedonia,1185,2001,NA
+POL,Poland,6625,2001,NA
+ROU,Romania,10350,2001,NA
+RUS,Russian Federation,193450,2001,NA
+SVK,Slovakia,2023,2001,NA
+SVN,Slovenia,7803,2001,NA
+UKR,Ukraine,45800,2001,NA
+ARM,Armenia,1715,2002,2002
+AZE,Azerbaijan,1257,2002,NA
+KAZ,Kazakhstan,58211,2002,NA
+KGZ,Kyrgyzstan,4893,2002,NA
+TJK,Tajikistan,1454,2002,NA
+TKM,Turkmenistan,440,2002,NA
+UZB,Uzbekistan,7420,2002,NA
+BLR,Belarus,18939,2002,NA
+CZE,Czech Republic,44679,2002,NA
+EST,Estonia,575,2002,NA
+HRV,Croatia,20365,2002,NA
+HUN,Hungary,17972,2002,NA
+LTU,Lithuania,5110,2002,NA
+LVA,Latvia,6642,2002,NA
+MDA,Republic of Moldova,2911,2002,NA
+MKD,The Former Yugoslav Republic of Macedonia,1257,2002,NA
+POL,Poland,6587,2002,NA
+ROU,Romania,6582,2002,NA
+RUS,Russian Federation,184612,2002,NA
+SVK,Slovakia,2312,2002,NA
+SVN,Slovenia,9134,2002,NA
+UKR,Ukraine,42473,2002,NA
+ARM,Armenia,1927,2003,2003
+AZE,Azerbaijan,2500,2003,NA
+KAZ,Kazakhstan,65584,2003,NA
+KGZ,Kyrgyzstan,4483,2003,NA
+TJK,Tajikistan,1426,2003,NA
+TKM,Turkmenistan,378,2003,NA
+UZB,Uzbekistan,7132,2003,NA
+BLR,Belarus,18146,2003,NA
+CZE,Czech Republic,60015,2003,NA
+EST,Estonia,967,2003,NA
+HRV,Croatia,18455,2003,NA
+HUN,Hungary,19365,2003,NA
+LTU,Lithuania,4728,2003,NA
+LVA,Latvia,4063,2003,NA
+MDA,Republic of Moldova,2905,2003,NA
+MKD,The Former Yugoslav Republic of Macedonia,1145,2003,NA
+POL,Poland,7048,2003,NA
+ROU,Romania,91726,2003,NA
+RUS,Russian Federation,129144,2003,NA
+SVK,Slovakia,2603,2003,NA
+SVN,Slovenia,9279,2003,NA
+UKR,Ukraine,39489,2003,NA
+ARM,Armenia,1514,2004,2004
+AZE,Azerbaijan,2407,2004,NA
+KAZ,Kazakhstan,68319,2004,NA
+KGZ,Kyrgyzstan,3284,2004,NA
+TJK,Tajikistan,1073,2004,NA
+TKM,Turkmenistan,400,2004,NA
+UZB,Uzbekistan,6729,2004,NA
+BLR,Belarus,14642,2004,NA
+CZE,Czech Republic,53453,2004,NA
+EST,Estonia,1097,2004,NA
+HRV,Croatia,18383,2004,NA
+HUN,Hungary,22164,2004,NA
+LTU,Lithuania,5553,2004,NA
+LVA,Latvia,4844,2004,NA
+MDA,Republic of Moldova,3522,2004,NA
+MKD,The Former Yugoslav Republic of Macedonia,1381,2004,NA
+POL,Poland,9495,2004,NA
+ROU,Romania,98329,2004,NA
+RUS,Russian Federation,119157,2004,NA
+SVK,Slovakia,4460,2004,NA
+SVN,Slovenia,10171,2004,NA
+UKR,Ukraine,38567,2004,NA
+ARM,Armenia,1497,2005,2005
+AZE,Azerbaijan,2013,2005,NA
+KAZ,Kazakhstan,74807,2005,NA
+KGZ,Kyrgyzstan,3761,2005,NA
+TJK,Tajikistan,1120,2005,NA
+TKM,Turkmenistan,472,2005,NA
+UZB,Uzbekistan,7179,2005,NA
+BLR,Belarus,13031,2005,NA
+CZE,Czech Republic,60294,2005,NA
+EST,Estonia,1436,2005,NA
+HRV,Croatia,14230,2005,NA
+HUN,Hungary,25582,2005,NA
+LTU,Lithuania,6789,2005,NA
+LVA,Latvia,6691,2005,NA
+MDA,Republic of Moldova,3187,2005,NA
+MKD,The Former Yugoslav Republic of Macedonia,1491,2005,NA
+POL,Poland,9364,2005,NA
+ROU,Romania,91040,2005,NA
+RUS,Russian Federation,177230,2005,NA
+SVK,Slovakia,5276,2005,NA
+SVN,Slovenia,15041,2005,NA
+UKR,Ukraine,39580,2005,NA
+ARM,Armenia,1335,2006,2006
+AZE,Azerbaijan,2232,2006,NA
+KAZ,Kazakhstan,66731,2006,NA
+KGZ,Kyrgyzstan,3420,2006,NA
+TJK,Tajikistan,1042,2006,NA
+TKM,Turkmenistan,473,2006,NA
+UZB,Uzbekistan,6418,2006,NA
+BLR,Belarus,14124,2006,NA
+CZE,Czech Republic,68183,2006,NA
+EST,Estonia,2234,2006,NA
+HRV,Croatia,14978,2006,NA
+HUN,Hungary,23569,2006,NA
+LTU,Lithuania,7745,2006,NA
+LVA,Latvia,8212,2006,NA
+MDA,Republic of Moldova,3653,2006,NA
+MKD,The Former Yugoslav Republic of Macedonia,1574,2006,NA
+POL,Poland,10802,2006,NA
+ROU,Romania,100537,2006,NA
+RUS,Russian Federation,186380,2006,NA
+SVK,Slovakia,5589,2006,NA
+SVN,Slovenia,20016,2006,NA
+UKR,Ukraine,44227,2006,NA
+ARM,Armenia,1112,2007,2007
+AZE,Azerbaijan,1954,2007,NA
+KAZ,Kazakhstan,53397,2007,NA
+KGZ,Kyrgyzstan,3960,2007,NA
+TJK,Tajikistan,1289,2007,NA
+UZB,Uzbekistan,6938,2007,NA
+BGR,Bulgaria,1561,2007,NA
+BLR,Belarus,14155,2007,NA
+CZE,Czech Republic,104445,2007,NA
+EST,Estonia,3741,2007,NA
+HRV,Croatia,14622,2007,NA
+HUN,Hungary,22607,2007,NA
+LTU,Lithuania,8609,2007,NA
+LVA,Latvia,7517,2007,NA
+MDA,Republic of Moldova,3833,2007,NA
+MKD,The Former Yugoslav Republic of Macedonia,1227,2007,NA
+POL,Poland,14995,2007,NA
+ROU,Romania,86267,2007,NA
+RUS,Russian Federation,286956,2007,NA
+SVK,Slovakia,8624,2007,NA
+SVN,Slovenia,29193,2007,NA
+UKR,Ukraine,46507,2007,NA
+MNE,Montenegro,1463,2007,NA
+ARM,Armenia,864,2008,2008
+AZE,Azerbaijan,3597,2008,NA
+KAZ,Kazakhstan,46113,2008,NA
+KGZ,Kyrgyzstan,3497,2008,NA
+TJK,Tajikistan,1369,2008,NA
+UZB,Uzbekistan,5484,2008,NA
+BGR,Bulgaria,1236,2008,NA
+BLR,Belarus,17413,2008,NA
+CZE,Czech Republic,77817,2008,NA
+EST,Estonia,3671,2008,NA
+HRV,Croatia,14541,2008,NA
+HUN,Hungary,35547,2008,NA
+LTU,Lithuania,9297,2008,NA
+LVA,Latvia,4678,2008,NA
+MDA,Republic of Moldova,4776,2008,NA
+MKD,The Former Yugoslav Republic of Macedonia,776,2008,NA
+POL,Poland,15275,2008,NA
+ROU,Romania,138929,2008,NA
+RUS,Russian Federation,281614,2008,NA
+SVK,Slovakia,8765,2008,NA
+SVN,Slovenia,30693,2008,NA
+UKR,Ukraine,37323,2008,NA
+ARM,Armenia,861,2009,2009
+AZE,Azerbaijan,2292,2009,NA
+KAZ,Kazakhstan,41511,2009,NA
+KGZ,Kyrgyzstan,3829,2009,NA
+TJK,Tajikistan,1510,2009,NA
+UZB,Uzbekistan,6429,2009,NA
+BGR,Bulgaria,3310,2009,NA
+BLR,Belarus,19892,2009,NA
+CZE,Czech Republic,39973,2009,NA
+EST,Estonia,3884,2009,NA
+HRV,Croatia,8468,2009,NA
+HUN,Hungary,25582,2009,NA
+LTU,Lithuania,6487,2009,NA
+LVA,Latvia,3731,2009,NA
+MDA,Republic of Moldova,4232,2009,NA
+MKD,The Former Yugoslav Republic of Macedonia,1259,2009,NA
+POL,Poland,56359,2009,NA
+ROU,Romania,135844,2009,NA
+RUS,Russian Federation,279907,2009,NA
+SVK,Slovakia,6346,2009,NA
+SVN,Slovenia,30296,2009,NA
+UKR,Ukraine,32917,2009,NA
+ARM,Armenia,905,2010,2010
+AZE,Azerbaijan,2228,2010,NA
+KAZ,Kazakhstan,42057,2010,NA
+KGZ,Kyrgyzstan,3903,2010,NA
+TJK,Tajikistan,1352,2010,NA
+UZB,Uzbekistan,4665,2010,NA
+BGR,Bulgaria,3518,2010,NA
+BLR,Belarus,17169,2010,NA
+CZE,Czech Republic,30515,2010,NA
+EST,Estonia,2810,2010,NA
+HRV,Croatia,4985,2010,NA
+HUN,Hungary,23884,2010,NA
+LTU,Lithuania,5213,2010,NA
+LVA,Latvia,4011,2010,NA
+MDA,Republic of Moldova,4190,2010,NA
+MKD,The Former Yugoslav Republic of Macedonia,1659,2010,NA
+POL,Poland,54499,2010,NA
+ROU,Romania,149885,2010,NA
+RUS,Russian Federation,191656,2010,NA
+SVK,Slovakia,5272,2010,NA
+SVN,Slovenia,15416,2010,NA
+UKR,Ukraine,30810,2010,NA
+ARM,Armenia,1280,2011,2011
+AZE,Azerbaijan,2181,2011,NA
+KAZ,Kazakhstan,38016,2011,NA
+KGZ,Kyrgyzstan,6337,2011,NA
+TJK,Tajikistan,930,2011,NA
+UZB,Uzbekistan,3232,2011,NA
+ALB,Albania,36397,2011,NA
+BGR,Bulgaria,4722,2011,NA
+BLR,Belarus,17510,2011,NA
+CZE,Czech Republic,22590,2011,NA
+EST,Estonia,3709,2011,NA
+HRV,Croatia,8534,2011,NA
+HUN,Hungary,22514,2011,NA
+LTU,Lithuania,15685,2011,NA
+LVA,Latvia,10234,2011,NA
+MDA,Republic of Moldova,3358,2011,NA
+MKD,The Former Yugoslav Republic of Macedonia,2096,2011,NA
+POL,Poland,45670,2011,NA
+ROU,Romania,147685,2011,NA
+RUS,Russian Federation,356535,2011,NA
+SVK,Slovakia,4829,2011,NA
+SVN,Slovenia,14083,2011,NA
+UKR,Ukraine,31684,2011,NA
+AZE,Azerbaijan,2172,2012,2012
+GEO,Georgia,69063,2012,NA
+KAZ,Kazakhstan,28296,2012,NA
+KGZ,Kyrgyzstan,5532,2012,NA
+TJK,Tajikistan,673,2012,NA
+UZB,Uzbekistan,4495,2012,NA
+ALB,Albania,32534,2012,NA
+BGR,Bulgaria,14103,2012,NA
+BLR,Belarus,18040,2012,NA
+CZE,Czech Republic,30298,2012,NA
+EST,Estonia,2639,2012,NA
+HRV,Croatia,8959,2012,NA
+HUN,Hungary,20340,2012,NA
+LTU,Lithuania,19843,2012,NA
+LVA,Latvia,13303,2012,NA
+MDA,Republic of Moldova,3471,2012,NA
+MKD,The Former Yugoslav Republic of Macedonia,2468,2012,NA
+POL,Poland,49183,2012,NA
+ROU,Romania,167266,2012,NA
+RUS,Russian Federation,417681,2012,NA
+SVK,Slovakia,5419,2012,NA
+SVN,Slovenia,15022,2012,NA
+UKR,Ukraine,76361,2012,NA
+AZE,Azerbaijan,3129,2013,2013
+GEO,Georgia,92458,2013,NA
+KAZ,Kazakhstan,24105,2013,NA
+KGZ,Kyrgyzstan,4349,2013,NA
+TJK,Tajikistan,679,2013,NA
+UZB,Uzbekistan,4023,2013,NA
+ALB,Albania,28624,2013,NA
+BGR,Bulgaria,18570,2013,NA
+BLR,Belarus,19435,2013,NA
+CZE,Czech Republic,29579,2013,NA
+EST,Estonia,4098,2013,NA
+HRV,Croatia,10378,2013,NA
+HUN,Hungary,21250,2013,NA
+LTU,Lithuania,22011,2013,NA
+LVA,Latvia,8299,2013,NA
+MDA,Republic of Moldova,3672,2013,NA
+MKD,The Former Yugoslav Republic of Macedonia,2430,2013,NA
+POL,Poland,43404,2013,NA
+ROU,Romania,153646,2013,NA
+RUS,Russian Federation,482241,2013,NA
+SVK,Slovakia,5149,2013,NA
+SVN,Slovenia,13871,2013,NA
+UKR,Ukraine,54100,2013,NA
+AZE,Azerbaijan,1859,2014,2014
+GEO,Georgia,82161,2014,NA
+KAZ,Kazakhstan,16784,2014,NA
+KGZ,Kyrgyzstan,3928,2014,NA
+TJK,Tajikistan,594,2014,NA
+UZB,Uzbekistan,3666,2014,NA
+ALB,Albania,24740,2014,NA
+BGR,Bulgaria,26615,2014,NA
+BLR,Belarus,24941,2014,NA
+CZE,Czech Republic,41625,2014,NA
+EST,Estonia,3904,2014,NA
+HRV,Croatia,10638,2014,NA
+HUN,Hungary,26004,2014,NA
+LTU,Lithuania,24294,2014,NA
+LVA,Latvia,10365,2014,NA
+MDA,Republic of Moldova,4627,2014,NA
+MKD,The Former Yugoslav Republic of Macedonia,2538,2014,NA
+POL,Poland,46129,2014,NA
+ROU,Romania,136035,2014,NA
+RUS,Russian Federation,590824,2014,NA
+SVK,Slovakia,5357,2014,NA
+SVN,Slovenia,13846,2014,NA
+UKR,Ukraine,42698,2014,NA
+AZE,Azerbaijan,2649,2015,2015
+GEO,Georgia,92557,2015,NA
+KAZ,Kazakhstan,16581,2015,NA
+KGZ,Kyrgyzstan,3559,2015,NA
+TJK,Tajikistan,580,2015,NA
+UZB,Uzbekistan,2466,2015,NA
+ALB,Albania,20843,2015,NA
+BGR,Bulgaria,25223,2015,NA
+BLR,Belarus,28349,2015,NA
+CZE,Czech Republic,34922,2015,NA
+EST,Estonia,15413,2015,NA
+HRV,Croatia,11706,2015,NA
+HUN,Hungary,25787,2015,NA
+LTU,Lithuania,22130,2015,NA
+LVA,Latvia,9479,2015,NA
+MDA,Republic of Moldova,4953,2015,NA
+MKD,The Former Yugoslav Republic of Macedonia,3876,2015,NA
+POL,Poland,49809,2015,NA
+ROU,Romania,132795,2015,NA
+RUS,Russian Federation,598617,2015,NA
+SVK,Slovakia,6997,2015,NA
+SVN,Slovenia,15420,2015,NA
+UKR,Ukraine,30659,2015,NA
+AZE,Azerbaijan,3233,2016,2016
+GEO,Georgia,90228,2016,NA
+KAZ,Kazakhstan,13755,2016,NA
+KGZ,Kyrgyzstan,3160,2016,NA
+TJK,Tajikistan,455,2016,NA
+UZB,Uzbekistan,1821,2016,NA
+ALB,Albania,23060,2016,NA
+BGR,Bulgaria,21241,2016,NA
+BLR,Belarus,21038,2016,NA
+CZE,Czech Republic,37503,2016,NA
+EST,Estonia,14822,2016,NA
+HRV,Croatia,13985,2016,NA
+HUN,Hungary,23803,2016,NA
+LTU,Lithuania,20162,2016,NA
+LVA,Latvia,8345,2016,NA
+MDA,Republic of Moldova,4080,2016,NA
+MKD,The Former Yugoslav Republic of Macedonia,2764,2016,NA
+POL,Poland,55973,2016,NA
+ROU,Romania,133248,2016,NA
+RUS,Russian Federation,575158,2016,NA
+SVK,Slovakia,7686,2016,NA
+SVN,Slovenia,16623,2016,NA

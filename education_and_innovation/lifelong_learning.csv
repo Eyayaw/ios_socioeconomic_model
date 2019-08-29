@@ -1,0 +1,913 @@
+country,year,lifelong_learning
+Austria,1995,7.7
+Austria,1996,7.9
+Austria,1997,7.8
+Austria,1998,NA
+Austria,1999,9.1
+Austria,2000,8.3
+Austria,2001,8.2
+Austria,2002,7.5
+Austria,2003,8.6
+Austria,2004,11.6
+Austria,2005,12.9
+Austria,2006,13.2
+Austria,2007,12.9
+Austria,2008,13.3
+Austria,2009,13.9
+Austria,2010,13.8
+Austria,2011,13.5
+Austria,2012,14.2
+Austria,2013,14.1
+Austria,2014,14.3
+Austria,2015,14.4
+Austria,2016,14.9
+Austria,2017,15.8
+Austria,2018,15.1
+Belgium,1995,2.8
+Belgium,1996,2.9
+Belgium,1997,3
+Belgium,1998,4.4
+Belgium,1999,6.9
+Belgium,2000,6.2
+Belgium,2001,6.4
+Belgium,2002,6
+Belgium,2003,7
+Belgium,2004,8.6
+Belgium,2005,8.3
+Belgium,2006,7.8
+Belgium,2007,7.4
+Belgium,2008,7.1
+Belgium,2009,7.1
+Belgium,2010,7.4
+Belgium,2011,7.4
+Belgium,2012,6.9
+Belgium,2013,6.9
+Belgium,2014,7.4
+Belgium,2015,6.9
+Belgium,2016,7
+Belgium,2017,8.5
+Belgium,2018,8.5
+Bulgaria,1995,NA
+Bulgaria,1996,NA
+Bulgaria,1997,NA
+Bulgaria,1998,NA
+Bulgaria,1999,NA
+Bulgaria,2000,NA
+Bulgaria,2001,1.4
+Bulgaria,2002,1.2
+Bulgaria,2003,1.3
+Bulgaria,2004,1.3
+Bulgaria,2005,1.3
+Bulgaria,2006,1.6
+Bulgaria,2007,1.6
+Bulgaria,2008,1.6
+Bulgaria,2009,1.6
+Bulgaria,2010,1.6
+Bulgaria,2011,1.6
+Bulgaria,2012,1.7
+Bulgaria,2013,2
+Bulgaria,2014,2.1
+Bulgaria,2015,2
+Bulgaria,2016,2.2
+Bulgaria,2017,2.3
+Bulgaria,2018,2.5
+Switzerland,1995,NA
+Switzerland,1996,29.5
+Switzerland,1997,29.8
+Switzerland,1998,33.3
+Switzerland,1999,31.1
+Switzerland,2000,34.7
+Switzerland,2001,37.3
+Switzerland,2002,35.8
+Switzerland,2003,24.7
+Switzerland,2004,28.6
+Switzerland,2005,27
+Switzerland,2006,22.5
+Switzerland,2007,26.8
+Switzerland,2008,27.9
+Switzerland,2009,23.9
+Switzerland,2010,29.7
+Switzerland,2011,28.9
+Switzerland,2012,29.1
+Switzerland,2013,29.3
+Switzerland,2014,30.5
+Switzerland,2015,30.8
+Switzerland,2016,31.4
+Switzerland,2017,31.2
+Switzerland,2018,31.6
+Cyprus,1995,NA
+Cyprus,1996,NA
+Cyprus,1997,NA
+Cyprus,1998,NA
+Cyprus,1999,3
+Cyprus,2000,3.1
+Cyprus,2001,3.4
+Cyprus,2002,3.7
+Cyprus,2003,7.9
+Cyprus,2004,9.3
+Cyprus,2005,5.9
+Cyprus,2006,7.4
+Cyprus,2007,8.7
+Cyprus,2008,8.8
+Cyprus,2009,8.3
+Cyprus,2010,8.1
+Cyprus,2011,7.8
+Cyprus,2012,7.7
+Cyprus,2013,7.2
+Cyprus,2014,7.1
+Cyprus,2015,7.5
+Cyprus,2016,6.9
+Cyprus,2017,6.9
+Cyprus,2018,6.7
+Czechia,1995,NA
+Czechia,1996,NA
+Czechia,1997,NA
+Czechia,1998,NA
+Czechia,1999,NA
+Czechia,2000,NA
+Czechia,2001,NA
+Czechia,2002,5.6
+Czechia,2003,5.1
+Czechia,2004,5.8
+Czechia,2005,5.6
+Czechia,2006,5.8
+Czechia,2007,6
+Czechia,2008,8
+Czechia,2009,7.1
+Czechia,2010,7.8
+Czechia,2011,11.6
+Czechia,2012,11.1
+Czechia,2013,10
+Czechia,2014,9.6
+Czechia,2015,8.5
+Czechia,2016,8.8
+Czechia,2017,9.8
+Czechia,2018,8.5
+Germany (until 1990 former territory of the FRG),1995,NA
+Germany (until 1990 former territory of the FRG),1996,5.7
+Germany (until 1990 former territory of the FRG),1997,5.4
+Germany (until 1990 former territory of the FRG),1998,5.3
+Germany (until 1990 former territory of the FRG),1999,5.5
+Germany (until 1990 former territory of the FRG),2000,5.2
+Germany (until 1990 former territory of the FRG),2001,5.2
+Germany (until 1990 former territory of the FRG),2002,5.8
+Germany (until 1990 former territory of the FRG),2003,6
+Germany (until 1990 former territory of the FRG),2004,7.4
+Germany (until 1990 former territory of the FRG),2005,7.7
+Germany (until 1990 former territory of the FRG),2006,7.5
+Germany (until 1990 former territory of the FRG),2007,7.8
+Germany (until 1990 former territory of the FRG),2008,8.1
+Germany (until 1990 former territory of the FRG),2009,8
+Germany (until 1990 former territory of the FRG),2010,7.8
+Germany (until 1990 former territory of the FRG),2011,7.9
+Germany (until 1990 former territory of the FRG),2012,7.9
+Germany (until 1990 former territory of the FRG),2013,7.9
+Germany (until 1990 former territory of the FRG),2014,8
+Germany (until 1990 former territory of the FRG),2015,8.1
+Germany (until 1990 former territory of the FRG),2016,8.5
+Germany (until 1990 former territory of the FRG),2017,8.4
+Germany (until 1990 former territory of the FRG),2018,8.2
+Denmark,1995,16.8
+Denmark,1996,18
+Denmark,1997,18.9
+Denmark,1998,19.8
+Denmark,1999,19.8
+Denmark,2000,19.4
+Denmark,2001,18.4
+Denmark,2002,18
+Denmark,2003,24.2
+Denmark,2004,25.6
+Denmark,2005,27.4
+Denmark,2006,29.2
+Denmark,2007,29.1
+Denmark,2008,30
+Denmark,2009,31.3
+Denmark,2010,32.6
+Denmark,2011,32.3
+Denmark,2012,31.6
+Denmark,2013,31.4
+Denmark,2014,31.9
+Denmark,2015,31.3
+Denmark,2016,27.7
+Denmark,2017,26.8
+Denmark,2018,23.5
+Euro area (19 countries),1995,NA
+Euro area (19 countries),1996,NA
+Euro area (19 countries),1997,NA
+Euro area (19 countries),1998,NA
+Euro area (19 countries),1999,NA
+Euro area (19 countries),2000,5.3
+Euro area (19 countries),2001,5.3
+Euro area (19 countries),2002,5.4
+Euro area (19 countries),2003,6.4
+Euro area (19 countries),2004,7.1
+Euro area (19 countries),2005,7.9
+Euro area (19 countries),2006,8
+Euro area (19 countries),2007,8.1
+Euro area (19 countries),2008,8.2
+Euro area (19 countries),2009,8.1
+Euro area (19 countries),2010,8.1
+Euro area (19 countries),2011,8.3
+Euro area (19 countries),2012,8.5
+Euro area (19 countries),2013,10.6
+Euro area (19 countries),2014,10.9
+Euro area (19 countries),2015,10.9
+Euro area (19 countries),2016,11.2
+Euro area (19 countries),2017,11.3
+Euro area (19 countries),2018,11.5
+Estonia,1995,NA
+Estonia,1996,NA
+Estonia,1997,4.3
+Estonia,1998,6.3
+Estonia,1999,6.5
+Estonia,2000,6.6
+Estonia,2001,5.4
+Estonia,2002,5.3
+Estonia,2003,6.8
+Estonia,2004,6.6
+Estonia,2005,6
+Estonia,2006,6.5
+Estonia,2007,7
+Estonia,2008,9.7
+Estonia,2009,10.5
+Estonia,2010,11
+Estonia,2011,11.9
+Estonia,2012,12.8
+Estonia,2013,12.6
+Estonia,2014,11.6
+Estonia,2015,12.4
+Estonia,2016,15.7
+Estonia,2017,17.2
+Estonia,2018,19.7
+Greece,1995,0.9
+Greece,1996,0.9
+Greece,1997,0.9
+Greece,1998,1
+Greece,1999,1.3
+Greece,2000,1
+Greece,2001,1.2
+Greece,2002,1.1
+Greece,2003,2.7
+Greece,2004,1.8
+Greece,2005,1.9
+Greece,2006,2.1
+Greece,2007,2.4
+Greece,2008,3.2
+Greece,2009,3.5
+Greece,2010,3.3
+Greece,2011,2.8
+Greece,2012,3.3
+Greece,2013,3.2
+Greece,2014,3.2
+Greece,2015,3.3
+Greece,2016,4
+Greece,2017,4.5
+Greece,2018,4.5
+Spain,1995,4.3
+Spain,1996,4.4
+Spain,1997,4.4
+Spain,1998,4.2
+Spain,1999,5
+Spain,2000,4.5
+Spain,2001,4.4
+Spain,2002,4.5
+Spain,2003,4.8
+Spain,2004,4.8
+Spain,2005,10.8
+Spain,2006,10.7
+Spain,2007,10.8
+Spain,2008,10.7
+Spain,2009,10.8
+Spain,2010,11.2
+Spain,2011,11.2
+Spain,2012,11.2
+Spain,2013,11.4
+Spain,2014,10.1
+Spain,2015,9.9
+Spain,2016,9.4
+Spain,2017,9.9
+Spain,2018,10.5
+European Union - 15 countries (1995-2004),1995,NA
+European Union - 15 countries (1995-2004),1996,NA
+European Union - 15 countries (1995-2004),1997,NA
+European Union - 15 countries (1995-2004),1998,NA
+European Union - 15 countries (1995-2004),1999,8.2
+European Union - 15 countries (1995-2004),2000,8.1
+European Union - 15 countries (1995-2004),2001,8
+European Union - 15 countries (1995-2004),2002,8.1
+European Union - 15 countries (1995-2004),2003,9.8
+European Union - 15 countries (1995-2004),2004,10.6
+European Union - 15 countries (1995-2004),2005,11.1
+European Union - 15 countries (1995-2004),2006,11.2
+European Union - 15 countries (1995-2004),2007,10.8
+European Union - 15 countries (1995-2004),2008,11
+European Union - 15 countries (1995-2004),2009,10.9
+European Union - 15 countries (1995-2004),2010,10.7
+European Union - 15 countries (1995-2004),2011,10.3
+European Union - 15 countries (1995-2004),2012,10.5
+European Union - 15 countries (1995-2004),2013,12.4
+European Union - 15 countries (1995-2004),2014,12.7
+European Union - 15 countries (1995-2004),2015,12.5
+European Union - 15 countries (1995-2004),2016,12.5
+European Union - 15 countries (1995-2004),2017,12.6
+European Union - 15 countries (1995-2004),2018,12.7
+European Union - 28 countries,1995,NA
+European Union - 28 countries,1996,NA
+European Union - 28 countries,1997,NA
+European Union - 28 countries,1998,NA
+European Union - 28 countries,1999,NA
+European Union - 28 countries,2000,NA
+European Union - 28 countries,2001,NA
+European Union - 28 countries,2002,7.1
+European Union - 28 countries,2003,8.4
+European Union - 28 countries,2004,9.1
+European Union - 28 countries,2005,9.6
+European Union - 28 countries,2006,9.6
+European Union - 28 countries,2007,9.4
+European Union - 28 countries,2008,9.5
+European Union - 28 countries,2009,9.5
+European Union - 28 countries,2010,9.3
+European Union - 28 countries,2011,9.1
+European Union - 28 countries,2012,9.2
+European Union - 28 countries,2013,10.7
+European Union - 28 countries,2014,10.8
+European Union - 28 countries,2015,10.7
+European Union - 28 countries,2016,10.8
+European Union - 28 countries,2017,10.9
+European Union - 28 countries,2018,11.1
+Finland,1995,NA
+Finland,1996,16.3
+Finland,1997,15.8
+Finland,1998,16.1
+Finland,1999,17.6
+Finland,2000,17.5
+Finland,2001,17.2
+Finland,2002,17.3
+Finland,2003,22.4
+Finland,2004,22.8
+Finland,2005,22.5
+Finland,2006,23.1
+Finland,2007,23.4
+Finland,2008,23.1
+Finland,2009,22.1
+Finland,2010,23
+Finland,2011,23.8
+Finland,2012,24.5
+Finland,2013,24.9
+Finland,2014,25.1
+Finland,2015,25.4
+Finland,2016,26.4
+Finland,2017,27.4
+Finland,2018,28.5
+France,1995,2.9
+France,1996,2.7
+France,1997,2.9
+France,1998,2.7
+France,1999,2.6
+France,2000,2.8
+France,2001,2.7
+France,2002,2.7
+France,2003,6.8
+France,2004,6
+France,2005,5.9
+France,2006,6.4
+France,2007,6.1
+France,2008,6
+France,2009,5.7
+France,2010,5
+France,2011,5.5
+France,2012,5.7
+France,2013,17.8
+France,2014,18.4
+France,2015,18.6
+France,2016,18.8
+France,2017,18.7
+France,2018,18.6
+Croatia,1995,NA
+Croatia,1996,NA
+Croatia,1997,NA
+Croatia,1998,NA
+Croatia,1999,NA
+Croatia,2000,NA
+Croatia,2001,NA
+Croatia,2002,1.9
+Croatia,2003,1.8
+Croatia,2004,1.9
+Croatia,2005,2.1
+Croatia,2006,3.1
+Croatia,2007,2.9
+Croatia,2008,2.6
+Croatia,2009,3
+Croatia,2010,3
+Croatia,2011,3.1
+Croatia,2012,3.3
+Croatia,2013,3.1
+Croatia,2014,2.8
+Croatia,2015,3.1
+Croatia,2016,3
+Croatia,2017,2.3
+Croatia,2018,2.9
+Hungary,1995,NA
+Hungary,1996,NA
+Hungary,1997,2.9
+Hungary,1998,3.3
+Hungary,1999,2.9
+Hungary,2000,2.9
+Hungary,2001,2.7
+Hungary,2002,2.9
+Hungary,2003,4.5
+Hungary,2004,4
+Hungary,2005,3.9
+Hungary,2006,4
+Hungary,2007,3.9
+Hungary,2008,3.4
+Hungary,2009,3
+Hungary,2010,3
+Hungary,2011,3
+Hungary,2012,2.9
+Hungary,2013,3.2
+Hungary,2014,3.3
+Hungary,2015,7.1
+Hungary,2016,6.3
+Hungary,2017,6.2
+Hungary,2018,6
+Ireland,1995,4.3
+Ireland,1996,4.8
+Ireland,1997,5.2
+Ireland,1998,NA
+Ireland,1999,NA
+Ireland,2000,NA
+Ireland,2001,NA
+Ireland,2002,5.5
+Ireland,2003,5.9
+Ireland,2004,6.1
+Ireland,2005,7.4
+Ireland,2006,7.4
+Ireland,2007,7.8
+Ireland,2008,7.2
+Ireland,2009,6.6
+Ireland,2010,7.1
+Ireland,2011,7.2
+Ireland,2012,7.5
+Ireland,2013,7.6
+Ireland,2014,7
+Ireland,2015,6.5
+Ireland,2016,6.5
+Ireland,2017,9
+Ireland,2018,12.5
+Iceland,1995,14.1
+Iceland,1996,15.7
+Iceland,1997,16.5
+Iceland,1998,19.3
+Iceland,1999,20.2
+Iceland,2000,23.5
+Iceland,2001,23.5
+Iceland,2002,24
+Iceland,2003,29.5
+Iceland,2004,24.2
+Iceland,2005,25.7
+Iceland,2006,27.9
+Iceland,2007,27
+Iceland,2008,25.1
+Iceland,2009,25.1
+Iceland,2010,25.4
+Iceland,2011,26.4
+Iceland,2012,28.1
+Iceland,2013,26.3
+Iceland,2014,26.3
+Iceland,2015,28.1
+Iceland,2016,24.7
+Iceland,2017,23.6
+Iceland,2018,21.5
+Italy,1995,3.8
+Italy,1996,4.1
+Italy,1997,4.6
+Italy,1998,4.8
+Italy,1999,5.5
+Italy,2000,4.8
+Italy,2001,4.5
+Italy,2002,4.4
+Italy,2003,4.5
+Italy,2004,6.3
+Italy,2005,5.8
+Italy,2006,6.1
+Italy,2007,6.2
+Italy,2008,6.3
+Italy,2009,6
+Italy,2010,6.2
+Italy,2011,5.7
+Italy,2012,6.6
+Italy,2013,6.2
+Italy,2014,8.1
+Italy,2015,7.3
+Italy,2016,8.3
+Italy,2017,7.9
+Italy,2018,8.1
+Lithuania,1995,NA
+Lithuania,1996,NA
+Lithuania,1997,NA
+Lithuania,1998,NA
+Lithuania,1999,3.9
+Lithuania,2000,2.8
+Lithuania,2001,3.5
+Lithuania,2002,3
+Lithuania,2003,3.8
+Lithuania,2004,6
+Lithuania,2005,6.1
+Lithuania,2006,5
+Lithuania,2007,5.5
+Lithuania,2008,4.9
+Lithuania,2009,4.6
+Lithuania,2010,4.4
+Lithuania,2011,6
+Lithuania,2012,5.4
+Lithuania,2013,5.9
+Lithuania,2014,5.1
+Lithuania,2015,5.8
+Lithuania,2016,6
+Lithuania,2017,5.9
+Lithuania,2018,6.6
+Luxembourg,1995,2.9
+Luxembourg,1996,2.9
+Luxembourg,1997,2.8
+Luxembourg,1998,5.1
+Luxembourg,1999,5.3
+Luxembourg,2000,4.8
+Luxembourg,2001,5.3
+Luxembourg,2002,7.7
+Luxembourg,2003,6.5
+Luxembourg,2004,9.8
+Luxembourg,2005,8.5
+Luxembourg,2006,8.3
+Luxembourg,2007,7.2
+Luxembourg,2008,8.7
+Luxembourg,2009,13.8
+Luxembourg,2010,13.5
+Luxembourg,2011,13.9
+Luxembourg,2012,14.2
+Luxembourg,2013,14.6
+Luxembourg,2014,14.5
+Luxembourg,2015,18
+Luxembourg,2016,16.8
+Luxembourg,2017,17.2
+Luxembourg,2018,18
+Latvia,1995,NA
+Latvia,1996,NA
+Latvia,1997,NA
+Latvia,1998,NA
+Latvia,1999,NA
+Latvia,2000,NA
+Latvia,2001,NA
+Latvia,2002,7.3
+Latvia,2003,7.7
+Latvia,2004,8.4
+Latvia,2005,7.8
+Latvia,2006,7.3
+Latvia,2007,7.2
+Latvia,2008,6.9
+Latvia,2009,5.6
+Latvia,2010,5.4
+Latvia,2011,5.4
+Latvia,2012,7.2
+Latvia,2013,6.8
+Latvia,2014,5.6
+Latvia,2015,5.7
+Latvia,2016,7.3
+Latvia,2017,7.5
+Latvia,2018,6.7
+Montenegro,1995,NA
+Montenegro,1996,NA
+Montenegro,1997,NA
+Montenegro,1998,NA
+Montenegro,1999,NA
+Montenegro,2000,NA
+Montenegro,2001,NA
+Montenegro,2002,NA
+Montenegro,2003,NA
+Montenegro,2004,NA
+Montenegro,2005,NA
+Montenegro,2006,NA
+Montenegro,2007,NA
+Montenegro,2008,NA
+Montenegro,2009,NA
+Montenegro,2010,NA
+Montenegro,2011,2.4
+Montenegro,2012,2.4
+Montenegro,2013,2.8
+Montenegro,2014,2.9
+Montenegro,2015,3
+Montenegro,2016,3.3
+Montenegro,2017,2.8
+Montenegro,2018,3.2
+North Macedonia,1995,NA
+North Macedonia,1996,NA
+North Macedonia,1997,NA
+North Macedonia,1998,NA
+North Macedonia,1999,NA
+North Macedonia,2000,NA
+North Macedonia,2001,NA
+North Macedonia,2002,NA
+North Macedonia,2003,NA
+North Macedonia,2004,NA
+North Macedonia,2005,NA
+North Macedonia,2006,2.3
+North Macedonia,2007,3
+North Macedonia,2008,2.8
+North Macedonia,2009,3.5
+North Macedonia,2010,3.5
+North Macedonia,2011,3.6
+North Macedonia,2012,4.1
+North Macedonia,2013,3.7
+North Macedonia,2014,3.2
+North Macedonia,2015,2.6
+North Macedonia,2016,2.9
+North Macedonia,2017,2.3
+North Macedonia,2018,2.4
+Malta,1995,NA
+Malta,1996,NA
+Malta,1997,NA
+Malta,1998,NA
+Malta,1999,NA
+Malta,2000,4.5
+Malta,2001,4.6
+Malta,2002,4.4
+Malta,2003,4.2
+Malta,2004,4.3
+Malta,2005,5.2
+Malta,2006,5.5
+Malta,2007,5.9
+Malta,2008,6.3
+Malta,2009,6.2
+Malta,2010,6.2
+Malta,2011,6.6
+Malta,2012,7.2
+Malta,2013,7.7
+Malta,2014,7.7
+Malta,2015,7.4
+Malta,2016,7.8
+Malta,2017,10.6
+Malta,2018,10.8
+Netherlands,1995,13.1
+Netherlands,1996,12.5
+Netherlands,1997,12.6
+Netherlands,1998,12.9
+Netherlands,1999,13.6
+Netherlands,2000,15.5
+Netherlands,2001,15.9
+Netherlands,2002,15.8
+Netherlands,2003,16.4
+Netherlands,2004,16.4
+Netherlands,2005,15.4
+Netherlands,2006,15.7
+Netherlands,2007,16.8
+Netherlands,2008,17.1
+Netherlands,2009,17.1
+Netherlands,2010,17
+Netherlands,2011,17.1
+Netherlands,2012,16.9
+Netherlands,2013,17.9
+Netherlands,2014,18.3
+Netherlands,2015,18.9
+Netherlands,2016,18.8
+Netherlands,2017,19.1
+Netherlands,2018,19.1
+Norway,1995,NA
+Norway,1996,16.5
+Norway,1997,16.4
+Norway,1998,NA
+Norway,1999,NA
+Norway,2000,13.3
+Norway,2001,14.2
+Norway,2002,13.3
+Norway,2003,17.1
+Norway,2004,17.4
+Norway,2005,17.8
+Norway,2006,19.1
+Norway,2007,18.4
+Norway,2008,19.7
+Norway,2009,18.5
+Norway,2010,18.2
+Norway,2011,18.6
+Norway,2012,20.4
+Norway,2013,20.8
+Norway,2014,20.1
+Norway,2015,20.1
+Norway,2016,19.6
+Norway,2017,19.9
+Norway,2018,19.7
+Poland,1995,NA
+Poland,1996,NA
+Poland,1997,NA
+Poland,1998,NA
+Poland,1999,NA
+Poland,2000,NA
+Poland,2001,4.3
+Poland,2002,4.2
+Poland,2003,4.4
+Poland,2004,5
+Poland,2005,4.9
+Poland,2006,4.7
+Poland,2007,5.1
+Poland,2008,4.7
+Poland,2009,4.7
+Poland,2010,5.2
+Poland,2011,4.4
+Poland,2012,4.5
+Poland,2013,4.3
+Poland,2014,4
+Poland,2015,3.5
+Poland,2016,3.7
+Poland,2017,4
+Poland,2018,5.7
+Portugal,1995,3.3
+Portugal,1996,3.4
+Portugal,1997,3.5
+Portugal,1998,3.1
+Portugal,1999,3.4
+Portugal,2000,3.3
+Portugal,2001,3.2
+Portugal,2002,2.8
+Portugal,2003,3.2
+Portugal,2004,4.2
+Portugal,2005,4.1
+Portugal,2006,4.2
+Portugal,2007,4.4
+Portugal,2008,5.3
+Portugal,2009,6.4
+Portugal,2010,5.7
+Portugal,2011,11.5
+Portugal,2012,10.5
+Portugal,2013,9.7
+Portugal,2014,9.6
+Portugal,2015,9.7
+Portugal,2016,9.6
+Portugal,2017,9.8
+Portugal,2018,10.3
+Romania,1995,NA
+Romania,1996,NA
+Romania,1997,0.9
+Romania,1998,1
+Romania,1999,0.8
+Romania,2000,0.9
+Romania,2001,1
+Romania,2002,1
+Romania,2003,1.1
+Romania,2004,1.5
+Romania,2005,1.6
+Romania,2006,1.5
+Romania,2007,1.5
+Romania,2008,1.8
+Romania,2009,1.8
+Romania,2010,1.4
+Romania,2011,1.6
+Romania,2012,1.4
+Romania,2013,2
+Romania,2014,1.5
+Romania,2015,1.3
+Romania,2016,1.2
+Romania,2017,1.1
+Romania,2018,0.9
+Serbia,1995,NA
+Serbia,1996,NA
+Serbia,1997,NA
+Serbia,1998,NA
+Serbia,1999,NA
+Serbia,2000,NA
+Serbia,2001,NA
+Serbia,2002,NA
+Serbia,2003,NA
+Serbia,2004,NA
+Serbia,2005,NA
+Serbia,2006,NA
+Serbia,2007,NA
+Serbia,2008,NA
+Serbia,2009,NA
+Serbia,2010,4
+Serbia,2011,3.5
+Serbia,2012,3.6
+Serbia,2013,3.9
+Serbia,2014,4.4
+Serbia,2015,4.8
+Serbia,2016,5.1
+Serbia,2017,4.4
+Serbia,2018,4.1
+Sweden,1995,NA
+Sweden,1996,26.5
+Sweden,1997,25
+Sweden,1998,NA
+Sweden,1999,25.8
+Sweden,2000,21.6
+Sweden,2001,17.5
+Sweden,2002,18.4
+Sweden,2003,NA
+Sweden,2004,NA
+Sweden,2005,17.4
+Sweden,2006,18.8
+Sweden,2007,19
+Sweden,2008,22.5
+Sweden,2009,22.5
+Sweden,2010,24.7
+Sweden,2011,25.3
+Sweden,2012,27
+Sweden,2013,28.4
+Sweden,2014,29.2
+Sweden,2015,29.4
+Sweden,2016,29.6
+Sweden,2017,30.4
+Sweden,2018,29.2
+Slovenia,1995,NA
+Slovenia,1996,NA
+Slovenia,1997,NA
+Slovenia,1998,NA
+Slovenia,1999,NA
+Slovenia,2000,NA
+Slovenia,2001,7.3
+Slovenia,2002,8.4
+Slovenia,2003,13.3
+Slovenia,2004,16.2
+Slovenia,2005,15.3
+Slovenia,2006,15.2
+Slovenia,2007,15.1
+Slovenia,2008,14.3
+Slovenia,2009,14.8
+Slovenia,2010,16.4
+Slovenia,2011,16
+Slovenia,2012,13.8
+Slovenia,2013,12.5
+Slovenia,2014,12.1
+Slovenia,2015,11.9
+Slovenia,2016,11.6
+Slovenia,2017,12
+Slovenia,2018,11.4
+Slovakia,1995,NA
+Slovakia,1996,NA
+Slovakia,1997,NA
+Slovakia,1998,NA
+Slovakia,1999,NA
+Slovakia,2000,NA
+Slovakia,2001,NA
+Slovakia,2002,8.5
+Slovakia,2003,3.7
+Slovakia,2004,4.3
+Slovakia,2005,4.6
+Slovakia,2006,4.3
+Slovakia,2007,4.1
+Slovakia,2008,3.6
+Slovakia,2009,3.1
+Slovakia,2010,3.1
+Slovakia,2011,4.1
+Slovakia,2012,3.2
+Slovakia,2013,3.1
+Slovakia,2014,3.1
+Slovakia,2015,3.1
+Slovakia,2016,2.9
+Slovakia,2017,3.4
+Slovakia,2018,4
+Turkey,1995,NA
+Turkey,1996,NA
+Turkey,1997,NA
+Turkey,1998,NA
+Turkey,1999,NA
+Turkey,2000,NA
+Turkey,2001,NA
+Turkey,2002,NA
+Turkey,2003,NA
+Turkey,2004,NA
+Turkey,2005,NA
+Turkey,2006,2
+Turkey,2007,1.8
+Turkey,2008,2.1
+Turkey,2009,2.6
+Turkey,2010,2.9
+Turkey,2011,3.4
+Turkey,2012,3.9
+Turkey,2013,4.5
+Turkey,2014,5.7
+Turkey,2015,5.5
+Turkey,2016,5.8
+Turkey,2017,5.8
+Turkey,2018,6.2
+United Kingdom,1995,NA
+United Kingdom,1996,NA
+United Kingdom,1997,NA
+United Kingdom,1998,NA
+United Kingdom,1999,19.2
+United Kingdom,2000,20.5
+United Kingdom,2001,20.9
+United Kingdom,2002,21.3
+United Kingdom,2003,27.2
+United Kingdom,2004,29
+United Kingdom,2005,27.6
+United Kingdom,2006,27.4
+United Kingdom,2007,20.5
+United Kingdom,2008,20.5
+United Kingdom,2009,20.7
+United Kingdom,2010,20.1
+United Kingdom,2011,16.3
+United Kingdom,2012,16.3
+United Kingdom,2013,16.6
+United Kingdom,2014,16.3
+United Kingdom,2015,15.7
+United Kingdom,2016,14.4
+United Kingdom,2017,14.3
+United Kingdom,2018,14.6

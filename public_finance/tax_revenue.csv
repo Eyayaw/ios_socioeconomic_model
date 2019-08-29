@@ -1,0 +1,965 @@
+country,year,Tax revenue (% of GDP)
+Estonia,2018,33.3
+Luxembourg,2018,41.3
+Sweden,2018,44.6
+Austria,2017,42.2
+Belgium,2017,46.5
+Bulgaria,2017,29.4
+Switzerland,2017,28.5
+Cyprus,2017,33.7
+Czechia,2017,35.2
+Germany (until 1990 former territory of the FRG),2017,40.3
+Denmark,2017,46.4
+Euro area (11 countries),2017,41.4
+Euro area (12 countries),2017,41.4
+Euro area (13 countries),2017,41.3
+Euro area (15 countries),2017,41.3
+Euro area (16 countries),2017,41.3
+Euro area (17 countries),2017,41.2
+Euro area (18 countries),2017,41.2
+Euro area (19 countries),2017,41.2
+Estonia,2017,32.8
+Greece,2017,41.6
+Spain,2017,34.2
+European Union - 15 countries (1995-2004),2017,40.5
+European Union - 25 countries (2004-2006),2017,40.2
+European Union - 28 countries,2017,39.9
+Finland,2017,43.3
+France,2017,48.2
+Croatia,2017,37.7
+Hungary,2017,38.2
+Ireland,2017,23.3
+Iceland,2017,37.5
+Italy,2017,42.2
+Lithuania,2017,29.6
+Luxembourg,2017,40
+Latvia,2017,31.2
+Malta,2017,33.2
+Netherlands,2017,38.8
+Norway,2017,38.9
+Poland,2017,34.9
+Portugal,2017,36.7
+Romania,2017,25.7
+Sweden,2017,44.8
+Slovenia,2017,36.7
+Slovakia,2017,33
+United Kingdom,2017,35.3
+Austria,2016,42.4
+Belgium,2016,45.9
+Bulgaria,2016,28.8
+Switzerland,2016,27.8
+Cyprus,2016,32.7
+Czechia,2016,34.6
+Germany (until 1990 former territory of the FRG),2016,40
+Denmark,2016,46.7
+Euro area (11 countries),2016,41.1
+Euro area (12 countries),2016,41.1
+Euro area (13 countries),2016,41.1
+Euro area (15 countries),2016,41.1
+Euro area (16 countries),2016,41
+Euro area (17 countries),2016,41
+Euro area (18 countries),2016,41
+Euro area (19 countries),2016,41
+Estonia,2016,33.6
+Greece,2016,41.7
+Spain,2016,33.9
+European Union - 15 countries (1995-2004),2016,40.3
+European Union - 25 countries (2004-2006),2016,39.9
+European Union - 28 countries,2016,39.7
+Finland,2016,44
+France,2016,47.6
+Croatia,2016,37.7
+Hungary,2016,39.2
+Ireland,2016,23.8
+Iceland,2016,50.8
+Italy,2016,42.4
+Lithuania,2016,29.8
+Luxembourg,2016,39.2
+Latvia,2016,31.2
+Malta,2016,32.4
+Netherlands,2016,38.5
+Norway,2016,38.7
+Poland,2016,34.3
+Portugal,2016,36.5
+Romania,2016,26.4
+Serbia,2016,38.4
+Sweden,2016,44.6
+Slovenia,2016,36.9
+Slovakia,2016,32.2
+United Kingdom,2016,34.8
+Austria,2015,43.7
+Belgium,2015,46.8
+Bulgaria,2015,28.9
+Switzerland,2015,27.6
+Cyprus,2015,33
+Czechia,2015,33.9
+Germany (until 1990 former territory of the FRG),2015,39.5
+Denmark,2015,47.1
+Euro area (11 countries),2015,41.2
+Euro area (12 countries),2015,41.2
+Euro area (13 countries),2015,41.1
+Euro area (15 countries),2015,41.1
+Euro area (16 countries),2015,41
+Euro area (17 countries),2015,41
+Euro area (18 countries),2015,41
+Euro area (19 countries),2015,41
+Estonia,2015,33.3
+Greece,2015,39.7
+Spain,2015,34.3
+European Union - 15 countries (1995-2004),2015,40
+European Union - 25 countries (2004-2006),2015,39.6
+European Union - 28 countries,2015,39.4
+Finland,2015,43.9
+France,2015,47.5
+Croatia,2015,37.2
+Hungary,2015,38.7
+Ireland,2015,23.7
+Iceland,2015,35.4
+Italy,2015,43.1
+Lithuania,2015,28.9
+Luxembourg,2015,38.7
+Latvia,2015,30.2
+Malta,2015,31.8
+Netherlands,2015,37
+Norway,2015,38.4
+Poland,2015,33.2
+Portugal,2015,36.9
+Romania,2015,27.9
+Serbia,2015,37.3
+Sweden,2015,43.5
+Slovenia,2015,36.7
+Slovakia,2015,32
+United Kingdom,2015,34.2
+Austria,2014,43.3
+Belgium,2014,47.5
+Bulgaria,2014,28.2
+Switzerland,2014,26.9
+Cyprus,2014,33.3
+Czechia,2014,33.7
+Germany (until 1990 former territory of the FRG),2014,39.3
+Denmark,2014,49.7
+Euro area (11 countries),2014,41.5
+Euro area (12 countries),2014,41.4
+Euro area (13 countries),2014,41.4
+Euro area (15 countries),2014,41.4
+Euro area (16 countries),2014,41.3
+Euro area (17 countries),2014,41.3
+Euro area (18 countries),2014,41.3
+Euro area (19 countries),2014,41.2
+Estonia,2014,32.2
+Greece,2014,39
+Spain,2014,34.4
+European Union - 15 countries (1995-2004),2014,40.3
+European Union - 25 countries (2004-2006),2014,39.8
+European Union - 28 countries,2014,39.7
+Finland,2014,43.9
+France,2014,47.6
+Croatia,2014,36.6
+Hungary,2014,38
+Ireland,2014,29.4
+Iceland,2014,37.3
+Italy,2014,43.3
+Lithuania,2014,27.6
+Luxembourg,2014,38.9
+Latvia,2014,29.8
+Malta,2014,33.5
+Netherlands,2014,37.2
+Norway,2014,38.8
+Poland,2014,32.7
+Portugal,2014,37
+Romania,2014,27.4
+Serbia,2014,37.4
+Sweden,2014,43
+Slovenia,2014,36.6
+Slovakia,2014,31
+United Kingdom,2014,33.8
+Austria,2013,43.3
+Belgium,2013,47.6
+Bulgaria,2013,28.2
+Switzerland,2013,27.1
+Cyprus,2013,31.5
+Czechia,2013,34.7
+Germany (until 1990 former territory of the FRG),2013,39.5
+Denmark,2013,47.1
+Euro area (11 countries),2013,41.4
+Euro area (12 countries),2013,41.4
+Euro area (13 countries),2013,41.4
+Euro area (15 countries),2013,41.3
+Euro area (16 countries),2013,41.3
+Euro area (17 countries),2013,41.2
+Euro area (18 countries),2013,41.2
+Euro area (19 countries),2013,41.2
+Estonia,2013,31.7
+Greece,2013,38.5
+Spain,2013,33.8
+European Union - 15 countries (1995-2004),2013,40.4
+European Union - 25 countries (2004-2006),2013,39.9
+European Union - 28 countries,2013,39.7
+Finland,2013,43.7
+France,2013,47.4
+Croatia,2013,36.3
+Hungary,2013,37.9
+Ireland,2013,29.4
+Iceland,2013,34.5
+Italy,2013,43.6
+Lithuania,2013,27
+Luxembourg,2013,39.7
+Latvia,2013,29.5
+Malta,2013,33.6
+Netherlands,2013,36.3
+Norway,2013,39.9
+Poland,2013,32.8
+Portugal,2013,37.1
+Romania,2013,27.2
+Serbia,2013,36.6
+Sweden,2013,43.3
+Slovenia,2013,36.9
+Slovakia,2013,30.1
+United Kingdom,2013,34.2
+Austria,2012,42.5
+Belgium,2012,46.7
+Bulgaria,2012,26.6
+Switzerland,2012,27
+Cyprus,2012,31.5
+Czechia,2012,34.1
+Germany (until 1990 former territory of the FRG),2012,39.1
+Denmark,2012,46.7
+Euro area (11 countries),2012,40.8
+Euro area (12 countries),2012,40.8
+Euro area (13 countries),2012,40.8
+Euro area (15 countries),2012,40.8
+Euro area (16 countries),2012,40.7
+Euro area (17 countries),2012,40.6
+Euro area (18 countries),2012,40.6
+Euro area (19 countries),2012,40.6
+Estonia,2012,31.7
+Greece,2012,38.7
+Spain,2012,33
+European Union - 15 countries (1995-2004),2012,39.9
+European Union - 25 countries (2004-2006),2012,39.5
+European Union - 28 countries,2012,39.3
+Finland,2012,42.7
+France,2012,46.4
+Croatia,2012,35.9
+Hungary,2012,38.3
+Ireland,2012,29
+Iceland,2012,34
+Italy,2012,43.6
+Lithuania,2012,27.1
+Luxembourg,2012,39.8
+Latvia,2012,29.2
+Malta,2012,33.4
+Netherlands,2012,35.8
+Norway,2012,41.5
+Poland,2012,32.9
+Portugal,2012,34.4
+Romania,2012,27.6
+Serbia,2012,37.1
+Sweden,2012,42.9
+Slovenia,2012,37.2
+Slovakia,2012,28.2
+United Kingdom,2012,34.3
+Austria,2011,41.9
+Belgium,2011,45.5
+Bulgaria,2011,25.2
+Switzerland,2011,27
+Cyprus,2011,31.7
+Czechia,2011,33.6
+Germany (until 1990 former territory of the FRG),2011,38.5
+Denmark,2011,46.1
+Euro area (11 countries),2011,39.8
+Euro area (12 countries),2011,39.7
+Euro area (13 countries),2011,39.7
+Euro area (15 countries),2011,39.7
+Euro area (16 countries),2011,39.6
+Euro area (17 countries),2011,39.6
+Euro area (18 countries),2011,39.6
+Euro area (19 countries),2011,39.5
+Estonia,2011,31.5
+Greece,2011,36
+Spain,2011,31.9
+European Union - 15 countries (1995-2004),2011,39.3
+European Union - 25 countries (2004-2006),2011,38.8
+European Union - 28 countries,2011,38.7
+Finland,2011,42.1
+France,2011,45.3
+Croatia,2011,35.2
+Hungary,2011,36.5
+Ireland,2011,28.8
+Iceland,2011,33.3
+Italy,2011,41.6
+Lithuania,2011,27.4
+Luxembourg,2011,38.4
+Latvia,2011,28.4
+Malta,2011,33.2
+Netherlands,2011,35.7
+Norway,2011,42
+Poland,2011,32.7
+Portugal,2011,35.4
+Romania,2011,28.1
+Serbia,2011,36.8
+Sweden,2011,42.9
+Slovenia,2011,36.8
+Slovakia,2011,28.5
+United Kingdom,2011,35.2
+Austria,2010,41.8
+Belgium,2010,44.8
+Bulgaria,2010,25.8
+Switzerland,2010,26.7
+Cyprus,2010,31.7
+Czechia,2010,32.5
+Germany (until 1990 former territory of the FRG),2010,38.1
+Denmark,2010,46.1
+Euro area (11 countries),2010,39.3
+Euro area (12 countries),2010,39.2
+Euro area (13 countries),2010,39.2
+Euro area (15 countries),2010,39.2
+Euro area (16 countries),2010,39.1
+Euro area (17 countries),2010,39.1
+Euro area (18 countries),2010,39.1
+Euro area (19 countries),2010,39
+Estonia,2010,33.3
+Greece,2010,34.1
+Spain,2010,32
+European Union - 15 countries (1995-2004),2010,38.8
+European Union - 25 countries (2004-2006),2010,38.4
+European Union - 28 countries,2010,38.2
+Finland,2010,40.8
+France,2010,44.1
+Croatia,2010,35.9
+Hungary,2010,37.2
+Ireland,2010,28.2
+Iceland,2010,32.4
+Italy,2010,41.6
+Lithuania,2010,28.5
+Luxembourg,2010,38.9
+Latvia,2010,28.6
+Malta,2010,33.1
+Netherlands,2010,35.8
+Norway,2010,41.9
+Poland,2010,32.3
+Portugal,2010,33.6
+Romania,2010,27
+Serbia,2010,38.4
+Sweden,2010,43.6
+Slovenia,2010,37.3
+Slovakia,2010,28
+United Kingdom,2010,34.7
+Austria,2009,41.9
+Belgium,2009,44.5
+Bulgaria,2009,27
+Switzerland,2009,27
+Cyprus,2009,31.5
+Czechia,2009,32.1
+Germany (until 1990 former territory of the FRG),2009,39.4
+Denmark,2009,46.1
+Euro area (11 countries),2009,39.5
+Euro area (12 countries),2009,39.3
+Euro area (13 countries),2009,39.3
+Euro area (15 countries),2009,39.3
+Euro area (16 countries),2009,39.2
+Euro area (17 countries),2009,39.2
+Euro area (18 countries),2009,39.2
+Euro area (19 countries),2009,39.1
+Estonia,2009,35
+Greece,2009,32.8
+Spain,2009,30.5
+European Union - 15 countries (1995-2004),2009,38.7
+European Union - 25 countries (2004-2006),2009,38.3
+European Union - 28 countries,2009,38.2
+Finland,2009,41
+France,2009,44
+Croatia,2009,36.4
+Hungary,2009,38.8
+Ireland,2009,28.8
+Iceland,2009,31.3
+Italy,2009,41.8
+Lithuania,2009,30.4
+Luxembourg,2009,39.7
+Latvia,2009,27.9
+Malta,2009,33.6
+Netherlands,2009,35.4
+Norway,2009,41.2
+Poland,2009,32
+Portugal,2009,33.4
+Romania,2009,26
+Serbia,2009,37.5
+Sweden,2009,44.5
+Slovenia,2009,36.6
+Slovakia,2009,28.8
+United Kingdom,2009,33.5
+Austria,2008,42.2
+Belgium,2008,45.1
+Bulgaria,2008,30.5
+Switzerland,2008,26.7
+Cyprus,2008,34.4
+Czechia,2008,33
+Germany (until 1990 former territory of the FRG),2008,39
+Denmark,2008,45.8
+Euro area (11 countries),2008,39.7
+Euro area (12 countries),2008,39.6
+Euro area (13 countries),2008,39.6
+Euro area (15 countries),2008,39.5
+Euro area (16 countries),2008,39.5
+Euro area (17 countries),2008,39.5
+Euro area (18 countries),2008,39.4
+Euro area (19 countries),2008,39.4
+Estonia,2008,31.4
+Greece,2008,33.6
+Spain,2008,32.8
+European Union - 15 countries (1995-2004),2008,39.2
+European Union - 25 countries (2004-2006),2008,38.9
+European Union - 28 countries,2008,38.7
+Finland,2008,41.2
+France,2008,44.3
+Croatia,2008,36.8
+Hungary,2008,39.3
+Ireland,2008,30.3
+Iceland,2008,34.6
+Italy,2008,41.3
+Lithuania,2008,30.6
+Luxembourg,2008,38
+Latvia,2008,28.3
+Malta,2008,33.2
+Netherlands,2008,36.1
+Norway,2008,41.4
+Poland,2008,34.9
+Portugal,2008,34.8
+Romania,2008,27.4
+Serbia,2008,38.8
+Sweden,2008,44.3
+Slovenia,2008,36.6
+Slovakia,2008,28.9
+United Kingdom,2008,35.7
+Austria,2007,41.4
+Belgium,2007,44.5
+Bulgaria,2007,31.4
+Switzerland,2007,26.3
+Cyprus,2007,35.7
+Czechia,2007,34.3
+Germany (until 1990 former territory of the FRG),2007,38.7
+Denmark,2007,47.5
+Euro area (11 countries),2007,40.2
+Euro area (12 countries),2007,40
+Euro area (13 countries),2007,40
+Euro area (15 countries),2007,40
+Euro area (16 countries),2007,39.9
+Euro area (17 countries),2007,39.9
+Euro area (18 countries),2007,39.9
+Euro area (19 countries),2007,39.8
+Estonia,2007,31.2
+Greece,2007,33.4
+Spain,2007,37
+European Union - 15 countries (1995-2004),2007,39.3
+European Union - 25 countries (2004-2006),2007,39.1
+European Union - 28 countries,2007,38.9
+Finland,2007,41.5
+France,2007,44.4
+Croatia,2007,37.1
+Hungary,2007,39.2
+Ireland,2007,32
+Iceland,2007,38.7
+Italy,2007,41.5
+Lithuania,2007,30.1
+Luxembourg,2007,37.4
+Latvia,2007,28.4
+Malta,2007,33.9
+Netherlands,2007,35.8
+Norway,2007,42.1
+Poland,2007,35.4
+Portugal,2007,34.9
+Romania,2007,28.7
+Serbia,2007,39.7
+Sweden,2007,45.3
+Slovenia,2007,37.1
+Slovakia,2007,29
+United Kingdom,2007,34.9
+Austria,2006,41.4
+Belgium,2006,44.8
+Bulgaria,2006,29.9
+Switzerland,2006,26.5
+Cyprus,2006,31.8
+Czechia,2006,33.8
+Germany (until 1990 former territory of the FRG),2006,38.6
+Denmark,2006,47.6
+Euro area (11 countries),2006,40.1
+Euro area (12 countries),2006,39.9
+Euro area (13 countries),2006,39.9
+Euro area (15 countries),2006,39.8
+Euro area (16 countries),2006,39.8
+Euro area (17 countries),2006,39.8
+Euro area (18 countries),2006,39.8
+Euro area (19 countries),2006,39.7
+Estonia,2006,30.5
+Greece,2006,32.5
+Spain,2006,36.5
+European Union - 15 countries (1995-2004),2006,39.3
+European Union - 25 countries (2004-2006),2006,39
+European Union - 28 countries,2006,38.9
+Finland,2006,42.2
+France,2006,45
+Croatia,2006,36.9
+Hungary,2006,36.4
+Ireland,2006,32.6
+Iceland,2006,40.2
+Italy,2006,40.2
+Lithuania,2006,30.2
+Luxembourg,2006,37.1
+Latvia,2006,28.8
+Malta,2006,33.1
+Netherlands,2006,36.3
+Norway,2006,42.9
+Poland,2006,34.5
+Portugal,2006,34.7
+Romania,2006,29
+Serbia,2006,40.1
+Sweden,2006,46.2
+Slovenia,2006,37.8
+Slovakia,2006,29.2
+United Kingdom,2006,34.8
+Austria,2005,42
+Belgium,2005,45
+Bulgaria,2005,30.5
+Switzerland,2005,26.7
+Cyprus,2005,31.1
+Czechia,2005,34.1
+Germany (until 1990 former territory of the FRG),2005,38.4
+Denmark,2005,49.2
+Euro area (11 countries),2005,39.6
+Euro area (12 countries),2005,39.4
+Euro area (13 countries),2005,39.4
+Euro area (15 countries),2005,39.4
+Euro area (16 countries),2005,39.3
+Euro area (17 countries),2005,39.3
+Euro area (18 countries),2005,39.3
+Euro area (19 countries),2005,39.3
+Estonia,2005,29.9
+Greece,2005,33.3
+Spain,2005,35.8
+European Union - 15 countries (1995-2004),2005,38.9
+European Union - 25 countries (2004-2006),2005,38.7
+European Union - 28 countries,2005,38.6
+Finland,2005,42.2
+France,2005,44.5
+Croatia,2005,36.3
+Hungary,2005,36.5
+Ireland,2005,31.2
+Iceland,2005,39.4
+Italy,2005,39.1
+Lithuania,2005,29.3
+Luxembourg,2005,39.2
+Latvia,2005,27.9
+Malta,2005,32.7
+Netherlands,2005,35.5
+Norway,2005,42.6
+Poland,2005,33.8
+Portugal,2005,34.1
+Romania,2005,28.3
+Serbia,2005,38.7
+Sweden,2005,47
+Slovenia,2005,38.1
+Slovakia,2005,31.3
+United Kingdom,2005,34.6
+Austria,2004,43.2
+Belgium,2004,45.1
+Bulgaria,2004,31.7
+Switzerland,2004,26.7
+Cyprus,2004,29.3
+Czechia,2004,34.6
+Germany (until 1990 former territory of the FRG),2004,38.4
+Denmark,2004,47.7
+Euro area (11 countries),2004,39.4
+Euro area (12 countries),2004,39.2
+Euro area (13 countries),2004,39.2
+Euro area (15 countries),2004,39.2
+Euro area (16 countries),2004,39.2
+Euro area (17 countries),2004,39.2
+Euro area (18 countries),2004,39.1
+Euro area (19 countries),2004,39.1
+Estonia,2004,31.2
+Greece,2004,31.9
+Spain,2004,34.7
+European Union - 15 countries (1995-2004),2004,38.6
+European Union - 25 countries (2004-2006),2004,38.4
+European Union - 28 countries,2004,38.3
+Finland,2004,41.9
+France,2004,44
+Croatia,2004,36.4
+Hungary,2004,36.9
+Ireland,2004,30.8
+Iceland,2004,36.3
+Italy,2004,39.3
+Lithuania,2004,29.2
+Luxembourg,2004,38
+Latvia,2004,27.7
+Malta,2004,31.3
+Netherlands,2004,35.3
+Norway,2004,42.4
+Poland,2004,32.9
+Portugal,2004,33.3
+Romania,2004,27.7
+Sweden,2004,46
+Slovenia,2004,37.6
+Slovakia,2004,31.7
+United Kingdom,2004,34.1
+Austria,2003,43.7
+Belgium,2003,45.1
+Bulgaria,2003,30.6
+Switzerland,2003,27
+Cyprus,2003,28.8
+Czechia,2003,34.2
+Germany (until 1990 former territory of the FRG),2003,39.3
+Denmark,2003,47
+Euro area (11 countries),2003,39.7
+Euro area (12 countries),2003,39.5
+Euro area (13 countries),2003,39.5
+Euro area (15 countries),2003,39.5
+Euro area (16 countries),2003,39.5
+Euro area (17 countries),2003,39.5
+Euro area (18 countries),2003,39.5
+Euro area (19 countries),2003,39.4
+Estonia,2003,31
+Greece,2003,32.8
+Spain,2003,33.8
+European Union - 15 countries (1995-2004),2003,38.7
+European Union - 25 countries (2004-2006),2003,38.5
+European Union - 28 countries,2003,38.4
+Finland,2003,42.5
+France,2003,43.9
+Croatia,2003,37.1
+Hungary,2003,37.3
+Ireland,2003,29.7
+Iceland,2003,35.3
+Italy,2003,40
+Lithuania,2003,28.7
+Luxembourg,2003,39
+Latvia,2003,27.7
+Malta,2003,30.8
+Netherlands,2003,35.3
+Norway,2003,41.6
+Poland,2003,33.5
+Portugal,2003,34.2
+Romania,2003,27.9
+Sweden,2003,45.8
+Slovenia,2003,37.6
+Slovakia,2003,32.7
+United Kingdom,2003,33.1
+Austria,2002,44
+Belgium,2002,45.7
+Bulgaria,2002,28
+Switzerland,2002,27.7
+Cyprus,2002,28
+Czechia,2002,33.4
+Germany (until 1990 former territory of the FRG),2002,38.9
+Denmark,2002,46.9
+Euro area (11 countries),2002,39.7
+Euro area (12 countries),2002,39.5
+Euro area (13 countries),2002,39.5
+Euro area (15 countries),2002,39.5
+Euro area (16 countries),2002,39.5
+Euro area (17 countries),2002,39.5
+Euro area (18 countries),2002,39.5
+Euro area (19 countries),2002,39.4
+Estonia,2002,31.3
+Greece,2002,34.5
+Spain,2002,33.9
+European Union - 15 countries (1995-2004),2002,38.6
+European Union - 25 countries (2004-2006),2002,38.4
+European Union - 28 countries,2002,38.3
+Finland,2002,43.4
+France,2002,44
+Croatia,2002,37.6
+Hungary,2002,37.4
+Ireland,2002,29
+Iceland,2002,33.9
+Italy,2002,39.8
+Lithuania,2002,29
+Luxembourg,2002,38.8
+Latvia,2002,28
+Malta,2002,30.8
+Netherlands,2002,35.6
+Norway,2002,42.4
+Poland,2002,34.1
+Portugal,2002,33.9
+Romania,2002,28.4
+Sweden,2002,45.5
+Slovenia,2002,37.4
+Slovakia,2002,33
+United Kingdom,2002,33.1
+Austria,2001,45.2
+Belgium,2001,45.4
+Bulgaria,2001,30.3
+Switzerland,2001,27.1
+Cyprus,2001,28
+Czechia,2001,32.5
+Germany (until 1990 former territory of the FRG),2001,39.4
+Denmark,2001,47.4
+Euro area (11 countries),2001,40.1
+Euro area (12 countries),2001,39.9
+Euro area (13 countries),2001,39.9
+Euro area (15 countries),2001,39.9
+Euro area (16 countries),2001,39.9
+Euro area (17 countries),2001,39.9
+Euro area (18 countries),2001,39.8
+Euro area (19 countries),2001,39.8
+Estonia,2001,30.4
+Greece,2001,33.3
+Spain,2001,33.5
+European Union - 15 countries (1995-2004),2001,39.1
+European Union - 25 countries (2004-2006),2001,38.9
+Finland,2001,43.2
+France,2001,44.7
+Hungary,2001,38
+Ireland,2001,29.7
+Iceland,2001,34.2
+Italy,2001,40.1
+Lithuania,2001,29.3
+Luxembourg,2001,39
+Latvia,2001,28.7
+Malta,2001,30
+Netherlands,2001,36
+Norway,2001,42.1
+Poland,2001,33.9
+Portugal,2001,33.2
+Romania,2001,28.8
+Sweden,2001,47.1
+Slovenia,2001,37
+Slovakia,2001,32.8
+United Kingdom,2001,34.1
+Austria,2000,43.6
+Belgium,2000,45.5
+Bulgaria,2000,30.9
+Switzerland,2000,27.7
+Cyprus,2000,27.3
+Czechia,2000,32.6
+Germany (until 1990 former territory of the FRG),2000,41.4
+Denmark,2000,48.4
+Euro area (11 countries),2000,40.9
+Euro area (12 countries),2000,40.8
+Euro area (13 countries),2000,40.8
+Euro area (15 countries),2000,40.7
+Euro area (16 countries),2000,40.7
+Euro area (17 countries),2000,40.7
+Euro area (18 countries),2000,40.7
+Euro area (19 countries),2000,40.7
+Estonia,2000,31.2
+Greece,2000,34.7
+Spain,2000,33.9
+European Union - 15 countries (1995-2004),2000,39.9
+European Union - 25 countries (2004-2006),2000,39.7
+Finland,2000,45.9
+France,2000,44.9
+Hungary,2000,39.1
+Ireland,2000,31.8
+Iceland,2000,36
+Italy,2000,40.1
+Lithuania,2000,30.8
+Luxembourg,2000,38.5
+Latvia,2000,29.5
+Malta,2000,28.3
+Netherlands,2000,37.3
+Norway,2000,41.9
+Poland,2000,33.9
+Portugal,2000,33.5
+Romania,2000,30.4
+Sweden,2000,49.2
+Slovenia,2000,36.8
+Slovakia,2000,33.9
+United Kingdom,2000,34.3
+Austria,1999,44.5
+Belgium,1999,45.9
+Bulgaria,1999,30.4
+Switzerland,1999,26.7
+Cyprus,1999,25.4
+Czechia,1999,33.2
+Germany (until 1990 former territory of the FRG),1999,41.6
+Denmark,1999,49.3
+Euro area (11 countries),1999,41.4
+Euro area (12 countries),1999,41.3
+Euro area (13 countries),1999,41.3
+Euro area (15 countries),1999,41.2
+Euro area (16 countries),1999,41.2
+Euro area (17 countries),1999,41.2
+Euro area (18 countries),1999,41.2
+Euro area (19 countries),1999,41.2
+Estonia,1999,32.6
+Greece,1999,33.1
+Spain,1999,33.8
+European Union - 15 countries (1995-2004),1999,40.3
+European Union - 25 countries (2004-2006),1999,40.1
+Finland,1999,44.5
+France,1999,45.7
+Hungary,1999,38.3
+Ireland,1999,32.1
+Iceland,1999,36
+Italy,1999,41.2
+Lithuania,1999,32.7
+Luxembourg,1999,37.9
+Latvia,1999,31.3
+Malta,1999,27.9
+Netherlands,1999,37.7
+Norway,1999,41.5
+Poland,1999,35.9
+Portugal,1999,33.1
+Romania,1999,31.2
+Sweden,1999,49.3
+Slovenia,1999,37.5
+Slovakia,1999,35
+United Kingdom,1999,33.6
+Austria,1998,44.9
+Belgium,1998,46
+Bulgaria,1998,27.6
+Switzerland,1998,26.5
+Cyprus,1998,25.2
+Czechia,1998,32.4
+Germany (until 1990 former territory of the FRG),1998,40.7
+Denmark,1998,48.6
+Euro area (11 countries),1998,41
+Euro area (12 countries),1998,40.8
+Euro area (13 countries),1998,40.8
+Euro area (15 countries),1998,40.7
+Euro area (16 countries),1998,40.7
+Euro area (17 countries),1998,40.7
+Euro area (18 countries),1998,40.7
+Euro area (19 countries),1998,40.7
+Estonia,1998,34
+Greece,1998,32
+Spain,1998,33.3
+European Union - 15 countries (1995-2004),1998,39.7
+European Union - 25 countries (2004-2006),1998,39.6
+Finland,1998,45.1
+France,1998,45
+Hungary,1998,37.7
+Ireland,1998,32.1
+Iceland,1998,33.7
+Italy,1998,41.1
+Lithuania,1998,32.8
+Luxembourg,1998,39.3
+Latvia,1998,31.8
+Malta,1998,25.7
+Netherlands,1998,36.7
+Norway,1998,41.2
+Poland,1998,36.3
+Portugal,1998,32.5
+Romania,1998,29.1
+Sweden,1998,49
+Slovenia,1998,37.1
+Slovakia,1998,36.3
+United Kingdom,1998,32.8
+Austria,1997,44.9
+Belgium,1997,45.4
+Bulgaria,1997,25.8
+Switzerland,1997,25.8
+Cyprus,1997,23.9
+Czechia,1997,33.6
+Germany (until 1990 former territory of the FRG),1997,40.5
+Denmark,1997,48.1
+Euro area (11 countries),1997,41.1
+Euro area (12 countries),1997,40.9
+Euro area (13 countries),1997,40.9
+Euro area (15 countries),1997,40.9
+Euro area (16 countries),1997,40.9
+Euro area (17 countries),1997,40.9
+Euro area (18 countries),1997,40.9
+Euro area (19 countries),1997,40.8
+Estonia,1997,34.2
+Greece,1997,30.7
+Spain,1997,32.7
+European Union - 15 countries (1995-2004),1997,39.6
+European Union - 25 countries (2004-2006),1997,39.5
+Finland,1997,45.3
+France,1997,45.1
+Hungary,1997,37.7
+Ireland,1997,32.9
+Italy,1997,42.4
+Lithuania,1997,31.3
+Luxembourg,1997,38.5
+Latvia,1997,30.9
+Malta,1997,27.8
+Netherlands,1997,37.3
+Norway,1997,41.4
+Poland,1997,37.1
+Portugal,1997,32.1
+Romania,1997,26.4
+Sweden,1997,48.9
+Slovenia,1997,36.3
+Slovakia,1997,36.7
+United Kingdom,1997,31.4
+Austria,1996,44.2
+Belgium,1996,45
+Bulgaria,1996,23.5
+Switzerland,1996,26.1
+Cyprus,1996,24.4
+Czechia,1996,33.3
+Germany (until 1990 former territory of the FRG),1996,40.6
+Denmark,1996,48.1
+Euro area (11 countries),1996,40.9
+Euro area (12 countries),1996,40.6
+Euro area (13 countries),1996,40.6
+Euro area (15 countries),1996,40.6
+Euro area (16 countries),1996,40.6
+Euro area (17 countries),1996,40.6
+Euro area (18 countries),1996,40.6
+Euro area (19 countries),1996,40.6
+Estonia,1996,34.2
+Greece,1996,29.6
+Spain,1996,32.3
+European Union - 15 countries (1995-2004),1996,39.5
+European Union - 25 countries (2004-2006),1996,39.4
+Finland,1996,46.1
+France,1996,44.9
+Hungary,1996,39.3
+Ireland,1996,33.5
+Italy,1996,40.7
+Lithuania,1996,27.3
+Luxembourg,1996,37.1
+Latvia,1996,29.5
+Malta,1996,25.6
+Netherlands,1996,38
+Norway,1996,41.5
+Poland,1996,37.5
+Portugal,1996,32.1
+Romania,1996,25.9
+Sweden,1996,48.6
+Slovenia,1996,37.4
+Slovakia,1996,38.7
+United Kingdom,1996,30.7
+Austria,1995,42.8
+Belgium,1995,44.4
+Bulgaria,1995,21.6
+Switzerland,1995,25.7
+Cyprus,1995,24.9
+Czechia,1995,34.6
+Germany (until 1990 former territory of the FRG),1995,40.2
+Denmark,1995,47.9
+Euro area (11 countries),1995,40.3
+Euro area (12 countries),1995,40.1
+Euro area (13 countries),1995,40.1
+Euro area (15 countries),1995,40
+Euro area (16 countries),1995,40
+Euro area (17 countries),1995,40
+Euro area (18 countries),1995,40
+Euro area (19 countries),1995,40
+Estonia,1995,36.1
+Greece,1995,29.5
+Spain,1995,31.9
+European Union - 15 countries (1995-2004),1995,39.1
+European Union - 25 countries (2004-2006),1995,39
+Finland,1995,44.9
+France,1995,43.7
+Hungary,1995,40.3
+Ireland,1995,33.3
+Italy,1995,40.3
+Lithuania,1995,27.7
+Luxembourg,1995,37.3
+Latvia,1995,30.5
+Malta,1995,27.6
+Netherlands,1995,37.9
+Norway,1995,41.1
+Poland,1995,37.6
+Portugal,1995,31.3
+Romania,1995,27.6
+Sweden,1995,46.4
+Slovenia,1995,38.6
+Slovakia,1995,39.6
+United Kingdom,1995,30.9

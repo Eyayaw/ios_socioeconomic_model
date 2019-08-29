@@ -1,0 +1,954 @@
+iso3,country,unemployment_rate,year,indicator,indicator.label,note_source.label
+ALB,Albania,12.9,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December
+ALB,Albania,12.3,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December
+ALB,Albania,14.9,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December
+ALB,Albania,17.7,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December
+ALB,Albania,18.4,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December
+ALB,Albania,16.8,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December
+ALB,Albania,16.4,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December
+ALB,Albania,15.8,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December
+ALB,Albania,15,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December
+ALB,Albania,14.4,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December
+ALB,Albania,14.1,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December
+ALB,Albania,13.8,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December
+ALB,Albania,15.9663,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,13.0599,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,13.6739,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,14.086,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,13.4809,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,13.3759,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,15.8659,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,17.49,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 74 years old
+ALB,Albania,17.082631856,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 74 years old
+ALB,Albania,13.7,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ARM,Armenia,9.8123,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,22.9738,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,18.4363,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,19.008,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,18.4429,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,17.3013,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,16.1789,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,17.4985,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,18.261,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,17.6172,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,17.7045,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+AUT,Austria,4.3473,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,5.2813,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,5.1495,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,5.5226,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,4.6977,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,4.6872,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,4.007,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,4.8493,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,4.7785,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,5.8342,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,5.6275,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,5.2428,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,4.8579,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,4.1281,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,5.3014,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,4.82,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,4.5638,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,4.865,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,5.3348,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,5.6197,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,5.7227,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,6.0138,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,5.499,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AUT,Austria,4.848,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+AZE,Azerbaijan,0.8,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+AZE,Azerbaijan,0.9,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+AZE,Azerbaijan,1.03,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+AZE,Azerbaijan,1.13,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+AZE,Azerbaijan,16.25,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: January | Age coverage - minimum age: 16 years old
+AZE,Azerbaijan,1.2,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+AZE,Azerbaijan,1.3,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+AZE,Azerbaijan,1.3,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+AZE,Azerbaijan,10.7,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+AZE,Azerbaijan,8.4,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+AZE,Azerbaijan,7.6,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+AZE,Azerbaijan,6.8,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+AZE,Azerbaijan,6.54,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 64 for males and 59 for females
+AZE,Azerbaijan,6.05,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 64 for males and 59 for females
+AZE,Azerbaijan,5.74,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,5.63,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 64 for males and 59 for females
+AZE,Azerbaijan,5.42,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 64 for males and 59 for females
+AZE,Azerbaijan,5.19,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 64 for males and 59 for females
+AZE,Azerbaijan,4.97,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 64 for males and 59 for females
+AZE,Azerbaijan,4.91,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 64 for males and 59 for females
+AZE,Azerbaijan,4.96,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 64 for males and 59 for females
+AZE,Azerbaijan,5.04,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 62 for males and 59 for females
+AZE,Azerbaijan,4.96,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Employment definition: Excluding own-use production workers | Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 62.5 for men and 59.5 for women
+AZE,Azerbaijan,4.94,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Employment definition: Excluding own-use production workers | Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+BLR,Belarus,2.9,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+BLR,Belarus,4,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+BLR,Belarus,2.8,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+BLR,Belarus,2.3,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+BLR,Belarus,2.1,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+BLR,Belarus,2.1,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+BLR,Belarus,2.3,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+BLR,Belarus,3,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+BLR,Belarus,3.1,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+BLR,Belarus,1.9,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+BLR,Belarus,1.5,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+BLR,Belarus,1.2,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+BLR,Belarus,1,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+BLR,Belarus,0.8,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: Nonstandard minimum age | Age coverage - maximum age: Nonstandard maximum age
+BLR,Belarus,0.6,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year | Age coverage - minimum age: 16 years old
+BLR,Belarus,0.5,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year | Age coverage - minimum age: 16 years old
+BLR,Belarus,0.5,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year | Age coverage - minimum age: 16 years old
+BLR,Belarus,0.5,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year | Age coverage - minimum age: 16 years old
+BLR,Belarus,1,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Age coverage - minimum age: 16 years old
+BLR,Belarus,5.84,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Population coverage: Excluding non-permanent residents | Institutional sector coverage: Private sector only | Age coverage - maximum age: 74 years old
+BLR,Belarus,5.65,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding non-permanent residents | Institutional sector coverage: Private sector only | Age coverage - maximum age: 74 years old
+BLR,Belarus,4.76,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding non-permanent residents | Age coverage - maximum age: 74 years old
+BEL,Belgium,9.3395,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,9.4828,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,8.9558,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,9.3225,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,8.6486,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,6.5864,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,6.1775,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,6.9095,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,7.6796,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,7.3634,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,8.4402,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,8.2459,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,7.4579,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,6.9756,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,7.9076,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,8.2925,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,7.1396,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,7.5417,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,8.4253,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,8.5227,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,8.482,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,7.8297,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,7.0862,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BEL,Belgium,5.9482,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BIH,Bosnia and Herzegovina,31.1099,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,28.9844,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,23.4053,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,24.0677,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,27.3118,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,27.5819,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,28.0103,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,27.5172,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,18.4002,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+BGR,Bulgaria,11.1,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - maximum age: Nonstandard maximum age
+BGR,Bulgaria,12.5,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - maximum age: Nonstandard maximum age
+BGR,Bulgaria,13.7,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: June
+BGR,Bulgaria,12.2,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: June
+BGR,Bulgaria,14.1,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: June
+BGR,Bulgaria,16.2176,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,19.9208,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,18.1095,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,13.7326,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,12.0371,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,10.0826,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,8.9507,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,6.8777,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,5.6095,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,6.8166,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,10.2794,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,11.2596,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,12.2699,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,12.9408,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,11.4238,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,9.1433,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,7.5746,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,6.1644,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,5.2114,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,20.43,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: March
+HRV,Croatia,15.0526,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,13.9238,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,13.664,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,12.5978,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,11.1296,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,9.9093,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,8.5303,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,9.2021,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,11.6203,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,13.678,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,15.9346,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,17.2511,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,17.2897,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,16.1752,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,13.1034,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,11.2081,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HRV,Croatia,8.4322,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,2.6,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Geographical coverage: Nonstandard geographical coverage
+CYP,Cyprus,3.1,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Geographical coverage: Nonstandard geographical coverage
+CYP,Cyprus,3.4,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Geographical coverage: Nonstandard geographical coverage
+CYP,Cyprus,3.3,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Geographical coverage: Nonstandard geographical coverage
+CYP,Cyprus,5.7,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Geographical coverage: Government controlled areas
+CYP,Cyprus,4.9675,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,3.984,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,3.2985,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,4.1351,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,4.3333,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,5.3037,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,4.5429,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,3.922,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,3.6547,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,5.3639,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,6.2628,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,7.8561,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,11.7952,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,15.8707,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,16.088,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,14.9084,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,12.9498,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,11.0515,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CYP,Cyprus,8.3697,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,4.024,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+CZE,Czech Republic,3.894,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+CZE,Czech Republic,4.2714,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,5.9038,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,8.4891,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,8.7619,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,7.9913,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,7.0187,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,7.5438,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,8.2096,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,7.9269,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,7.1477,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,5.3201,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,4.3925,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,6.6621,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,7.2791,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,6.7111,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,6.9782,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,6.9527,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,6.1079,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,5.0464,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.9514,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,2.8898,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,2.2433,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,6.9921,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,6.8438,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,5.4,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,5.0389,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,5.1415,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,4.476,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,4.1642,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,4.274,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,5.3984,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,5.2041,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,4.8299,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.897,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.801,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.4337,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,6.0073,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,7.4636,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,7.5727,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,7.5258,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,6.9967,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,6.5892,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,6.1683,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,6.1807,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,5.7427,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DNK,Denmark,4.9746,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,9.659,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+EST,Estonia,9.915,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+EST,Estonia,10.3692,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,9.5098,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,11.5731,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,13.3598,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,13.1345,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,10.0261,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,11.2876,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,10.2478,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,8.0331,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,5.9147,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,4.592,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,5.4549,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,13.5482,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,16.7072,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,12.3277,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,10.0211,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,8.6307,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,7.3518,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,6.1866,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,6.7617,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,5.7604,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+EST,Estonia,5.366,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,17.0046,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,15.5718,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,14.9675,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,13.2145,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,11.6933,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,11.1345,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,10.2905,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,10.4227,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,10.4693,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,10.3578,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,8.3836,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,7.7189,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,6.854,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,6.3686,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,8.2495,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,8.3944,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,7.781,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,7.6891,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,8.1934,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,8.663,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,9.3759,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,8.8184,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,8.6402,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FIN,Finland,7.3612,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,11.8356,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,12.3673,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,12.5662,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,12.0749,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,11.9808,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,10.2172,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,8.6104,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,8.7017,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,8.3065,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,8.9136,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,8.4935,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,8.4478,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,7.6567,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,7.0634,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,8.7363,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,8.8713,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,8.811,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,9.4002,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,9.9206,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,10.2922,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,10.3594,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,10.0568,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,9.3972,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+FRA,France,9.0589,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GEO,Georgia,2.4,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December
+GEO,Georgia,5,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December
+GEO,Georgia,4.2,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December
+GEO,Georgia,13.81,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+GEO,Georgia,10.82,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+GEO,Georgia,11.15,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+GEO,Georgia,12.59,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+GEO,Georgia,11.51,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+GEO,Georgia,12.62,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+GEO,Georgia,13.8,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+GEO,Georgia,13.28,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+GEO,Georgia,17.87,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding institutional population"
+GEO,Georgia,20.7102,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,20.2027,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,19.6317,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,19.6531,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,19.4158,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,17.4385,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,16.5059,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,16.6039,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,13.9389,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+DEU,Germany,8.1585,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,8.8247,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,9.8631,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,9.7883,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,8.855,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,7.9173,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,7.7727,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,8.4819,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,9.779,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,10.7267,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,11.1667,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,10.2502,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,8.6583,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,7.5245,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,7.7416,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,6.9664,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,5.8244,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,5.3794,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,5.2306,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,4.9806,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,4.6242,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,4.1218,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,3.7455,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+DEU,Germany,3.3835,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,9.062,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,9.6551,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,9.5772,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,10.8394,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,11.8528,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,11.2478,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,10.4561,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,9.9746,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,9.4121,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,10.3107,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,9.9938,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,9.0077,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,8.3965,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,7.7597,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,9.6159,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,12.7131,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,17.8647,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,24.4393,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,27.4662,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,26.4914,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,24.8971,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,23.5391,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,21.4876,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GRC,Greece,19.2916,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,10.168,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+HUN,Hungary,10.022,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,8.9905,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,8.9252,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,6.929,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,6.5631,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.6713,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.6082,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.7899,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.8321,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,7.1885,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,7.4939,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,7.4059,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,7.817,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,10.0304,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,11.1719,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,11.0291,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,11.003,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,10.1765,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,7.7253,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,6.8132,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.1149,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,4.1557,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+HUN,Hungary,3.7085,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,11.9835,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,11.7175,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,10.203,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,7.6987,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.8037,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,4.3177,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,3.6834,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,4.2154,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,4.4781,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,4.4907,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,4.3424,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,4.4146,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,4.9801,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,6.7736,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,12.6089,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,14.5328,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,15.3528,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,15.4507,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,13.7348,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,11.8573,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,9.9062,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,8.3739,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,6.7124,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.7405,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,11.669,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,11.8741,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,11.9991,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,12.1187,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,11.69,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,10.8418,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,9.5951,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,9.2075,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,8.8657,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,7.8656,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,7.7305,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,6.7766,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,6.0754,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,6.7232,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,7.7486,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,8.3625,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,8.359,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,10.6545,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,12.1487,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,12.6828,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,11.896,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,11.6882,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,11.2106,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ITA,Italy,10.61,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+KAZ,Kazakhstan,2.1,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year
+KAZ,Kazakhstan,4.2,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year
+KAZ,Kazakhstan,3.8,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year
+KAZ,Kazakhstan,3.7,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year
+KAZ,Kazakhstan,3.9,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year
+KAZ,Kazakhstan,3.7,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year
+KAZ,Kazakhstan,2.8,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year
+KAZ,Kazakhstan,9.33,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+KAZ,Kazakhstan,8.78,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+KAZ,Kazakhstan,8.4,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+KAZ,Kazakhstan,1.2,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year
+KAZ,Kazakhstan,0.9,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year
+KAZ,Kazakhstan,0.7,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: End of the year
+KAZ,Kazakhstan,6.63,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+KAZ,Kazakhstan,6.56,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,5.77,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,5.39,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,5.29,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,5.21,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,4.9710987755,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,4.9,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KGZ,Kyrgyzstan,7.5,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: November
+KGZ,Kyrgyzstan,7.8,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: November
+KGZ,Kyrgyzstan,12.55,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: November
+KGZ,Kyrgyzstan,8.53,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: November
+KGZ,Kyrgyzstan,8.12,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: November
+KGZ,Kyrgyzstan,8.27,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: November
+KGZ,Kyrgyzstan,8.42,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+KGZ,Kyrgyzstan,8.64,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+KGZ,Kyrgyzstan,8.53,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+KGZ,Kyrgyzstan,8.43,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+KGZ,Kyrgyzstan,8.33,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+KGZ,Kyrgyzstan,8.05,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+KGZ,Kyrgyzstan,7.56,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+KGZ,Kyrgyzstan,7.21,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+KGZ,Kyrgyzstan,6.89,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Employment definition: Excluding own-use production workers
+LVA,Latvia,20.93,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+LVA,Latvia,14.9,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+LVA,Latvia,14.4635,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,13.7897,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,14.2108,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,13.8211,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,13.8289,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,12.0611,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,11.7084,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,10.033,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,7.0297,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,6.0516,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,7.7389,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,17.5147,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,19.4823,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,16.2064,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,15.0467,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,11.8674,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,10.8463,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,9.873,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,9.6429,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,8.715,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LVA,Latvia,7.4123,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,16.4,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Age coverage - minimum age: 14 years old
+LTU,Lithuania,14.13,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Age coverage - minimum age: 14 years old
+LTU,Lithuania,13.711,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,13.3876,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,15.9311,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,16.8396,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,13.008,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,12.8745,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,10.6844,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,8.3246,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,5.7804,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,4.25,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,5.8259,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,13.785,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,17.8141,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,15.3904,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,13.3648,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,11.7699,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,10.6981,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,9.12,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,7.8621,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,7.0732,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LTU,Lithuania,6.1471,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.9179,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,3.2862,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.5272,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.7631,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.3898,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.3453,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.805,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.6209,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,3.675,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,5.1133,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,4.4882,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,4.7307,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,4.0652,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,5.0601,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,5.1224,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,4.3608,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,4.9015,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,5.1401,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,5.8476,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,5.8524,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,6.6686,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,6.2907,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,5.5216,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,5.5854,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,3.7,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: 16 years old | Age coverage - maximum age: 61 years old
+MLT,Malta,4.4,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: 16 years old | Age coverage - maximum age: 61 years old
+MLT,Malta,5,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: 16 years old | Age coverage - maximum age: 61 years old
+MLT,Malta,5.1,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: 16 years old | Age coverage - maximum age: 61 years old
+MLT,Malta,5.3,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: December | Age coverage - minimum age: 16 years old | Age coverage - maximum age: 61 years old
+MLT,Malta,6.3235,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,7.1073,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,6.9021,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,7.4877,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,7.3166,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,6.9233,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,6.7983,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,6.4723,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,5.9766,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,6.8888,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,6.8474,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,6.3781,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,6.1961,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,6.1056,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,5.7247,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,5.379,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,4.6871,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,4.0015,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MLT,Malta,3.7158,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MDA,"Moldova, Republic of",6.8,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+MDA,"Moldova, Republic of",7.95,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+MDA,"Moldova, Republic of",8.13,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+MDA,"Moldova, Republic of",7.29,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+MDA,"Moldova, Republic of",7.36,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+MDA,"Moldova, Republic of",5.08,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+MDA,"Moldova, Republic of",3.97,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+MDA,"Moldova, Republic of",6.4,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 76 years or older, but bounded"
+MDA,"Moldova, Republic of",7.4464,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",6.6822,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",5.5778,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",5.1043,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",3.8564,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",3.6942,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",4.185,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",4.0976,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",2.9785,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+MNE,Montenegro,19.6708,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MNE,Montenegro,19.9745,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MNE,Montenegro,19.4955,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MNE,Montenegro,17.9965,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MNE,Montenegro,17.5438,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MNE,Montenegro,17.7233,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MNE,Montenegro,16.0711,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MNE,Montenegro,15.1749,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,7.1575,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,6.4208,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,5.5106,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,4.394,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.6225,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,2.7254,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,2.1193,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,2.554,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.5934,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,4.6462,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,5.8725,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,5.0024,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,4.1527,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.6542,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,4.347,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,4.989,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,4.9773,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,5.8209,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,7.243,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,7.4158,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,6.872,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,6.0063,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,4.8386,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.8305,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,35.6,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Reference group coverage: Work applicants
+MKD,North Macedonia,38.8,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Reference group coverage: Work applicants
+MKD,North Macedonia,40.6,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Reference group coverage: Work applicants
+MKD,North Macedonia,46.6,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Reference group coverage: Work applicants
+MKD,North Macedonia,51.5,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Reference group coverage: Work applicants
+MKD,North Macedonia,53.7,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Reference group coverage: Work applicants
+MKD,North Macedonia,31.94,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: April
+MKD,North Macedonia,36.69,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: April
+MKD,North Macedonia,36.0254,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,34.9345,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,33.7613,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,32.1794,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,32.0197,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,31.3775,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,31.0164,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,28.9961,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,28.0303,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,26.0684,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,23.7244,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,22.3812,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,20.7356,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,13.338,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+POL,Poland,12.354,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+POL,Poland,10.9644,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,9.9354,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,12.2898,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,16.3131,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,18.3734,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,19.8949,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,19.3696,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,19.0728,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,17.7459,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,13.8405,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,9.6017,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,7.1176,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,8.1668,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,9.6372,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,9.6317,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,10.0877,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,10.3259,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,8.9898,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,7.501,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,6.1608,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,4.8874,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+POL,Poland,3.8455,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,7.0637,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,7.2977,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,6.5712,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,4.6524,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,4.578,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,3.8094,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,3.8284,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,4.4966,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,6.1316,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,6.3166,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,7.5817,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,7.6474,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,7.9637,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,7.5517,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,9.4319,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,10.7699,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,12.6772,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,15.5268,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,16.1834,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,13.8941,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,12.4444,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,11.0662,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,8.867,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+PRT,Portugal,6.9934,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,7.99,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: March | Age coverage - minimum age: 14 years old
+ROU,Romania,6.74,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+ROU,Romania,5.5142,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,5.6292,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,6.237,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,6.9667,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,6.5579,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,8.11,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,6.9499,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,7.7191,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,7.1744,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,7.2695,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,6.4131,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,5.7875,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,6.8589,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,6.9592,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,7.1774,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,6.7937,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,7.096,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,6.8021,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,6.8118,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,5.9014,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,4.9269,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ROU,Romania,4.1869,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+RUS,Russian Federation,9.449,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,9.665,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,11.813,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,13.261,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,13.036,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,10.581,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,8.978,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,7.875,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,8.21,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,7.763,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,7.124,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,7.055,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,6.002,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,6.205,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,8.301,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,7.3688,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,6.5355,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,5.4363,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,5.4577,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,5.1601,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,5.5709,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,5.5588,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,5.2123,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,4.8459,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,20.85,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: October
+SRB,Serbia,20.85,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: October
+SRB,Serbia,18.06,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: October
+SRB,Serbia,13.7048,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,16.1422,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,19.2176,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,22.9662,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,23.9999,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,22.1537,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,19.2234,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,17.6597,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,15.2574,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,13.477,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,12.7327,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: ILO-STATISTICS - Micro data processing
+SVK,Slovakia,13.109,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+SVK,Slovakia,11.341,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+SVK,Slovakia,11.894,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+SVK,Slovakia,12.1866,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,15.9471,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,19.0616,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,19.3825,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,18.721,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,17.1196,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,18.5994,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,16.2561,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,13.3728,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,11.1434,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,9.5076,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,12.0254,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,14.3794,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,13.6174,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,13.9633,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,14.2205,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,13.1841,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,11.4808,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,9.6702,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,8.131,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVK,Slovakia,6.5363,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,7.35,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Data reference period: May
+SVN,Slovenia,6.9078,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,6.647,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,7.3889,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,7.3244,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,6.9177,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,5.6821,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,5.922,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,6.4786,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,6.0116,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,6.5056,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,5.9502,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,4.8181,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,4.3706,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,5.8569,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,7.2362,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,8.166,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,8.8402,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,10.1023,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,9.6676,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,8.9623,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,8.0001,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,6.5644,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SVN,Slovenia,5.1078,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,22.6748,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,22.1419,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,20.6976,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,18.6736,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,15.4756,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,13.7852,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,10.3479,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,11.1461,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,11.2834,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,11.0902,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,9.1463,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,8.4522,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,8.2321,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,11.2545,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,17.8567,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,19.8597,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,21.3905,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,24.7872,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,26.0936,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,24.4413,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,22.0573,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,19.6347,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,17.2236,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+ESP,Spain,15.2547,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,8.8974,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,9.5467,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,10.3586,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,8.9408,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,7.607,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,5.4659,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,4.7303,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,4.9651,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,5.5547,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,6.6931,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,7.4857,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,7.0658,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,6.1609,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,6.2348,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,8.3509,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,8.6097,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,7.8041,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,7.9757,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,8.0521,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,7.9535,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,7.4316,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,6.99,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,6.7183,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+SWE,Sweden,6.3461,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+TJK,Tajikistan,2,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+TJK,Tajikistan,2.6,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+TJK,Tajikistan,2.7,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+TJK,Tajikistan,3.2,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+TJK,Tajikistan,3,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+TJK,Tajikistan,2.7,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+TJK,Tajikistan,2.3,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+TJK,Tajikistan,2.5,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+TJK,Tajikistan,2.4,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+TJK,Tajikistan,2,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+TJK,Tajikistan,2,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+TJK,Tajikistan,2.2,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+TJK,Tajikistan,2.5,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+TJK,Tajikistan,11.5,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Age coverage - maximum age: 75 years old
+TUR,Turkey,7.644,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+TUR,Turkey,6.629,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+TUR,Turkey,6.841,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+TUR,Turkey,6.888,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+TUR,Turkey,7.687,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+TUR,Turkey,6.495,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+TUR,Turkey,8.381,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+TUR,Turkey,10.358,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+TUR,Turkey,10.542,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+TUR,Turkey,10.838,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+TUR,Turkey,10.636,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: OECD
+TUR,Turkey,8.7183,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,8.8683,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,9.7099,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,12.5522,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,10.6597,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,8.7959,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,8.1495,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,8.7319,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,9.8798,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,10.236,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,10.8386,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,10.8192,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+TUR,Turkey,10.8902,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+TKM,Turkmenistan,4,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),NA
+UKR,Ukraine,8.59,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Age coverage - maximum age: 70 years old
+UKR,Ukraine,7.18,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Age coverage - maximum age: 70 years old
+UKR,Ukraine,8.84,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,8.1,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,7.86,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,7.53,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,7.17,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,9.27,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,9.14,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,9.35,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,9.51,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),"Employment definition: Including subsistence workers | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+GBR,United Kingdom,8.6936,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,8.1916,1996,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,7.0722,1997,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,6.2032,1998,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,6.0429,1999,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,5.5616,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,4.6955,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,5.0369,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,4.807,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,4.5942,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,4.7503,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,5.3497,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,5.262,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,5.615,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,7.5373,2009,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,7.7866,2010,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,8.0374,2011,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,7.8853,2012,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,7.5251,2013,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,6.1105,2014,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,5.3012,2015,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,4.8132,2016,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,4.3348,2017,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,3.9959,2018,UNE_DEAP_NOC_RT,Unemployment rate (%),Repository: Eurostat special tabulation
+UZB,Uzbekistan,0.4,1995,UNE_DEAP_NOC_RT,Unemployment rate (%),Reference group coverage: Work applicants
+UZB,Uzbekistan,0.4,2000,UNE_DEAP_NOC_RT,Unemployment rate (%),Reference group coverage: Work applicants
+UZB,Uzbekistan,0.4,2001,UNE_DEAP_NOC_RT,Unemployment rate (%),Reference group coverage: Work applicants
+UZB,Uzbekistan,0.4,2002,UNE_DEAP_NOC_RT,Unemployment rate (%),Reference group coverage: Work applicants
+UZB,Uzbekistan,0.3,2003,UNE_DEAP_NOC_RT,Unemployment rate (%),Reference group coverage: Work applicants
+UZB,Uzbekistan,0.4,2004,UNE_DEAP_NOC_RT,Unemployment rate (%),Reference group coverage: Work applicants
+UZB,Uzbekistan,0.3,2005,UNE_DEAP_NOC_RT,Unemployment rate (%),Reference group coverage: Work applicants
+UZB,Uzbekistan,0.2,2006,UNE_DEAP_NOC_RT,Unemployment rate (%),Reference group coverage: Work applicants
+UZB,Uzbekistan,0.3,2007,UNE_DEAP_NOC_RT,Unemployment rate (%),Reference group coverage: Work applicants
+UZB,Uzbekistan,0.4,2008,UNE_DEAP_NOC_RT,Unemployment rate (%),Reference group coverage: Work applicants

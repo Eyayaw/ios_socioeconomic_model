@@ -1,0 +1,1105 @@
+iso3,country,emp_pop_ratio,year,indicator,indicator.label,source.label
+ALB,Albania,52.295,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,51.537,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,52.158,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,51.912,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,51.327,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,51.599,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,51.32,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,50.866,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,49.819,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,48.908,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,48.132,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,47.541,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,46.994,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,47.866,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,47.077,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,46.626,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,48.204,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,49.76,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,45.14,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,44.851,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,46.809,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,47.725,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,48.458,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ALB,Albania,48.269,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ALB - ILO - ILO modelled estimates
+ARM,Armenia,54.235,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,52.407,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,51.236,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,51.734,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,50.403,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,50.067,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,49.788,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,49.575,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,49.599,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,49.551,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,49.826,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,50.244,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,50.721,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,47.122,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,46.38,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,48.225,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,49.414,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,49.907,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,50.925,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,49.906,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,48.873,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,48.334,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,48.188,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+ARM,Armenia,48.389,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ARM - ILO - ILO modelled estimates
+AUT,Austria,56.485,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,55.441,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,55.199,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,55.254,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,55.873,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,55.772,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,55.63,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,55.983,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,55.946,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,53.497,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,54.835,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,55.428,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,56.497,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,57.192,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,56.797,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,57.068,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,57.281,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,57.363,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,57.211,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,56.78,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,56.661,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,56.793,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,57.039,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AUT,Austria,57.344,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AUT - ILO - ILO modelled estimates
+AZE,Azerbaijan,59.227,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,58.671,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,57.905,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,57.085,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,56.341,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,55.682,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,56.127,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,56.592,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,56.991,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,57.752,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,58.226,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,58.722,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,58.905,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,59.404,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,59.835,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,60.168,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,60.524,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,60.938,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,61.339,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,61.858,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,62.265,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,62.935,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,63.237,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+AZE,Azerbaijan,62.872,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",AZE - ILO - ILO modelled estimates
+BLR,Belarus,48.671,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,44.611,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,48.776,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,50.527,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,51.23,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,52.016,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,52.656,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,53.195,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,53.949,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,54.817,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,55.657,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,56.556,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,57.461,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,58.308,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,58.771,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,59.2,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,59.506,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,59.815,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,60.126,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,60.347,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,60.473,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,60.51,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,60.361,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BLR,Belarus,60.046,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BLR - ILO - ILO modelled estimates
+BEL,Belgium,45.692,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,45.55,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,45.897,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,45.962,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,47.361,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,48.762,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,47.588,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,47.421,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,47.133,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,47.95,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,48.683,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,48.633,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,49.578,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,49.861,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,49.162,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,49.493,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,49.283,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,49.131,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,48.986,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,48.986,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,48.912,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,49.064,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,49.595,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BEL,Belgium,49.905,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BEL - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,39.666,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,39.128,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,38.493,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,37.964,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,37.029,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,36.467,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,35.86,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,35.19,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,34.673,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,34.171,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,33.969,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,33.545,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,34.485,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,37.113,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,36.706,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,35.027,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,34.72,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,34.294,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,34.318,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,34.032,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,33.816,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,34.848,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,37.309,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BIH,Bosnia and Herzegovina,37.056,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BIH - ILO - ILO modelled estimates
+BGR,Bulgaria,47.586,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,46.674,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,45.754,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,45.693,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,43.811,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,41.79,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,41.358,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,41.9,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,43.373,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,44.926,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,45.299,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,47.641,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,50.094,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,52.037,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,50.626,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,47.918,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,46.618,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,46.561,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,46.892,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,47.964,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,49.227,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,49.406,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,52.04,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+BGR,Bulgaria,52.439,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",BGR - ILO - ILO modelled estimates
+HRV,Croatia,49.905,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,49.742,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,49.357,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,48.107,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,46.638,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,45.028,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,44.858,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,44.42,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,45.044,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,46.181,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,46.584,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,46.851,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,47.843,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,48.739,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,48.365,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,46.558,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,44.786,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,43.22,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,42.097,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,43.358,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,44.335,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,44.741,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,46.07,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+HRV,Croatia,47.113,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HRV - ILO - ILO modelled estimates
+CYP,Cyprus,58.017,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,57.985,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,58.017,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,57.455,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,57.09,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,57.796,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,59.639,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,59.973,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,60.442,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,60.675,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,59.674,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,60.35,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,61.08,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,61.095,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,60.186,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,60.054,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,58.227,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,55.419,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,52.742,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,53.072,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,53.296,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,53.969,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,55.404,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CYP,Cyprus,57.13,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CYP - ILO - ILO modelled estimates
+CZE,Czech Republic,58.934,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,58.676,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,57.914,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,56.918,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,55.445,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,54.856,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,54.968,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,55.434,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,54.892,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,54.276,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,54.782,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,55.079,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,55.725,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,55.916,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,54.698,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,54.102,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,54.318,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,54.567,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,55.227,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,55.809,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,56.612,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,57.764,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,58.702,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+CZE,Czech Republic,58.798,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",CZE - ILO - ILO modelled estimates
+DNK,Denmark,60.781,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,60.923,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,62.226,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,62.164,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,62.783,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,62.825,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,62.683,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,63.272,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,61.98,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,62.577,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,62.68,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,63.674,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,63.345,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,63.783,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,61.398,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,59.563,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,59.114,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,58.42,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,57.964,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,57.995,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,58.197,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,59.394,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,58.459,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+DNK,Denmark,58.863,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DNK - ILO - ILO modelled estimates
+EST,Estonia,55.796,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,55.133,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,55.178,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,54.683,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,52.373,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,51.118,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,50.467,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,51.138,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,52.198,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,52.875,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,53.913,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,56.994,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,57.887,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,58.003,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,52.629,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,50.416,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,53.657,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,55.136,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,55.995,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,56.656,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,58.349,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,58.69,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,59.956,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+EST,Estonia,59.873,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",EST - ILO - ILO modelled estimates
+FIN,Finland,49.658,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,49.958,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,51.001,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,52.14,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,53.701,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,54.233,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,54.92,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,54.922,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,54.642,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,54.282,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,55.519,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,56.316,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,57.103,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,57.597,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,55.454,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,54.817,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,55.167,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,55.073,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,54.209,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,53.769,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,53.31,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,53.316,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,53.664,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FIN,Finland,53.997,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FIN - ILO - ILO modelled estimates
+FRA,France,48.668,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,48.714,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,48.299,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,48.629,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,48.916,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,49.869,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,50.49,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,50.644,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,51.471,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,51.057,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,51.386,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,51.299,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,51.844,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,52.253,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,51.46,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,51.289,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,51.069,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,50.884,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,50.545,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,49.967,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,49.82,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,49.848,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,50.061,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+FRA,France,50.004,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",FRA - ILO - ILO modelled estimates
+GEO,Georgia,62.648,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,59.305,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,58.668,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,56.412,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,56.655,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,56.637,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,58.498,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,55.669,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,57.473,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,55.586,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,54.622,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,54.769,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,55.009,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,52.193,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,52.035,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,53.558,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,54.533,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,55.652,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,55.375,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,57.312,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,58.528,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,58.069,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,58.053,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+GEO,Georgia,58.034,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GEO - ILO - ILO modelled estimates
+DEU,Germany,53.447,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,52.853,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,52.418,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,52.448,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,53.165,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,53.471,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,53.461,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,52.951,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,52.247,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,51.416,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,51.932,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,52.818,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,54.069,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,54.759,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,54.764,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,55.301,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,56.528,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,56.761,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,57.166,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,57.37,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,57.492,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,57.999,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,58.386,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+DEU,Germany,58.542,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",DEU - ILO - ILO modelled estimates
+GRC,Greece,46.955,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,47.249,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,47.097,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,47.256,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,47.061,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,47.36,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,46.881,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,47.419,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,48.042,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,48.292,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,48.28,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,49.051,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,49.303,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,49.643,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,49.05,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,47.49,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,44.206,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,40.509,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,38.689,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,38.946,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,39.871,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,40.646,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,41.68,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+GRC,Greece,42.661,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GRC - ILO - ILO modelled estimates
+HUN,Hungary,44.411,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,43.275,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,42.983,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,43.593,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,45.368,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,45.775,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,45.984,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,46.033,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,46.743,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,46.483,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,46.542,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,46.77,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,46.628,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,46.097,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,44.968,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,44.859,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,45.156,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,45.901,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,46.758,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,49.495,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,51.078,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,52.901,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,53.916,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+HUN,Hungary,54.095,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",HUN - ILO - ILO modelled estimates
+IRL,Ireland,49.817,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,50.673,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,52.171,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,55.455,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,58.064,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,59.829,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,60.133,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,59.928,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,59.945,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,60.193,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,62.224,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,62.888,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,63.085,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,61.336,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,56.104,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,53.832,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,52.739,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,52.408,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,53.731,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,54.674,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,55.817,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,56.948,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,57.723,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+IRL,Ireland,57.99,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",IRL - ILO - ILO modelled estimates
+ITA,Italy,41.81,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,41.8,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,41.711,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,41.843,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,42.242,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,42.646,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,43.397,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,43.973,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,44.503,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,45.682,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,45.212,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,45.617,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,45.684,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,45.643,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,44.53,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,43.958,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,43.854,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,43.527,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,42.446,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,42.353,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,42.612,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,43.137,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,43.616,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+ITA,Italy,43.918,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ITA - ILO - ILO modelled estimates
+KAZ,Kazakhstan,63.664,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,62.148,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,62.01,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,61.931,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,61.621,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,61.911,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,63.186,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,63.677,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,63.695,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,63.413,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,63.849,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,64.271,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,64.896,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,65.652,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,65.427,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,66.272,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,66.567,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,66.74,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,66.941,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,67.302,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,67.421,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,67.48,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,67.467,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KAZ,Kazakhstan,67.339,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KAZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,61.072,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,59.835,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,59.499,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,58.622,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,58.936,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,59.442,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,59.213,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,56.29,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,57.648,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,58.247,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,59.588,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,60.251,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,59.856,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,59.227,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,58.474,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,58.545,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,59.033,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,58.541,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,57.31,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,57.374,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,57.693,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,57.175,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,57.403,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+KGZ,Kyrgyzstan,57.157,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",KGZ - ILO - ILO modelled estimates
+LVA,Latvia,48.786,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,47.534,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,51.005,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,50.321,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,49.6,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,48.088,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,48.547,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,49.805,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,50.094,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,50.55,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,51.517,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,54.859,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,56.559,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,56.733,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,49.567,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,47.493,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,49.144,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,50.825,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,52.402,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,52.938,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,54.295,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,54.875,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,55.936,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LVA,Latvia,56.249,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LVA - ILO - ILO modelled estimates
+LTU,Lithuania,50.891,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,51.379,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,52.53,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,52.545,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,52.932,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,50.545,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,48.841,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,50.52,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,52.405,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,51.033,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,51.505,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,52.043,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,53.215,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,52.651,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,48.852,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,46.817,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,48.947,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,50.384,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,51.423,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,52.786,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,53.859,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,55.769,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,56.604,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LTU,Lithuania,57.346,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LTU - ILO - ILO modelled estimates
+LUX,Luxembourg,48.824,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,49.142,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,49.715,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,49.783,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,50.815,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,52.12,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,51.866,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,52.452,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,51.242,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,51.332,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,52.337,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,52.663,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,52.764,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,52.224,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,54.344,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,54.496,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,54.067,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,55.034,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,54.879,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,55.572,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,55.404,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,54.318,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,55.009,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+LUX,Luxembourg,54.936,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",LUX - ILO - ILO modelled estimates
+MLT,Malta,45.988,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,46.197,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,46.271,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,46.459,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,46.503,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,46.965,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,46.919,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,46.671,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,46.031,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,44.724,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,45.023,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,45.241,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,46.072,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,46.396,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,46.057,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,46.659,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,47.71,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,48.393,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,49.42,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,50.569,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,51.273,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,52.074,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,52.336,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MLT,Malta,52.215,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MLT - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",48.717,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",47.462,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",47.175,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",46.259,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",45.696,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",46.853,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",47.069,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",46.921,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",46.072,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",45.759,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",44.876,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",43.488,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",43.218,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",42.347,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",39.927,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",38.623,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",39.493,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",38.482,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",39.346,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",39.708,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",42.474,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",41.004,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",40.615,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MDA,"Moldova, Republic of",40.621,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MDA - ILO - ILO modelled estimates
+MNE,Montenegro,36.806,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,36.725,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,36.435,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,36.264,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,35.966,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,35.768,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,35.764,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,35.306,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,35.086,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,35.173,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,35.29,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,38.018,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,40.531,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,41.488,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,40.279,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,39.74,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,39.439,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,39.569,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,40.22,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,41.356,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,41.98,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,41.915,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,42.692,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+MNE,Montenegro,42.833,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MNE - ILO - ILO modelled estimates
+NLD,Netherlands,54.254,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,55.194,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,56.925,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,58.315,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,59.536,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,61.125,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,62.122,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,62.451,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,61.779,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,61.286,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,61.322,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,62.177,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,63.475,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,64.336,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,64.099,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,61.813,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,60.938,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,60.834,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,59.829,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,59.267,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,59.667,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,59.887,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,60.505,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+NLD,Netherlands,60.915,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",NLD - ILO - ILO modelled estimates
+MKD,North Macedonia,35.083,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,34.961,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,34.597,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,35.075,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,35.874,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,36.054,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,37.026,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,36.358,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,34.064,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,33.853,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,33.838,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,34.532,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,35.427,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,36.457,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,37.57,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,37.816,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,38.061,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,38.027,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,39.585,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,40.22,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,41.043,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,41.928,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,42.806,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+MKD,North Macedonia,43.181,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",MKD - ILO - ILO modelled estimates
+POL,Poland,50.744,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,50.735,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,50.651,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,50.82,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,48.837,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,47.094,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,46.211,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,44.515,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,44.325,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,44.142,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,45.305,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,46.696,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,48.84,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,50.708,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,50.741,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,50.53,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,50.673,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,50.708,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,50.64,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,51.732,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,52.43,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,53.357,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,54.336,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+POL,Poland,54.768,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",POL - ILO - ILO modelled estimates
+PRT,Portugal,54.324,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,54.443,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,55.438,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,57.713,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,57.824,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,58.45,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,59.053,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,59.168,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,58.141,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,57.66,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,57.268,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,57.418,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,57.312,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,57.353,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,55.473,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,54.475,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,52.718,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,50.698,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,49.623,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,50.612,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,51.336,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,52.069,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,53.83,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+PRT,Portugal,54.679,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",PRT - ILO - ILO modelled estimates
+ROU,Romania,62.871,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,61.456,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,62.38,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,61.389,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,60.887,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,59.781,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,58.749,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,52.606,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,51.639,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,50.829,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,49.645,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,50.502,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,50.757,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,50.816,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,50.07,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,51.141,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,50.242,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,50.873,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,50.553,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,50.96,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,50.618,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,50.414,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,52.15,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+ROU,Romania,52.142,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ROU - ILO - ILO modelled estimates
+RUS,Russian Federation,55.744,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,54.633,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,52.068,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,50.431,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,53.293,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,54.809,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,54.625,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,55.794,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,55.267,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,55.89,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,56.623,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,56.895,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,58.312,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,58.59,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,57.334,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,57.882,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,58.61,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,59.296,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,59.189,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,59.434,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,59.204,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,59.36,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,59.161,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+RUS,Russian Federation,59.056,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",RUS - ILO - ILO modelled estimates
+SRB,Serbia,49.285,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,49.244,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,48.644,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,48.566,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,48.807,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,49.11,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,48.732,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,47.868,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,46.845,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,44.728,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,43.226,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,43.069,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,44.57,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,46.267,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,43.674,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,41.098,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,39.18,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,38.98,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,40.587,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,42.36,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,42.689,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,45.652,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,47.133,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SRB,Serbia,46.875,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SRB - ILO - ILO modelled estimates
+SVK,Slovakia,52.071,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,53.367,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,52.549,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,52.051,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,49.892,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,48.361,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,48.737,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,48.617,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,49.922,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,49.013,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,49.882,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,51.197,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,52.208,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,53.56,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,51.661,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,50.334,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,50.725,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,50.864,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,50.78,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,51.462,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,52.759,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,54.245,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,55.1,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVK,Slovakia,55.698,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVK - ILO - ILO modelled estimates
+SVN,Slovenia,53.636,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,53.63,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,54.457,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,54.912,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,53.84,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,53.412,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,54.257,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,54.556,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,52.808,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,55.427,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,55.356,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,55.755,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,56.883,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,56.882,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,55.946,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,54.947,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,53.318,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,52.611,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,51.631,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,52.116,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,52.226,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,52.143,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,54.625,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+SVN,Slovenia,54.765,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SVN - ILO - ILO modelled estimates
+ESP,Spain,38.645,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,39.175,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,40.288,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,41.613,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,43.707,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,45.533,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,46.728,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,47.709,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,48.648,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,49.526,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,51.623,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,52.75,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,53.321,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,52.214,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,48.496,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,47.509,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,46.582,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,44.568,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,43.537,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,44.209,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,45.473,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,46.693,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,47.748,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+ESP,Spain,48.463,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",ESP - ILO - ILO modelled estimates
+SWE,Sweden,58.03,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,57.492,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,56.566,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,57.181,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,58.193,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,58.952,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,59.629,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,59.389,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,59.059,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,58.166,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,58.16,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,58.816,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,59.713,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,59.815,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,58.001,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,57.709,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,58.431,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,58.383,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,58.729,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,58.877,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,59.227,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,59.555,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,59.964,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+SWE,Sweden,60.18,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",SWE - ILO - ILO modelled estimates
+TJK,Tajikistan,37.914,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,36.613,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,36.414,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,35.325,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,35.797,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,36.132,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,36.28,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,36.33,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,36.471,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,36.755,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,37.014,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,37.576,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,38.048,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,38.24,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,38.15,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,38.209,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,38.318,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,38.315,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,38.296,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,38.405,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,38.579,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,38.765,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,38.899,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TJK,Tajikistan,38.868,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TJK - ILO - ILO modelled estimates
+TUR,Turkey,49.385,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,49.48,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,48.157,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,48.269,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,47.74,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,45.626,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,44.528,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,43.272,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,41.995,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,40.979,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,41.133,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,41.128,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,41.083,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,41.342,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,40.783,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,42.614,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,44.498,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,44.766,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,45.314,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,45.184,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,45.786,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,46.161,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,46.908,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TUR,Turkey,46.801,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TUR - ILO - ILO modelled estimates
+TKM,Turkmenistan,57.365,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,56.2,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,55.966,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,55.318,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,55.058,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,55.719,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,56.406,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,56.919,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,57.466,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,58.076,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,58.648,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,59.351,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,60.052,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,60.722,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,60.961,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,61.411,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,61.655,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,61.942,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,62.213,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,62.502,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,62.692,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,62.775,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,62.83,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+TKM,Turkmenistan,62.678,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",TKM - ILO - ILO modelled estimates
+UKR,Ukraine,56.415,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,54.536,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,52.992,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,50.772,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,49.559,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,50.304,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,49.784,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,50.096,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,50.491,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,50.504,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,51.152,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,51.226,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,51.394,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,51.368,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,50.086,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,50.547,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,50.896,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,50.785,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,51.567,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,49.262,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,49.596,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,49.268,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,49.057,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+UKR,Ukraine,48.91,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UKR - ILO - ILO modelled estimates
+GBR,United Kingdom,55.53,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,55.879,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,56.723,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,57.155,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,57.549,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,58.023,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,58.125,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,58.161,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,58.413,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,58.586,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,58.813,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,58.757,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,58.664,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,58.695,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,57.344,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,57.019,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,56.78,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,57.09,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,57.451,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,58.403,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,58.941,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,59.349,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,59.61,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+GBR,United Kingdom,59.853,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",GBR - ILO - ILO modelled estimates
+UZB,Uzbekistan,57.803,1995,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,56.047,1996,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,55.967,1997,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,54.507,1998,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,54.543,1999,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,55.319,2000,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,56.054,2001,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,56.587,2002,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,57.244,2003,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,58.019,2004,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,58.813,2005,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,59.594,2006,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,60.254,2007,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,60.466,2008,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,60.552,2009,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,60.561,2010,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,61.041,2011,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,61.342,2012,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,61.597,2013,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,61.675,2014,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,61.821,2015,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,61.947,2016,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,62.181,2017,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates
+UZB,Uzbekistan,62.074,2018,EMP_2WAP_NOC_RT,"Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)",UZB - ILO - ILO modelled estimates

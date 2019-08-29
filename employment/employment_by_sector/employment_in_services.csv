@@ -1,0 +1,904 @@
+iso3,country,employment_in_services,year,indicator,indicator.label,note_source.label
+ALB,Albania,21.44,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+ALB,Albania,20.16,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+ALB,Albania,21.05,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+ALB,Albania,20.46,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+ALB,Albania,19.15,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+ALB,Albania,21.54,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+ALB,Albania,21.35,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+ALB,Albania,28.37,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+ALB,Albania,28.51,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+ALB,Albania,27.6,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+ALB,Albania,27.79,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+ALB,Albania,28.45,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+ALB,Albania,40.8,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,37.56,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,36.01,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,37.32,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,35.75,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,36.6,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,38.77,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,39.41,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ALB,Albania,39.92,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ALB,Albania,42.44,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ARM,Armenia,37.76,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+ARM,Armenia,44.5,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Including armed forces and/or conscripts | Age coverage - minimum age: 16 years old
+ARM,Armenia,47.51,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,43.47,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,43.99,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,44.38,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,45.07,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,46.72,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,48.45,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,48.76,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,50.62,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,51.95,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+AUT,Austria,60.56,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,62.27,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,63.47,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,63.95,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,64.01,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,63.92,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,64.83,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,65.39,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,65.58,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,68.25,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,67.15,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,66.59,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,67.15,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,68.51,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,69.71,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,69.88,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,69.04,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,69.24,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,69.52,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,69.41,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,69.7,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,70.09,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,71.15,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,70.87,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+AZE,Azerbaijan,35.78,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Including armed forces and/or conscripts
+AZE,Azerbaijan,37.71,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Including armed forces and/or conscripts
+AZE,Azerbaijan,42.32,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Including armed forces and/or conscripts
+AZE,Azerbaijan,46.58,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+AZE,Azerbaijan,46.51,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+AZE,Azerbaijan,48.11,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+AZE,Azerbaijan,49.22,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+AZE,Azerbaijan,48.29,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+AZE,Azerbaijan,48.9,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,48.56,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+AZE,Azerbaijan,48.61,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+AZE,Azerbaijan,48.1,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,48.83,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,48.9,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+AZE,Azerbaijan,49.28,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Employment definition: Excluding own-use production workers | Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,49.02,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Employment definition: Excluding own-use production workers | Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+BEL,Belgium,69.07,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,69.62,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,69.8,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,70.52,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,71.84,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,72.28,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,73.13,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,72.43,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,73.36,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,72.84,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,73.27,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,73.34,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,73.7,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,73.77,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,75.04,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,75.27,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,75.47,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,77.07,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,76.94,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,77.39,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,77.39,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,77.49,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,78.08,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,77.94,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,42.65,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+BGR,Bulgaria,43.06,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+BGR,Bulgaria,42.65,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+BGR,Bulgaria,43.19,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+BGR,Bulgaria,45.37,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+BGR,Bulgaria,53.68,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,57.46,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,56.57,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,56.69,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,56.23,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,56.78,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,57.42,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,56.96,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,56.1,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,57.67,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,60.21,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,61.77,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,62.24,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,63.15,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,62.88,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,63.25,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,63.46,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,63.09,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,63.31,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+BIH,Bosnia and Herzegovina,48.67,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,47.59,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,46.95,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,47.26,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,49.42,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,51.49,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,49.08,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,52.92,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,50.77,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,52.14,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BLR,Belarus,59.24,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Age coverage - minimum age: 16 years old
+BLR,Belarus,58.71,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding non-permanent residents | Institutional sector coverage: Private sector only | Age coverage - maximum age: 74 years old
+BLR,Belarus,58.5,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding non-permanent residents | Institutional sector coverage: Private sector only | Age coverage - maximum age: 74 years old
+BLR,Belarus,58.04,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding non-permanent residents
+CYP,Cyprus,62.96,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+CYP,Cyprus,70.83,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,71.47,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,71.56,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,71.94,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,71.52,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,71.21,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,73.09,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,73.1,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,72.72,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,74.25,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,75.8,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,75.27,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,76.92,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,79.33,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,79.05,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,79.78,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,79.31,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,80.43,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,81.17,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,51.08,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: OECD
+CZE,Czech Republic,51.75,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: OECD
+CZE,Czech Republic,52.62,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,52.93,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,54.09,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,54.79,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,54.58,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,54.92,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,55.61,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,56.25,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,56.52,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,56.26,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,56.19,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,56.3,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,58.31,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,58.91,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,58.55,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,58.83,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,59.46,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,59.21,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,59.04,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,59.02,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,59.13,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,59.7,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,60.83,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,61.8,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,62.38,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,62.83,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,63.3,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,63.83,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,64.6,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,65.15,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,66.2,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,66.39,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,67.79,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,68.08,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,67.85,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,68.87,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,69.52,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,70.04,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,70.12,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,70.25,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,70.78,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,70.52,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,70.92,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,71.31,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,71.32,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,71.41,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,68.41,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,69.62,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,69.73,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,69.66,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,69.5,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,70.76,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,70.91,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,73.12,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,73.41,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,72.88,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,72.81,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,73.49,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,73.45,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,74.36,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,77.08,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,77.93,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,77.65,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,77.6,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,77.83,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,78.06,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,77.97,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,78.06,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,78.22,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,78.94,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,60.81,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,62.17,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,62.04,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,61.79,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,62.11,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,62.48,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,61.99,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,62.96,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,63.58,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,64.31,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,65.13,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,65.79,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,66.37,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,68.13,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,71.29,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,72.83,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,74.14,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,75.11,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,75.95,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,76.31,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,75.97,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,76.17,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,75.59,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,75.46,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,55.59,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Including armed forces and/or conscripts | Age coverage - maximum age: 69 years old
+EST,Estonia,56.63,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Including armed forces and/or conscripts | Age coverage - maximum age: 69 years old
+EST,Estonia,56.84,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,57.75,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,59.78,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,58.65,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,59.9,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,63.6,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,63.06,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,60.98,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,60.69,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,61.36,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,60.04,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,60.72,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,64.4,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,65.37,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,63.11,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,64.35,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,65.4,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,65.91,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,65.3,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,66.21,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,66.24,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,67.06,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,64.6,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,64.27,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,64.57,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,64.48,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,65.7,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,65.68,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,66.88,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,67.17,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,67.75,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,68.68,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,69.21,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,69.41,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,69.58,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,70,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,71.16,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,71.91,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,72.46,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,72.74,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,72.71,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,73.5,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,73.81,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,73.73,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,73.94,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,73.74,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,68.13,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,68.64,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,68.78,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,69.24,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,69.44,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,69.56,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,69.88,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,70.46,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,71.05,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,71.67,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,72.32,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,72.33,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,73.1,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,73.62,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,74.05,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,74.48,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,74.61,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,74.99,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,75.01,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,75.84,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,75.93,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,75.84,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,75.95,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+FRA,France,76.1,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,70.19,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,70.3,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,71.04,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,71.4,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,72.43,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,73.11,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,73.75,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,74.54,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,75.28,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,76.22,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,76.2,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,76.37,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,76.19,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,76.66,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,78.75,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,79,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,79.05,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,78.97,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,79.34,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,79.1,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,79.66,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,79.99,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,80.14,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,80.33,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GEO,Georgia,41.19,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,38.26,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,37.97,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,37.9,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,38.01,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,36.74,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,37.14,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,36.36,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,35.64,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,36.19,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,40.44,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,41.26,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,40.3,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,41.88,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,41.67,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,42.7,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,44.75,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,44.13,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,43.7,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GRC,Greece,56.37,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,56.85,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,57.69,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,58.87,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,59.61,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,60,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,61.07,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,61.97,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,62.42,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,65.17,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,65.45,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,66.26,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,66.23,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,66.64,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,67.17,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,68.02,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,69.96,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,70.45,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,70.75,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,71.45,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,72.16,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,72.38,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,72.51,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,72.48,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,50.91,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: November | Population coverage: Including armed forces and/or conscripts
+HRV,Croatia,52.69,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: June | Population coverage: Including armed forces and/or conscripts
+HRV,Croatia,52.9,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: March
+HRV,Croatia,54.62,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,52.84,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,53.38,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,54.05,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,56.36,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,56.98,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,56.31,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,57.66,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,58.25,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,57.4,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,59.75,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,61.51,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,63.38,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,63.95,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,65.3,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,66.51,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,66.21,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,59.4,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts | Age coverage - maximum age: 74 years old
+HUN,Hungary,58.53,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,58.96,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,57.88,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,58.69,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,59.76,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,59.39,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,59.74,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,61.22,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,61.79,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,62.66,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,62.92,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,62.9,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,63.46,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,64.23,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,64.76,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,64.28,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,65.14,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,65.33,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,64.57,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,64.67,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,64.47,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,63.44,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,62.73,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,60.01,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,61.22,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,60.36,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,62.22,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,63.06,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,63.59,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,63.96,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,65.34,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,65.76,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,66,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,66.49,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,66.14,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,68.5,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,71.16,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,74.29,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,75.83,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,76.63,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,77.12,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,76.93,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,77.13,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,76.32,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,75.93,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,75.84,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,76.15,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,59.76,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,60.52,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,61.5,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,61.5,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,62.2,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,62.98,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,63.06,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,63.48,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,63.52,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,65.03,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,65.12,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,65.68,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,65.9,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,66.5,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,67.07,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,67.62,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,68.03,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,68.72,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,69.35,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,69.45,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,69.65,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,69.99,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,70.21,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,70.14,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+KAZ,Kazakhstan,48.14,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,48.24,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,47.79,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,49.09,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,49.59,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,50.02,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,49.85,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,50.92,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,52.34,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,53,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,54.58,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,55.08,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,55.98,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,58.21,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+KAZ,Kazakhstan,61.43,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,62.77,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+KAZ,Kazakhstan,64.78,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KGZ,Kyrgyzstan,36.09,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+KGZ,Kyrgyzstan,38.28,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+KGZ,Kyrgyzstan,38.19,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+KGZ,Kyrgyzstan,37.95,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+KGZ,Kyrgyzstan,36.06,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+KGZ,Kyrgyzstan,36.45,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+KGZ,Kyrgyzstan,36.73,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+KGZ,Kyrgyzstan,38.91,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,41.74,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,43.51,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,43.92,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,44.33,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,45.25,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,45.34,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,48.2,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+KGZ,Kyrgyzstan,48.12,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+KGZ,Kyrgyzstan,47.98,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+KGZ,Kyrgyzstan,49.79,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+KGZ,Kyrgyzstan,51.12,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+KGZ,Kyrgyzstan,53.83,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+LTU,Lithuania,50.82,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts | Age coverage - minimum age: 14 years old
+LTU,Lithuania,51.37,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,52.94,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,53.98,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,55.79,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,53.99,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,54.05,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,55.51,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,56.67,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,56.6,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,58.13,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,61.42,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,64.17,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,66.61,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,66.96,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,66.12,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,66.05,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,66.11,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,65.86,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,66.89,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,67.08,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,67.05,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,70.46,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,74.29,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,74.22,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,75.17,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,75.76,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,76.62,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,76.81,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,77.83,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,77.78,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,78.98,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,80.86,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,81.4,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,81.2,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,82.96,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,83.67,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,81.15,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,82.79,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,84.13,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,83.98,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,85.7,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,78.89,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,77.36,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,73.17,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,79.21,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,55.41,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+LVA,Latvia,52.43,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+LVA,Latvia,53.92,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,56.75,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,58.32,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,58.23,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,58.24,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,58.68,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,59.76,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,61.47,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,61.12,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,61.11,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,62.62,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,66.89,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,68.29,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,68.18,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,68.12,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,67.95,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,68.62,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,68.39,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,68.15,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,69.79,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,69.23,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MDA,"Moldova, Republic of",42.11,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+MDA,"Moldova, Republic of",43.68,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+MDA,"Moldova, Republic of",39.71,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+MDA,"Moldova, Republic of",37.47,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+MDA,"Moldova, Republic of",35.24,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+MDA,"Moldova, Republic of",35.06,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+MDA,"Moldova, Republic of",35.91,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+MDA,"Moldova, Republic of",40.94,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+MDA,"Moldova, Republic of",43.26,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+MDA,"Moldova, Republic of",43.3,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+MDA,"Moldova, Republic of",48.21,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+MDA,"Moldova, Republic of",48.49,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+MDA,"Moldova, Republic of",49.26,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+MDA,"Moldova, Republic of",52.55,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 76 years or older, but bounded"
+MDA,"Moldova, Republic of",53.83,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",53.73,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",54.27,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",53.5,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",51.63,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",48,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",49.16,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",51.02,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",47.39,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MKD,North Macedonia,42.78,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: April
+MKD,North Macedonia,44.05,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: April
+MKD,North Macedonia,47.24,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,50.42,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,51.25,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,52.82,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,50.88,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,51.18,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,51.64,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,53.06,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,53.2,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,52.92,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,65.14,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,66.73,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,66.13,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,67.66,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,68.3,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,68.06,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,69.63,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,71.86,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,72.65,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,73.52,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,73.15,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,74.31,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,76.79,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,77.16,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,77.99,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,78.52,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,78.97,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,79.19,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,80.35,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,64.19,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: October
+MNE,Montenegro,72.14,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: October | Age coverage - maximum age: 64 years old
+MNE,Montenegro,73.77,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: October
+MNE,Montenegro,74.43,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+MNE,Montenegro,74.98,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,76.8,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,77.67,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,76.76,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,74.82,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,74.79,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,74.98,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,73.08,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,70.6,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,68.86,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,69.12,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,70.27,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,70.59,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,70.4,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,71.16,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,68.95,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,74.39,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,72.93,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,71.6,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,72.34,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,73.85,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,73.24,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,72.03,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,71.63,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,71.43,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,72.02,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,74.6,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,75.12,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,74.94,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,74.64,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,73.24,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,73.83,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,45.33,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+POL,Poland,46.24,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+POL,Poland,50.27,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,50.07,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,51.83,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,53.25,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,53.35,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,53.35,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,54.21,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,54.52,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,54.11,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,55.58,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,56.6,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,56.4,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,56.98,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,57.43,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,57.87,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,57.75,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,57.75,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,57.89,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,58.28,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,56.34,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,56.52,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,55.69,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,50.86,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,52.86,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,52.88,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,53.38,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,54.04,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,54.37,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,56.64,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,57.56,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,57.78,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,57.92,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,59.57,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,60.75,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,61.55,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,62.94,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,64.04,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,66.07,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,67.49,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,68.12,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,68.59,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,68.86,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,69.11,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,28.72,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: March | Age coverage - minimum age: 14 years old
+ROU,Romania,30.52,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+ROU,Romania,28.83,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,29.25,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,28.92,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,29,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,29.73,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,32.71,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,33.18,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,36.37,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,37.25,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,38.69,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,39.06,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,39.69,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,40.89,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,40.67,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,42.18,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,42.08,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,42.46,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,42.72,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,45.96,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,47.02,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,47.1,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,47.66,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+RUS,Russian Federation,49.98,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+RUS,Russian Federation,52.18,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+RUS,Russian Federation,57.83,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Age coverage - maximum age: 72 years old
+RUS,Russian Federation,59.18,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: October | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,55.99,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,56.27,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,57.78,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,58.5,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,58.97,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,60.37,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,60.3,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,60.87,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,61.98,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,62.5,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,64.11,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding institutional population | Age coverage - maximum age: 72 years old"
+RUS,Russian Federation,64.51,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,64.86,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,64.91,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,65.28,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,65.76,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,66.11,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,66.34,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,67.13,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,67.31,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,48.94,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: October
+SRB,Serbia,49.1,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: October
+SRB,Serbia,50.16,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: October
+SRB,Serbia,49.74,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: October
+SRB,Serbia,48.68,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,50.7,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,52.01,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,51.98,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,52.58,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,52.85,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,55.48,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,56.13,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,56.96,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,57.48,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,57.17,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SVK,Slovakia,51.87,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: OECD
+SVK,Slovakia,51.57,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: OECD
+SVK,Slovakia,51.55,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: OECD
+SVK,Slovakia,52.42,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,54.32,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,55.8,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,56.67,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,55.25,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,55.82,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,55.57,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,56.32,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,56.75,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,56.4,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,55.91,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,58.48,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,59.64,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,59.42,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,59.22,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,60.86,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,61.05,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,60.69,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,60.63,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,60.13,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,61.19,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,46.37,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: May
+SVN,Slovenia,47.74,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,47.22,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,48.2,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,51.19,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,52.41,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,50.86,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,51.25,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,54.07,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,53.3,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,53.58,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,54.68,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,54.27,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,56.04,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,57.41,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,58.37,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,59.45,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,60.32,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,60.17,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,59.09,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,60.17,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,61.31,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,60.83,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,60.78,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,71.01,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,70.82,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,71.11,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,71,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,71.95,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,72.68,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,73.44,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,74.39,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,74.77,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,75.1,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,75.43,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,75.64,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,75.83,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,76.22,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,77.41,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,77.8,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,77.75,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,77.89,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,78.37,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,78.98,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,79.16,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,79.4,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,79.61,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,79.75,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+TJK,Tajikistan,26.2,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+TJK,Tajikistan,31.06,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Age coverage - maximum age: 75 years old
+TUR,Turkey,34.35,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: October | Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,34.27,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: October | Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,35.13,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: October | Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,35.85,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: October | Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,35.81,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),Data reference period: October | Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,49.17,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,49.77,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,51.75,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,50.07,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,49.38,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,50.42,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,50.69,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,51.06,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,52.37,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,53.72,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,54.08,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,54.9,2018,EMP_TSRV_NOC_RT,Share of services in total employment (%),Repository: Eurostat special tabulation
+UKR,Ukraine,14,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+UKR,Ukraine,14.4,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+UKR,Ukraine,14.34,1997,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+UKR,Ukraine,13.99,1998,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+UKR,Ukraine,14.34,1999,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+UKR,Ukraine,13.31,2000,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+UKR,Ukraine,52.83,2001,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,54.19,2002,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,55.05,2003,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,55.74,2004,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,56.39,2005,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,58.16,2006,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,59.4,2007,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,60.72,2008,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,53.49,2009,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,53.6,2010,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,53.78,2011,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,53.88,2012,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,55.18,2013,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,59.09,2014,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,60.05,2015,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,60.16,2016,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,60.3,2017,EMP_TSRV_NOC_RT,Share of services in total employment (%),"Employment definition: Including subsistence workers | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UZB,Uzbekistan,34.86,1995,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA
+UZB,Uzbekistan,35.11,1996,EMP_TSRV_NOC_RT,Share of services in total employment (%),NA

@@ -1,0 +1,2564 @@
+country,year,values,cofog99
+Austria,2017,8.2,Health
+Belgium,2017,7.7,Health
+Bulgaria,2017,4.9,Health
+Switzerland,2017,2.2,Health
+Cyprus,2017,2.6,Health
+Czechia,2017,7.5,Health
+Germany (until 1990 former territory of the FRG),2017,7.1,Health
+Denmark,2017,8.4,Health
+Euro area (11 countries),2017,7.1,Health
+Euro area (12 countries),2017,7.1,Health
+Euro area (13 countries),2017,7.1,Health
+Euro area (15 countries),2017,7.1,Health
+Euro area (16 countries),2017,7.1,Health
+Euro area (17 countries),2017,7.1,Health
+Euro area (18 countries),2017,7.1,Health
+Euro area (19 countries),2017,7.1,Health
+Estonia,2017,5,Health
+Greece,2017,5.2,Health
+Spain,2017,6,Health
+European Union - 15 countries (1995-2004),2017,7.2,Health
+European Union - 25 countries (2004-2006),2017,7.1,Health
+European Union - 27 countries (2007-2013),2017,7,Health
+European Union - 28 countries,2017,7,Health
+Finland,2017,7.1,Health
+France,2017,8,Health
+Croatia,2017,6.3,Health
+Hungary,2017,4.8,Health
+Ireland,2017,5.1,Health
+Iceland,2017,7.6,Health
+Italy,2017,6.8,Health
+Lithuania,2017,5.7,Health
+Luxembourg,2017,4.9,Health
+Latvia,2017,3.5,Health
+Malta,2017,5.4,Health
+Netherlands,2017,7.6,Health
+Norway,2017,8.5,Health
+Poland,2017,4.7,Health
+Portugal,2017,6,Health
+Romania,2017,4.3,Health
+Sweden,2017,6.9,Health
+Slovenia,2017,6.6,Health
+Slovakia,2017,7.1,Health
+United Kingdom,2017,7.4,Health
+Austria,2017,0.2,Public health services
+Belgium,2017,0.1,Public health services
+Bulgaria,2017,0.1,Public health services
+Switzerland,2017,0.1,Public health services
+Cyprus,2017,0,Public health services
+Czechia,2017,1.3,Public health services
+Germany (until 1990 former territory of the FRG),2017,0.1,Public health services
+Denmark,2017,0.1,Public health services
+Euro area (11 countries),2017,0.1,Public health services
+Euro area (12 countries),2017,0.1,Public health services
+Euro area (13 countries),2017,0.1,Public health services
+Euro area (15 countries),2017,0.1,Public health services
+Euro area (16 countries),2017,0.1,Public health services
+Euro area (17 countries),2017,0.1,Public health services
+Euro area (18 countries),2017,0.1,Public health services
+Euro area (19 countries),2017,0.1,Public health services
+Estonia,2017,0,Public health services
+Greece,2017,0,Public health services
+Spain,2017,0.1,Public health services
+European Union - 15 countries (1995-2004),2017,0.1,Public health services
+European Union - 25 countries (2004-2006),2017,0.2,Public health services
+European Union - 27 countries (2007-2013),2017,0.2,Public health services
+European Union - 28 countries,2017,0.2,Public health services
+Finland,2017,0,Public health services
+France,2017,0.1,Public health services
+Croatia,2017,0.1,Public health services
+Hungary,2017,0.1,Public health services
+Ireland,2017,0.1,Public health services
+Iceland,2017,0,Public health services
+Italy,2017,0.3,Public health services
+Lithuania,2017,0.1,Public health services
+Luxembourg,2017,0.1,Public health services
+Latvia,2017,0.1,Public health services
+Malta,2017,0,Public health services
+Netherlands,2017,0.2,Public health services
+Norway,2017,0.2,Public health services
+Poland,2017,0.1,Public health services
+Portugal,2017,0,Public health services
+Romania,2017,0.1,Public health services
+Sweden,2017,0.2,Public health services
+Slovenia,2017,0.3,Public health services
+Slovakia,2017,0,Public health services
+United Kingdom,2017,0.2,Public health services
+Austria,2017,0.5,R&D Health
+Belgium,2017,0,R&D Health
+Bulgaria,2017,NA,R&D Health
+Switzerland,2017,0.1,R&D Health
+Cyprus,2017,0,R&D Health
+Czechia,2017,0.1,R&D Health
+Germany (until 1990 former territory of the FRG),2017,0.1,R&D Health
+Denmark,2017,0.2,R&D Health
+Euro area (11 countries),2017,0.1,R&D Health
+Euro area (12 countries),2017,0.1,R&D Health
+Euro area (13 countries),2017,0.1,R&D Health
+Euro area (15 countries),2017,0.1,R&D Health
+Euro area (16 countries),2017,0.1,R&D Health
+Euro area (17 countries),2017,0.1,R&D Health
+Euro area (18 countries),2017,0.1,R&D Health
+Euro area (19 countries),2017,0.1,R&D Health
+Estonia,2017,0.1,R&D Health
+Greece,2017,0,R&D Health
+Spain,2017,0.2,R&D Health
+European Union - 15 countries (1995-2004),2017,0.1,R&D Health
+European Union - 25 countries (2004-2006),2017,0.1,R&D Health
+European Union - 27 countries (2007-2013),2017,0.1,R&D Health
+European Union - 28 countries,2017,0.1,R&D Health
+Finland,2017,0.1,R&D Health
+France,2017,0.1,R&D Health
+Croatia,2017,0.2,R&D Health
+Hungary,2017,0,R&D Health
+Ireland,2017,0,R&D Health
+Iceland,2017,0,R&D Health
+Italy,2017,0.1,R&D Health
+Lithuania,2017,0,R&D Health
+Luxembourg,2017,0.2,R&D Health
+Latvia,2017,0,R&D Health
+Malta,2017,0,R&D Health
+Netherlands,2017,0.3,R&D Health
+Norway,2017,0.4,R&D Health
+Poland,2017,0.1,R&D Health
+Portugal,2017,0.1,R&D Health
+Romania,2017,0,R&D Health
+Sweden,2017,0.2,R&D Health
+Slovenia,2017,0.1,R&D Health
+Slovakia,2017,0,R&D Health
+United Kingdom,2017,0.2,R&D Health
+Austria,2016,8.2,Health
+Belgium,2016,7.7,Health
+Bulgaria,2016,5,Health
+Switzerland,2016,2.2,Health
+Cyprus,2016,2.6,Health
+Czechia,2016,7.4,Health
+Germany (until 1990 former territory of the FRG),2016,7.1,Health
+Denmark,2016,8.5,Health
+Euro area (11 countries),2016,7.2,Health
+Euro area (12 countries),2016,7.2,Health
+Euro area (13 countries),2016,7.2,Health
+Euro area (15 countries),2016,7.1,Health
+Euro area (16 countries),2016,7.1,Health
+Euro area (17 countries),2016,7.1,Health
+Euro area (18 countries),2016,7.1,Health
+Euro area (19 countries),2016,7.1,Health
+Estonia,2016,5.2,Health
+Greece,2016,5,Health
+Spain,2016,6.1,Health
+European Union - 15 countries (1995-2004),2016,7.2,Health
+European Union - 25 countries (2004-2006),2016,7.1,Health
+European Union - 27 countries (2007-2013),2016,7.2,Health
+European Union - 28 countries,2016,7.1,Health
+Finland,2016,7.2,Health
+France,2016,8.1,Health
+Croatia,2016,6.4,Health
+Hungary,2016,4.8,Health
+Ireland,2016,5.2,Health
+Iceland,2016,7.3,Health
+Italy,2016,6.9,Health
+Lithuania,2016,5.8,Health
+Luxembourg,2016,4.7,Health
+Latvia,2016,3.7,Health
+Malta,2016,5.4,Health
+Netherlands,2016,7.5,Health
+Norway,2016,8.7,Health
+Poland,2016,4.6,Health
+Portugal,2016,6,Health
+Romania,2016,4,Health
+Sweden,2016,6.9,Health
+Slovenia,2016,6.7,Health
+Slovakia,2016,7.4,Health
+United Kingdom,2016,7.6,Health
+Austria,2016,0.2,Public health services
+Belgium,2016,0.1,Public health services
+Bulgaria,2016,0.1,Public health services
+Switzerland,2016,0.1,Public health services
+Cyprus,2016,0,Public health services
+Czechia,2016,1.3,Public health services
+Germany (until 1990 former territory of the FRG),2016,0.1,Public health services
+Denmark,2016,0.1,Public health services
+Euro area (11 countries),2016,0.1,Public health services
+Euro area (12 countries),2016,0.1,Public health services
+Euro area (13 countries),2016,0.1,Public health services
+Euro area (15 countries),2016,0.1,Public health services
+Euro area (16 countries),2016,0.1,Public health services
+Euro area (17 countries),2016,0.1,Public health services
+Euro area (18 countries),2016,0.1,Public health services
+Euro area (19 countries),2016,0.1,Public health services
+Estonia,2016,0,Public health services
+Greece,2016,0,Public health services
+Spain,2016,0.1,Public health services
+European Union - 15 countries (1995-2004),2016,0.1,Public health services
+European Union - 25 countries (2004-2006),2016,0.2,Public health services
+European Union - 27 countries (2007-2013),2016,0.2,Public health services
+European Union - 28 countries,2016,0.2,Public health services
+Finland,2016,0,Public health services
+France,2016,0.1,Public health services
+Croatia,2016,0.1,Public health services
+Hungary,2016,0.1,Public health services
+Ireland,2016,0.1,Public health services
+Iceland,2016,0,Public health services
+Italy,2016,0.3,Public health services
+Lithuania,2016,0.1,Public health services
+Luxembourg,2016,0.1,Public health services
+Latvia,2016,0.1,Public health services
+Malta,2016,0,Public health services
+Netherlands,2016,0.2,Public health services
+Norway,2016,0.3,Public health services
+Poland,2016,0.1,Public health services
+Portugal,2016,0,Public health services
+Romania,2016,0.1,Public health services
+Sweden,2016,0.2,Public health services
+Slovenia,2016,0.4,Public health services
+Slovakia,2016,0,Public health services
+United Kingdom,2016,0.2,Public health services
+Austria,2016,0.5,R&D Health
+Belgium,2016,0,R&D Health
+Bulgaria,2016,NA,R&D Health
+Switzerland,2016,0.1,R&D Health
+Cyprus,2016,0,R&D Health
+Czechia,2016,0,R&D Health
+Germany (until 1990 former territory of the FRG),2016,0.1,R&D Health
+Denmark,2016,0.2,R&D Health
+Euro area (11 countries),2016,0.1,R&D Health
+Euro area (12 countries),2016,0.1,R&D Health
+Euro area (13 countries),2016,0.1,R&D Health
+Euro area (15 countries),2016,0.1,R&D Health
+Euro area (16 countries),2016,0.1,R&D Health
+Euro area (17 countries),2016,0.1,R&D Health
+Euro area (18 countries),2016,0.1,R&D Health
+Euro area (19 countries),2016,0.1,R&D Health
+Estonia,2016,0.1,R&D Health
+Greece,2016,0,R&D Health
+Spain,2016,0.3,R&D Health
+European Union - 15 countries (1995-2004),2016,0.1,R&D Health
+European Union - 25 countries (2004-2006),2016,0.1,R&D Health
+European Union - 27 countries (2007-2013),2016,0.1,R&D Health
+European Union - 28 countries,2016,0.1,R&D Health
+Finland,2016,0.1,R&D Health
+France,2016,0.1,R&D Health
+Croatia,2016,0.2,R&D Health
+Hungary,2016,0,R&D Health
+Ireland,2016,0,R&D Health
+Iceland,2016,0,R&D Health
+Italy,2016,0.1,R&D Health
+Lithuania,2016,0,R&D Health
+Luxembourg,2016,0.2,R&D Health
+Latvia,2016,0,R&D Health
+Malta,2016,0,R&D Health
+Netherlands,2016,0.3,R&D Health
+Norway,2016,0.4,R&D Health
+Poland,2016,0.1,R&D Health
+Portugal,2016,0.2,R&D Health
+Romania,2016,0,R&D Health
+Sweden,2016,0.2,R&D Health
+Slovenia,2016,0.1,R&D Health
+Slovakia,2016,0,R&D Health
+United Kingdom,2016,0.2,R&D Health
+Austria,2015,8.2,Health
+Belgium,2015,7.9,Health
+Bulgaria,2015,5.5,Health
+Switzerland,2015,2.2,Health
+Cyprus,2015,2.6,Health
+Czechia,2015,7.6,Health
+Germany (until 1990 former territory of the FRG),2015,7.1,Health
+Denmark,2015,8.5,Health
+Euro area (11 countries),2015,7.3,Health
+Euro area (12 countries),2015,7.2,Health
+Euro area (13 countries),2015,7.2,Health
+Euro area (15 countries),2015,7.2,Health
+Euro area (16 countries),2015,7.2,Health
+Euro area (17 countries),2015,7.2,Health
+Euro area (18 countries),2015,7.2,Health
+Euro area (19 countries),2015,7.2,Health
+Estonia,2015,5.4,Health
+Greece,2015,4.7,Health
+Spain,2015,6.1,Health
+European Union - 15 countries (1995-2004),2015,7.3,Health
+European Union - 25 countries (2004-2006),2015,7.2,Health
+European Union - 27 countries (2007-2013),2015,7.2,Health
+European Union - 28 countries,2015,7.1,Health
+Finland,2015,7.3,Health
+France,2015,8.1,Health
+Croatia,2015,6.5,Health
+Hungary,2015,5.2,Health
+Ireland,2015,5.3,Health
+Iceland,2015,7.2,Health
+Italy,2015,7,Health
+Lithuania,2015,5.8,Health
+Luxembourg,2015,4.8,Health
+Latvia,2015,3.8,Health
+Malta,2015,5.6,Health
+Netherlands,2015,8,Health
+Norway,2015,8.4,Health
+Poland,2015,4.7,Health
+Portugal,2015,6.1,Health
+Romania,2015,4.2,Health
+Sweden,2015,6.9,Health
+Slovenia,2015,6.7,Health
+Slovakia,2015,7.1,Health
+United Kingdom,2015,7.5,Health
+Austria,2015,0.2,Public health services
+Belgium,2015,0.1,Public health services
+Bulgaria,2015,0.1,Public health services
+Switzerland,2015,0.1,Public health services
+Cyprus,2015,0,Public health services
+Czechia,2015,1.4,Public health services
+Germany (until 1990 former territory of the FRG),2015,0.1,Public health services
+Denmark,2015,0.1,Public health services
+Euro area (11 countries),2015,0.1,Public health services
+Euro area (12 countries),2015,0.1,Public health services
+Euro area (13 countries),2015,0.1,Public health services
+Euro area (15 countries),2015,0.1,Public health services
+Euro area (16 countries),2015,0.1,Public health services
+Euro area (17 countries),2015,0.1,Public health services
+Euro area (18 countries),2015,0.1,Public health services
+Euro area (19 countries),2015,0.1,Public health services
+Estonia,2015,0,Public health services
+Greece,2015,0,Public health services
+Spain,2015,0.1,Public health services
+European Union - 15 countries (1995-2004),2015,0.1,Public health services
+European Union - 25 countries (2004-2006),2015,0.2,Public health services
+European Union - 27 countries (2007-2013),2015,0.2,Public health services
+European Union - 28 countries,2015,0.2,Public health services
+Finland,2015,0,Public health services
+France,2015,0.1,Public health services
+Croatia,2015,0.1,Public health services
+Hungary,2015,0.1,Public health services
+Ireland,2015,0.2,Public health services
+Iceland,2015,0,Public health services
+Italy,2015,0.3,Public health services
+Lithuania,2015,0.1,Public health services
+Luxembourg,2015,0,Public health services
+Latvia,2015,0.1,Public health services
+Malta,2015,0,Public health services
+Netherlands,2015,0.2,Public health services
+Norway,2015,0.3,Public health services
+Poland,2015,0.1,Public health services
+Portugal,2015,0,Public health services
+Romania,2015,0.1,Public health services
+Sweden,2015,0.2,Public health services
+Slovenia,2015,0.3,Public health services
+Slovakia,2015,0,Public health services
+United Kingdom,2015,0.2,Public health services
+Austria,2015,0.5,R&D Health
+Belgium,2015,0,R&D Health
+Bulgaria,2015,NA,R&D Health
+Switzerland,2015,0.1,R&D Health
+Cyprus,2015,0,R&D Health
+Czechia,2015,0.1,R&D Health
+Germany (until 1990 former territory of the FRG),2015,0.1,R&D Health
+Denmark,2015,0.2,R&D Health
+Euro area (11 countries),2015,0.1,R&D Health
+Euro area (12 countries),2015,0.1,R&D Health
+Euro area (13 countries),2015,0.1,R&D Health
+Euro area (15 countries),2015,0.1,R&D Health
+Euro area (16 countries),2015,0.1,R&D Health
+Euro area (17 countries),2015,0.1,R&D Health
+Euro area (18 countries),2015,0.1,R&D Health
+Euro area (19 countries),2015,0.1,R&D Health
+Estonia,2015,0.2,R&D Health
+Greece,2015,0.1,R&D Health
+Spain,2015,0.2,R&D Health
+European Union - 15 countries (1995-2004),2015,0.1,R&D Health
+European Union - 25 countries (2004-2006),2015,0.1,R&D Health
+European Union - 27 countries (2007-2013),2015,0.1,R&D Health
+European Union - 28 countries,2015,0.1,R&D Health
+Finland,2015,0.1,R&D Health
+France,2015,0.1,R&D Health
+Croatia,2015,0.3,R&D Health
+Hungary,2015,0,R&D Health
+Ireland,2015,0,R&D Health
+Iceland,2015,0,R&D Health
+Italy,2015,0.1,R&D Health
+Lithuania,2015,0,R&D Health
+Luxembourg,2015,0.2,R&D Health
+Latvia,2015,0,R&D Health
+Malta,2015,0,R&D Health
+Netherlands,2015,0.3,R&D Health
+Norway,2015,0.4,R&D Health
+Poland,2015,0.1,R&D Health
+Portugal,2015,0.2,R&D Health
+Romania,2015,0,R&D Health
+Sweden,2015,0.2,R&D Health
+Slovenia,2015,0.1,R&D Health
+Slovakia,2015,0,R&D Health
+United Kingdom,2015,0.2,R&D Health
+Austria,2014,7.9,Health
+Belgium,2014,8.1,Health
+Bulgaria,2014,5.5,Health
+Switzerland,2014,2.1,Health
+Cyprus,2014,2.6,Health
+Czechia,2014,7.6,Health
+Germany (until 1990 former territory of the FRG),2014,7.1,Health
+Denmark,2014,8.6,Health
+Euro area (11 countries),2014,7.4,Health
+Euro area (12 countries),2014,7.3,Health
+Euro area (13 countries),2014,7.3,Health
+Euro area (15 countries),2014,7.3,Health
+Euro area (16 countries),2014,7.3,Health
+Euro area (17 countries),2014,7.3,Health
+Euro area (18 countries),2014,7.3,Health
+Euro area (19 countries),2014,7.3,Health
+Estonia,2014,5.1,Health
+Greece,2014,4.7,Health
+Spain,2014,6.1,Health
+European Union - 15 countries (1995-2004),2014,7.4,Health
+European Union - 25 countries (2004-2006),2014,7.2,Health
+European Union - 27 countries (2007-2013),2014,7.2,Health
+European Union - 28 countries,2014,7.2,Health
+Finland,2014,8.3,Health
+France,2014,8.2,Health
+Croatia,2014,6.6,Health
+Hungary,2014,4.8,Health
+Ireland,2014,6.8,Health
+Iceland,2014,7.3,Health
+Italy,2014,7.2,Health
+Lithuania,2014,5.5,Health
+Luxembourg,2014,5,Health
+Latvia,2014,3.8,Health
+Malta,2014,5.7,Health
+Netherlands,2014,8,Health
+Norway,2014,7.9,Health
+Poland,2014,4.6,Health
+Portugal,2014,6.2,Health
+Romania,2014,4,Health
+Sweden,2014,7,Health
+Slovenia,2014,6.5,Health
+Slovakia,2014,7,Health
+United Kingdom,2014,7.5,Health
+Austria,2014,0.2,Public health services
+Belgium,2014,0.2,Public health services
+Bulgaria,2014,0.1,Public health services
+Switzerland,2014,0.1,Public health services
+Cyprus,2014,0,Public health services
+Czechia,2014,1.4,Public health services
+Germany (until 1990 former territory of the FRG),2014,0.1,Public health services
+Denmark,2014,0.1,Public health services
+Euro area (11 countries),2014,0.1,Public health services
+Euro area (12 countries),2014,0.1,Public health services
+Euro area (13 countries),2014,0.1,Public health services
+Euro area (15 countries),2014,0.1,Public health services
+Euro area (16 countries),2014,0.1,Public health services
+Euro area (17 countries),2014,0.1,Public health services
+Euro area (18 countries),2014,0.1,Public health services
+Euro area (19 countries),2014,0.1,Public health services
+Estonia,2014,0,Public health services
+Greece,2014,0,Public health services
+Spain,2014,0.1,Public health services
+European Union - 15 countries (1995-2004),2014,0.1,Public health services
+European Union - 25 countries (2004-2006),2014,0.2,Public health services
+European Union - 27 countries (2007-2013),2014,0.2,Public health services
+European Union - 28 countries,2014,0.2,Public health services
+Finland,2014,0,Public health services
+France,2014,0.1,Public health services
+Croatia,2014,0.1,Public health services
+Hungary,2014,0.1,Public health services
+Ireland,2014,0.2,Public health services
+Iceland,2014,0,Public health services
+Italy,2014,0.3,Public health services
+Lithuania,2014,0.1,Public health services
+Luxembourg,2014,0,Public health services
+Latvia,2014,0,Public health services
+Malta,2014,0,Public health services
+Netherlands,2014,0.2,Public health services
+Norway,2014,0.2,Public health services
+Poland,2014,0.1,Public health services
+Portugal,2014,0,Public health services
+Romania,2014,0.1,Public health services
+Sweden,2014,0.2,Public health services
+Slovenia,2014,0.3,Public health services
+Slovakia,2014,0,Public health services
+United Kingdom,2014,0.2,Public health services
+Austria,2014,0.4,R&D Health
+Belgium,2014,0,R&D Health
+Bulgaria,2014,NA,R&D Health
+Switzerland,2014,0.1,R&D Health
+Cyprus,2014,0,R&D Health
+Czechia,2014,0.1,R&D Health
+Germany (until 1990 former territory of the FRG),2014,0.1,R&D Health
+Denmark,2014,0.2,R&D Health
+Euro area (11 countries),2014,0.1,R&D Health
+Euro area (12 countries),2014,0.1,R&D Health
+Euro area (13 countries),2014,0.1,R&D Health
+Euro area (15 countries),2014,0.1,R&D Health
+Euro area (16 countries),2014,0.1,R&D Health
+Euro area (17 countries),2014,0.1,R&D Health
+Euro area (18 countries),2014,0.1,R&D Health
+Euro area (19 countries),2014,0.1,R&D Health
+Estonia,2014,0.1,R&D Health
+Greece,2014,0,R&D Health
+Spain,2014,0.3,R&D Health
+European Union - 15 countries (1995-2004),2014,0.1,R&D Health
+European Union - 25 countries (2004-2006),2014,0.1,R&D Health
+European Union - 27 countries (2007-2013),2014,0.1,R&D Health
+European Union - 28 countries,2014,0.1,R&D Health
+Finland,2014,0.1,R&D Health
+France,2014,0.1,R&D Health
+Croatia,2014,0.3,R&D Health
+Hungary,2014,0,R&D Health
+Ireland,2014,0,R&D Health
+Iceland,2014,0,R&D Health
+Italy,2014,0.1,R&D Health
+Lithuania,2014,0,R&D Health
+Luxembourg,2014,0.2,R&D Health
+Latvia,2014,0,R&D Health
+Malta,2014,0,R&D Health
+Netherlands,2014,0.3,R&D Health
+Norway,2014,0.4,R&D Health
+Poland,2014,0.1,R&D Health
+Portugal,2014,0.1,R&D Health
+Romania,2014,0,R&D Health
+Sweden,2014,0.2,R&D Health
+Slovenia,2014,0.1,R&D Health
+Slovakia,2014,0,R&D Health
+United Kingdom,2014,0.1,R&D Health
+Austria,2013,7.8,Health
+Belgium,2013,8,Health
+Bulgaria,2013,4.5,Health
+Switzerland,2013,2.2,Health
+Cyprus,2013,3.1,Health
+Czechia,2013,7.6,Health
+Germany (until 1990 former territory of the FRG),2013,7,Health
+Denmark,2013,8.5,Health
+Euro area (11 countries),2013,7.3,Health
+Euro area (12 countries),2013,7.3,Health
+Euro area (13 countries),2013,7.3,Health
+Euro area (15 countries),2013,7.3,Health
+Euro area (16 countries),2013,7.3,Health
+Euro area (17 countries),2013,7.3,Health
+Euro area (18 countries),2013,7.3,Health
+Euro area (19 countries),2013,7.3,Health
+Estonia,2013,5,Health
+Greece,2013,5.2,Health
+Spain,2013,6.2,Health
+European Union - 15 countries (1995-2004),2013,7.3,Health
+European Union - 25 countries (2004-2006),2013,7.2,Health
+European Union - 27 countries (2007-2013),2013,7.2,Health
+European Union - 28 countries,2013,7.2,Health
+Finland,2013,8.3,Health
+France,2013,8.1,Health
+Croatia,2013,6.4,Health
+Hungary,2013,5,Health
+Ireland,2013,7.2,Health
+Iceland,2013,7.1,Health
+Italy,2013,7.2,Health
+Lithuania,2013,5.6,Health
+Luxembourg,2013,5.2,Health
+Latvia,2013,3.7,Health
+Malta,2013,5.7,Health
+Netherlands,2013,8.1,Health
+Norway,2013,7.5,Health
+Poland,2013,4.6,Health
+Portugal,2013,6.4,Health
+Romania,2013,4,Health
+Sweden,2013,7,Health
+Slovenia,2013,6.8,Health
+Slovakia,2013,6.8,Health
+United Kingdom,2013,7.4,Health
+Austria,2013,0.2,Public health services
+Belgium,2013,0.2,Public health services
+Bulgaria,2013,0.1,Public health services
+Switzerland,2013,0.1,Public health services
+Cyprus,2013,0,Public health services
+Czechia,2013,1.4,Public health services
+Germany (until 1990 former territory of the FRG),2013,0.1,Public health services
+Denmark,2013,0.1,Public health services
+Euro area (11 countries),2013,0.1,Public health services
+Euro area (12 countries),2013,0.1,Public health services
+Euro area (13 countries),2013,0.1,Public health services
+Euro area (15 countries),2013,0.1,Public health services
+Euro area (16 countries),2013,0.1,Public health services
+Euro area (17 countries),2013,0.1,Public health services
+Euro area (18 countries),2013,0.1,Public health services
+Euro area (19 countries),2013,0.1,Public health services
+Estonia,2013,0,Public health services
+Greece,2013,0,Public health services
+Spain,2013,0.1,Public health services
+European Union - 15 countries (1995-2004),2013,0.1,Public health services
+European Union - 25 countries (2004-2006),2013,0.2,Public health services
+European Union - 27 countries (2007-2013),2013,0.2,Public health services
+European Union - 28 countries,2013,0.1,Public health services
+Finland,2013,0,Public health services
+France,2013,0.1,Public health services
+Croatia,2013,0.1,Public health services
+Hungary,2013,0.1,Public health services
+Ireland,2013,0.3,Public health services
+Iceland,2013,0,Public health services
+Italy,2013,0.3,Public health services
+Lithuania,2013,0.1,Public health services
+Luxembourg,2013,0.1,Public health services
+Latvia,2013,0,Public health services
+Malta,2013,0,Public health services
+Netherlands,2013,0.2,Public health services
+Norway,2013,0.2,Public health services
+Poland,2013,0.1,Public health services
+Portugal,2013,0,Public health services
+Romania,2013,0.1,Public health services
+Sweden,2013,0.2,Public health services
+Slovenia,2013,0.4,Public health services
+Slovakia,2013,0,Public health services
+United Kingdom,2013,0.2,Public health services
+Austria,2013,0.5,R&D Health
+Belgium,2013,0,R&D Health
+Bulgaria,2013,NA,R&D Health
+Switzerland,2013,0.1,R&D Health
+Cyprus,2013,0,R&D Health
+Czechia,2013,0,R&D Health
+Germany (until 1990 former territory of the FRG),2013,0.1,R&D Health
+Denmark,2013,0.2,R&D Health
+Euro area (11 countries),2013,0.1,R&D Health
+Euro area (12 countries),2013,0.1,R&D Health
+Euro area (13 countries),2013,0.1,R&D Health
+Euro area (15 countries),2013,0.1,R&D Health
+Euro area (16 countries),2013,0.1,R&D Health
+Euro area (17 countries),2013,0.1,R&D Health
+Euro area (18 countries),2013,0.1,R&D Health
+Euro area (19 countries),2013,0.1,R&D Health
+Estonia,2013,0.1,R&D Health
+Greece,2013,0,R&D Health
+Spain,2013,0.3,R&D Health
+European Union - 15 countries (1995-2004),2013,0.1,R&D Health
+European Union - 25 countries (2004-2006),2013,0.1,R&D Health
+European Union - 27 countries (2007-2013),2013,0.1,R&D Health
+European Union - 28 countries,2013,0.1,R&D Health
+Finland,2013,0.1,R&D Health
+France,2013,0.1,R&D Health
+Croatia,2013,0.3,R&D Health
+Hungary,2013,0,R&D Health
+Ireland,2013,0,R&D Health
+Iceland,2013,0,R&D Health
+Italy,2013,0.1,R&D Health
+Lithuania,2013,0,R&D Health
+Luxembourg,2013,0.2,R&D Health
+Latvia,2013,0,R&D Health
+Malta,2013,0,R&D Health
+Netherlands,2013,0.3,R&D Health
+Norway,2013,0.4,R&D Health
+Poland,2013,0.1,R&D Health
+Portugal,2013,0.1,R&D Health
+Romania,2013,0,R&D Health
+Sweden,2013,0.2,R&D Health
+Slovenia,2013,0.1,R&D Health
+Slovakia,2013,0,R&D Health
+United Kingdom,2013,0.1,R&D Health
+Austria,2012,7.7,Health
+Belgium,2012,7.9,Health
+Bulgaria,2012,4.4,Health
+Switzerland,2012,2.1,Health
+Cyprus,2012,3,Health
+Czechia,2012,7.7,Health
+Germany (until 1990 former territory of the FRG),2012,6.8,Health
+Denmark,2012,8.7,Health
+Euro area (11 countries),2012,7.3,Health
+Euro area (12 countries),2012,7.2,Health
+Euro area (13 countries),2012,7.2,Health
+Euro area (15 countries),2012,7.2,Health
+Euro area (16 countries),2012,7.2,Health
+Euro area (17 countries),2012,7.2,Health
+Euro area (18 countries),2012,7.2,Health
+Euro area (19 countries),2012,7.2,Health
+Estonia,2012,5,Health
+Greece,2012,5.8,Health
+Spain,2012,6.2,Health
+European Union - 15 countries (1995-2004),2012,7.3,Health
+European Union - 25 countries (2004-2006),2012,7.2,Health
+European Union - 27 countries (2007-2013),2012,7.1,Health
+European Union - 28 countries,2012,7.1,Health
+Finland,2012,8.2,Health
+France,2012,8,Health
+Croatia,2012,7.2,Health
+Hungary,2012,5.1,Health
+Ireland,2012,7.5,Health
+Iceland,2012,7.1,Health
+Italy,2012,7.2,Health
+Lithuania,2012,5.9,Health
+Luxembourg,2012,4.9,Health
+Latvia,2012,3.9,Health
+Malta,2012,5.5,Health
+Netherlands,2012,8.1,Health
+Norway,2012,7.3,Health
+Poland,2012,4.6,Health
+Portugal,2012,6.5,Health
+Romania,2012,3.8,Health
+Sweden,2012,6.9,Health
+Slovenia,2012,7.1,Health
+Slovakia,2012,6.8,Health
+United Kingdom,2012,7.4,Health
+Austria,2012,0.2,Public health services
+Belgium,2012,0.2,Public health services
+Bulgaria,2012,0.1,Public health services
+Switzerland,2012,0.1,Public health services
+Cyprus,2012,0,Public health services
+Czechia,2012,1.4,Public health services
+Germany (until 1990 former territory of the FRG),2012,0.1,Public health services
+Denmark,2012,0.1,Public health services
+Euro area (11 countries),2012,0.1,Public health services
+Euro area (12 countries),2012,0.1,Public health services
+Euro area (13 countries),2012,0.1,Public health services
+Euro area (15 countries),2012,0.1,Public health services
+Euro area (16 countries),2012,0.1,Public health services
+Euro area (17 countries),2012,0.1,Public health services
+Euro area (18 countries),2012,0.1,Public health services
+Euro area (19 countries),2012,0.1,Public health services
+Estonia,2012,0,Public health services
+Greece,2012,0,Public health services
+Spain,2012,0.1,Public health services
+European Union - 15 countries (1995-2004),2012,0.1,Public health services
+European Union - 25 countries (2004-2006),2012,0.1,Public health services
+European Union - 27 countries (2007-2013),2012,0.1,Public health services
+European Union - 28 countries,2012,0.1,Public health services
+Finland,2012,0,Public health services
+France,2012,0.1,Public health services
+Croatia,2012,0.1,Public health services
+Hungary,2012,0.1,Public health services
+Ireland,2012,0.3,Public health services
+Iceland,2012,0,Public health services
+Italy,2012,0.3,Public health services
+Lithuania,2012,0.1,Public health services
+Luxembourg,2012,0.1,Public health services
+Latvia,2012,0,Public health services
+Malta,2012,0.1,Public health services
+Netherlands,2012,0.2,Public health services
+Norway,2012,0.2,Public health services
+Poland,2012,0.1,Public health services
+Portugal,2012,0,Public health services
+Romania,2012,0.1,Public health services
+Sweden,2012,0.2,Public health services
+Slovenia,2012,0.4,Public health services
+Slovakia,2012,0,Public health services
+United Kingdom,2012,0,Public health services
+Austria,2012,0.4,R&D Health
+Belgium,2012,0,R&D Health
+Bulgaria,2012,NA,R&D Health
+Switzerland,2012,0.1,R&D Health
+Cyprus,2012,0,R&D Health
+Czechia,2012,0,R&D Health
+Germany (until 1990 former territory of the FRG),2012,0.1,R&D Health
+Denmark,2012,0.2,R&D Health
+Euro area (11 countries),2012,0.1,R&D Health
+Euro area (12 countries),2012,0.1,R&D Health
+Euro area (13 countries),2012,0.1,R&D Health
+Euro area (15 countries),2012,0.1,R&D Health
+Euro area (16 countries),2012,0.1,R&D Health
+Euro area (17 countries),2012,0.1,R&D Health
+Euro area (18 countries),2012,0.1,R&D Health
+Euro area (19 countries),2012,0.1,R&D Health
+Estonia,2012,0.1,R&D Health
+Greece,2012,0,R&D Health
+Spain,2012,0.3,R&D Health
+European Union - 15 countries (1995-2004),2012,0.1,R&D Health
+European Union - 25 countries (2004-2006),2012,0.1,R&D Health
+European Union - 27 countries (2007-2013),2012,0.1,R&D Health
+European Union - 28 countries,2012,0.1,R&D Health
+Finland,2012,0.1,R&D Health
+France,2012,0.1,R&D Health
+Croatia,2012,0.3,R&D Health
+Hungary,2012,0,R&D Health
+Ireland,2012,0,R&D Health
+Iceland,2012,0,R&D Health
+Italy,2012,0.1,R&D Health
+Lithuania,2012,0,R&D Health
+Luxembourg,2012,0.2,R&D Health
+Latvia,2012,0,R&D Health
+Malta,2012,0,R&D Health
+Netherlands,2012,0.3,R&D Health
+Norway,2012,0.3,R&D Health
+Poland,2012,0.1,R&D Health
+Portugal,2012,0.1,R&D Health
+Romania,2012,0,R&D Health
+Sweden,2012,0.2,R&D Health
+Slovenia,2012,0,R&D Health
+Slovakia,2012,0,R&D Health
+United Kingdom,2012,0.1,R&D Health
+Austria,2011,7.7,Health
+Belgium,2011,7.6,Health
+Bulgaria,2011,4.2,Health
+Switzerland,2011,1.9,Health
+Cyprus,2011,3.1,Health
+Czechia,2011,7.7,Health
+Germany (until 1990 former territory of the FRG),2011,6.8,Health
+Denmark,2011,8.4,Health
+Euro area (11 countries),2011,7.2,Health
+Euro area (12 countries),2011,7.2,Health
+Euro area (13 countries),2011,7.2,Health
+Euro area (15 countries),2011,7.2,Health
+Euro area (16 countries),2011,7.2,Health
+Euro area (17 countries),2011,7.2,Health
+Euro area (18 countries),2011,7.2,Health
+Euro area (19 countries),2011,7.2,Health
+Estonia,2011,4.9,Health
+Greece,2011,6.5,Health
+Spain,2011,6.5,Health
+European Union - 15 countries (1995-2004),2011,7.3,Health
+European Union - 25 countries (2004-2006),2011,7.2,Health
+European Union - 27 countries (2007-2013),2011,7.1,Health
+European Union - 28 countries,2011,7.1,Health
+Finland,2011,7.8,Health
+France,2011,7.9,Health
+Croatia,2011,6.2,Health
+Hungary,2011,5.1,Health
+Ireland,2011,7.6,Health
+Italy,2011,7.1,Health
+Lithuania,2011,6.6,Health
+Luxembourg,2011,4.7,Health
+Latvia,2011,4.1,Health
+Malta,2011,5.4,Health
+Netherlands,2011,7.9,Health
+Norway,2011,7.2,Health
+Poland,2011,4.7,Health
+Portugal,2011,6.9,Health
+Romania,2011,4.2,Health
+Sweden,2011,6.8,Health
+Slovenia,2011,7.1,Health
+Slovakia,2011,6.8,Health
+United Kingdom,2011,7.4,Health
+Austria,2011,0.2,Public health services
+Belgium,2011,0.2,Public health services
+Bulgaria,2011,0.2,Public health services
+Switzerland,2011,0.1,Public health services
+Cyprus,2011,0,Public health services
+Czechia,2011,1.4,Public health services
+Germany (until 1990 former territory of the FRG),2011,0,Public health services
+Denmark,2011,0.1,Public health services
+Euro area (11 countries),2011,0.1,Public health services
+Euro area (12 countries),2011,0.1,Public health services
+Euro area (13 countries),2011,0.1,Public health services
+Euro area (15 countries),2011,0.1,Public health services
+Euro area (16 countries),2011,0.1,Public health services
+Euro area (17 countries),2011,0.1,Public health services
+Euro area (18 countries),2011,0.1,Public health services
+Euro area (19 countries),2011,0.1,Public health services
+Estonia,2011,0,Public health services
+Greece,2011,0,Public health services
+Spain,2011,0.1,Public health services
+European Union - 15 countries (1995-2004),2011,0.1,Public health services
+European Union - 25 countries (2004-2006),2011,0.1,Public health services
+European Union - 27 countries (2007-2013),2011,0.1,Public health services
+European Union - 28 countries,2011,0.1,Public health services
+Finland,2011,0,Public health services
+France,2011,0.1,Public health services
+Croatia,2011,0.1,Public health services
+Hungary,2011,0.1,Public health services
+Ireland,2011,0.2,Public health services
+Italy,2011,0.3,Public health services
+Lithuania,2011,0.1,Public health services
+Luxembourg,2011,0.1,Public health services
+Latvia,2011,0,Public health services
+Malta,2011,0.1,Public health services
+Netherlands,2011,0.2,Public health services
+Norway,2011,0.2,Public health services
+Poland,2011,0.1,Public health services
+Portugal,2011,0,Public health services
+Romania,2011,0.1,Public health services
+Sweden,2011,0.2,Public health services
+Slovenia,2011,0.3,Public health services
+Slovakia,2011,0,Public health services
+United Kingdom,2011,0,Public health services
+Austria,2011,0.4,R&D Health
+Belgium,2011,0,R&D Health
+Bulgaria,2011,NA,R&D Health
+Switzerland,2011,0.1,R&D Health
+Cyprus,2011,0,R&D Health
+Czechia,2011,0,R&D Health
+Germany (until 1990 former territory of the FRG),2011,0.1,R&D Health
+Denmark,2011,0.2,R&D Health
+Euro area (11 countries),2011,0.1,R&D Health
+Euro area (12 countries),2011,0.1,R&D Health
+Euro area (13 countries),2011,0.1,R&D Health
+Euro area (15 countries),2011,0.1,R&D Health
+Euro area (16 countries),2011,0.1,R&D Health
+Euro area (17 countries),2011,0.1,R&D Health
+Euro area (18 countries),2011,0.1,R&D Health
+Euro area (19 countries),2011,0.1,R&D Health
+Estonia,2011,0.2,R&D Health
+Greece,2011,0,R&D Health
+Spain,2011,0.3,R&D Health
+European Union - 15 countries (1995-2004),2011,0.1,R&D Health
+European Union - 25 countries (2004-2006),2011,0.1,R&D Health
+European Union - 27 countries (2007-2013),2011,0.1,R&D Health
+European Union - 28 countries,2011,0.1,R&D Health
+Finland,2011,0.2,R&D Health
+France,2011,0.1,R&D Health
+Croatia,2011,0.2,R&D Health
+Hungary,2011,0,R&D Health
+Ireland,2011,0,R&D Health
+Italy,2011,0.1,R&D Health
+Lithuania,2011,0,R&D Health
+Luxembourg,2011,0.2,R&D Health
+Latvia,2011,0,R&D Health
+Malta,2011,0,R&D Health
+Netherlands,2011,0.3,R&D Health
+Norway,2011,0.3,R&D Health
+Poland,2011,0.1,R&D Health
+Portugal,2011,0.2,R&D Health
+Romania,2011,0,R&D Health
+Sweden,2011,0.2,R&D Health
+Slovenia,2011,0.2,R&D Health
+Slovakia,2011,0,R&D Health
+United Kingdom,2011,0.1,R&D Health
+Austria,2010,7.9,Health
+Belgium,2010,7.7,Health
+Bulgaria,2010,4.4,Health
+Switzerland,2010,1.9,Health
+Cyprus,2010,3,Health
+Czechia,2010,7.8,Health
+Germany (until 1990 former territory of the FRG),2010,7,Health
+Denmark,2010,8.6,Health
+Euro area (11 countries),2010,7.4,Health
+Euro area (12 countries),2010,7.3,Health
+Euro area (13 countries),2010,7.3,Health
+Euro area (15 countries),2010,7.3,Health
+Euro area (16 countries),2010,7.3,Health
+Euro area (17 countries),2010,7.3,Health
+Euro area (18 countries),2010,7.3,Health
+Euro area (19 countries),2010,7.3,Health
+Estonia,2010,5.3,Health
+Greece,2010,6.9,Health
+Spain,2010,6.6,Health
+European Union - 15 countries (1995-2004),2010,7.4,Health
+European Union - 25 countries (2004-2006),2010,7.3,Health
+European Union - 27 countries (2007-2013),2010,7.3,Health
+European Union - 28 countries,2010,7.3,Health
+Finland,2010,7.9,Health
+France,2010,8,Health
+Croatia,2010,6.1,Health
+Hungary,2010,5,Health
+Ireland,2010,7.5,Health
+Italy,2010,7.4,Health
+Lithuania,2010,6.9,Health
+Luxembourg,2010,4.9,Health
+Latvia,2010,4.2,Health
+Malta,2010,5.3,Health
+Netherlands,2010,7.8,Health
+Norway,2010,7.4,Health
+Poland,2010,5,Health
+Portugal,2010,7.4,Health
+Romania,2010,4.2,Health
+Sweden,2010,6.8,Health
+Slovenia,2010,7,Health
+Slovakia,2010,7.2,Health
+United Kingdom,2010,7.6,Health
+Austria,2010,0.2,Public health services
+Belgium,2010,0.2,Public health services
+Bulgaria,2010,0.1,Public health services
+Switzerland,2010,0.1,Public health services
+Cyprus,2010,0,Public health services
+Czechia,2010,1.4,Public health services
+Germany (until 1990 former territory of the FRG),2010,0.1,Public health services
+Denmark,2010,0.1,Public health services
+Euro area (11 countries),2010,0.1,Public health services
+Euro area (12 countries),2010,0.1,Public health services
+Euro area (13 countries),2010,0.1,Public health services
+Euro area (15 countries),2010,0.1,Public health services
+Euro area (16 countries),2010,0.1,Public health services
+Euro area (17 countries),2010,0.1,Public health services
+Euro area (18 countries),2010,0.1,Public health services
+Euro area (19 countries),2010,0.1,Public health services
+Estonia,2010,0,Public health services
+Greece,2010,0,Public health services
+Spain,2010,0.1,Public health services
+European Union - 15 countries (1995-2004),2010,0.1,Public health services
+European Union - 25 countries (2004-2006),2010,0.1,Public health services
+European Union - 27 countries (2007-2013),2010,0.1,Public health services
+European Union - 28 countries,2010,0.1,Public health services
+Finland,2010,0,Public health services
+France,2010,0.1,Public health services
+Croatia,2010,0,Public health services
+Hungary,2010,0.1,Public health services
+Ireland,2010,0.3,Public health services
+Italy,2010,0.3,Public health services
+Lithuania,2010,0.1,Public health services
+Luxembourg,2010,0.1,Public health services
+Latvia,2010,0.1,Public health services
+Malta,2010,0.2,Public health services
+Netherlands,2010,0.2,Public health services
+Norway,2010,0.2,Public health services
+Poland,2010,0.1,Public health services
+Portugal,2010,0,Public health services
+Romania,2010,0.1,Public health services
+Sweden,2010,0.2,Public health services
+Slovenia,2010,0.4,Public health services
+Slovakia,2010,0,Public health services
+United Kingdom,2010,0,Public health services
+Austria,2010,0.4,R&D Health
+Belgium,2010,0,R&D Health
+Bulgaria,2010,NA,R&D Health
+Switzerland,2010,0.1,R&D Health
+Cyprus,2010,0,R&D Health
+Czechia,2010,0,R&D Health
+Germany (until 1990 former territory of the FRG),2010,0.1,R&D Health
+Denmark,2010,0.2,R&D Health
+Euro area (11 countries),2010,0.1,R&D Health
+Euro area (12 countries),2010,0.1,R&D Health
+Euro area (13 countries),2010,0.1,R&D Health
+Euro area (15 countries),2010,0.1,R&D Health
+Euro area (16 countries),2010,0.1,R&D Health
+Euro area (17 countries),2010,0.1,R&D Health
+Euro area (18 countries),2010,0.1,R&D Health
+Euro area (19 countries),2010,0.1,R&D Health
+Estonia,2010,0.3,R&D Health
+Greece,2010,0,R&D Health
+Spain,2010,0.3,R&D Health
+European Union - 15 countries (1995-2004),2010,0.1,R&D Health
+European Union - 25 countries (2004-2006),2010,0.1,R&D Health
+European Union - 27 countries (2007-2013),2010,0.1,R&D Health
+European Union - 28 countries,2010,0.1,R&D Health
+Finland,2010,0.2,R&D Health
+France,2010,0.1,R&D Health
+Croatia,2010,0.2,R&D Health
+Hungary,2010,0,R&D Health
+Ireland,2010,0,R&D Health
+Italy,2010,0.1,R&D Health
+Lithuania,2010,0,R&D Health
+Luxembourg,2010,0.2,R&D Health
+Latvia,2010,0,R&D Health
+Malta,2010,0,R&D Health
+Netherlands,2010,0.3,R&D Health
+Norway,2010,0.3,R&D Health
+Poland,2010,0.1,R&D Health
+Portugal,2010,0.1,R&D Health
+Romania,2010,0,R&D Health
+Sweden,2010,0.2,R&D Health
+Slovenia,2010,0,R&D Health
+Slovakia,2010,0,R&D Health
+United Kingdom,2010,0.2,R&D Health
+Austria,2009,7.8,Health
+Belgium,2009,7.7,Health
+Bulgaria,2009,4,Health
+Switzerland,2009,1.9,Health
+Cyprus,2009,3,Health
+Czechia,2009,7.8,Health
+Germany (until 1990 former territory of the FRG),2009,7.1,Health
+Denmark,2009,8.9,Health
+Euro area (11 countries),2009,7.4,Health
+Euro area (12 countries),2009,7.4,Health
+Euro area (13 countries),2009,7.4,Health
+Euro area (15 countries),2009,7.4,Health
+Euro area (16 countries),2009,7.4,Health
+Euro area (17 countries),2009,7.4,Health
+Euro area (18 countries),2009,7.4,Health
+Euro area (19 countries),2009,7.4,Health
+Estonia,2009,5.5,Health
+Greece,2009,6.8,Health
+Spain,2009,6.8,Health
+European Union - 15 countries (1995-2004),2009,7.5,Health
+European Union - 25 countries (2004-2006),2009,7.4,Health
+European Union - 27 countries (2007-2013),2009,7.4,Health
+European Union - 28 countries,2009,7.3,Health
+Finland,2009,7.9,Health
+France,2009,8,Health
+Croatia,2009,6.2,Health
+Hungary,2009,5.2,Health
+Ireland,2009,7.8,Health
+Italy,2009,7.5,Health
+Lithuania,2009,6.7,Health
+Luxembourg,2009,5.1,Health
+Latvia,2009,4.6,Health
+Malta,2009,5.1,Health
+Netherlands,2009,7.4,Health
+Norway,2009,7.6,Health
+Poland,2009,5,Health
+Portugal,2009,7.9,Health
+Romania,2009,4,Health
+Sweden,2009,7.1,Health
+Slovenia,2009,6.8,Health
+Slovakia,2009,7.2,Health
+United Kingdom,2009,7.7,Health
+Austria,2009,0.2,Public health services
+Belgium,2009,0.2,Public health services
+Bulgaria,2009,0.1,Public health services
+Switzerland,2009,0.2,Public health services
+Cyprus,2009,0,Public health services
+Czechia,2009,1.3,Public health services
+Germany (until 1990 former territory of the FRG),2009,0,Public health services
+Denmark,2009,0.1,Public health services
+Euro area (11 countries),2009,0.1,Public health services
+Euro area (12 countries),2009,0.1,Public health services
+Euro area (13 countries),2009,0.1,Public health services
+Euro area (15 countries),2009,0.1,Public health services
+Euro area (16 countries),2009,0.1,Public health services
+Euro area (17 countries),2009,0.1,Public health services
+Euro area (18 countries),2009,0.1,Public health services
+Euro area (19 countries),2009,0.1,Public health services
+Estonia,2009,0,Public health services
+Greece,2009,0,Public health services
+Spain,2009,0.1,Public health services
+European Union - 15 countries (1995-2004),2009,0.1,Public health services
+European Union - 25 countries (2004-2006),2009,0.1,Public health services
+European Union - 27 countries (2007-2013),2009,0.1,Public health services
+European Union - 28 countries,2009,0.1,Public health services
+Finland,2009,0,Public health services
+France,2009,0.1,Public health services
+Croatia,2009,0.1,Public health services
+Hungary,2009,0.2,Public health services
+Ireland,2009,0.3,Public health services
+Italy,2009,0.3,Public health services
+Lithuania,2009,0.1,Public health services
+Luxembourg,2009,0.1,Public health services
+Latvia,2009,0.1,Public health services
+Malta,2009,0.1,Public health services
+Netherlands,2009,0.2,Public health services
+Norway,2009,0.2,Public health services
+Poland,2009,0.1,Public health services
+Portugal,2009,0,Public health services
+Romania,2009,0.1,Public health services
+Sweden,2009,0.2,Public health services
+Slovenia,2009,0.2,Public health services
+Slovakia,2009,0,Public health services
+United Kingdom,2009,0,Public health services
+Austria,2009,0.4,R&D Health
+Belgium,2009,0,R&D Health
+Bulgaria,2009,NA,R&D Health
+Switzerland,2009,0.1,R&D Health
+Cyprus,2009,0,R&D Health
+Czechia,2009,0,R&D Health
+Germany (until 1990 former territory of the FRG),2009,0.1,R&D Health
+Denmark,2009,0.2,R&D Health
+Euro area (11 countries),2009,0.1,R&D Health
+Euro area (12 countries),2009,0.1,R&D Health
+Euro area (13 countries),2009,0.1,R&D Health
+Euro area (15 countries),2009,0.1,R&D Health
+Euro area (16 countries),2009,0.1,R&D Health
+Euro area (17 countries),2009,0.1,R&D Health
+Euro area (18 countries),2009,0.1,R&D Health
+Euro area (19 countries),2009,0.1,R&D Health
+Estonia,2009,0.1,R&D Health
+Greece,2009,0,R&D Health
+Spain,2009,0.3,R&D Health
+European Union - 15 countries (1995-2004),2009,0.1,R&D Health
+European Union - 25 countries (2004-2006),2009,0.1,R&D Health
+European Union - 27 countries (2007-2013),2009,0.1,R&D Health
+European Union - 28 countries,2009,0.1,R&D Health
+Finland,2009,0.2,R&D Health
+France,2009,0.1,R&D Health
+Croatia,2009,0.2,R&D Health
+Hungary,2009,0,R&D Health
+Ireland,2009,0,R&D Health
+Italy,2009,0.1,R&D Health
+Lithuania,2009,0,R&D Health
+Luxembourg,2009,0.2,R&D Health
+Latvia,2009,0,R&D Health
+Malta,2009,0,R&D Health
+Netherlands,2009,0.3,R&D Health
+Norway,2009,0.3,R&D Health
+Poland,2009,0.1,R&D Health
+Portugal,2009,0.1,R&D Health
+Romania,2009,0,R&D Health
+Sweden,2009,0.2,R&D Health
+Slovenia,2009,0,R&D Health
+Slovakia,2009,0,R&D Health
+United Kingdom,2009,0.2,R&D Health
+Austria,2008,7.5,Health
+Belgium,2008,7.2,Health
+Bulgaria,2008,4.4,Health
+Switzerland,2008,1.8,Health
+Cyprus,2008,2.7,Health
+Czechia,2008,6.9,Health
+Germany (until 1990 former territory of the FRG),2008,6.4,Health
+Denmark,2008,7.9,Health
+Euro area (11 countries),2008,6.8,Health
+Euro area (12 countries),2008,6.8,Health
+Euro area (13 countries),2008,6.8,Health
+Euro area (15 countries),2008,6.8,Health
+Euro area (16 countries),2008,6.8,Health
+Euro area (17 countries),2008,6.8,Health
+Euro area (18 countries),2008,6.8,Health
+Euro area (19 countries),2008,6.8,Health
+Estonia,2008,5.1,Health
+Greece,2008,6.5,Health
+Spain,2008,6,Health
+European Union - 15 countries (1995-2004),2008,6.8,Health
+European Union - 25 countries (2004-2006),2008,6.7,Health
+European Union - 27 countries (2007-2013),2008,6.7,Health
+European Union - 28 countries,2008,6.7,Health
+Finland,2008,7,Health
+France,2008,7.4,Health
+Croatia,2008,6,Health
+Hungary,2008,4.9,Health
+Ireland,2008,6.9,Health
+Italy,2008,7,Health
+Lithuania,2008,5.6,Health
+Luxembourg,2008,4.4,Health
+Latvia,2008,4.3,Health
+Malta,2008,5.3,Health
+Netherlands,2008,6.6,Health
+Norway,2008,6.6,Health
+Poland,2008,5,Health
+Portugal,2008,7.2,Health
+Romania,2008,3.6,Health
+Sweden,2008,6.6,Health
+Slovenia,2008,6.1,Health
+Slovakia,2008,6.7,Health
+United Kingdom,2008,6.9,Health
+Austria,2008,0.2,Public health services
+Belgium,2008,0.1,Public health services
+Bulgaria,2008,0.2,Public health services
+Switzerland,2008,0.1,Public health services
+Cyprus,2008,0,Public health services
+Czechia,2008,1.3,Public health services
+Germany (until 1990 former territory of the FRG),2008,0,Public health services
+Denmark,2008,0.1,Public health services
+Euro area (11 countries),2008,0.1,Public health services
+Euro area (12 countries),2008,0.1,Public health services
+Euro area (13 countries),2008,0.1,Public health services
+Euro area (15 countries),2008,0.1,Public health services
+Euro area (16 countries),2008,0.1,Public health services
+Euro area (17 countries),2008,0.1,Public health services
+Euro area (18 countries),2008,0.1,Public health services
+Euro area (19 countries),2008,0.1,Public health services
+Estonia,2008,0,Public health services
+Greece,2008,0,Public health services
+Spain,2008,0.1,Public health services
+European Union - 15 countries (1995-2004),2008,0.1,Public health services
+European Union - 25 countries (2004-2006),2008,0.1,Public health services
+European Union - 27 countries (2007-2013),2008,0.1,Public health services
+European Union - 28 countries,2008,0.1,Public health services
+Finland,2008,0,Public health services
+France,2008,0.1,Public health services
+Croatia,2008,0.1,Public health services
+Hungary,2008,0.2,Public health services
+Ireland,2008,0.2,Public health services
+Italy,2008,0.3,Public health services
+Lithuania,2008,0.1,Public health services
+Luxembourg,2008,0,Public health services
+Latvia,2008,0.1,Public health services
+Malta,2008,0.1,Public health services
+Netherlands,2008,0.2,Public health services
+Norway,2008,0.2,Public health services
+Poland,2008,0.1,Public health services
+Portugal,2008,0,Public health services
+Romania,2008,0.1,Public health services
+Sweden,2008,0.2,Public health services
+Slovenia,2008,0.2,Public health services
+Slovakia,2008,0,Public health services
+United Kingdom,2008,0,Public health services
+Austria,2008,0.4,R&D Health
+Belgium,2008,0,R&D Health
+Bulgaria,2008,NA,R&D Health
+Switzerland,2008,0.1,R&D Health
+Cyprus,2008,0,R&D Health
+Czechia,2008,0,R&D Health
+Germany (until 1990 former territory of the FRG),2008,0.1,R&D Health
+Denmark,2008,0.2,R&D Health
+Euro area (11 countries),2008,0.1,R&D Health
+Euro area (12 countries),2008,0.1,R&D Health
+Euro area (13 countries),2008,0.1,R&D Health
+Euro area (15 countries),2008,0.1,R&D Health
+Euro area (16 countries),2008,0.1,R&D Health
+Euro area (17 countries),2008,0.1,R&D Health
+Euro area (18 countries),2008,0.1,R&D Health
+Euro area (19 countries),2008,0.1,R&D Health
+Estonia,2008,0.2,R&D Health
+Greece,2008,0,R&D Health
+Spain,2008,0.2,R&D Health
+European Union - 15 countries (1995-2004),2008,0.1,R&D Health
+European Union - 25 countries (2004-2006),2008,0.1,R&D Health
+European Union - 27 countries (2007-2013),2008,0.1,R&D Health
+European Union - 28 countries,2008,0.1,R&D Health
+Finland,2008,0.2,R&D Health
+France,2008,0.1,R&D Health
+Croatia,2008,0.4,R&D Health
+Hungary,2008,0,R&D Health
+Ireland,2008,0,R&D Health
+Italy,2008,0.1,R&D Health
+Lithuania,2008,0,R&D Health
+Luxembourg,2008,0.1,R&D Health
+Latvia,2008,0,R&D Health
+Malta,2008,0,R&D Health
+Netherlands,2008,0.3,R&D Health
+Norway,2008,0.3,R&D Health
+Poland,2008,0.1,R&D Health
+Portugal,2008,0.1,R&D Health
+Romania,2008,0,R&D Health
+Sweden,2008,0.2,R&D Health
+Slovenia,2008,0,R&D Health
+Slovakia,2008,0,R&D Health
+United Kingdom,2008,0.2,R&D Health
+Austria,2007,7.4,Health
+Belgium,2007,6.7,Health
+Bulgaria,2007,4,Health
+Switzerland,2007,1.7,Health
+Cyprus,2007,2.6,Health
+Czechia,2007,6.8,Health
+Germany (until 1990 former territory of the FRG),2007,6.3,Health
+Denmark,2007,7.7,Health
+Euro area (11 countries),2007,6.6,Health
+Euro area (12 countries),2007,6.6,Health
+Euro area (13 countries),2007,6.6,Health
+Euro area (15 countries),2007,6.6,Health
+Euro area (16 countries),2007,6.6,Health
+Euro area (17 countries),2007,6.6,Health
+Euro area (18 countries),2007,6.6,Health
+Euro area (19 countries),2007,6.6,Health
+Estonia,2007,4.3,Health
+Greece,2007,6,Health
+Spain,2007,5.7,Health
+European Union - 15 countries (1995-2004),2007,6.6,Health
+European Union - 25 countries (2004-2006),2007,6.5,Health
+European Union - 27 countries (2007-2013),2007,6.5,Health
+European Union - 28 countries,2007,6.5,Health
+Finland,2007,6.6,Health
+France,2007,7.5,Health
+Croatia,2007,5.8,Health
+Hungary,2007,4.9,Health
+Ireland,2007,6.2,Health
+Italy,2007,6.7,Health
+Lithuania,2007,5.2,Health
+Luxembourg,2007,4.3,Health
+Latvia,2007,4,Health
+Malta,2007,5.5,Health
+Netherlands,2007,6.7,Health
+Norway,2007,6.9,Health
+Poland,2007,4.5,Health
+Portugal,2007,7.1,Health
+Romania,2007,3.6,Health
+Sweden,2007,6.4,Health
+Slovenia,2007,5.8,Health
+Slovakia,2007,6.1,Health
+United Kingdom,2007,6.5,Health
+Austria,2007,0.2,Public health services
+Belgium,2007,0.1,Public health services
+Bulgaria,2007,0.1,Public health services
+Switzerland,2007,0.1,Public health services
+Cyprus,2007,0,Public health services
+Czechia,2007,1.3,Public health services
+Germany (until 1990 former territory of the FRG),2007,0,Public health services
+Denmark,2007,0.1,Public health services
+Euro area (11 countries),2007,0.1,Public health services
+Euro area (12 countries),2007,0.1,Public health services
+Euro area (13 countries),2007,0.1,Public health services
+Euro area (15 countries),2007,0.1,Public health services
+Euro area (16 countries),2007,0.1,Public health services
+Euro area (17 countries),2007,0.1,Public health services
+Euro area (18 countries),2007,0.1,Public health services
+Euro area (19 countries),2007,0.1,Public health services
+Estonia,2007,0,Public health services
+Greece,2007,0,Public health services
+Spain,2007,0.1,Public health services
+European Union - 15 countries (1995-2004),2007,0.1,Public health services
+European Union - 25 countries (2004-2006),2007,0.1,Public health services
+European Union - 27 countries (2007-2013),2007,0.1,Public health services
+European Union - 28 countries,2007,0.1,Public health services
+Finland,2007,0,Public health services
+France,2007,0.1,Public health services
+Croatia,2007,0.1,Public health services
+Hungary,2007,0.2,Public health services
+Ireland,2007,0.2,Public health services
+Italy,2007,0.2,Public health services
+Lithuania,2007,0.1,Public health services
+Luxembourg,2007,0,Public health services
+Latvia,2007,0.1,Public health services
+Malta,2007,0.1,Public health services
+Netherlands,2007,0.2,Public health services
+Norway,2007,0.2,Public health services
+Poland,2007,0.1,Public health services
+Portugal,2007,0,Public health services
+Romania,2007,0.1,Public health services
+Sweden,2007,0.1,Public health services
+Slovenia,2007,0.2,Public health services
+Slovakia,2007,0,Public health services
+United Kingdom,2007,0,Public health services
+Austria,2007,0.4,R&D Health
+Belgium,2007,0,R&D Health
+Bulgaria,2007,NA,R&D Health
+Switzerland,2007,0,R&D Health
+Cyprus,2007,0,R&D Health
+Czechia,2007,0,R&D Health
+Germany (until 1990 former territory of the FRG),2007,0.1,R&D Health
+Denmark,2007,0.1,R&D Health
+Euro area (11 countries),2007,0.1,R&D Health
+Euro area (12 countries),2007,0.1,R&D Health
+Euro area (13 countries),2007,0.1,R&D Health
+Euro area (15 countries),2007,0.1,R&D Health
+Euro area (16 countries),2007,0.1,R&D Health
+Euro area (17 countries),2007,0.1,R&D Health
+Euro area (18 countries),2007,0.1,R&D Health
+Euro area (19 countries),2007,0.1,R&D Health
+Estonia,2007,0.2,R&D Health
+Greece,2007,0,R&D Health
+Spain,2007,0.2,R&D Health
+European Union - 15 countries (1995-2004),2007,0.1,R&D Health
+European Union - 25 countries (2004-2006),2007,0.1,R&D Health
+European Union - 27 countries (2007-2013),2007,0.1,R&D Health
+European Union - 28 countries,2007,0.1,R&D Health
+Finland,2007,0.2,R&D Health
+France,2007,0.1,R&D Health
+Croatia,2007,0.2,R&D Health
+Hungary,2007,0,R&D Health
+Ireland,2007,0,R&D Health
+Italy,2007,0.1,R&D Health
+Lithuania,2007,0,R&D Health
+Luxembourg,2007,0.1,R&D Health
+Latvia,2007,0,R&D Health
+Malta,2007,0,R&D Health
+Netherlands,2007,0.2,R&D Health
+Norway,2007,0.3,R&D Health
+Poland,2007,0.1,R&D Health
+Portugal,2007,0.1,R&D Health
+Romania,2007,0,R&D Health
+Sweden,2007,0.2,R&D Health
+Slovenia,2007,0,R&D Health
+Slovakia,2007,0,R&D Health
+United Kingdom,2007,0.1,R&D Health
+Austria,2006,7.3,Health
+Belgium,2006,6.6,Health
+Bulgaria,2006,3.8,Health
+Switzerland,2006,1.7,Health
+Cyprus,2006,2.8,Health
+Czechia,2006,7,Health
+Germany (until 1990 former territory of the FRG),2006,6.4,Health
+Denmark,2006,7.3,Health
+Euro area (11 countries),2006,6.7,Health
+Euro area (12 countries),2006,6.7,Health
+Euro area (13 countries),2006,6.7,Health
+Euro area (15 countries),2006,6.7,Health
+Euro area (16 countries),2006,6.7,Health
+Euro area (17 countries),2006,6.7,Health
+Euro area (18 countries),2006,6.7,Health
+Euro area (19 countries),2006,6.7,Health
+Estonia,2006,4.2,Health
+Greece,2006,5.9,Health
+Spain,2006,5.6,Health
+European Union - 15 countries (1995-2004),2006,6.7,Health
+European Union - 25 countries (2004-2006),2006,6.6,Health
+European Union - 27 countries (2007-2013),2006,6.6,Health
+European Union - 28 countries,2006,6.6,Health
+Finland,2006,6.8,Health
+France,2006,7.6,Health
+Croatia,2006,5.7,Health
+Hungary,2006,5.7,Health
+Ireland,2006,5.9,Health
+Italy,2006,6.9,Health
+Lithuania,2006,5.3,Health
+Luxembourg,2006,4.5,Health
+Latvia,2006,4.3,Health
+Malta,2006,6,Health
+Netherlands,2006,6.7,Health
+Norway,2006,6.9,Health
+Poland,2006,4.6,Health
+Portugal,2006,7,Health
+Romania,2006,3.3,Health
+Sweden,2006,6.4,Health
+Slovenia,2006,6.2,Health
+Slovakia,2006,6.5,Health
+United Kingdom,2006,6.5,Health
+Austria,2006,0.2,Public health services
+Belgium,2006,0.2,Public health services
+Bulgaria,2006,0.1,Public health services
+Switzerland,2006,0.1,Public health services
+Cyprus,2006,0,Public health services
+Czechia,2006,1.3,Public health services
+Germany (until 1990 former territory of the FRG),2006,0,Public health services
+Denmark,2006,0.1,Public health services
+Euro area (11 countries),2006,0.1,Public health services
+Euro area (12 countries),2006,0.1,Public health services
+Euro area (13 countries),2006,0.1,Public health services
+Euro area (15 countries),2006,0.1,Public health services
+Euro area (16 countries),2006,0.1,Public health services
+Euro area (17 countries),2006,0.1,Public health services
+Euro area (18 countries),2006,0.1,Public health services
+Euro area (19 countries),2006,0.1,Public health services
+Estonia,2006,0,Public health services
+Greece,2006,0,Public health services
+Spain,2006,0.1,Public health services
+European Union - 15 countries (1995-2004),2006,0.1,Public health services
+European Union - 25 countries (2004-2006),2006,0.1,Public health services
+European Union - 27 countries (2007-2013),2006,0.1,Public health services
+European Union - 28 countries,2006,0.1,Public health services
+Finland,2006,0,Public health services
+France,2006,0.1,Public health services
+Croatia,2006,0,Public health services
+Hungary,2006,0.2,Public health services
+Ireland,2006,0.2,Public health services
+Italy,2006,0.2,Public health services
+Lithuania,2006,0.1,Public health services
+Luxembourg,2006,0,Public health services
+Latvia,2006,0.1,Public health services
+Malta,2006,0.1,Public health services
+Netherlands,2006,0.2,Public health services
+Norway,2006,0.2,Public health services
+Poland,2006,0.1,Public health services
+Portugal,2006,0,Public health services
+Romania,2006,0,Public health services
+Sweden,2006,0.1,Public health services
+Slovenia,2006,0.2,Public health services
+Slovakia,2006,0,Public health services
+United Kingdom,2006,0,Public health services
+Austria,2006,0.4,R&D Health
+Belgium,2006,0,R&D Health
+Bulgaria,2006,NA,R&D Health
+Switzerland,2006,0,R&D Health
+Cyprus,2006,0,R&D Health
+Czechia,2006,0,R&D Health
+Germany (until 1990 former territory of the FRG),2006,0.1,R&D Health
+Denmark,2006,0.2,R&D Health
+Euro area (11 countries),2006,0.1,R&D Health
+Euro area (12 countries),2006,0.1,R&D Health
+Euro area (13 countries),2006,0.1,R&D Health
+Euro area (15 countries),2006,0.1,R&D Health
+Euro area (16 countries),2006,0.1,R&D Health
+Euro area (17 countries),2006,0.1,R&D Health
+Euro area (18 countries),2006,0.1,R&D Health
+Euro area (19 countries),2006,0.1,R&D Health
+Estonia,2006,0.1,R&D Health
+Greece,2006,0,R&D Health
+Spain,2006,0.2,R&D Health
+European Union - 15 countries (1995-2004),2006,0.1,R&D Health
+European Union - 25 countries (2004-2006),2006,0.1,R&D Health
+European Union - 27 countries (2007-2013),2006,0.1,R&D Health
+European Union - 28 countries,2006,0.1,R&D Health
+Finland,2006,0.2,R&D Health
+France,2006,0.1,R&D Health
+Croatia,2006,0.2,R&D Health
+Hungary,2006,0,R&D Health
+Ireland,2006,0,R&D Health
+Italy,2006,0.1,R&D Health
+Lithuania,2006,0,R&D Health
+Luxembourg,2006,0.1,R&D Health
+Latvia,2006,0,R&D Health
+Malta,2006,0,R&D Health
+Netherlands,2006,0.3,R&D Health
+Norway,2006,0.3,R&D Health
+Poland,2006,0.1,R&D Health
+Portugal,2006,0.1,R&D Health
+Romania,2006,0,R&D Health
+Sweden,2006,0.2,R&D Health
+Slovenia,2006,0.1,R&D Health
+Slovakia,2006,0,R&D Health
+United Kingdom,2006,0.1,R&D Health
+Austria,2005,7.4,Health
+Belgium,2005,6.8,Health
+Bulgaria,2005,4.9,Health
+Switzerland,2005,1.8,Health
+Cyprus,2005,2.8,Health
+Czechia,2005,6.9,Health
+Germany (until 1990 former territory of the FRG),2005,6.5,Health
+Denmark,2005,7.3,Health
+Euro area (11 countries),2005,6.7,Health
+Euro area (12 countries),2005,6.7,Health
+Euro area (13 countries),2005,6.7,Health
+Euro area (15 countries),2005,6.7,Health
+Euro area (16 countries),2005,6.7,Health
+Euro area (17 countries),2005,6.7,Health
+Euro area (18 countries),2005,6.7,Health
+Euro area (19 countries),2005,6.7,Health
+Estonia,2005,4.1,Health
+Greece,2005,6.2,Health
+Spain,2005,5.6,Health
+European Union - 15 countries (1995-2004),2005,6.6,Health
+European Union - 25 countries (2004-2006),2005,6.5,Health
+European Union - 27 countries (2007-2013),2005,6.5,Health
+European Union - 28 countries,2005,6.5,Health
+Finland,2005,6.8,Health
+France,2005,7.7,Health
+Croatia,2005,6.3,Health
+Hungary,2005,5.7,Health
+Ireland,2005,6,Health
+Italy,2005,6.8,Health
+Lithuania,2005,4.9,Health
+Luxembourg,2005,5.1,Health
+Latvia,2005,4.1,Health
+Malta,2005,6,Health
+Netherlands,2005,5.4,Health
+Norway,2005,7.2,Health
+Poland,2005,4.4,Health
+Portugal,2005,7.3,Health
+Romania,2005,3.2,Health
+Sweden,2005,6.5,Health
+Slovenia,2005,6.2,Health
+Slovakia,2005,6.2,Health
+United Kingdom,2005,6.3,Health
+Austria,2005,0.2,Public health services
+Belgium,2005,0.2,Public health services
+Bulgaria,2005,0.2,Public health services
+Switzerland,2005,0.1,Public health services
+Cyprus,2005,0,Public health services
+Czechia,2005,1.1,Public health services
+Germany (until 1990 former territory of the FRG),2005,0,Public health services
+Denmark,2005,0.1,Public health services
+Euro area (11 countries),2005,0.1,Public health services
+Euro area (12 countries),2005,0.1,Public health services
+Euro area (13 countries),2005,0.1,Public health services
+Euro area (15 countries),2005,0.1,Public health services
+Euro area (16 countries),2005,0.1,Public health services
+Euro area (17 countries),2005,0.1,Public health services
+Euro area (18 countries),2005,0.1,Public health services
+Euro area (19 countries),2005,0.1,Public health services
+Estonia,2005,0.1,Public health services
+Greece,2005,0,Public health services
+Spain,2005,0.1,Public health services
+European Union - 15 countries (1995-2004),2005,0.1,Public health services
+European Union - 25 countries (2004-2006),2005,0.1,Public health services
+European Union - 27 countries (2007-2013),2005,0.1,Public health services
+European Union - 28 countries,2005,0.1,Public health services
+Finland,2005,0,Public health services
+France,2005,0.1,Public health services
+Croatia,2005,0.5,Public health services
+Hungary,2005,0.3,Public health services
+Ireland,2005,0.1,Public health services
+Italy,2005,0.2,Public health services
+Lithuania,2005,0.1,Public health services
+Luxembourg,2005,0,Public health services
+Latvia,2005,0.1,Public health services
+Malta,2005,0.1,Public health services
+Netherlands,2005,0.2,Public health services
+Norway,2005,0.2,Public health services
+Poland,2005,0.1,Public health services
+Portugal,2005,0,Public health services
+Romania,2005,0,Public health services
+Sweden,2005,0.1,Public health services
+Slovenia,2005,0.2,Public health services
+Slovakia,2005,0,Public health services
+United Kingdom,2005,0,Public health services
+Austria,2005,0.4,R&D Health
+Belgium,2005,0,R&D Health
+Bulgaria,2005,NA,R&D Health
+Switzerland,2005,0,R&D Health
+Cyprus,2005,0,R&D Health
+Czechia,2005,0,R&D Health
+Germany (until 1990 former territory of the FRG),2005,0.1,R&D Health
+Denmark,2005,0.2,R&D Health
+Euro area (11 countries),2005,0.1,R&D Health
+Euro area (12 countries),2005,0.1,R&D Health
+Euro area (13 countries),2005,0.1,R&D Health
+Euro area (15 countries),2005,0.1,R&D Health
+Euro area (16 countries),2005,0.1,R&D Health
+Euro area (17 countries),2005,0.1,R&D Health
+Euro area (18 countries),2005,0.1,R&D Health
+Euro area (19 countries),2005,0.1,R&D Health
+Estonia,2005,0.1,R&D Health
+Greece,2005,0,R&D Health
+Spain,2005,0.2,R&D Health
+European Union - 15 countries (1995-2004),2005,0.1,R&D Health
+European Union - 25 countries (2004-2006),2005,0.1,R&D Health
+European Union - 27 countries (2007-2013),2005,0.1,R&D Health
+European Union - 28 countries,2005,0.1,R&D Health
+Finland,2005,0.2,R&D Health
+France,2005,0.1,R&D Health
+Croatia,2005,0.2,R&D Health
+Hungary,2005,0,R&D Health
+Ireland,2005,0,R&D Health
+Italy,2005,0.1,R&D Health
+Lithuania,2005,0,R&D Health
+Luxembourg,2005,0.1,R&D Health
+Latvia,2005,0,R&D Health
+Malta,2005,0,R&D Health
+Netherlands,2005,0.3,R&D Health
+Norway,2005,0.3,R&D Health
+Poland,2005,0.1,R&D Health
+Portugal,2005,0.1,R&D Health
+Romania,2005,0,R&D Health
+Sweden,2005,0.2,R&D Health
+Slovenia,2005,0.1,R&D Health
+Slovakia,2005,0,R&D Health
+United Kingdom,2005,0.1,R&D Health
+Austria,2004,7.5,Health
+Belgium,2004,6.8,Health
+Bulgaria,2004,5.9,Health
+Switzerland,2004,1.8,Health
+Cyprus,2004,2.8,Health
+Czechia,2004,7.2,Health
+Germany (until 1990 former territory of the FRG),2004,6.4,Health
+Denmark,2004,7.2,Health
+Euro area (11 countries),2004,6.6,Health
+Euro area (12 countries),2004,6.6,Health
+Euro area (13 countries),2004,6.6,Health
+Euro area (15 countries),2004,6.6,Health
+Euro area (16 countries),2004,6.5,Health
+Euro area (17 countries),2004,6.5,Health
+Euro area (18 countries),2004,6.5,Health
+Euro area (19 countries),2004,6.5,Health
+Estonia,2004,4.2,Health
+Greece,2004,5.6,Health
+Spain,2004,5.4,Health
+European Union - 15 countries (1995-2004),2004,6.5,Health
+European Union - 25 countries (2004-2006),2004,6.4,Health
+European Union - 27 countries (2007-2013),2004,6.4,Health
+European Union - 28 countries,2004,6.4,Health
+Finland,2004,6.6,Health
+France,2004,7.6,Health
+Croatia,2004,7.9,Health
+Hungary,2004,5.5,Health
+Ireland,2004,6.5,Health
+Italy,2004,6.6,Health
+Lithuania,2004,4.1,Health
+Luxembourg,2004,4.9,Health
+Latvia,2004,3.3,Health
+Malta,2004,5.7,Health
+Netherlands,2004,5.4,Health
+Norway,2004,7.7,Health
+Poland,2004,4.2,Health
+Portugal,2004,7.3,Health
+Romania,2004,3.2,Health
+Sweden,2004,6.5,Health
+Slovenia,2004,6.3,Health
+Slovakia,2004,4.9,Health
+United Kingdom,2004,6.2,Health
+Austria,2004,0.1,Public health services
+Belgium,2004,0.2,Public health services
+Bulgaria,2004,0.1,Public health services
+Switzerland,2004,0.1,Public health services
+Cyprus,2004,0,Public health services
+Czechia,2004,1.2,Public health services
+Germany (until 1990 former territory of the FRG),2004,0,Public health services
+Denmark,2004,0.1,Public health services
+Euro area (11 countries),2004,0.1,Public health services
+Euro area (12 countries),2004,0.1,Public health services
+Euro area (13 countries),2004,0.1,Public health services
+Euro area (15 countries),2004,0.1,Public health services
+Euro area (16 countries),2004,0.1,Public health services
+Euro area (17 countries),2004,0.1,Public health services
+Euro area (18 countries),2004,0.1,Public health services
+Euro area (19 countries),2004,0.1,Public health services
+Estonia,2004,0,Public health services
+Greece,2004,0,Public health services
+Spain,2004,0.1,Public health services
+European Union - 15 countries (1995-2004),2004,0.1,Public health services
+European Union - 25 countries (2004-2006),2004,0.1,Public health services
+European Union - 27 countries (2007-2013),2004,0.1,Public health services
+European Union - 28 countries,2004,0.1,Public health services
+Finland,2004,0,Public health services
+France,2004,0.1,Public health services
+Croatia,2004,0.1,Public health services
+Hungary,2004,0.3,Public health services
+Ireland,2004,0.4,Public health services
+Italy,2004,0.2,Public health services
+Lithuania,2004,0.1,Public health services
+Luxembourg,2004,0,Public health services
+Latvia,2004,0.1,Public health services
+Malta,2004,0.1,Public health services
+Netherlands,2004,0.2,Public health services
+Norway,2004,0.2,Public health services
+Poland,2004,0.1,Public health services
+Portugal,2004,0,Public health services
+Romania,2004,0.1,Public health services
+Sweden,2004,0.1,Public health services
+Slovenia,2004,0.2,Public health services
+Slovakia,2004,0,Public health services
+United Kingdom,2004,0,Public health services
+Austria,2004,0.4,R&D Health
+Belgium,2004,0,R&D Health
+Bulgaria,2004,NA,R&D Health
+Switzerland,2004,0,R&D Health
+Cyprus,2004,0,R&D Health
+Czechia,2004,0,R&D Health
+Germany (until 1990 former territory of the FRG),2004,0.1,R&D Health
+Denmark,2004,0.2,R&D Health
+Euro area (11 countries),2004,0.1,R&D Health
+Euro area (12 countries),2004,0.1,R&D Health
+Euro area (13 countries),2004,0.1,R&D Health
+Euro area (15 countries),2004,0.1,R&D Health
+Euro area (16 countries),2004,0.1,R&D Health
+Euro area (17 countries),2004,0.1,R&D Health
+Euro area (18 countries),2004,0.1,R&D Health
+Euro area (19 countries),2004,0.1,R&D Health
+Estonia,2004,0.1,R&D Health
+Greece,2004,0,R&D Health
+Spain,2004,0.1,R&D Health
+European Union - 15 countries (1995-2004),2004,0.1,R&D Health
+European Union - 25 countries (2004-2006),2004,0.1,R&D Health
+European Union - 27 countries (2007-2013),2004,0.1,R&D Health
+European Union - 28 countries,2004,0.1,R&D Health
+Finland,2004,0.2,R&D Health
+France,2004,0.1,R&D Health
+Croatia,2004,0.2,R&D Health
+Hungary,2004,0,R&D Health
+Ireland,2004,0,R&D Health
+Italy,2004,0.1,R&D Health
+Lithuania,2004,0,R&D Health
+Luxembourg,2004,0.1,R&D Health
+Latvia,2004,0,R&D Health
+Malta,2004,0,R&D Health
+Netherlands,2004,0.2,R&D Health
+Norway,2004,0.3,R&D Health
+Poland,2004,0,R&D Health
+Portugal,2004,0.1,R&D Health
+Romania,2004,0,R&D Health
+Sweden,2004,0.1,R&D Health
+Slovenia,2004,0.1,R&D Health
+Slovakia,2004,0,R&D Health
+United Kingdom,2004,0.1,R&D Health
+Austria,2003,7.4,Health
+Belgium,2003,6.7,Health
+Bulgaria,2003,5.5,Health
+Switzerland,2003,1.9,Health
+Cyprus,2003,3.1,Health
+Czechia,2003,7.4,Health
+Germany (until 1990 former territory of the FRG),2003,6.8,Health
+Denmark,2003,7.1,Health
+Euro area (11 countries),2003,6.6,Health
+Euro area (12 countries),2003,6.6,Health
+Euro area (13 countries),2003,6.6,Health
+Euro area (15 countries),2003,6.6,Health
+Euro area (16 countries),2003,6.6,Health
+Euro area (17 countries),2003,6.5,Health
+Euro area (18 countries),2003,6.5,Health
+Euro area (19 countries),2003,6.5,Health
+Estonia,2003,4.1,Health
+Greece,2003,6,Health
+Spain,2003,5.2,Health
+European Union - 15 countries (1995-2004),2003,6.4,Health
+European Union - 25 countries (2004-2006),2003,6.4,Health
+European Union - 27 countries (2007-2013),2003,6.4,Health
+European Union - 28 countries,2003,6.4,Health
+Finland,2003,6.4,Health
+France,2003,7.5,Health
+Croatia,2003,6.5,Health
+Hungary,2003,5.8,Health
+Ireland,2003,6.1,Health
+Italy,2003,6.3,Health
+Lithuania,2003,5,Health
+Luxembourg,2003,4.5,Health
+Latvia,2003,3.2,Health
+Malta,2003,5.5,Health
+Netherlands,2003,5.4,Health
+Norway,2003,8.1,Health
+Poland,2003,4.3,Health
+Portugal,2003,7,Health
+Romania,2003,3.4,Health
+Sweden,2003,6.7,Health
+Slovenia,2003,6.4,Health
+Slovakia,2003,5.4,Health
+United Kingdom,2003,5.8,Health
+Austria,2003,0.2,Public health services
+Belgium,2003,0.1,Public health services
+Bulgaria,2003,0.1,Public health services
+Switzerland,2003,0.1,Public health services
+Cyprus,2003,0,Public health services
+Czechia,2003,1.3,Public health services
+Germany (until 1990 former territory of the FRG),2003,0,Public health services
+Denmark,2003,0.1,Public health services
+Euro area (11 countries),2003,0.1,Public health services
+Euro area (12 countries),2003,0.1,Public health services
+Euro area (13 countries),2003,0.1,Public health services
+Euro area (15 countries),2003,0.1,Public health services
+Euro area (16 countries),2003,0.1,Public health services
+Euro area (17 countries),2003,0.1,Public health services
+Euro area (18 countries),2003,0.1,Public health services
+Euro area (19 countries),2003,0.1,Public health services
+Estonia,2003,0.1,Public health services
+Greece,2003,0,Public health services
+Spain,2003,0.1,Public health services
+European Union - 15 countries (1995-2004),2003,0.1,Public health services
+European Union - 25 countries (2004-2006),2003,0.1,Public health services
+Finland,2003,0,Public health services
+France,2003,0.1,Public health services
+Croatia,2003,0.1,Public health services
+Hungary,2003,0.3,Public health services
+Ireland,2003,0.4,Public health services
+Italy,2003,0.2,Public health services
+Lithuania,2003,0,Public health services
+Luxembourg,2003,0,Public health services
+Latvia,2003,0.1,Public health services
+Malta,2003,0.1,Public health services
+Netherlands,2003,0.2,Public health services
+Norway,2003,0.2,Public health services
+Poland,2003,0.1,Public health services
+Portugal,2003,0,Public health services
+Sweden,2003,0.1,Public health services
+Slovenia,2003,0.2,Public health services
+Slovakia,2003,0,Public health services
+United Kingdom,2003,0,Public health services
+Austria,2003,0.3,R&D Health
+Belgium,2003,0,R&D Health
+Bulgaria,2003,NA,R&D Health
+Switzerland,2003,0,R&D Health
+Cyprus,2003,0,R&D Health
+Czechia,2003,0,R&D Health
+Germany (until 1990 former territory of the FRG),2003,0.1,R&D Health
+Denmark,2003,0.2,R&D Health
+Euro area (11 countries),2003,0.1,R&D Health
+Euro area (12 countries),2003,0.1,R&D Health
+Euro area (13 countries),2003,0.1,R&D Health
+Euro area (15 countries),2003,0.1,R&D Health
+Euro area (16 countries),2003,0.1,R&D Health
+Euro area (17 countries),2003,0.1,R&D Health
+Euro area (18 countries),2003,0.1,R&D Health
+Euro area (19 countries),2003,0.1,R&D Health
+Estonia,2003,0.1,R&D Health
+Greece,2003,0,R&D Health
+Spain,2003,0.1,R&D Health
+European Union - 15 countries (1995-2004),2003,0.1,R&D Health
+European Union - 25 countries (2004-2006),2003,0.1,R&D Health
+Finland,2003,0.2,R&D Health
+France,2003,0.1,R&D Health
+Croatia,2003,0.4,R&D Health
+Hungary,2003,0,R&D Health
+Ireland,2003,0,R&D Health
+Italy,2003,0.1,R&D Health
+Lithuania,2003,0,R&D Health
+Luxembourg,2003,0.1,R&D Health
+Latvia,2003,0,R&D Health
+Malta,2003,0,R&D Health
+Netherlands,2003,0.3,R&D Health
+Norway,2003,0.2,R&D Health
+Poland,2003,0,R&D Health
+Portugal,2003,0.1,R&D Health
+Sweden,2003,0.1,R&D Health
+Slovenia,2003,0.1,R&D Health
+Slovakia,2003,0,R&D Health
+United Kingdom,2003,0.1,R&D Health
+Austria,2002,7.3,Health
+Belgium,2002,6.2,Health
+Bulgaria,2002,4.9,Health
+Switzerland,2002,1.8,Health
+Cyprus,2002,2.9,Health
+Czechia,2002,7.3,Health
+Germany (until 1990 former territory of the FRG),2002,6.7,Health
+Denmark,2002,7.1,Health
+Euro area (11 countries),2002,6.4,Health
+Euro area (12 countries),2002,6.4,Health
+Euro area (13 countries),2002,6.4,Health
+Euro area (15 countries),2002,6.4,Health
+Euro area (16 countries),2002,6.4,Health
+Euro area (17 countries),2002,6.4,Health
+Euro area (18 countries),2002,6.4,Health
+Euro area (19 countries),2002,6.4,Health
+Estonia,2002,4.2,Health
+Greece,2002,6,Health
+Spain,2002,5.1,Health
+European Union - 15 countries (1995-2004),2002,6.3,Health
+European Union - 25 countries (2004-2006),2002,6.2,Health
+European Union - 27 countries (2007-2013),2002,6.2,Health
+European Union - 28 countries,2002,6.2,Health
+Finland,2002,6.2,Health
+France,2002,7.3,Health
+Croatia,2002,6.1,Health
+Hungary,2002,5.6,Health
+Ireland,2002,5.8,Health
+Italy,2002,6.3,Health
+Lithuania,2002,5.1,Health
+Luxembourg,2002,4.2,Health
+Latvia,2002,3.6,Health
+Malta,2002,5.4,Health
+Netherlands,2002,5.2,Health
+Norway,2002,7.8,Health
+Poland,2002,4.4,Health
+Portugal,2002,6.5,Health
+Romania,2002,4.1,Health
+Sweden,2002,6.5,Health
+Slovenia,2002,6.4,Health
+Slovakia,2002,5.7,Health
+United Kingdom,2002,5.6,Health
+Austria,2002,0.1,Public health services
+Belgium,2002,0.1,Public health services
+Bulgaria,2002,0.1,Public health services
+Switzerland,2002,0.1,Public health services
+Cyprus,2002,0,Public health services
+Czechia,2002,1.3,Public health services
+Germany (until 1990 former territory of the FRG),2002,0,Public health services
+Denmark,2002,0.1,Public health services
+Euro area (11 countries),2002,0.1,Public health services
+Euro area (12 countries),2002,0.1,Public health services
+Euro area (13 countries),2002,0.1,Public health services
+Euro area (15 countries),2002,0.1,Public health services
+Euro area (16 countries),2002,0.1,Public health services
+Euro area (17 countries),2002,0.1,Public health services
+Euro area (18 countries),2002,0.1,Public health services
+Euro area (19 countries),2002,0.1,Public health services
+Estonia,2002,0.1,Public health services
+Greece,2002,0,Public health services
+Spain,2002,0.1,Public health services
+European Union - 15 countries (1995-2004),2002,0.1,Public health services
+European Union - 25 countries (2004-2006),2002,0.1,Public health services
+Finland,2002,0,Public health services
+France,2002,0.1,Public health services
+Croatia,2002,0.1,Public health services
+Hungary,2002,0.2,Public health services
+Ireland,2002,0.4,Public health services
+Italy,2002,0.2,Public health services
+Lithuania,2002,0,Public health services
+Luxembourg,2002,0,Public health services
+Latvia,2002,0.1,Public health services
+Malta,2002,0.1,Public health services
+Netherlands,2002,0.2,Public health services
+Norway,2002,0.2,Public health services
+Poland,2002,0.1,Public health services
+Portugal,2002,0,Public health services
+Sweden,2002,0.2,Public health services
+Slovenia,2002,0.2,Public health services
+Slovakia,2002,0.1,Public health services
+United Kingdom,2002,0,Public health services
+Austria,2002,0.3,R&D Health
+Belgium,2002,0,R&D Health
+Bulgaria,2002,NA,R&D Health
+Switzerland,2002,0,R&D Health
+Cyprus,2002,0,R&D Health
+Czechia,2002,0,R&D Health
+Germany (until 1990 former territory of the FRG),2002,0.1,R&D Health
+Denmark,2002,0.2,R&D Health
+Euro area (11 countries),2002,0.1,R&D Health
+Euro area (12 countries),2002,0.1,R&D Health
+Euro area (13 countries),2002,0.1,R&D Health
+Euro area (15 countries),2002,0.1,R&D Health
+Euro area (16 countries),2002,0.1,R&D Health
+Euro area (17 countries),2002,0.1,R&D Health
+Euro area (18 countries),2002,0.1,R&D Health
+Euro area (19 countries),2002,0.1,R&D Health
+Estonia,2002,0,R&D Health
+Greece,2002,0,R&D Health
+Spain,2002,0.1,R&D Health
+European Union - 15 countries (1995-2004),2002,0.1,R&D Health
+European Union - 25 countries (2004-2006),2002,0.1,R&D Health
+Finland,2002,0.2,R&D Health
+France,2002,0.1,R&D Health
+Croatia,2002,0.3,R&D Health
+Hungary,2002,0,R&D Health
+Ireland,2002,0,R&D Health
+Italy,2002,0.1,R&D Health
+Lithuania,2002,0,R&D Health
+Luxembourg,2002,0,R&D Health
+Latvia,2002,0,R&D Health
+Malta,2002,0,R&D Health
+Netherlands,2002,0.3,R&D Health
+Norway,2002,0.2,R&D Health
+Poland,2002,0,R&D Health
+Portugal,2002,0.1,R&D Health
+Sweden,2002,0.1,R&D Health
+Slovenia,2002,0,R&D Health
+Slovakia,2002,0,R&D Health
+United Kingdom,2002,0.1,R&D Health
+Austria,2001,7,Health
+Belgium,2001,6.3,Health
+Bulgaria,2001,4,Health
+Switzerland,2001,1.7,Health
+Cyprus,2001,2.6,Health
+Czechia,2001,7.1,Health
+Germany (until 1990 former territory of the FRG),2001,6.5,Health
+Denmark,2001,6.9,Health
+Euro area (11 countries),2001,6.3,Health
+Euro area (12 countries),2001,6.3,Health
+Euro area (13 countries),2001,6.3,Health
+Euro area (15 countries),2001,6.3,Health
+Euro area (16 countries),2001,6.3,Health
+Euro area (17 countries),2001,6.3,Health
+Euro area (18 countries),2001,6.3,Health
+Euro area (19 countries),2001,6.2,Health
+Estonia,2001,4.1,Health
+Greece,2001,6.3,Health
+Spain,2001,5.1,Health
+European Union - 15 countries (1995-2004),2001,6.1,Health
+European Union - 25 countries (2004-2006),2001,6.1,Health
+European Union - 27 countries (2007-2013),2001,6,Health
+European Union - 28 countries,2001,6,Health
+Finland,2001,5.9,Health
+France,2001,7,Health
+Croatia,2001,6.5,Health
+Hungary,2001,4.9,Health
+Ireland,2001,5.2,Health
+Italy,2001,6.2,Health
+Lithuania,2001,5.5,Health
+Luxembourg,2001,4.4,Health
+Latvia,2001,3.2,Health
+Malta,2001,4.8,Health
+Netherlands,2001,4.8,Health
+Norway,2001,7.1,Health
+Poland,2001,4.3,Health
+Portugal,2001,6.4,Health
+Romania,2001,4.1,Health
+Sweden,2001,6.2,Health
+Slovenia,2001,6.5,Health
+Slovakia,2001,5.5,Health
+United Kingdom,2001,5.3,Health
+Austria,2001,0.1,Public health services
+Belgium,2001,0.1,Public health services
+Bulgaria,2001,0.2,Public health services
+Switzerland,2001,0.1,Public health services
+Cyprus,2001,0,Public health services
+Czechia,2001,1.3,Public health services
+Germany (until 1990 former territory of the FRG),2001,0,Public health services
+Denmark,2001,0.1,Public health services
+Euro area (11 countries),2001,0.1,Public health services
+Euro area (12 countries),2001,0.1,Public health services
+Euro area (13 countries),2001,0.1,Public health services
+Euro area (15 countries),2001,0.1,Public health services
+Euro area (16 countries),2001,0.1,Public health services
+Euro area (17 countries),2001,0.1,Public health services
+Euro area (18 countries),2001,0.1,Public health services
+Euro area (19 countries),2001,0.1,Public health services
+Estonia,2001,0.1,Public health services
+Greece,2001,0,Public health services
+Spain,2001,0.1,Public health services
+European Union - 15 countries (1995-2004),2001,0.1,Public health services
+European Union - 25 countries (2004-2006),2001,0.1,Public health services
+Finland,2001,0,Public health services
+France,2001,0.1,Public health services
+Croatia,2001,0.1,Public health services
+Hungary,2001,0.3,Public health services
+Ireland,2001,0.3,Public health services
+Italy,2001,0.2,Public health services
+Lithuania,2001,0,Public health services
+Luxembourg,2001,0.1,Public health services
+Latvia,2001,0.1,Public health services
+Malta,2001,0.1,Public health services
+Netherlands,2001,0.2,Public health services
+Norway,2001,0.2,Public health services
+Poland,2001,0.1,Public health services
+Portugal,2001,0,Public health services
+Sweden,2001,0.2,Public health services
+Slovenia,2001,0.2,Public health services
+Slovakia,2001,0.1,Public health services
+United Kingdom,2001,0,Public health services
+Austria,2001,0.3,R&D Health
+Belgium,2001,0,R&D Health
+Bulgaria,2001,NA,R&D Health
+Switzerland,2001,0,R&D Health
+Cyprus,2001,0,R&D Health
+Czechia,2001,0,R&D Health
+Germany (until 1990 former territory of the FRG),2001,0.1,R&D Health
+Denmark,2001,0.3,R&D Health
+Euro area (11 countries),2001,0.1,R&D Health
+Euro area (12 countries),2001,0.1,R&D Health
+Euro area (13 countries),2001,0.1,R&D Health
+Euro area (15 countries),2001,0.1,R&D Health
+Euro area (16 countries),2001,0.1,R&D Health
+Euro area (17 countries),2001,0.1,R&D Health
+Euro area (18 countries),2001,0.1,R&D Health
+Euro area (19 countries),2001,0.1,R&D Health
+Estonia,2001,0,R&D Health
+Greece,2001,0,R&D Health
+Spain,2001,0.1,R&D Health
+European Union - 15 countries (1995-2004),2001,0.1,R&D Health
+European Union - 25 countries (2004-2006),2001,0.1,R&D Health
+Finland,2001,0.2,R&D Health
+France,2001,0.1,R&D Health
+Croatia,2001,0.7,R&D Health
+Hungary,2001,0,R&D Health
+Ireland,2001,0,R&D Health
+Italy,2001,0.1,R&D Health
+Lithuania,2001,0,R&D Health
+Luxembourg,2001,0,R&D Health
+Latvia,2001,0,R&D Health
+Malta,2001,0,R&D Health
+Netherlands,2001,0.2,R&D Health
+Norway,2001,0.2,R&D Health
+Poland,2001,0,R&D Health
+Portugal,2001,0.1,R&D Health
+Sweden,2001,0.1,R&D Health
+Slovenia,2001,0,R&D Health
+Slovakia,2001,0,R&D Health
+United Kingdom,2001,0.1,R&D Health
+Austria,2000,7.1,Health
+Belgium,2000,6,Health
+Bulgaria,2000,3.9,Health
+Switzerland,2000,1.5,Health
+Cyprus,2000,2.5,Health
+Czechia,2000,6.8,Health
+Germany (until 1990 former territory of the FRG),2000,6.4,Health
+Denmark,2000,6.7,Health
+Euro area (11 countries),2000,6.2,Health
+Euro area (12 countries),2000,6.2,Health
+Euro area (13 countries),2000,6.2,Health
+Euro area (15 countries),2000,6.1,Health
+Euro area (16 countries),2000,6.1,Health
+Euro area (17 countries),2000,6.1,Health
+Euro area (18 countries),2000,6.1,Health
+Euro area (19 countries),2000,6.1,Health
+Estonia,2000,4.3,Health
+Greece,2000,5.6,Health
+Spain,2000,5.2,Health
+European Union - 15 countries (1995-2004),2000,5.9,Health
+European Union - 25 countries (2004-2006),2000,5.9,Health
+European Union - 27 countries (2007-2013),2000,5.9,Health
+Finland,2000,5.7,Health
+France,2000,7,Health
+Hungary,2000,5.2,Health
+Ireland,2000,4.8,Health
+Italy,2000,5.9,Health
+Lithuania,2000,4.9,Health
+Luxembourg,2000,3.7,Health
+Latvia,2000,3.9,Health
+Malta,2000,4.7,Health
+Netherlands,2000,4.6,Health
+Norway,2000,6.9,Health
+Poland,2000,3.9,Health
+Portugal,2000,6.2,Health
+Romania,2000,4.2,Health
+Sweden,2000,5.9,Health
+Slovenia,2000,6.3,Health
+Slovakia,2000,5.3,Health
+United Kingdom,2000,5.1,Health
+Austria,2000,0.1,Public health services
+Bulgaria,2000,0.4,Public health services
+Switzerland,2000,0.1,Public health services
+Cyprus,2000,0,Public health services
+Czechia,2000,1.3,Public health services
+Germany (until 1990 former territory of the FRG),2000,0,Public health services
+Denmark,2000,0.1,Public health services
+Estonia,2000,0,Public health services
+Spain,2000,0.1,Public health services
+Finland,2000,NA,Public health services
+France,2000,0.1,Public health services
+Hungary,2000,0.3,Public health services
+Ireland,2000,0.3,Public health services
+Lithuania,2000,0,Public health services
+Luxembourg,2000,0,Public health services
+Netherlands,2000,0.2,Public health services
+Norway,2000,0.2,Public health services
+Portugal,2000,0,Public health services
+Slovenia,2000,0.2,Public health services
+United Kingdom,2000,0,Public health services
+Austria,2000,0.3,R&D Health
+Bulgaria,2000,NA,R&D Health
+Switzerland,2000,0,R&D Health
+Cyprus,2000,0,R&D Health
+Czechia,2000,0,R&D Health
+Germany (until 1990 former territory of the FRG),2000,0.1,R&D Health
+Denmark,2000,0.3,R&D Health
+Estonia,2000,0,R&D Health
+Spain,2000,0.1,R&D Health
+Finland,2000,NA,R&D Health
+France,2000,0.1,R&D Health
+Hungary,2000,0,R&D Health
+Ireland,2000,0,R&D Health
+Lithuania,2000,0,R&D Health
+Luxembourg,2000,0,R&D Health
+Netherlands,2000,0.2,R&D Health
+Norway,2000,0.2,R&D Health
+Portugal,2000,0.1,R&D Health
+Slovenia,2000,0,R&D Health
+United Kingdom,2000,0.1,R&D Health
+Austria,1999,7.3,Health
+Belgium,1999,6,Health
+Bulgaria,1999,5.1,Health
+Switzerland,1999,1.5,Health
+Cyprus,1999,2.6,Health
+Czechia,1999,6.7,Health
+Germany (until 1990 former territory of the FRG),1999,6.1,Health
+Denmark,1999,6.9,Health
+Euro area (11 countries),1999,6,Health
+Euro area (12 countries),1999,6,Health
+Euro area (13 countries),1999,6,Health
+Euro area (15 countries),1999,6,Health
+Euro area (16 countries),1999,6,Health
+Euro area (17 countries),1999,6,Health
+Euro area (18 countries),1999,6,Health
+Euro area (19 countries),1999,6,Health
+Estonia,1999,4.9,Health
+Greece,1999,5.6,Health
+Spain,1999,5.1,Health
+European Union - 15 countries (1995-2004),1999,5.8,Health
+European Union - 25 countries (2004-2006),1999,5.8,Health
+European Union - 27 countries (2007-2013),1999,5.8,Health
+Finland,1999,5.8,Health
+France,1999,6.9,Health
+Hungary,1999,5.1,Health
+Ireland,1999,5,Health
+Italy,1999,5.6,Health
+Lithuania,1999,5.9,Health
+Luxembourg,1999,4,Health
+Latvia,1999,3.8,Health
+Malta,1999,4.4,Health
+Netherlands,1999,4.5,Health
+Norway,1999,7.6,Health
+Poland,1999,3.8,Health
+Portugal,1999,6,Health
+Romania,1999,3.8,Health
+Sweden,1999,6,Health
+Slovenia,1999,6.4,Health
+Slovakia,1999,5.3,Health
+United Kingdom,1999,5,Health
+Austria,1999,0.1,Public health services
+Bulgaria,1999,0.3,Public health services
+Switzerland,1999,0.1,Public health services
+Cyprus,1999,0,Public health services
+Czechia,1999,1.3,Public health services
+Denmark,1999,0.1,Public health services
+Estonia,1999,0,Public health services
+Spain,1999,0.1,Public health services
+Finland,1999,NA,Public health services
+France,1999,0.1,Public health services
+Hungary,1999,0.2,Public health services
+Ireland,1999,0.2,Public health services
+Luxembourg,1999,0,Public health services
+Netherlands,1999,0.1,Public health services
+Norway,1999,0.2,Public health services
+Portugal,1999,0,Public health services
+Slovenia,1999,0.2,Public health services
+United Kingdom,1999,0,Public health services
+Austria,1999,0.3,R&D Health
+Bulgaria,1999,NA,R&D Health
+Switzerland,1999,0,R&D Health
+Cyprus,1999,0,R&D Health
+Czechia,1999,0,R&D Health
+Denmark,1999,0.3,R&D Health
+Estonia,1999,0.1,R&D Health
+Spain,1999,0.1,R&D Health
+Finland,1999,NA,R&D Health
+France,1999,0.1,R&D Health
+Hungary,1999,0,R&D Health
+Ireland,1999,0,R&D Health
+Luxembourg,1999,0,R&D Health
+Netherlands,1999,0.2,R&D Health
+Norway,1999,0.3,R&D Health
+Portugal,1999,0.1,R&D Health
+Slovenia,1999,0,R&D Health
+United Kingdom,1999,0.1,R&D Health
+Austria,1998,7.1,Health
+Belgium,1998,5.9,Health
+Bulgaria,1998,2.5,Health
+Switzerland,1998,1.5,Health
+Cyprus,1998,2.5,Health
+Czechia,1998,6.6,Health
+Germany (until 1990 former territory of the FRG),1998,6,Health
+Denmark,1998,6.6,Health
+Euro area (11 countries),1998,6,Health
+Euro area (12 countries),1998,6,Health
+Estonia,1998,4.5,Health
+Greece,1998,5.2,Health
+Spain,1998,5.1,Health
+European Union - 15 countries (1995-2004),1998,5.8,Health
+Finland,1998,5.8,Health
+France,1998,7,Health
+Hungary,1998,5.3,Health
+Ireland,1998,5,Health
+Italy,1998,5.5,Health
+Lithuania,1998,5.4,Health
+Luxembourg,1998,4,Health
+Latvia,1998,3.9,Health
+Malta,1998,4.4,Health
+Netherlands,1998,4.6,Health
+Norway,1998,7.7,Health
+Poland,1998,3.3,Health
+Portugal,1998,6,Health
+Romania,1998,2.6,Health
+Sweden,1998,6,Health
+Slovakia,1998,5.6,Health
+United Kingdom,1998,4.8,Health
+Austria,1998,0.1,Public health services
+Bulgaria,1998,0.3,Public health services
+Switzerland,1998,0.1,Public health services
+Cyprus,1998,0,Public health services
+Czechia,1998,1.2,Public health services
+Denmark,1998,0.1,Public health services
+Estonia,1998,0,Public health services
+Spain,1998,0.1,Public health services
+Finland,1998,NA,Public health services
+France,1998,0.1,Public health services
+Hungary,1998,0.2,Public health services
+Ireland,1998,0.2,Public health services
+Luxembourg,1998,0,Public health services
+Netherlands,1998,0.1,Public health services
+Norway,1998,0.2,Public health services
+Portugal,1998,0,Public health services
+United Kingdom,1998,0,Public health services
+Austria,1998,0.3,R&D Health
+Bulgaria,1998,NA,R&D Health
+Switzerland,1998,0,R&D Health
+Cyprus,1998,0,R&D Health
+Czechia,1998,0,R&D Health
+Denmark,1998,0.3,R&D Health
+Estonia,1998,0.1,R&D Health
+Spain,1998,0.1,R&D Health
+Finland,1998,NA,R&D Health
+France,1998,0.1,R&D Health
+Hungary,1998,0,R&D Health
+Ireland,1998,0,R&D Health
+Luxembourg,1998,0,R&D Health
+Netherlands,1998,0.2,R&D Health
+Norway,1998,0.3,R&D Health
+Portugal,1998,0.1,R&D Health
+United Kingdom,1998,0.1,R&D Health
+Austria,1997,7,Health
+Belgium,1997,5.9,Health
+Bulgaria,1997,2.1,Health
+Switzerland,1997,1.6,Health
+Cyprus,1997,2.4,Health
+Czechia,1997,6.5,Health
+Germany (until 1990 former territory of the FRG),1997,6.1,Health
+Denmark,1997,6.5,Health
+Euro area (11 countries),1997,6,Health
+Euro area (12 countries),1997,6,Health
+Estonia,1997,4.4,Health
+Greece,1997,4.9,Health
+Spain,1997,5.1,Health
+European Union - 15 countries (1995-2004),1997,5.8,Health
+Finland,1997,6.2,Health
+France,1997,7.1,Health
+Hungary,1997,5.2,Health
+Ireland,1997,5.1,Health
+Italy,1997,5.5,Health
+Lithuania,1997,4.6,Health
+Luxembourg,1997,4.1,Health
+Latvia,1997,3.6,Health
+Malta,1997,4.4,Health
+Netherlands,1997,4.6,Health
+Norway,1997,7,Health
+Poland,1997,3.1,Health
+Portugal,1997,5.7,Health
+Romania,1997,1.9,Health
+Sweden,1997,6.1,Health
+Slovakia,1997,5.8,Health
+United Kingdom,1997,4.7,Health
+Austria,1997,0.1,Public health services
+Bulgaria,1997,0.2,Public health services
+Switzerland,1997,0.1,Public health services
+Cyprus,1997,0,Public health services
+Czechia,1997,1.1,Public health services
+Denmark,1997,0.1,Public health services
+Estonia,1997,0,Public health services
+Spain,1997,0.1,Public health services
+Finland,1997,NA,Public health services
+France,1997,0.1,Public health services
+Hungary,1997,0.3,Public health services
+Ireland,1997,0.2,Public health services
+Luxembourg,1997,0,Public health services
+Netherlands,1997,0.1,Public health services
+Norway,1997,0.2,Public health services
+Portugal,1997,0,Public health services
+United Kingdom,1997,0,Public health services
+Austria,1997,0.3,R&D Health
+Bulgaria,1997,NA,R&D Health
+Switzerland,1997,0,R&D Health
+Cyprus,1997,0,R&D Health
+Czechia,1997,0,R&D Health
+Denmark,1997,0.3,R&D Health
+Estonia,1997,0.1,R&D Health
+Spain,1997,0.1,R&D Health
+Finland,1997,NA,R&D Health
+France,1997,0.1,R&D Health
+Hungary,1997,0,R&D Health
+Ireland,1997,0,R&D Health
+Luxembourg,1997,0,R&D Health
+Netherlands,1997,0.2,R&D Health
+Norway,1997,0.2,R&D Health
+Portugal,1997,0.1,R&D Health
+United Kingdom,1997,0.1,R&D Health
+Austria,1996,6.7,Health
+Belgium,1996,6.2,Health
+Bulgaria,1996,1.8,Health
+Switzerland,1996,1.6,Health
+Cyprus,1996,2,Health
+Czechia,1996,7.2,Health
+Germany (until 1990 former territory of the FRG),1996,6.2,Health
+Denmark,1996,6.7,Health
+Euro area (11 countries),1996,6.1,Health
+Euro area (12 countries),1996,6.1,Health
+Estonia,1996,4.9,Health
+Greece,1996,4.9,Health
+Spain,1996,5.3,Health
+European Union - 15 countries (1995-2004),1996,5.9,Health
+Finland,1996,6.4,Health
+France,1996,7.2,Health
+Hungary,1996,5.4,Health
+Ireland,1996,5.1,Health
+Italy,1996,5.4,Health
+Lithuania,1996,4.3,Health
+Luxembourg,1996,4.2,Health
+Latvia,1996,2.9,Health
+Malta,1996,4.1,Health
+Netherlands,1996,4.4,Health
+Norway,1996,6.9,Health
+Poland,1996,2.7,Health
+Portugal,1996,5.7,Health
+Romania,1996,2.3,Health
+Sweden,1996,6.3,Health
+Slovakia,1996,6.3,Health
+United Kingdom,1996,4.9,Health
+Austria,1996,0.1,Public health services
+Bulgaria,1996,0.1,Public health services
+Switzerland,1996,0.1,Public health services
+Cyprus,1996,0,Public health services
+Czechia,1996,1.2,Public health services
+Denmark,1996,0.1,Public health services
+Estonia,1996,0.1,Public health services
+Spain,1996,0.1,Public health services
+Finland,1996,NA,Public health services
+France,1996,0.1,Public health services
+Hungary,1996,0.3,Public health services
+Ireland,1996,0.2,Public health services
+Luxembourg,1996,0,Public health services
+Netherlands,1996,0.1,Public health services
+Norway,1996,0.2,Public health services
+Portugal,1996,0,Public health services
+United Kingdom,1996,0,Public health services
+Austria,1996,0.3,R&D Health
+Bulgaria,1996,NA,R&D Health
+Switzerland,1996,0,R&D Health
+Cyprus,1996,0,R&D Health
+Czechia,1996,0,R&D Health
+Denmark,1996,0.3,R&D Health
+Estonia,1996,0.1,R&D Health
+Spain,1996,0.1,R&D Health
+Finland,1996,NA,R&D Health
+France,1996,0.1,R&D Health
+Hungary,1996,0,R&D Health
+Ireland,1996,0,R&D Health
+Luxembourg,1996,0,R&D Health
+Netherlands,1996,0.2,R&D Health
+Norway,1996,0.3,R&D Health
+Portugal,1996,0.1,R&D Health
+United Kingdom,1996,0.1,R&D Health
+Austria,1995,6.7,Health
+Belgium,1995,5.9,Health
+Bulgaria,1995,1.9,Health
+Switzerland,1995,1.6,Health
+Cyprus,1995,2,Health
+Czechia,1995,6.8,Health
+Germany (until 1990 former territory of the FRG),1995,6.1,Health
+Denmark,1995,6.8,Health
+Euro area (11 countries),1995,6,Health
+Euro area (12 countries),1995,6,Health
+Estonia,1995,4.9,Health
+Greece,1995,5,Health
+Spain,1995,5.2,Health
+European Union - 15 countries (1995-2004),1995,5.9,Health
+Finland,1995,6.2,Health
+France,1995,7.1,Health
+Hungary,1995,5.7,Health
+Ireland,1995,5.5,Health
+Italy,1995,5.3,Health
+Lithuania,1995,4.1,Health
+Luxembourg,1995,4,Health
+Latvia,1995,3.1,Health
+Malta,1995,3.8,Health
+Netherlands,1995,4.7,Health
+Norway,1995,7,Health
+Poland,1995,2,Health
+Portugal,1995,5.4,Health
+Romania,1995,2.4,Health
+Sweden,1995,6.1,Health
+Slovakia,1995,3.9,Health
+United Kingdom,1995,5,Health
+Austria,1995,0.1,Public health services
+Bulgaria,1995,0.1,Public health services
+Switzerland,1995,0.1,Public health services
+Cyprus,1995,0,Public health services
+Czechia,1995,1,Public health services
+Denmark,1995,0.1,Public health services
+Estonia,1995,0.1,Public health services
+Spain,1995,0.1,Public health services
+Finland,1995,NA,Public health services
+France,1995,0.1,Public health services
+Hungary,1995,0.3,Public health services
+Ireland,1995,0.2,Public health services
+Luxembourg,1995,0,Public health services
+Netherlands,1995,0.1,Public health services
+Norway,1995,0.2,Public health services
+Portugal,1995,0,Public health services
+United Kingdom,1995,0,Public health services
+Austria,1995,0.3,R&D Health
+Bulgaria,1995,NA,R&D Health
+Switzerland,1995,0,R&D Health
+Cyprus,1995,0,R&D Health
+Czechia,1995,0,R&D Health
+Denmark,1995,0.3,R&D Health
+Estonia,1995,0.1,R&D Health
+Spain,1995,0.1,R&D Health
+Finland,1995,NA,R&D Health
+France,1995,0.1,R&D Health
+Hungary,1995,0,R&D Health
+Ireland,1995,0,R&D Health
+Luxembourg,1995,0,R&D Health
+Netherlands,1995,0.2,R&D Health
+Norway,1995,0.3,R&D Health
+Portugal,1995,0.1,R&D Health
+United Kingdom,1995,0.1,R&D Health
+Finland,1994,6.2,Health
+Finland,1993,6.7,Health
+Finland,1992,6.8,Health
+Finland,1991,6.7,Health
+Finland,1990,5.8,Health

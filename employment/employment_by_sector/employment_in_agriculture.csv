@@ -1,0 +1,909 @@
+iso3,country,employment_in_agriculture,year,indicator,indicator.label,note_source.label
+ALB,Albania,68.37,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+ALB,Albania,70.25,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+ALB,Albania,69.65,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+ALB,Albania,70.78,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+ALB,Albania,72.11,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+ALB,Albania,71.82,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+ALB,Albania,72.15,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+ALB,Albania,57.72,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+ALB,Albania,58.1,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+ALB,Albania,58.54,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+ALB,Albania,58.47,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+ALB,Albania,57.97,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+ALB,Albania,36.65,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,44.64,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,44.05,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,42.08,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,45.39,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,45.97,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,44.03,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+ALB,Albania,42.7,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ALB,Albania,41.26,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ALB,Albania,38.2,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+ARM,Armenia,45.26,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+ARM,Armenia,36.53,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Including armed forces and/or conscripts | Age coverage - minimum age: 16 years old
+ARM,Armenia,30.18,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,39.45,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,38.6,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,38.92,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,37.25,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,36.28,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,34.83,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,35.33,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,33.6,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+ARM,Armenia,31.34,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+AUT,Austria,7.34,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,7.43,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,6.89,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,6.48,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,6.23,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,6.05,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,5.8,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,5.76,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,5.5,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.89,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,5.27,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,5.24,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,5.53,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,5.25,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,5.32,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,5.21,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.94,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.68,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.58,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.84,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.53,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,4.35,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,3.93,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AUT,Austria,3.69,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+AZE,Azerbaijan,30.8,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Including armed forces and/or conscripts
+AZE,Azerbaijan,31.8,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Including armed forces and/or conscripts
+AZE,Azerbaijan,29,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Including armed forces and/or conscripts
+AZE,Azerbaijan,42.3,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+AZE,Azerbaijan,42.31,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+AZE,Azerbaijan,41.01,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+AZE,Azerbaijan,39.95,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+AZE,Azerbaijan,40.19,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+AZE,Azerbaijan,38.2,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,39.54,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+AZE,Azerbaijan,39.32,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+AZE,Azerbaijan,39.55,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,38.55,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+AZE,Azerbaijan,38.4,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+AZE,Azerbaijan,36.35,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Employment definition: Excluding own-use production workers | Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+AZE,Azerbaijan,36.26,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Employment definition: Excluding own-use production workers | Data reference period: End of the year | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+BEL,Belgium,2.68,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,2.75,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,2.66,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,2.24,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,2.39,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.91,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.38,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.79,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.72,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,2.22,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,2.04,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.95,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.86,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.55,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.49,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.35,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.3,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.17,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.36,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.22,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.18,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.25,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,1.16,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BEL,Belgium,0.99,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,23.85,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+BGR,Bulgaria,24.36,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+BGR,Bulgaria,25.35,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+BGR,Bulgaria,26.18,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+BGR,Bulgaria,25.77,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+BGR,Bulgaria,13.13,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,9.68,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,10.69,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,11.13,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,10.72,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,8.93,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,8.11,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,7.54,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,7.47,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,7.09,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,6.81,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,6.78,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,6.44,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,6.66,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,7.01,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,6.86,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,6.75,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,7.01,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BGR,Bulgaria,6.58,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+BIH,Bosnia and Herzegovina,20.54,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,19.82,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,20.58,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,21.22,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,19.69,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,19.61,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,20.56,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,17.08,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,17.96,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BIH,Bosnia and Herzegovina,15.72,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+BLR,Belarus,9.7,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Age coverage - minimum age: 16 years old
+BLR,Belarus,9.72,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding non-permanent residents | Institutional sector coverage: Private sector only | Age coverage - maximum age: 74 years old
+BLR,Belarus,10.69,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding non-permanent residents | Institutional sector coverage: Private sector only | Age coverage - maximum age: 74 years old
+BLR,Belarus,11.31,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding non-permanent residents
+CYP,Cyprus,10.7,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+CYP,Cyprus,5.4,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,4.84,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,5.25,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,5.19,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,5.1,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,4.74,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,4.26,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,4.38,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,4.23,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,3.93,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,3.8,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,3.83,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,2.91,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,3.11,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,4.43,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,4,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,3.64,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,2.53,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CYP,Cyprus,2.17,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,6.63,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: OECD
+CZE,Czech Republic,6.21,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: OECD
+CZE,Czech Republic,5.79,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,5.55,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,5.31,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,5.21,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,4.87,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,4.89,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,4.51,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,4.45,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.98,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.76,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.58,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.17,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.12,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.1,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,2.99,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.05,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,3.03,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,2.75,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,2.93,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,2.9,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,2.8,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+CZE,Czech Republic,2.8,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,3.17,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,2.94,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,2.94,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,2.78,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,2.87,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,2.64,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,2.62,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,2.49,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,2.42,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,2.36,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,2.37,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,2.27,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,2.26,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,1.78,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,1.68,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,1.65,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,1.64,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,1.56,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,1.45,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,1.43,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,1.39,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,1.31,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,1.28,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DEU,Germany,1.25,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,4.39,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.87,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.72,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.7,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.31,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.66,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.54,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.21,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.29,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.26,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.18,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,3.08,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,2.96,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,2.55,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,2.58,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,2.42,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,2.4,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,2.59,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,2.54,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,2.48,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,2.49,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,2.51,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,2.19,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+DNK,Denmark,2.24,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,8.99,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,8.36,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,8.04,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,7.7,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,7.21,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,6.69,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,6.55,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,6.01,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.7,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.48,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,5.3,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.81,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.52,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.05,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.12,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.2,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.1,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.22,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.3,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.24,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.12,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.22,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.35,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ESP,Spain,4.2,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,10.18,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Including armed forces and/or conscripts | Age coverage - maximum age: 69 years old
+EST,Estonia,9.72,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Including armed forces and/or conscripts | Age coverage - maximum age: 69 years old
+EST,Estonia,9.68,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,9.3,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,8.58,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,6.36,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,6.34,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,6.6,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,6.24,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,5.06,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,5.19,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,5.06,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,4.77,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.89,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,4.05,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,4.21,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,4.41,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,4.49,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,4.26,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.85,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.89,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.88,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.51,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+EST,Estonia,3.29,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,7.75,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,7.8,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,7.75,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,7.1,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,6.36,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,6.19,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,5.82,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,5.51,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,5.25,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.99,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.81,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.66,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.53,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.5,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.61,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.42,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.21,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.14,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.11,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.24,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,4.21,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,3.85,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,3.76,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FIN,Finland,3.7,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.89,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.82,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.64,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.41,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.24,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.14,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.07,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.13,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,4.22,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,3.86,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,3.62,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,3.73,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,3.45,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,2.72,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,2.92,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,2.89,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,2.9,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,2.91,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,3.05,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,2.82,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,2.71,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,2.83,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,2.6,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+FRA,France,2.47,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,2.04,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.94,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.85,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.71,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.55,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.53,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.39,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.38,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.25,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.27,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.37,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.35,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.36,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.08,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.1,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.21,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.21,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.18,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.05,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.24,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.13,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.12,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.15,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GBR,United Kingdom,1.06,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GEO,Georgia,48.49,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,52.2,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,52.1,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,52.75,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,53.77,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,54.87,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,53.97,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,54.33,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,55.31,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,53.42,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+GEO,Georgia,49.35,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,48.03,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,48.46,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,46.94,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,47.11,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,45.92,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,43.86,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,43.67,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GEO,Georgia,43.12,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+GRC,Greece,20.43,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,20.28,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,19.84,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,17.89,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,17.43,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,17.4,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,15.87,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,15.23,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,15.03,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,12.37,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,12.16,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,11.72,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,11.33,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,11.14,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,11.7,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,12.4,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,12.35,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,13,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,13.69,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,13.57,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,12.9,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,12.37,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,12.08,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+GRC,Greece,12.27,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,19.87,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: November | Population coverage: Including armed forces and/or conscripts
+HRV,Croatia,17.77,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: June | Population coverage: Including armed forces and/or conscripts
+HRV,Croatia,11.3,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: March
+HRV,Croatia,15.55,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,16.85,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,16.96,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,17.29,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,14.24,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,12.35,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,12.81,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,13.32,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,14.24,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,14.57,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,12.24,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,10.77,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,9.5,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,9.21,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,7.59,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,6.97,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HRV,Croatia,6.23,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,8.02,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Age coverage - maximum age: 74 years old
+HUN,Hungary,8.22,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,7.81,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,7.34,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,6.95,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,6.46,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,6.19,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,6.12,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.38,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.26,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,4.87,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,4.76,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,4.59,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,4.31,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,4.61,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,4.54,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,4.89,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.06,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,4.78,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,4.66,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,4.89,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.04,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,5.04,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+HUN,Hungary,4.85,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,11.97,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,11.2,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,10.88,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,9.1,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,8.64,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,7.95,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,7.11,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,7.03,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,6.5,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,6.37,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.91,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.67,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.42,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.27,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.57,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.73,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.71,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.78,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.77,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.43,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.32,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.27,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,5.03,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+IRL,Ireland,4.75,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,6.58,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,6.13,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,5.88,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,5.77,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,5.42,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,5.23,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,5.21,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,4.93,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,4.72,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,4.14,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,4.2,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,4.27,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,3.97,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,3.7,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,3.69,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,3.77,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,3.68,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,3.69,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,3.6,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,3.64,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,3.75,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,3.88,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,3.78,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ITA,Italy,3.76,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+KAZ,Kazakhstan,35.52,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,35.48,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,35.25,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,33.5,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,32.41,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,31.54,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,31.22,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,30.16,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+KAZ,Kazakhstan,29.02,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,28.28,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,26.45,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,25.54,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,24.19,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,22.11,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+KAZ,Kazakhstan,18.01,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KAZ,Kazakhstan,16.25,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+KAZ,Kazakhstan,15.36,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Employment definition: Excluding own-use production workers | Population coverage: Excluding both institutional population and armed forces and/or conscripts
+KGZ,Kyrgyzstan,47.19,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+KGZ,Kyrgyzstan,47.15,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+KGZ,Kyrgyzstan,48.28,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+KGZ,Kyrgyzstan,49,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+KGZ,Kyrgyzstan,52.39,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+KGZ,Kyrgyzstan,53.07,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+KGZ,Kyrgyzstan,52.92,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+KGZ,Kyrgyzstan,49.09,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,43.24,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,38.9,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,38.5,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,36.27,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,34.49,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,34.02,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: November
+KGZ,Kyrgyzstan,30.09,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+KGZ,Kyrgyzstan,31.67,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+KGZ,Kyrgyzstan,31.59,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+KGZ,Kyrgyzstan,29.31,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+KGZ,Kyrgyzstan,26.79,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+KGZ,Kyrgyzstan,23.03,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+LTU,Lithuania,20.66,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts | Age coverage - minimum age: 14 years old
+LTU,Lithuania,19.56,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,19.99,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,19.24,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,17.57,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,18.64,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,18.71,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,16.28,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,14.27,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,13.83,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,11.33,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,8.06,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,8.98,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,8.83,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,8.49,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,8.8,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,8.42,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,9.17,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,9.07,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,7.98,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,7.78,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LTU,Lithuania,7.18,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,3.85,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.64,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.34,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.91,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.94,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.44,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.52,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.97,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,2.71,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.96,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.73,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.83,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.84,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.66,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.32,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.05,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.19,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.3,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.54,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.4,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,0.95,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,0.91,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,1.16,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LUX,Luxembourg,0.96,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,17.26,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+LVA,Latvia,21.52,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Population coverage: Excluding armed forces and/or conscripts
+LVA,Latvia,19.03,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,17.49,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,14.93,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,15.46,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,16.23,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,14.24,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,13.3,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,12.05,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,11.45,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,10.17,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,7.95,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,8.75,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,8.61,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,8.89,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,8.37,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,8.05,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,7.5,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,7.94,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,7.69,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,6.86,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+LVA,Latvia,6.96,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MDA,"Moldova, Republic of",42.83,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+MDA,"Moldova, Republic of",41.56,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+MDA,"Moldova, Republic of",45.68,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+MDA,"Moldova, Republic of",48.92,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+MDA,"Moldova, Republic of",50.86,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+MDA,"Moldova, Republic of",51.02,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+MDA,"Moldova, Republic of",49.64,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+MDA,"Moldova, Republic of",42.99,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+MDA,"Moldova, Republic of",40.49,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+MDA,"Moldova, Republic of",40.61,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+MDA,"Moldova, Republic of",33.6,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+MDA,"Moldova, Republic of",32.76,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+MDA,"Moldova, Republic of",31.06,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+MDA,"Moldova, Republic of",28.17,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 76 years or older, but bounded"
+MDA,"Moldova, Republic of",27.52,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",27.53,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",26.45,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",28.81,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",30.48,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",34.15,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",33.7,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",32.34,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MDA,"Moldova, Republic of",36.1,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+MKD,North Macedonia,23.92,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: April
+MKD,North Macedonia,22.04,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: April
+MKD,North Macedonia,16.84,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+MKD,North Macedonia,19.5,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+MKD,North Macedonia,20.12,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,18.25,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,18.74,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,17.31,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,18.74,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,18.46,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,17.87,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,16.63,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,16.24,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MKD,North Macedonia,15.72,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,2.04,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,2.34,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,2.34,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,2.46,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,2.26,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,2.1,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,2.03,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,1.82,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,1.79,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,1.46,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,1.34,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,1.17,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,1.04,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,1.26,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,1.29,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,1.47,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,1.17,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,1,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MLT,Malta,1.03,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,8.92,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: October
+MNE,Montenegro,8.63,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: October | Age coverage - maximum age: 64 years old
+MNE,Montenegro,8.65,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: October
+MNE,Montenegro,5.52,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+MNE,Montenegro,5.47,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,5.28,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,4.56,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,5.68,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,7.72,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,7.74,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,7.94,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+MNE,Montenegro,8.02,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.71,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.56,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.49,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.32,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.04,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.08,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,2.95,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,2.66,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,2.94,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.15,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.52,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.48,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,3.2,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,2.98,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,2.88,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,2.77,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,2.48,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,2.46,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,1.92,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,2.11,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,2.14,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,2.08,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,2.05,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+NLD,Netherlands,1.9,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,22.61,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+POL,Poland,22.11,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+POL,Poland,20.59,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,18.67,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,19.2,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,19.63,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,18.2,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,17.6,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,17.37,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,15.79,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,14.74,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,13.96,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,13.28,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,13.05,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,12.9,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,12.57,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,11.99,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,11.47,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,11.5,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,10.54,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,10.18,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+POL,Poland,9.57,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,11.48,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,12.2,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,13.28,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,13.93,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,12.79,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,12.68,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,13.17,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,12.63,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,12.97,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,12.3,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,12.05,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,11.91,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,11.84,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,11.44,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,11.45,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,11.2,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,10.21,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,10.81,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,10.23,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,8.65,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,7.53,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,6.91,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,6.4,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+PRT,Portugal,6.04,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,40.33,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: March | Age coverage - minimum age: 14 years old
+ROU,Romania,37.96,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+ROU,Romania,40.87,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,41.98,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,44.01,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,45.2,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,44.43,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,37.71,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,37.68,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,32.57,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,32.29,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,30.6,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,29.53,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,28.7,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,29.09,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,31.01,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,29.25,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,29.71,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,29.25,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,28.35,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,25.59,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,23.1,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,22.78,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+ROU,Romania,22.31,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+RUS,Russian Federation,15.72,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+RUS,Russian Federation,15.27,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+RUS,Russian Federation,12.16,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Age coverage - maximum age: 72 years old
+RUS,Russian Federation,11.69,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: October | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,15.01,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,14.49,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,12.04,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,11.34,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,10.8,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,10,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,10.14,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,9.88,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,8.86,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,8.53,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: OECD | Age coverage - maximum age: 72 years old
+RUS,Russian Federation,8.43,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding institutional population | Age coverage - maximum age: 72 years old"
+RUS,Russian Federation,7.75,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,7.69,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,7.33,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,6.99,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,6.72,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,6.71,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,6.72,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,5.9,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+RUS,Russian Federation,5.88,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,24.02,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: October
+SRB,Serbia,23.32,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: October
+SRB,Serbia,20.54,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: October
+SRB,Serbia,20.81,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: October
+SRB,Serbia,25.02,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,23.83,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,22.32,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,21.22,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,20.96,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,21.29,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,19.86,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,19.41,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,18.61,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,17.22,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SRB,Serbia,15.93,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: ILO-STATISTICS - Micro data processing
+SVK,Slovakia,9.19,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: OECD
+SVK,Slovakia,8.9,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: OECD
+SVK,Slovakia,9.17,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: OECD
+SVK,Slovakia,8.14,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,7.25,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,6.93,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,6.26,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,6.59,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,6,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,5.08,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,4.74,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,4.38,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,4.21,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.96,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.59,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.23,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.08,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.24,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.31,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.5,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,3.18,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,2.89,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,2.71,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVK,Slovakia,2.29,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,10.43,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: May
+SVN,Slovenia,10.22,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,12.11,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,12.02,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,10.81,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,9.54,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,9.83,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,9.6,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,8.38,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,9.67,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,9.07,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,9.54,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,9.78,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,8.55,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,9.07,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,8.78,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,8.56,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,8.35,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,8.46,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,9.57,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,6.99,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,4.98,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,5.53,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SVN,Slovenia,5.45,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.49,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.25,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.24,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,3.05,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,2.99,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,2.9,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,2.64,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,2.52,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,2.54,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,2.48,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,2.31,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,2.22,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,2.24,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,2.11,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,2.17,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,2.1,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,1.98,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,2.05,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,2.02,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,1.96,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,2.02,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,1.87,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,1.82,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+SWE,Sweden,1.69,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+TJK,Tajikistan,55.49,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+TJK,Tajikistan,52.92,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Age coverage - maximum age: 75 years old
+TUR,Turkey,43.4,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: October | Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,42.85,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: October | Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,40.76,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: October | Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,40.54,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: October | Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,41.43,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Data reference period: October | Population coverage: Excluding armed forces and/or conscripts
+TUR,Turkey,24.06,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,23.48,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,22.95,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,23.7,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,24.16,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,23.56,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,22.92,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,21.09,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,20.41,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,19.5,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,19.38,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+TUR,Turkey,18.43,2018,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),Repository: Eurostat special tabulation
+UKR,Ukraine,22.49,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+UKR,Ukraine,21.93,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+UKR,Ukraine,22.07,1997,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+UKR,Ukraine,22.64,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+UKR,Ukraine,22.73,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+UKR,Ukraine,23.4,2000,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+UKR,Ukraine,20.85,2001,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,20.63,2002,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,20.36,2003,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,19.7,2004,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,19.37,2005,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,17.6,2006,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,16.67,2007,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,15.84,2008,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,19.99,2009,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,20.18,2010,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,20.26,2011,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,19.76,2012,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,20.01,2013,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,14.77,2014,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,15.26,2015,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,15.6,2016,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UKR,Ukraine,15.41,2017,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),"Employment definition: Including subsistence workers | Geographical coverage: Total national, excluding some areas | Population coverage: Excluding both institutional population and armed forces and/or conscripts | Age coverage - maximum age: 70 years old"
+UZB,Uzbekistan,41.24,1995,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+UZB,Uzbekistan,40.94,1996,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+UZB,Uzbekistan,39.4,1998,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
+UZB,Uzbekistan,38.5,1999,EMP_TAGR_NOC_RT,Share of agriculture in total employment (%),NA
