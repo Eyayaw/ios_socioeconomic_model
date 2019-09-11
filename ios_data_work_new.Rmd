@@ -5,12 +5,35 @@ date: "2019-08-05"
 output:
   bookdown::html_document2:
     code_folding: hide
-    highlight: tango
+    highlight: textmate
     number_section: yes
     theme: flatly
     df_print: paged
     toc: yes
     toc_float: yes
+  flexdashboard::flex_dashboard:
+  pagedown::html_paged:
+    toc: true
+  rmdformats::readthedown:
+    mathjax: local
+    self_contained: false
+    df_print: paged
+    number_section: yes
+    toc: 3
+    highlight: tango
+    code_folding: hide
+    code_download: yes
+    thumbnails: yes
+    use_bookdown: yes
+    css: custom.css
+  bookdown::pdf_document2:
+    df_print: paged
+    number_section: yes
+    toc: yes
+  html_notebook: default
+  pdf_document:
+    number_section: yes
+    toc: yes
 header-includes:
 - \usepackage{bbm}
 - \usepackage{float}
@@ -1348,13 +1371,121 @@ R_D <-  WDI(country = countries, indicator = "GB.XPD.RSDV.GD.ZS", start = 1995, 
 ## Female population fraction
 
 ## Gender parity in life expectancy at birth
+
+* **indicator name**: *Gender parity in life expectancy at birth*
+* **description**: *Ratio of life expectancy at birth of female to male*
+* **source**: **[UNECE Statistical Database](https://w3.unece.org/PXWeb/en)** >> **Population and Gender** >> **Health and mortality** >> **Life expectancy at birth and at age 65 by sex**.
+
+
+```{r}
+
+
+# life_expectancy_at_birth <- read_csv("gender/Manually downloaded/CSV/Life expectancy at birth, in years by sex.csv", na = "..")
+# 
+# gender_parity_in_life_expectancy_at_birth <- life_expectancy_at_birth %>% gather("1990":"2017", key = "year", value = "life_expectancy_at_birth") %>% select(country = Country, year, life_expectancy_at_birth, sex = Sex) %>% spread( key = sex, value = life_expectancy_at_birth) %>% group_by(country) %>% mutate(gender_parity_in_life_expectancy_at_birth = Female/Male)
+# 
+# gender_parity_in_life_expectancy_at_birth <- gender_parity_in_life_expectancy_at_birth %>% mutate("gender_parity_in_life_expectancy_at_birth" = as.numeric(format(gender_parity_in_life_expectancy_at_birth, digit = 2))) %>% as_tibble()
+# 
+# gender_parity_in_life_expectancy_at_birth %>% write_csv('gender/gender_parity_in_life_expectancy_at_birth.csv')
+
+```
+
+
+
 ## Gender parity in life expectancy at the age of 65
+
+* **indicator name**: *Gender parity in life expectancy at the age of 65*
+* **description**: *Ratio of life expectancy at the age of 65 of female to male*
+* **source**: **[UNECE Statistical Database](https://w3.unece.org/PXWeb/en)** >> **Population and Gender** >> **Health and mortality** >> **Life expectancy at birth and at age 65 by sex**.
+
+
+```{r}
+
+# life_expectancy_at_the_age_of_65 <- read_csv("gender/Manually downloaded/CSV/Life expectancy at age 65, in years by sex.csv", skip = 0, na = "..")
+# 
+# gender_parity_in_life_expectancy_at_the_age_of_65 <- life_expectancy_at_the_age_of_65 %>% gather("1990":"2017", key = "year", value = "life_expectancy_at_65") %>% select(country = Country, year, life_expectancy_at_65, sex = Sex) %>% spread( key = sex, value = life_expectancy_at_65) %>% group_by(country) %>% mutate(gender_parity_in_life_expectancy_at_the_age_of_65 = Female/Male)
+# 
+# gender_parity_in_life_expectancy_at_the_age_of_65 <- gender_parity_in_life_expectancy_at_the_age_of_65 %>% mutate("gender_parity_in_life_expectancy_at_the_age_of_65" = as.numeric(format(gender_parity_in_life_expectancy_at_the_age_of_65, digit = 2))) %>% as_tibble()
+# 
+# gender_parity_in_life_expectancy_at_the_age_of_65 %>% write_csv('gender/gender_parity_in_life_expectancy_at_the_age_of_65.csv')
+
+```
+
+
+
+
 ## Gender parity in economic activity rate
-## Female members in national parliaments (in %)
-## Female Researchers (in %)
-## Gender pay gap as difference in monthly earnings
-## Victims of serious assaults
+
+* **indicator name**: *Gender parity in economic activity rate*
+* **description**: *Ratio of the economic activity of female to male*
+* **source**: **[UNECE Statistical Database](https://w3.unece.org/PXWeb/en)** >> **Population and Gender** >> **Country Profiles** >> **Gender and demographic overview** >> **economic activity rate**
+
+
+
+```{r}
+
+c("Gender parity in life expectancy at birth", "Gender parity in life expectancy at the age of 65", "Gender parity in economic activity rate", "Gender parity in tertiary education") %>% janitor::make_clean_names()
+
+# economic_activity_rate <- read_csv("gender/Manually downloaded/CSV/Economic activity rate.csv", skip = 0, na = "..")
+# 
+# gender_parity_in_economic_activity_rate <- economic_activity_rate %>% gather("1990":"2018", key = "year", value = "economic_activity_rate") %>% select(country = Country, year, economic_activity_rate, sex = Sex) %>% spread( key = sex, value = economic_activity_rate) %>% group_by(country) %>% mutate(gender_parity_in_economic_activity_rate = Female/Male)
+# 
+# gender_parity_in_economic_activity_rate <- gender_parity_in_economic_activity_rate %>% mutate("gender_parity_in_economic_activity_rate" = as.numeric(format(gender_parity_in_economic_activity_rate, digit = 2))) %>% as_tibble()
+# 
+# gender_parity_in_economic_activity_rate %>% write_csv('gender/gender_parity_in_economic_activity_rate.csv')
+
+
+```
+
+
 ## Gender parity in tertiary education
+
+
+* **indicator name**: *Gender parity in tertiary education*
+* **description**: *Ratio of the number of females enrolled at the tertiary level of education to the number of male students in each level.*
+* **source**: **[UNECE Statistical Database](https://w3.unece.org/PXWeb/en)** >> **Population and Gender** >> **Education** >> **Tertiary students by field of study (ISCED 1997), type of programme and sex** 
+
+   *  **Measurement**: students 
+   
+   *  **Field of Study**: All fields
+   
+   *  **Type of Programme**: All programmes (ISCED11, total of levels 5-8 / ISCED97, total of levels 5 and 6)  
+   
+   *  **Sex**: Female, Male and Both sexes
+
+```{r}
+
+# c("Gender parity in life expectancy at birth", "Gender parity in life expectancy at the age of 65", "Gender parity in economic activity rate", "Gender parity in tertiary education") %>% janitor::make_clean_names()
+
+# tertiary_education <- read_csv("gender/Manually downloaded/CSV/Tertiary students by sex.csv", skip = 0, na = "..")
+# 
+# gender_parity_in_tertiary_education <- tertiary_education %>% gather("1990-1991":"2017-2018", key = "year", value = "tertiary_education") %>% select(country = Country, year, tertiary_education, sex = Sex) %>% spread( key = sex, value = tertiary_education) %>% group_by(country) %>% mutate(gender_parity_in_tertiary_education = Female/Male)
+# 
+# gender_parity_in_tertiary_education <- gender_parity_in_tertiary_education %>% mutate("gender_parity_in_tertiary_education" = as.numeric(format(gender_parity_in_tertiary_education, digit = 2))) %>% as_tibble()
+# 
+# gender_parity_in_tertiary_education %>% write_csv('gender/gender_parity_in_tertiary_education.csv')
+
+
+```
+
+
+## Female members in national parliaments (in %)
+
+
+## Female Researchers (in %)
+
+
+
+## Gender pay gap as difference in monthly earnings
+
+
+## Victims of serious assaults
+
+
+
+
+
+
 
 ## Mean age of women at first marriage
 
@@ -1376,7 +1507,8 @@ R_D <-  WDI(country = countries, indicator = "GB.XPD.RSDV.GD.ZS", start = 1995, 
 * `..` - data not available
 
 ```{r}
-# mean_age_at_first_marriage_by_sex <- read_csv("gender/Manually downloaded/mean_age_at_first_marriage_by_sex.csv", 
+
+# mean_age_at_first_marriage_by_sex <- read_csv("gender/Manually downloaded/CSV/mean_age_at_first_marriage_by_sex.csv",
 #     skip = 2, na = "..")
 # 
 # mean_age_at_first_marriage_by_sex <- mean_age_at_first_marriage_by_sex  %>% gather("1995":"2015", key = "year", value = "mean_age_at_first_marriage") %>% spread(key = Sex, value = mean_age_at_first_marriage)
@@ -1389,7 +1521,7 @@ R_D <-  WDI(country = countries, indicator = "GB.XPD.RSDV.GD.ZS", start = 1995, 
 # 
 # ## writing each to csv file
 # str_c("gender/", c("mean_age_of_men_at_first_marriage", "mean_age_of_women_at_first_marriage"),".csv") %>% map2(.x = ., .y=list(mean_age_of_men_at_first_marriage, mean_age_of_women_at_first_marriage), ~write_csv(x = .y, path = .x, ))
-# 
+
 
 ```
 
