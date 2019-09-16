@@ -9,4 +9,8 @@ Hello, Website!
 
 For more information about the database, please read the description at [IOS Database of economic and social models](https://www.ios-regensburg.de/en/information-infrastructure/eservices/ios-database-of-economic-and-social-models.html)
 
+## Downloaded Data {-}
+
+Access individual indicators or areas (folders) [here](https://github.com/Eyayaw/ios_socioeconomic_model).
+
 
