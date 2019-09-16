@@ -9,7 +9,7 @@ output:
     number_section: yes
     theme: flatly
     df_print: paged
-    toc: yes
+    toc: 2
     toc_float: yes
   flexdashboard::flex_dashboard:
   pagedown::html_paged:
@@ -19,7 +19,7 @@ output:
     self_contained: false
     df_print: paged
     number_section: yes
-    toc: 3
+    toc: 2
     highlight: tango
     code_folding: hide
     code_download: yes
@@ -81,21 +81,23 @@ countries <- c("ALB", "ARM", "AUT", "AZE", "BLR", "BEL", "BIH", "BGR", "HRV", "C
 
 ```{r WDI SETUP, cache=TRUE}
 
-#new_cache <- WDIcache()
-#write_rds(new_cache, "new_cache.rds")
+# new_cache <- WDIcache()
+# write_rds(new_cache, "new_cache.rds")
 new_cache <- read_rds('new_cache.rds')
+
 ```
 
 # Macroeconomic {.tabset .tabset-fade .tabset-pills}
 
 ## GDP PER CAPITA
 
-* Indicator code : `NY.GDP.PCAP.PP.KD`
-* Indicator name : `GDP per capita, PPP (constant 2011 international $)`
-* Description: `GDP per capita based on purchasing power parity (PPP). PPP GDP is gross domestic product converted to international dollars using purchasing power parity rates. An international dollar has the same purchasing power over GDP as the U.S. dollar has in the United States. GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant 2011 international dollars.`
-* source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+* **Indicator code** : `NY.GDP.PCAP.PP.KD`
+* **Indicator name** : `GDP per capita, PPP (constant 2011 international $)`
+* **Description**: `GDP per capita based on purchasing power parity (PPP). PPP GDP is gross domestic product converted to international dollars using purchasing power parity rates. An international dollar has the same purchasing power over GDP as the U.S. dollar has in the United States. GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant 2011 international dollars.`
+* **Source**: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
 
 ```{r macroeconomic, message=FALSE, fig.pos='ht'}
+
 # gdp_per_capita <- WDI(country = countries, indicator = c(gdp_per_capita ="NY.GDP.PCAP.PP.KD"), start = 1995, end = 2018, cache = new_cache, extra = F)
 # 
 # attr(gdp_per_capita$gdp_per_capita, "label")=NULL
@@ -112,10 +114,10 @@ kable(head(filter(gdp_per_capita, year == 2016)), caption = "Glimpse of GDP per 
 
 ## GDP GROWTH
 
-* indicator code: `NY.GDP.MKTP.KD.ZG`
-* indicator name: `GDP growth (annual %)`
-* Description: `Annual percentage growth rate of GDP at market prices based on constant local currency. Aggregates are based on constant 2010 U.S. dollars. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources.`
-* source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+* **Indicator code**: `NY.GDP.MKTP.KD.ZG`
+* **Indicator name**: `GDP growth (annual %)`
+* **Description**: `Annual percentage growth rate of GDP at market prices based on constant local currency. Aggregates are based on constant 2010 U.S. dollars. GDP is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources.`
+* **Source**: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
 
 ```{r, message=FALSE}
 
@@ -136,13 +138,13 @@ kable(head(filter(gdp_growth, year==2016)), caption = "Glimpse of gdp growth", d
 
 > Downloaded manually from [UNDP](http://hdr.undp.org/en/data#)
 
-* Indicator name: `Human Development Index (HDI)`
-* Dimension: `Human Development Index (HDI)`
-* Definition: see [this](http://hdr.undp.org/en/content/human-development-index-hdi)
+* **Indicator name**: `Human Development Index (HDI)`
+* **Dimension**: `Human Development Index (HDI)`
+* **Definition**: see [this](http://hdr.undp.org/en/content/human-development-index-hdi)
 
 ![Figure: HDI components](http://hdr.undp.org/sites/default/files/hdi.png)
 
-* Source: `UNITED NATIONS DEVELOPMENT PROGRAMME`: `Human Development Reports`
+* **Source**: [`UNITED NATIONS DEVELOPMENT PROGRAMME`: `Human Development Reports`](http://hdr.undp.org/en/data)
 
 
 
@@ -176,10 +178,10 @@ kable(head(subset(hdi, year == 2016)), caption = "Glimpse of Human Development I
 
 ## Inflation Rate
 
-* indicator code: `FP.CPI.TOTL.ZG`
-* indicator name: `Inflation, consumer prices (annual %)`
-* Description: `Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. The Laspeyres formula is generally used.`
-* source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+* **Indicator code**: `FP.CPI.TOTL.ZG`
+* **Indicator name**: `Inflation, consumer prices (annual %)`
+* **Description**: `Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. The Laspeyres formula is generally used.`
+* **source**: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
 
 ```{r}
 # inflation <- WDI(country = countries, indicator = c(inflation_rate = "FP.CPI.TOTL.ZG"), start = 1995, end = 2018, cache = new_cache, extra = F)
@@ -196,10 +198,10 @@ subset(inflation, year == 2016) %>% head() %>% kable(caption = 'Glimpse of infla
 
 ## Infant mortality rate 
 
-* indicator code: `SP.DYN.IMRT.IN`
-* indicator name: `Mortality rate, infant (per 1,000 live births)`
-* Description: `Infant mortality rate is the number of infants dying before reaching one year of age, per 1,000 live births in a given year.`
-* source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+* **Indicator code**: `SP.DYN.IMRT.IN`
+* **Indicator name**: `Mortality rate, infant (per 1,000 live births)`
+* **Description**: `Infant mortality rate is the number of infants dying before reaching one year of age, per 1,000 live births in a given year.`
+* **Source**: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
 
 ```{r}
 
@@ -217,10 +219,11 @@ subset(infant_mortality, year == 2016) %>% head() %>% kable(caption = 'Glimpse o
 
 ## (Youth) Literacy rate 
 
-* indicator code: `SE.ADT.1524.LT.ZS`
-* indicator name: `Literacy rate, youth total (% of people ages 15-24)`
-* Description: `Youth literacy rate is the percentage of people ages 15-24 who can both read and write with understanding a short simple statement about their everyday life.`
-* source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+* **Indicator code**: `SE.ADT.1524.LT.ZS`
+* **Indicator name**: `Literacy rate, youth total (% of people ages 15-24)`
+* **Description**: `Youth literacy rate is the percentage of people ages 15-24 who can both read and write with understanding a short simple statement about their everyday life.`
+* **source**: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+
 
 ```{r}
 # literacy_rate <- WDI(country = countries, indicator = c(literacy_rate = "SE.ADT.1524.LT.ZS"), start = 1995, end = 2018, cache = new_cache, extra = F)
@@ -268,11 +271,11 @@ population <- read_rds("population/population.rds")
 
 ## Population total
  
- * indicator code: ``r paste0(population_indicators_detail[population_indicators_detail$var_names =="population_total", c("indicator", "name", "description")][1])``
- * indicator name: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="population_total", c("indicator", "name", "description")][2])``
- * Description: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="population_total", c("indicator", "name", "description")][3])``
+ * **Indicator code**: ``r paste0(population_indicators_detail[population_indicators_detail$var_names =="population_total", c("indicator", "name", "description")][1])``
+ * **Indicator name**: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="population_total", c("indicator", "name", "description")][2])``
+ * **Description**: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="population_total", c("indicator", "name", "description")][3])``
  
-* source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+* *Source**: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
 
 
 ```{r}
@@ -287,11 +290,11 @@ subset(population_total, year == 2016) %>% head() %>% kable(caption = 'Glimpse o
  
 ## Population growth
 
-* indicator code: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="population_growth", c("indicator", "name", "description")][1])``
- * indicator name: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="population_growth", c("indicator", "name", "description")][2])``
- * Description: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="population_growth", c("indicator", "name", "description")][3])``
+* **Indicator code**: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="population_growth", c("indicator", "name", "description")][1])``
+ * **Indicator name**: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="population_growth", c("indicator", "name", "description")][2])``
+ * **Description**: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="population_growth", c("indicator", "name", "description")][3])``
  
- * source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+ * **Source**: [_**`World Development Indicators, The World Bank`**_](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
  
 
 ```{r}
@@ -307,11 +310,11 @@ subset(population_growth, year == 2016) %>% head() %>% kable(caption = 'Glimpse 
 
 ## Age dependency ratio, young
 
-* indicator code: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="young_dependency_ratio", c("indicator", "name", "description")][1])``
- * indicator name: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="young_dependency_ratio", c("indicator", "name", "description")][2])``
- * Description: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="young_dependency_ratio", c("indicator", "name", "description")][3])``
+* **Indicator code**: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="young_dependency_ratio", c("indicator", "name", "description")][1])``
+* **Indicator name**: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="young_dependency_ratio", c("indicator", "name", "description")][2])``
+* **Description**: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="young_dependency_ratio", c("indicator", "name", "description")][3])``
  
-* source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+* **Source**: [_**`World Development Indicators, The World Bank`**_](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
  
 ```{r}
 
@@ -330,11 +333,11 @@ subset(young_dependency_ratio, year == 2016) %>% head() %>% kable(caption = 'Gli
 ## Age dependency ratio, old
 
 
-* indicator code: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="old_dependency_ratio", c("indicator", "name", "description")][1])``
- * indicator name: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="old_dependency_ratio", c("indicator", "name", "description")][2])``
+* **Indicator code**: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="old_dependency_ratio", c("indicator", "name", "description")][1])``
+ * **Indicator name**: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="old_dependency_ratio", c("indicator", "name", "description")][2])``
  * Description: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="old_dependency_ratio", c("indicator", "name", "description")][3])``
  
-* source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+* Source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
  
 ```{r}
 
@@ -352,10 +355,10 @@ subset(old_dependency_ratio, year == 2016) %>% head() %>% kable(caption = 'Glimp
 
 ## Population density 
 
-* indicator code: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="population_density", c("indicator", "name", "description")][1])``
- * indicator name: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="population_density", c("indicator", "name", "description")][2])``
+* **Indicator code**: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="population_density", c("indicator", "name", "description")][1])``
+ * **Indicator name**: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="population_density", c("indicator", "name", "description")][2])``
  * Description: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="population_density", c("indicator", "name", "description")][3])``
- * source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+ * Source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
 
 ```{r}
 
@@ -374,11 +377,11 @@ subset(population_density, year == 2016) %>% head() %>% kable(caption = 'Glimpse
  
 ## Net migration 
 
-* indicator code: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="net_migration", c("indicator", "name", "description")][1])``
- * indicator name: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="net_migration", c("indicator", "name", "description")][2])``
+* **Indicator code**: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="net_migration", c("indicator", "name", "description")][1])``
+ * **Indicator name**: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="net_migration", c("indicator", "name", "description")][2])``
  * Description: ``r paste0(population_indicators_detail[population_indicators_detail$var_names=="net_migration", c("indicator", "name", "description")][3])``
  
-* source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+* Source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
 
 ```{r}
 
@@ -398,8 +401,8 @@ subset(net_migration, year == 2016) %>% head() %>% kable(caption = 'Glimpse of n
 
 Manually downloaded from [SourceUNICEF_TransMonEE_2018](http://dataforall.org/moneeinfo/libraries/aspx/dataview.aspx)
 
-* indicator name: `Number of immigrants - Number`
- * Source: [SourceUNICEF_TransMonEE_2018](http://dataforall.org/moneeinfo/libraries/aspx/home.aspx)
+* **Indicator name**: `Number of immigrants - Number`
+* Source: [SourceUNICEF_TransMonEE_2018](http://dataforall.org/moneeinfo/libraries/aspx/home.aspx)
    under topic = `population`
  
  
@@ -425,7 +428,7 @@ subset(immigrants[1:4], year == 2016) %>% head() %>% kable(caption = 'Glimpse of
 
 Manually downloaded from [SourceUNICEF_TransMonEE_2018](http://dataforall.org/moneeinfo/libraries/aspx/home.aspx)
  
- * indicator name: `Number of emigrants - Number`
+ * **Indicator name**: `Number of emigrants - Number`
  * Source: [SourceUNICEF_TransMonEE_2018](http://dataforall.org/moneeinfo/libraries/aspx/home.aspx)
    under topic = `population`
  
@@ -451,10 +454,10 @@ subset(emigrants[1:4], year == 2016) %>% head() %>% kable(caption = 'Glimpse of 
 
 ## Employment to population ratio
    
-   * indicator code: `EMP_2WAP_NOC_RT`
-   * indicator name: `Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)`
-   * description: *The employment-to-population ratio is defined as the proportion of a country’s working-age population that is employed. This indicator is part of the ILO Estimates and Projections series, analysed in the [ILO's World Employment and Social Outlook](https://www.ilo.org/global/research/global-reports/weso/2019/lang--en/index.htm) reports. For more information, refer to the [indicator description](http://www.ilo.org/ilostat-files/Documents/description_EPR_EN.pdf) and the [ILO estimates and projections methodological note](https://www.ilo.org/ilostat-files/Documents/TEM.pdf). Data are also available in Stata format via the [bulk download facility](http://ilostat.ilo.org/data/bulk).*
-   * source:  [ILO, Key Indicators of the Labour Market (KILM)](https://ilostat.ilo.org/)
+   * **Indicator code**: `EMP_2WAP_NOC_RT`
+   * **Indicator name**: `Employment-to-population ratio -- ILO modelled estimates, November 2018 (%)`
+   * Description: *The employment-to-population ratio is defined as the proportion of a country’s working-age population that is employed. This indicator is part of the ILO Estimates and Projections series, analysed in the [ILO's World Employment and Social Outlook](https://www.ilo.org/global/research/global-reports/weso/2019/lang--en/index.htm) reports. For more information, refer to the [indicator description](http://www.ilo.org/ilostat-files/Documents/description_EPR_EN.pdf) and the [ILO estimates and projections methodological note](https://www.ilo.org/ilostat-files/Documents/TEM.pdf). Data are also available in Stata format via the [bulk download facility](http://ilostat.ilo.org/data/bulk).*
+   * Source:  [ILO, Key Indicators of the Labour Market (KILM)](https://ilostat.ilo.org/)
 
 
 ```{r}
@@ -482,15 +485,17 @@ subset(employment_population_ratio[1:4], year == 2016) %>% head() %>% kable(capt
 
 ## Unemployment rate 
 
-   * indicator code: `UNE_DEAP_NOC_RT`
-   * indicator name: `Unemployment rate (%)`
+   * **Indicator code**: `UNE_DEAP_NOC_RT`
+   * **Indicator name**: `Unemployment rate (%)`
    
    * Description: *The unemployment rate conveys the number of persons who are unemployed as a percent of the labour force (i.e., the employed plus the unemployed). The unemployed comprise all persons of working age who were: a) without work during the reference period, i.e. were not in paid employment or self-employment; b) currently available for work, i.e. were available for paid employment or self-employment during the reference period; and c) seeking work, i.e. had taken specific steps in a specified recent period to seek paid employment or self-employment. For further information, see the SDG Indicators Metadata Repository (https://unstats.un.org/sdgs/metadata/) or [ILOSTAT's indicator description](https://www.ilo.org/ilostat-files/Documents/description_UR_EN.pdf).*
    
-   * source: [ILO, Key Indicators of the Labour Market (KILM)](https://ilostat.ilo.org/)
+   * Source: [ILO, Key Indicators of the Labour Market (KILM)](https://ilostat.ilo.org/)
    
    
 ```{r}
+
+options(ilostat_cache_dir = "ilostat/ilostat_cache")
 
 # unemployment_rate <- get_ilostat(id = "UNE_DEAP_NOC_RT_A", type = "both", lang = "en", time_format = "num", filters = list(time = c(1995:2018), ref_area = countries))
 # 
@@ -514,15 +519,17 @@ subset(unemployment_rate[1:4], year == 2016) %>% head() %>% kable(caption = 'Gli
  
 ## Participation rate 
 
-   * indicator code: `EAP_DWAP_NOC_RT`
-   * indicator name: `Labour force participation rate (%)`
+   * **Indicator code**: `EAP_DWAP_NOC_RT`
+   * **Indicator name**: `Labour force participation rate (%)`
    
    * Description: *The labour force participation rate is the proportion of a country's working-age population that engages actively in the labour market, either by working or looking for work. This indicator is part of the ILO Estimates and Projections series, analysed in the ILO’s World Employment and Social Outlook reports. For more information, refer to the indicator description and the labour force estimates and projections methodological paper. Data are also available in Stata format via the [bulk download facility](https://ilostat.ilo.org/data/bulk/).*
    
-   * source: [ILO, Key Indicators of the Labour Market (KILM)](https://ilostat.ilo.org/)
+   * Source: [ILO, Key Indicators of the Labour Market (KILM)](https://ilostat.ilo.org/)
+
 
 
 ```{r}
+
 # Rilostat::clean_ilostat_cache()
 # # search for indicator "id" in the toc
 # ilotoc <- get_ilostat_toc(lang = "en")
@@ -548,29 +555,48 @@ subset(participation_rate[1:4], year == 2016) %>% head() %>% kable(caption = 'Gl
 
 ## Long-term unemployment rate 
  
- * indicator code: `SL.UEM.LTRM.ZS`
- * indicator name: `Long-term unemployment (% of total unemployment)`
+ This indicator is not available. `r text_spec('ARCHIVED!!!', "html", color = "red", bold = T )`
  
- * description: *Long-term unemployment refers to the number of people with continuous periods of unemployment extending for a year or longer, expressed as a percentage of the total unemployed.*
+ * **Indicator code**: `SL.UEM.LTRM.ZS`
+ * **Indicator name**: `Long-term unemployment (% of total unemployment)`
  
- * source: **WDI**
+ * Description: *Long-term unemployment refers to the number of people with continuous periods of unemployment extending for a year or longer, expressed as a percentage of the total unemployed.*
+ 
+ * Source: **WDI**
 
 ```{r}
+
+# countries <- c("ALB", "ARM", "AUT", "AZE", "BLR", "BEL", "BIH", "BGR", "HRV", "CYP", "CZE", "DNK","EST", "FIN", "FRA", "GEO", "DEU", "GRC", "HUN", "IRL", "ITA", "KAZ", "KGZ", "LVA","LTU", "LUX", "MKD", "MLT", "MDA", "MNE", "NLD", "POL" ,"PRT", "ROU", "RUS", "SRB","SVK", "SVN", "ESP", "SWE", "TJK", "TUR", "TKM", "UKR", "GBR", "UZB")
+
 # longterm_unemployment <- WDI(indicator = "SL.UEM.LTRM.ZS", country =  countries, start = 1995, end = 2018, cache = new_cache)
 ```
 
 
 ## Gender pay gap in unadjusted form 
 
- * indicator code: `EAR_GGAP_NOC_RT`
- * indicator name: `Gender wage gap (%)`
- * 
+ * **Indicator code**: `tesem180`
+ * **Indicator name**: `Gender pay gap in unadjusted form (%)`
+ * `Unit of measure: Percentage`
+ * `Classification of economic activities - NACE Rev.2`: *Industry, construction and services (except public administration, defense, compulsory social security)*
+ * **Description**: The unadjusted Gender Pay Gap (GPG) represents the difference between average gross hourly earnings of male paid employees and of female paid employees as a percentage of average gross hourly earnings of male paid employees. The population consists of all paid employees in enterprises with 10 employees or more in NACE Rev. 2 aggregate B to S (excluding O). The GPG indicator is calculated within the framework of the data collected according to the methodology of the Structure of Earnings Survey.
+ * **Source**: Eurostat: This [dataset](https://ec.europa.eu/eurostat/databrowser/view/tesem180/default/table?lang=en) is computed from: [EARN_GR_GPGR2](https://ec.europa.eu/eurostat/product?code=EARN_GR_GPGR2&mode=view)
+
+
+
+<!-- 'Talk to Alzbeta'  --> `r text_spec('Talk to Alzbeta', "html", color = "blue", bold = T )`
 
 ```{r}
 
-# gender_pay_gap <- get_ilostat(id = c("EAR_GGAP_NOC_RT_A", "EAR_GGAP_OCU_RT_A"), type = "both", time_format = "num", filters = list(time = c(1995:2018), ref_area = countries))
+# options(eurostat_cache_dir = 'eurostat/eurostat_cache')
+# 
+# gender_pay_gap_unadjusted_1990_2006 <- get_eurostat(id = "earn_gr_hgpg", time_format = "num", type = "label", stringsAsFactors = F)
+# 
+# gender_pay_gap_unadjusted_2007_2017 <- get_eurostat(id = "tesem180", time_format = "num", type = "label", stringsAsFactors = F)
 
-# gender_pay_gap %>% select(iso3 = ref_area, country = ref_area.label, obs_value, year = time, indicator, indicator.label, note_source.label ) %>% arrange(country, year)
+
+
+
+
 ```
 
 
@@ -579,6 +605,7 @@ subset(participation_rate[1:4], year == 2016) %>% head() %>% kable(caption = 'Gl
 ## Employment by  sector
 
 ```{r}
+ options(ilostat_cache_dir = "ilostat/ilostat_cache")
 
 # emp_sector = WDI(indicator = c(agri = "SL.AGR.EMPL.ZS",industry = "SL.IND.EMPL.ZS", service = "SL.SRV.EMPL.ZS", self_employment = "SL.EMP.SELF.ZS", public = "BI.EMP.TOTL.PB.ZS"), country =  countries, start = 1995, end = 2018, cache = new_cache)
 
@@ -609,10 +636,10 @@ subset(participation_rate[1:4], year == 2016) %>% head() %>% kable(caption = 'Gl
 
 ### Employment in Agriculture
 
-* indicator code: `EMP_TAGR_NOC_RT`
-* indicator name: `Share of agriculture in total employment (%)`
+* **Indicator code**: `EMP_TAGR_NOC_RT`
+* **Indicator name**: `Share of agriculture in total employment (%)`
 
-* source: [ILO, Key Indicators of the Labour Market (KILM)](https://ilostat.ilo.org/)
+* Source: [ILO, Key Indicators of the Labour Market (KILM)](https://ilostat.ilo.org/)
 
 ```{r}
 
@@ -628,9 +655,9 @@ subset(employment_in_agriculture[1:4], year == 2016) %>% head() %>% kable(captio
 
 ### Employment in Industry 
 
- * indicator code:`EMP_TIND_NOC_RT`
- * indicator name: `Share of industry in total employment (%)`
- * source: [ILO, Key Indicators of the Labour Market (KILM)](https://ilostat.ilo.org/)
+ * **Indicator code**:`EMP_TIND_NOC_RT`
+ * **Indicator name**: `Share of industry in total employment (%)`
+ * Source: [ILO, Key Indicators of the Labour Market (KILM)](https://ilostat.ilo.org/)
  
 ```{r}
 
@@ -645,9 +672,9 @@ subset(employment_in_industry[1:4], year == 2016) %>% head() %>% kable(caption =
 
 ### Employment in services 
  
- * indicator code:`EMP_TSRV_NOC_RT` 
- * indicator name: `Share of services in total employment (%)`
- * source: [ILO, Key Indicators of the Labour Market (KILM)](https://ilostat.ilo.org/)
+ * **Indicator code**:`EMP_TSRV_NOC_RT` 
+ * **Indicator name**: `Share of services in total employment (%)`
+ * Source: [ILO, Key Indicators of the Labour Market (KILM)](https://ilostat.ilo.org/)
  
 ```{r}
 
@@ -662,9 +689,9 @@ subset(employment_in_services[1:4], year == 2016) %>% head() %>% kable(caption =
 
 ### Employment by (Private) employers
 
- * indicator code:`EMP_TEER_NOC_RT` 
- * indicator name: `Share of employers in total employment (%)`
- * source: [ILO, Key Indicators of the Labour Market (KILM)](https://ilostat.ilo.org/)
+ * **Indicator code**:`EMP_TEER_NOC_RT` 
+ * **Indicator name**: `Share of employers in total employment (%)`
+ * Source: [ILO, Key Indicators of the Labour Market (KILM)](https://ilostat.ilo.org/)
  
 
 ```{r}
@@ -683,12 +710,12 @@ subset(employment_in_employers[1:4], year == 2016) %>% head() %>% kable(caption 
 
 ## GINI Index
 
-* indicator code: `SI.POV.GINI`
-* indicator name: `GINI index (World Bank estimate)`
+* **Indicator code**: `SI.POV.GINI`
+* **Indicator name**: `GINI index (World Bank estimate)`
 
-* description: > *Gini index measures the extent to which the distribution of income (or, in some cases, consumption expenditure) among individuals or households within an economy deviates from a perfectly equal distribution. A Lorenz curve plots the cumulative percentages of total income received against the cumulative number of recipients, starting with the poorest individual or household. The Gini index measures the area between the Lorenz curve and a hypothetical line of absolute equality, expressed as a percentage of the maximum area under the line. Thus a Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality.*
+* Description: > *Gini index measures the extent to which the distribution of income (or, in some cases, consumption expenditure) among individuals or households within an economy deviates from a perfectly equal distribution. A Lorenz curve plots the cumulative percentages of total income received against the cumulative number of recipients, starting with the poorest individual or household. The Gini index measures the area between the Lorenz curve and a hypothetical line of absolute equality, expressed as a percentage of the maximum area under the line. Thus a Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality.*
 
-* source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+* Source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
 
 
 ```{r}
@@ -712,11 +739,11 @@ subset(gini[1:4], year == 2016) %>% head() %>% kable(caption = 'Glimpse of Gini 
 
 ## Poverty rate (headcount ratio) 
 
-* indicator code: `SI.POV.NAHC`
-* indicator name: `Poverty headcount ratio at national poverty lines (% of population)`
-* description:  *National poverty headcount ratio is the percentage of the population living below the national poverty lines. National estimates are based on population-weighted subgroup estimates from household surveys.*
+* **Indicator code**: `SI.POV.NAHC`
+* **Indicator name**: `Poverty headcount ratio at national poverty lines (% of population)`
+* Description:  *National poverty headcount ratio is the percentage of the population living below the national poverty lines. National estimates are based on population-weighted subgroup estimates from household surveys.*
 
-* source: [***World Development Indicators, The World Bank***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+* Source: [***World Development Indicators, The World Bank***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
 
 ```{r}
 
@@ -740,9 +767,9 @@ subset(poverty_rate, year == 2016) %>% head() %>% kable(caption = 'Glimpse of po
 
 ## Poverty rate before social transfers 
 
-* indicator(database) code:`ilc_li10`
-* indicator name:  _At risk of poverty rate **before** social transfers (pensions excluded from social transfers) (cut-off point: 60% of median equivalised income after social transfers)_
-* source: Eurostat, [At-risk-of-poverty rate before social transfers (pensions excluded from social transfers) by poverty threshold, age and sex - EU-SILC and ECHP surveys](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ilc_li10&lang=en)
+* Indicator(database) code:`ilc_li10`
+* **Indicator name**:  _At risk of poverty rate **before** social transfers (pensions excluded from social transfers) (cut-off point: 60% of median equivalised income after social transfers)_
+* Source: Eurostat, [At-risk-of-poverty rate before social transfers (pensions excluded from social transfers) by poverty threshold, age and sex - EU-SILC and ECHP surveys](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ilc_li10&lang=en)
 
 ```{r, message = FALSE}
 
@@ -754,9 +781,9 @@ options(eurostat_cache_dir = 'eurostat/eurostat_cache')
 # 
 # write_csv(poverty_before_social_transfer, 'social_inclusion/poverty_before_social_transfer.csv')
 
-poverty_before_social_transfer <- read_csv("social_inclusion/poverty_before_social_transfer.csv", trim_ws = T, col_types = cols(year = col_character()))
+poverty_before_social_transfer <- read_csv("social_inclusion/poverty_before_social_transfer.csv", trim_ws = T, col_types = cols(year = col_integer()))
 
-plot_before <- ggplot(poverty_before_social_transfer, aes(as.numeric(year), `poverty rate before soc. transfer (%)`, color = country))+geom_line()+labs(title = "At risk of poverty rate before social transfers \n(% of population)", x = "year")+theme_light()+theme(legend.position = "none", plot.title = element_text(face = "bold", size = 13))
+plot_before <- ggplot(poverty_before_social_transfer, aes(year, `poverty rate before soc. transfer (%)`, color = country))+geom_line()+labs(title = "At risk of poverty rate before social transfers \n(% of population)", x = "year")+theme_light()+theme(legend.position = "none", plot.title = element_text(face = "bold", size = 13))
 
 plotly::ggplotly(plot_before)
 
@@ -772,9 +799,9 @@ subset(poverty_before_social_transfer, year == 2016) %>% head() %>% kable(captio
 
 ## Poverty rate after social transfers 
 
-* indicator(table or database) code:`t2020_52`
-* indicator name:   _At risk of poverty rate **after** social transfers (pensions excluded from social transfers) (cut-off point: 60% of median equivalised income after social transfers)_
-* source: Eurostat, [People at risk of poverty after social transfers](https://ec.europa.eu/eurostat/web/products-datasets/product?code=T2020_52)
+* Indicator(table or database) code:`t2020_52`
+* **Indicator name**:   _At risk of poverty rate **after** social transfers (pensions excluded from social transfers) (cut-off point: 60% of median equivalised income after social transfers)_
+* Source: Eurostat, [People at risk of poverty after social transfers](https://ec.europa.eu/eurostat/web/products-datasets/product?code=T2020_52)
 
 
 ```{r, fig.align = 'center', message=FALSE}
@@ -785,9 +812,9 @@ subset(poverty_before_social_transfer, year == 2016) %>% head() %>% kable(captio
 # 
 # write_csv(poverty_after_social_transfer, 'social_inclusion/poverty_after_social_transfer.csv')
 
-poverty_after_social_transfer <- read_csv("social_inclusion/poverty_after_social_transfer.csv", trim_ws = T, col_types = cols(year = col_character()))
+poverty_after_social_transfer <- read_csv("social_inclusion/poverty_after_social_transfer.csv", trim_ws = T, col_types = cols(year = col_integer()))
 
-plot_after <- ggplot(poverty_after_social_transfer, aes(as.numeric(year), `poverty rate after soc. transfer (%)`, color = country))+geom_line()+labs(title = "At risk of poverty rate after social transfers \n(% of population)", x = "year")+theme_light()+theme(legend.position = "none", plot.title = element_text(face = "bold", size = 13))
+plot_after <- ggplot(poverty_after_social_transfer, aes(year, `poverty rate after soc. transfer (%)`, color = country))+geom_line()+labs(title = "At risk of poverty rate after social transfers \n(% of population)", x = "year")+theme_light()+theme(legend.position = "none", plot.title = element_text(face = "bold", size = 13))
 
 plotly::ggplotly(plot_after)
 
@@ -813,7 +840,7 @@ plotly::ggplotly(plot_after)
 
 * Special value	**`:`**	denotes data not available
 
-* source: Eurostat, [LMP expenditure by type of action - summary tables](https://webgate.ec.europa.eu/empl/redisstat/databrowser//bookmark/f20ded2d-35f4-44c5-af96-e2a5b894ea5b)
+* Source: Eurostat, [LMP expenditure by type of action - summary tables](https://webgate.ec.europa.eu/empl/redisstat/databrowser//bookmark/f20ded2d-35f4-44c5-af96-e2a5b894ea5b)
 
 ```{r 'lmp-expenditure-active'}
 # LMP_exp_active <- read_excel("labor_market_institutions/Manually downloaded/LMP_EXPSUMM_active.xlsx", skip = 9, na = ":", trim_ws = T)
@@ -845,7 +872,7 @@ subset(LMP_exp_active, year == 2016) %>% head() %>% kable(caption = 'Glimpse of 
 
 * Special value	**`:`**	denotes data not available
 
-* source: Eurostat, [LMP expenditure by type of action - summary tables](https://webgate.ec.europa.eu/empl/redisstat/databrowser//bookmark/f20ded2d-35f4-44c5-af96-e2a5b894ea5b)
+* Source: Eurostat, [LMP expenditure by type of action - summary tables](https://webgate.ec.europa.eu/empl/redisstat/databrowser//bookmark/f20ded2d-35f4-44c5-af96-e2a5b894ea5b)
 
 ```{r, 'lmp-expenditure-passive'}
 
@@ -876,7 +903,7 @@ subset(LMP_exp_passive, year == 2016) %>% head() %>% kable(caption = 'Glimpse of
 
 * Special value	**`:`**	denotes data not available
 
-* source: Eurostat, [LMP expenditure by type of action - summary tables](https://webgate.ec.europa.eu/empl/redisstat/databrowser//bookmark/f20ded2d-35f4-44c5-af96-e2a5b894ea5b)
+* Source: Eurostat, [LMP expenditure by type of action - summary tables](https://webgate.ec.europa.eu/empl/redisstat/databrowser//bookmark/f20ded2d-35f4-44c5-af96-e2a5b894ea5b)
 
 
 ```{r, 'lmp-expenditure-total'}
@@ -924,12 +951,12 @@ LMP_EXPENDITURES %>% gather(-c(country, year), key = "expenditure type", value =
 
 ## Strikes and lockouts 
 
-* indicator name: *`Days not worked per 1000 workers due to strikes and lockouts (per 1000 workers)`*
-* indicator code/id: `STR_DAYS_NOC_RT_A`
+* **Indicator name**: *`Days not worked per 1000 workers due to strikes and lockouts (per 1000 workers)`*
+* **Indicator code**/id: `STR_DAYS_NOC_RT_A`
 
 * Description: *Rates of days not worked due to strikes and lockouts represent the severity rates of strikes and lockouts, calculated in terms of the number of days not worked per 1'000 workers, unless otherwise stated in the notes. Data are disaggregated by economic activity according to the latest version of the International Standard Industrial Classification of All Economic Activities (ISIC) available for that year. Economic activity refers to the main activity of the establishment in which a person worked during the reference period and does not depend on the specific duties or functions of the person's job, but on the characteristics of the economic unit in which this person works.*
 
-* source: ILOSTAT (https://ilostat.ilo.org/data/bulk/), subject: [Industrial Relations Data (IRData)](https://www.ilo.org/global/topics/collective-bargaining-labour-relations/WCMS_408983/lang--en/index.htm). read the reference on [strikes and lockouts](https://www.ilo.org/ilostat-files/SSM/SSM7/E/Introduction.html)
+* Source: ILOSTAT (https://ilostat.ilo.org/data/bulk/), subject: [Industrial Relations Data (IRData)](https://www.ilo.org/global/topics/collective-bargaining-labour-relations/WCMS_408983/lang--en/index.htm). read the reference on [strikes and lockouts](https://www.ilo.org/ilostat-files/SSM/SSM7/E/Introduction.html)
 
 
 
@@ -957,14 +984,14 @@ subset(strikes, year == 2016) %>% head() %>% kable(caption = 'Glimpse of strikes
 
 ## Minimum wages(euro/month)
 
-* indicator name: `Monthly minimum wages - bi-annual data`
-* indicator code: `earn_mw_cur`
+* **Indicator name**: `Monthly minimum wages - bi-annual data`
+* **Indicator code**: `earn_mw_cur`
 * Reference Period:
 
   - Monthly minimum wages: 1 January (S1) and 1 July (S2). example, `1990.0` (S1) and `1990.5` (S2)
   - Monthly minimum wage as a proportion of average monthly earnings: calendar year.
   
-* description: *Monthly minimum wages are in euro, national currencies (including euro converted from former national currencies using the irrevocably fixed rate for all years) and Purchasing Power Standards (PPS) as well as a proportion of average monthly earnings.* see [minimum wage metadata reference](https://ec.europa.eu/eurostat/cache/metadata/en/earn_minw_esms.htm#unit_measure1536663766158)
+* Description: *Monthly minimum wages are in euro, national currencies (including euro converted from former national currencies using the irrevocably fixed rate for all years) and Purchasing Power Standards (PPS) as well as a proportion of average monthly earnings.* see [minimum wage metadata reference](https://ec.europa.eu/eurostat/cache/metadata/en/earn_minw_esms.htm#unit_measure1536663766158)
 
 * Source: Eurostat [earn_mw_cur](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=earn_mw_cur&lang=en)
 
@@ -992,17 +1019,18 @@ subset(minimum_wage, time == 2016) %>% head() %>% kable(caption = 'Glimpse of mi
 
 ## Total general government expenditure (by sector)
 
-  1. General government 
-  2. State government 
-  3. Central government 
-  4. Local government 
-  5. Social security funds 
+* Total government expenditure (by sector)
+   1. General government 
+   2. State government 
+   3. Central government 
+   4. Local government 
+   5. Social security funds 
   
-  * indicator name: `Total general government expenditure % of GDP`
-  * indicator code: `tec00023`
-  * description: *Total general government expenditure is defined in ESA 2010 8.100 and chapter 20 by reference to a list of categories: intermediate consumption, gross capital formation, compensation of employees, other taxes on production, subsidies, payable property income, current taxes on income, wealth, etc., social benefits other than social transfers in kind, social transfers in kind - purchased market production, other current transfers, adjustments for the change in pension entitlements, capital transfers and acquisitions less disposals of non-financial non-produced assets.*
+  * **Indicator name**: `Total general government expenditure % of GDP`
+  * **Indicator code**: `tec00023`
+  * Description: *Total general government expenditure is defined in ESA 2010 8.100 and chapter 20 by reference to a list of categories: intermediate consumption, gross capital formation, compensation of employees, other taxes on production, subsidies, payable property income, current taxes on income, wealth, etc., social benefits other than social transfers in kind, social transfers in kind - purchased market production, other current transfers, adjustments for the change in pension entitlements, capital transfers and acquisitions less disposals of non-financial non-produced assets.*
   
-  * source: Eurostat, [Total general government expenditure % of GDP](https://ec.europa.eu/eurostat/web/products-datasets/product?code=tec00023)
+  * Source: Eurostat, [Total general government expenditure % of GDP](https://ec.europa.eu/eurostat/web/products-datasets/product?code=tec00023)
   
   
 ```{r, message=FALSE, fig.dim= c(12, 10)}
@@ -1015,30 +1043,44 @@ subset(minimum_wage, time == 2016) %>% head() %>% kable(caption = 'Glimpse of mi
 # 
 # write_csv(total_government_expenditure_by_sector, "public_finance/total_government_expenditure_by_sector.csv")
 
-total_government_expenditure_by_sector <- read_csv("public_finance/total_government_expenditure_by_sector.csv", trim_ws = T, col_types = cols(year = col_character()))
+total_government_expenditure_by_sector <- read_csv("public_finance/total_government_expenditure_by_sector.csv", trim_ws = T, col_types = cols(year = col_integer()))
 
 # plotting
 
 plotly::ggplotly(total_government_expenditure_by_sector %>% gather(3:7, key = "sector", value = "total expenditure (% of GDP)") %>% ggplot() +
- aes(x = as.numeric(year), y = `total expenditure (% of GDP)`, colour = sector) + geom_line(size = 1L) +
+ aes(x = year, y = `total expenditure (% of GDP)`, colour = sector) + geom_line(size = 1L) +
  scale_fill_distiller(palette = "Set2") +
  scale_color_brewer(palette = "Set2") +
- labs(title = "Total General Government Expenditure, by sector", x = "year") +
+ labs(title = "Total General Government Expenditure (as a % of GDP), by sector", x = "year") +
  theme_minimal() +
  facet_wrap(vars(country))+theme(legend.position = "bottom"))
+
+# total_general_government_expenditure <- total_government_expenditure_by_sector %>% select(country, year, "General government expenditure (% of GDP)" = `General government`)
+# 
+# 
+# total_general_government_expenditure %>% write_csv("public_finance/total_general_government_expenditure.csv")
+
+total_government_expenditure_by_sector %>% pivot_longer(-c(1,2), names_to = "Exp.type", values_to = "Gov.exp (%)") %>% filter(year == 2017) %>% ggplot()+geom_bar(aes(fct_reorder(.f = country, .x = `Gov.exp (%)`, .fun = sum, na.rm = T), `Gov.exp (%)`, fill = Exp.type), stat = "identity", position = "stack")+coord_flip()+labs(x = "", y = "Government Expenditure (% of GDP)", title = "Total Government Expenditure (% of GDP), by type, 2017")+scale_fill_brewer(palette = 2, direction = 1)+theme_light()+theme(legend.position = "bottom")+guides(fill = guide_legend(nrow = 1, override.aes = list(size = 2)))
+
 
 
 ```
 
+
+
+
 ## Social protection expenditure
 
-* indicator name: `Expenditure on social protection % of GDP`
+* **Indicator name**: `Expenditure on social protection % of GDP`
 
-* indicator id/code : `tps00098`
+* Indicator id/code : `tps00098`
 
-* description: *Expenditure on social protection contain: social benefits, which consist of transfers, in cash or in kind, to households and individuals to relieve them of the burden of a defined set of risks or needs; administration costs, which represent the costs charged to the scheme for its management and administration; other expenditure, which consists of miscellaneous expenditure by social protection schemes (payment of property income and other). It is calculated in current prices.*
+* Description: *Expenditure on social protection contain: social benefits, which consist of transfers, in cash or in kind, to households and individuals to relieve them of the burden of a defined set of risks or needs; administration costs, which represent the costs charged to the scheme for its management and administration; other expenditure, which consists of miscellaneous expenditure by social protection schemes (payment of property income and other). It is calculated in current prices.*
 
-* source: Eurostat, [Expenditure on social protection % of GDP](https://ec.europa.eu/eurostat/web/products-datasets/-/tps00098)
+* Source: Eurostat, [Expenditure on social protection % of GDP](https://ec.europa.eu/eurostat/web/products-datasets/-/tps00098)
+
+
+`r text_spec('Talk to Alzbeta', "html", color = "blue", bold = T )`
 
 ```{r, fig.dim=c(10, 10)}
 
@@ -1207,17 +1249,17 @@ health_expenditure <- read_csv("public_finance/health_expenditure.csv", trim_ws 
 ## Life-long learning
 
 * Dataset: [trng_lfse_01](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=trng_lfse_01&lang=en)
-* indicator code: `trng_lfse_01`
+* **Indicator code**: `trng_lfse_01`
   - Adult learning means the **participation of adults aged 25-64 in education and training**, also referred to as **lifelong learning**.
-* unit: "percent"
-* age: "From 25 to 34 years"
-* sex: "Total"
-* source: Eurostat, [Education and training](https://ec.europa.eu/eurostat/web/education-and-training/data/database) 
+* Unit: "percent"
+* Age: "From 25 to 34 years"
+* Sex: "Total"
+* Source: Eurostat, [Education and training](https://ec.europa.eu/eurostat/web/education-and-training/data/database) 
 
 see: 
-   - education and training (educ)
-        - Participation in education and training (educ_part)
-            - Adult learning (trng)
+        - education and training (educ)
+            + Participation in education and training (educ_part)
+                   * Adult learning (trng)
 
 ```{r}
 
@@ -1253,6 +1295,7 @@ see:
 
 labor_force_by_education <- read_csv("education_and_innovation/labor_force_by_education.csv")
 
+'Talk to Alzbeta'
 # 
 # labor_force_by_education %>% select(1,2,year, everything()) %>% group_by(country, year, education_classification) %>% mutate(id = row_number()) %>% spread(key = "education_classification", value = `labor force (thousands)`) %>% select(-id)
 # 
@@ -1289,16 +1332,29 @@ labor_force_by_education <- read_csv("education_and_innovation/labor_force_by_ed
 
 
 ## Research and Development expenditures
+
+* **Indicator name**: `Research and Development expenditure (% of GDP)`
+* **Indicator code**: `GB.XPD.RSDV.GD.ZS`
+* **Description**: `Gross domestic expenditures on research and development (R&D), expressed as a percent of GDP. They include both capital and current expenditures in the four main sectors: Business enterprise, Government, Higher education and Private non-profit. R&D covers basic research, applied research, and experimental development.`
+* **Source**: [***World Development Indicators, The World Bank***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+
 ```{r}
-R_D <-  WDI(country = countries, indicator = "GB.XPD.RSDV.GD.ZS", start = 1995, end = 2018, cache = new_cache)
+
+# R_D_expenditure<-  WDI(country = countries, indicator = "GB.XPD.RSDV.GD.ZS", start = 1995, end = 2017, cache = new_cache)
+# 
+# R_D_expenditure %>% select(iso2c, country, year, "R&D" = GB.XPD.RSDV.GD.ZS) %>% mutate(`R&D` = round(`R&D`, 2)) %>% arrange(country, year)
+# 
+# R_D_expenditure %>% write_csv("education_and_innovation/R_D_expenditure.csv")
+
 ```
+
 
 ## Patent applications, residence
 
-* indicator name: "Patent applications, residents"
-* indicator code: "IP.PAT.RESD"
-* description: _Patent applications are worldwide patent applications filed through the Patent Cooperation Treaty procedure or with a national patent office for exclusive rights for an invention--a product or process that provides a new way of doing something or offers a new technical solution to a problem. A patent provides protection for the invention to the owner of the patent for a limited period, generally 20 years._
-* source: [***World Development Indicators, The World Bank***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+* **Indicator name**: "Patent applications, residents"
+* **Indicator code**: "IP.PAT.RESD"
+* Description: _Patent applications are worldwide patent applications filed through the Patent Cooperation Treaty procedure or with a national patent office for exclusive rights for an invention--a product or process that provides a new way of doing something or offers a new technical solution to a problem. A patent provides protection for the invention to the owner of the patent for a limited period, generally 20 years._
+* Source: [***World Development Indicators, The World Bank***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
 
 ```{r}
 
@@ -1334,47 +1390,53 @@ R_D <-  WDI(country = countries, indicator = "GB.XPD.RSDV.GD.ZS", start = 1995, 
 
 ## Terrestrial protected areas
 
-* indicator code: `ER.LND.PTLD.ZS`
-* indicator name: `Terrestrial protected areas (% of total land area)`
+* **Indicator code**: `ER.LND.PTLD.ZS`
+* **Indicator name**: `Terrestrial protected areas (% of total land area)`
 * description: `Terrestrial protected areas are totally or partially protected areas of at least 1,000 hectares that are designated by national authorities as scientific reserves with limited public access, national parks, natural monuments, nature reserves or wildlife sanctuaries, protected landscapes, and areas managed mainly for sustainable use. Marine areas, unclassified areas, littoral (intertidal) areas, and sites protected under local or provincial law are excluded.`
 
-* source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+* Source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
 
 ## Organic water pollutant emissions 
-<!-- archived -->
+
+<!-- archived --> `r text_spec('ARCHIVED!!!', "html", color = "red", bold = T )`
+
 ## CO~2~ emissions
 
-* indicator code: `EN.ATM.CO2E.PP.GD.KD`
-* indicator name: `CO2 emissions (kg per 2011 PPP $ of GDP)`
-* description: `Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring.`
+* **Indicator code**: `EN.ATM.CO2E.PP.GD.KD`
+* **Indicator name**: `CO2 emissions (kg per 2011 PPP $ of GDP)`
+* Description: `Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring.`
 
-* source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+* Source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
 
 ## Electric power consumption
 
-* indicator code: `EG.USE.ELEC.KH.PC`
-* indicator name: `Electric power consumption (kWh per capita)`
-* description: `Electric power consumption measures the production of power plants and combined heat and power plants less transmission, distribution, and transformation losses and own use by heat and power plants.`
+* **Indicator code**: `EG.USE.ELEC.KH.PC`
+* **Indicator name**: `Electric power consumption (kWh per capita)`
+* Description: `Electric power consumption measures the production of power plants and combined heat and power plants less transmission, distribution, and transformation losses and own use by heat and power plants.`
 
-* source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
+* Source: [***`World Development Indicators, The World Bank`***](https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
 
 
 
 ## Electricity production 
-<!-- archived -->
+
+**`This indicator is archived`** `r text_spec('ARCHIVED!!!', "html", color = "red", bold = T )`
 
 
 # Gender {.tabset .tabset-fade .tabset-pills}
-
-## Demographic overview by sex
+  
 
 ## Female population fraction
 
+* **Indicator name**: `female population fraction`
+* **Description**: `female population as a percentage of total population`
+* **Source**: 
+
 ## Gender parity in life expectancy at birth
 
-* **indicator name**: *Gender parity in life expectancy at birth*
-* **description**: *Ratio of life expectancy at birth of female to male*
-* **source**: **[UNECE Statistical Database](https://w3.unece.org/PXWeb/en)** >> **Population and Gender** >> **Health and mortality** >> **Life expectancy at birth and at age 65 by sex**.
+* **Indicator name**: *Gender parity in life expectancy at birth*
+* **Description**: *Ratio of life expectancy at birth of female to male*
+* **Source**: **[UNECE Statistical Database](https://w3.unece.org/PXWeb/en)** >> **Population and Gender** >> **Health and mortality** >> **Life expectancy at birth and at age 65 by sex**.
 
 
 ```{r}
@@ -1384,7 +1446,7 @@ R_D <-  WDI(country = countries, indicator = "GB.XPD.RSDV.GD.ZS", start = 1995, 
 # 
 # gender_parity_in_life_expectancy_at_birth <- life_expectancy_at_birth %>% gather("1990":"2017", key = "year", value = "life_expectancy_at_birth") %>% select(country = Country, year, life_expectancy_at_birth, sex = Sex) %>% spread( key = sex, value = life_expectancy_at_birth) %>% group_by(country) %>% mutate(gender_parity_in_life_expectancy_at_birth = Female/Male)
 # 
-# gender_parity_in_life_expectancy_at_birth <- gender_parity_in_life_expectancy_at_birth %>% mutate("gender_parity_in_life_expectancy_at_birth" = as.numeric(format(gender_parity_in_life_expectancy_at_birth, digit = 2))) %>% as_tibble()
+# gender_parity_in_life_expectancy_at_birth <- gender_parity_in_life_expectancy_at_birth %>% mutate("gender_parity_in_life_expectancy_at_birth" = as.numeric(format(gender_parity_in_life_expectancy_at_birth, digits = 2))) %>% as_tibble()
 # 
 # gender_parity_in_life_expectancy_at_birth %>% write_csv('gender/gender_parity_in_life_expectancy_at_birth.csv')
 
@@ -1394,9 +1456,9 @@ R_D <-  WDI(country = countries, indicator = "GB.XPD.RSDV.GD.ZS", start = 1995, 
 
 ## Gender parity in life expectancy at the age of 65
 
-* **indicator name**: *Gender parity in life expectancy at the age of 65*
-* **description**: *Ratio of life expectancy at the age of 65 of female to male*
-* **source**: **[UNECE Statistical Database](https://w3.unece.org/PXWeb/en)** >> **Population and Gender** >> **Health and mortality** >> **Life expectancy at birth and at age 65 by sex**.
+* **Indicator name**: *Gender parity in life expectancy at the age of 65*
+* **Description**: *Ratio of life expectancy at the age of 65 of female to male*
+* **Source**: **[UNECE Statistical Database](https://w3.unece.org/PXWeb/en)** >> **Population and Gender** >> **Health and mortality** >> **Life expectancy at birth and at age 65 by sex**.
 
 
 ```{r}
@@ -1405,7 +1467,7 @@ R_D <-  WDI(country = countries, indicator = "GB.XPD.RSDV.GD.ZS", start = 1995, 
 # 
 # gender_parity_in_life_expectancy_at_the_age_of_65 <- life_expectancy_at_the_age_of_65 %>% gather("1990":"2017", key = "year", value = "life_expectancy_at_65") %>% select(country = Country, year, life_expectancy_at_65, sex = Sex) %>% spread( key = sex, value = life_expectancy_at_65) %>% group_by(country) %>% mutate(gender_parity_in_life_expectancy_at_the_age_of_65 = Female/Male)
 # 
-# gender_parity_in_life_expectancy_at_the_age_of_65 <- gender_parity_in_life_expectancy_at_the_age_of_65 %>% mutate("gender_parity_in_life_expectancy_at_the_age_of_65" = as.numeric(format(gender_parity_in_life_expectancy_at_the_age_of_65, digit = 2))) %>% as_tibble()
+# gender_parity_in_life_expectancy_at_the_age_of_65 <- gender_parity_in_life_expectancy_at_the_age_of_65 %>% mutate("gender_parity_in_life_expectancy_at_the_age_of_65" = as.numeric(format(gender_parity_in_life_expectancy_at_the_age_of_65, digits = 2))) %>% as_tibble()
 # 
 # gender_parity_in_life_expectancy_at_the_age_of_65 %>% write_csv('gender/gender_parity_in_life_expectancy_at_the_age_of_65.csv')
 
@@ -1416,21 +1478,21 @@ R_D <-  WDI(country = countries, indicator = "GB.XPD.RSDV.GD.ZS", start = 1995, 
 
 ## Gender parity in economic activity rate
 
-* **indicator name**: *Gender parity in economic activity rate*
-* **description**: *Ratio of the economic activity of female to male*
-* **source**: **[UNECE Statistical Database](https://w3.unece.org/PXWeb/en)** >> **Population and Gender** >> **Country Profiles** >> **Gender and demographic overview** >> **economic activity rate**
+* **Indicator name**: *Gender parity in economic activity rate*
+* **Description**: *Ratio of the economic activity of female to male*
+* **Source**: **[UNECE Statistical Database](https://w3.unece.org/PXWeb/en)** >> **Population and Gender** >> **Country Profiles** >> **Gender and demographic overview** >> **economic activity rate**
 
 
 
 ```{r}
 
-c("Gender parity in life expectancy at birth", "Gender parity in life expectancy at the age of 65", "Gender parity in economic activity rate", "Gender parity in tertiary education") %>% janitor::make_clean_names()
-
+# c("Gender parity in life expectancy at birth", "Gender parity in life expectancy at the age of 65", "Gender parity in economic activity rate", "Gender parity in tertiary education") %>% janitor::make_clean_names()
+# 
 # economic_activity_rate <- read_csv("gender/Manually downloaded/CSV/Economic activity rate.csv", skip = 0, na = "..")
 # 
 # gender_parity_in_economic_activity_rate <- economic_activity_rate %>% gather("1990":"2018", key = "year", value = "economic_activity_rate") %>% select(country = Country, year, economic_activity_rate, sex = Sex) %>% spread( key = sex, value = economic_activity_rate) %>% group_by(country) %>% mutate(gender_parity_in_economic_activity_rate = Female/Male)
 # 
-# gender_parity_in_economic_activity_rate <- gender_parity_in_economic_activity_rate %>% mutate("gender_parity_in_economic_activity_rate" = as.numeric(format(gender_parity_in_economic_activity_rate, digit = 2))) %>% as_tibble()
+# gender_parity_in_economic_activity_rate <- gender_parity_in_economic_activity_rate %>% mutate("gender_parity_in_economic_activity_rate" = as.numeric(format(gender_parity_in_economic_activity_rate, digits = 2))) %>% as_tibble()
 # 
 # gender_parity_in_economic_activity_rate %>% write_csv('gender/gender_parity_in_economic_activity_rate.csv')
 
@@ -1444,24 +1506,20 @@ c("Gender parity in life expectancy at birth", "Gender parity in life expectancy
 * **indicator name**: *Gender parity in tertiary education*
 * **description**: *Ratio of the number of females enrolled at the tertiary level of education to the number of male students in each level.*
 * **source**: **[UNECE Statistical Database](https://w3.unece.org/PXWeb/en)** >> **Population and Gender** >> **Education** >> **Tertiary students by field of study (ISCED 1997), type of programme and sex** 
-
-   *  **Measurement**: students 
-   
-   *  **Field of Study**: All fields
-   
-   *  **Type of Programme**: All programmes (ISCED11, total of levels 5-8 / ISCED97, total of levels 5 and 6)  
-   
-   *  **Sex**: Female, Male and Both sexes
+     + **Measurement**: students 
+     + **Field of Study**: All fields
+     + **Type of Programme**: All programmes (ISCED11, total of levels 5-8 / ISCED97, total of levels 5 and 6)  
+     + **Sex**: Female, Male and Both sexes
 
 ```{r}
-
+# 
 # c("Gender parity in life expectancy at birth", "Gender parity in life expectancy at the age of 65", "Gender parity in economic activity rate", "Gender parity in tertiary education") %>% janitor::make_clean_names()
-
+# 
 # tertiary_education <- read_csv("gender/Manually downloaded/CSV/Tertiary students by sex.csv", skip = 0, na = "..")
 # 
 # gender_parity_in_tertiary_education <- tertiary_education %>% gather("1990-1991":"2017-2018", key = "year", value = "tertiary_education") %>% select(country = Country, year, tertiary_education, sex = Sex) %>% spread( key = sex, value = tertiary_education) %>% group_by(country) %>% mutate(gender_parity_in_tertiary_education = Female/Male)
 # 
-# gender_parity_in_tertiary_education <- gender_parity_in_tertiary_education %>% mutate("gender_parity_in_tertiary_education" = as.numeric(format(gender_parity_in_tertiary_education, digit = 2))) %>% as_tibble()
+# gender_parity_in_tertiary_education <- gender_parity_in_tertiary_education %>% mutate("gender_parity_in_tertiary_education" = as.numeric(format(gender_parity_in_tertiary_education, digits = 2))) %>% as_tibble()
 # 
 # gender_parity_in_tertiary_education %>% write_csv('gender/gender_parity_in_tertiary_education.csv')
 
@@ -1471,19 +1529,116 @@ c("Gender parity in life expectancy at birth", "Gender parity in life expectancy
 
 ## Female members in national parliaments (in %)
 
+* **indicator name**: *Female members in national parliaments (in %)*
+* **description**: *Female members in national parliaments (in %) of all members.*
+* **source**: **[UNECE Statistical Database](https://w3.unece.org/PXWeb/en)** >> **Population and Gender** >>  **Public life and decision making**  >> **Members of national parliament by sex**: 
+     + `Sex = Female`, 
+     + `Measurement = Percent of total for both sexes`.
+
+
+```{r}
+
+# female_members_in_national_parliaments <- read_csv("gender/Manually downloaded/CSV/Female members in national parliaments.csv", na = "..")
+# 
+# female_members_in_national_parliaments <- female_members_in_national_parliaments %>% pivot_longer(`1990`:`2018`, names_to = "year", values_to = "female_members") %>% select(country = Country, year, female_members)
+# 
+# 
+# female_members_in_national_parliaments %>% write_csv("gender/female_members_in_national_parliaments.csv")
+
+```
+
 
 ## Female Researchers (in %)
+
+* **indicator name**: *Female researchers (in %)*
+* **description**: *Female researchers (in %) of all researchers.*
+* **source**: **[UNECE Statistical Database](https://w3.unece.org/PXWeb/en)** >> **Population and Gender** >>   **Science and ICT** >> **Researchers by sector of research and sex**.
+    + `Sector of Research: All sectors`
+    + `Sex = Female`, 
+    + `Measurement = Percent of corresponding total for both sexes`.
+
+```{r}
+
+# female_researchers <- read_csv("gender/Manually downloaded/CSV/Female researchers.csv", na = "..")
+# 
+# female_researchers <- female_researchers %>% pivot_longer(`1990`:`2017`, names_to = "year", values_to = "female_researchers") %>% select(country = Country, year, female_researchers)
+# 
+# 
+# female_researchers %>% write_csv("gender/female_researchers.csv")
+
+```
+
 
 
 
 ## Gender pay gap as difference in monthly earnings
 
 
-## Victims of serious assaults
+* **indicator name**: *Gender pay gap as difference in monthly earnings*
+* **description**: *Gender pay gap is the difference between men's and women's average earnings from employment, shown as a percentage of men's average earnings*
+* **source**: **[UNECE Statistical Database](https://w3.unece.org/PXWeb/en)** >> **Population and Gender** >>   **Work and economy** >> **Gender pay gap**.
+     + `Reference Period : Gender pay gap as difference in monthly earnings`
+  
+  
+```{r}
+
+# gender_pay_gap <- read_csv("gender/Manually downloaded/CSV/Gender pay gap as difference in monthly earnings.csv", na = "..")
+# 
+# gender_pay_gap <- gender_pay_gap %>% pivot_longer(`1990`:`2018`, names_to = "year", values_to = "gender_pay_gap") %>% select(country = Country, year, gender_pay_gap)
+# 
+# gender_pay_gap %>% write_csv('gender/gender_pay_gap.csv')
+
+```
 
 
 
+## Female victims of serious assaults (in percent)
 
+
+* **indicator name**: *Female victims of serious assaults (in %)*
+* **description**: *Female victims of serious assaults (in %) of all victims*
+* **source**: **[UNECE Statistical Database](https://w3.unece.org/PXWeb/en)** >> **Population and Gender** >>   **Crime and violence**  >> **Victims of crime by type of crime and sex**.
+     + `Type of crime: Serious assaults`
+     + `Sex = Male, Female and Both sexes`, 
+     + `Measurement = Victims of crime`.
+
+
+```{r}
+
+# victims_of_serious_assaults <- read_csv("gender/Manually downloaded/CSV/Victims of crime by Sex.csv", na = "..")
+# 
+# victims_of_serious_assaults <- victims_of_serious_assaults %>% pivot_longer('1990':'2017', names_to = "year", values_to = "serious_assaults") %>% select(country = Country, year, serious_assaults, Sex)
+# 
+# female_victims_of_serious_assaults_in_percent <- victims_of_serious_assaults %>% pivot_wider(names_from = Sex, values_from = serious_assaults) %>% mutate(`female_victims_of_serious_assaults (in %)`  = 100*Female/`Both sexes` ) %>% select(country, year, `female_victims_of_serious_assaults (in %)` )
+# 
+# female_victims_of_serious_assaults_in_percent <- female_victims_of_serious_assaults_in_percent %>% mutate_at(.vars = "female_victims_of_serious_assaults (in %)", ~as.numeric(format(x = ., digits = 2)))
+# 
+# 
+# female_victims_of_serious_assaults_in_percent %>% write_csv("gender/female_victims_of_serious_assaults_in_percent.csv")
+
+
+```
+
+
+## Female victims of serious assaults (ratio)
+
+
+* **indicator name**: *Female victims of serious assaults (ratio)*
+* **description**: *Ratio of female victims of serious assaults to the number of male victims*
+* **source**: **[UNECE Statistical Database](https://w3.unece.org/PXWeb/en)** >> **Population and Gender** >>   **Crime and violence**  >> **Victims of crime by type of crime and sex**.
+     + `Type of crime: Serious assaults`
+     + `Sex = Male, Female and Both sexes`, 
+     + `Measurement = Victims of crime`.
+
+```{r}
+
+# female_victims_of_serious_assaults_ratio <- victims_of_serious_assaults %>% pivot_wider(names_from = Sex, values_from = serious_assaults) %>% mutate(female_victims_of_serious_assaults_ratio = Female/Male) %>% select(country, year, female_victims_of_serious_assaults_ratio) %>% mutate(female_victims_of_serious_assaults_ratio = round(female_victims_of_serious_assaults_ratio, digits = 2))
+# 
+# female_victims_of_serious_assaults_ratio %>% write_csv("gender/female_victims_of_serious_assaults_ratio.csv")
+
+
+
+```
 
 
 

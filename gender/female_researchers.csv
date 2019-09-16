@@ -1,0 +1,961 @@
+country,year,female_researchers
+Armenia,1990,NA
+Armenia,1995,NA
+Armenia,2000,NA
+Armenia,2001,NA
+Armenia,2002,45.5
+Armenia,2003,45.3
+Armenia,2004,44.3
+Armenia,2005,46.6
+Armenia,2006,46.1
+Armenia,2007,45.6
+Armenia,2008,48.2
+Armenia,2009,46.9
+Armenia,2010,48.2
+Armenia,2011,45.3
+Armenia,2012,47
+Armenia,2013,51
+Armenia,2014,53.7
+Armenia,2015,53.3
+Armenia,2016,NA
+Armenia,2017,NA
+Austria,1990,NA
+Austria,1995,NA
+Austria,2000,NA
+Austria,2001,NA
+Austria,2002,20.7
+Austria,2003,NA
+Austria,2004,23.6
+Austria,2005,NA
+Austria,2006,25.3
+Austria,2007,26.4
+Austria,2008,NA
+Austria,2009,28.4
+Austria,2010,NA
+Austria,2011,29
+Austria,2012,NA
+Austria,2013,29.6
+Austria,2014,NA
+Austria,2015,29.5
+Austria,2016,NA
+Austria,2017,NA
+Azerbaijan,1990,NA
+Azerbaijan,1995,NA
+Azerbaijan,2000,50.5
+Azerbaijan,2001,52.3
+Azerbaijan,2002,52.3
+Azerbaijan,2003,51.7
+Azerbaijan,2004,51.9
+Azerbaijan,2005,51.7
+Azerbaijan,2006,52
+Azerbaijan,2007,51.1
+Azerbaijan,2008,51.5
+Azerbaijan,2009,53.8
+Azerbaijan,2010,54.9
+Azerbaijan,2011,53.6
+Azerbaijan,2012,51.2
+Azerbaijan,2013,53.2
+Azerbaijan,2014,53.5
+Azerbaijan,2015,53.3
+Azerbaijan,2016,56
+Azerbaijan,2017,57.9
+Belarus,1990,NA
+Belarus,1995,NA
+Belarus,2000,46.2
+Belarus,2001,45.2
+Belarus,2002,45.1
+Belarus,2003,44
+Belarus,2004,44.4
+Belarus,2005,43.2
+Belarus,2006,43.7
+Belarus,2007,43.3
+Belarus,2008,43.9
+Belarus,2009,42.7
+Belarus,2010,42.2
+Belarus,2011,41.7
+Belarus,2012,41.1
+Belarus,2013,41.1
+Belarus,2014,41.2
+Belarus,2015,40.5
+Belarus,2016,39.6
+Belarus,2017,39.7
+Belgium,1990,NA
+Belgium,1995,NA
+Belgium,2000,NA
+Belgium,2001,NA
+Belgium,2002,27.7
+Belgium,2003,28.1
+Belgium,2004,28.8
+Belgium,2005,29.6
+Belgium,2006,30.7
+Belgium,2007,31.1
+Belgium,2008,32.2
+Belgium,2009,32.7
+Belgium,2010,33.2
+Belgium,2011,33.5
+Belgium,2012,NA
+Belgium,2013,33.4
+Belgium,2014,NA
+Belgium,2015,34.1
+Belgium,2016,NA
+Belgium,2017,NA
+Bosnia and Herzegovina,1990,NA
+Bosnia and Herzegovina,1995,NA
+Bosnia and Herzegovina,2000,NA
+Bosnia and Herzegovina,2001,NA
+Bosnia and Herzegovina,2002,NA
+Bosnia and Herzegovina,2003,NA
+Bosnia and Herzegovina,2004,NA
+Bosnia and Herzegovina,2005,NA
+Bosnia and Herzegovina,2006,NA
+Bosnia and Herzegovina,2007,NA
+Bosnia and Herzegovina,2008,NA
+Bosnia and Herzegovina,2009,NA
+Bosnia and Herzegovina,2010,NA
+Bosnia and Herzegovina,2011,NA
+Bosnia and Herzegovina,2012,34.5
+Bosnia and Herzegovina,2013,38.9
+Bosnia and Herzegovina,2014,44.3
+Bosnia and Herzegovina,2015,44.4
+Bosnia and Herzegovina,2016,47.1
+Bosnia and Herzegovina,2017,NA
+Bulgaria,1990,41.7
+Bulgaria,1995,41.2
+Bulgaria,2000,45.6
+Bulgaria,2001,45.5
+Bulgaria,2002,46.3
+Bulgaria,2003,46.6
+Bulgaria,2004,46.2
+Bulgaria,2005,45.5
+Bulgaria,2006,44.6
+Bulgaria,2007,46.8
+Bulgaria,2008,47
+Bulgaria,2009,47.6
+Bulgaria,2010,48.6
+Bulgaria,2011,49.1
+Bulgaria,2012,48.6
+Bulgaria,2013,49.7
+Bulgaria,2014,49.5
+Bulgaria,2015,47.9
+Bulgaria,2016,49.1
+Bulgaria,2017,NA
+Canada,1990,50.5
+Canada,1995,56
+Canada,2000,57.4
+Canada,2001,61.4
+Canada,2002,54.2
+Canada,2003,58.1
+Canada,2004,59.9
+Canada,2005,56.3
+Canada,2006,55.1
+Canada,2007,59.8
+Canada,2008,56.5
+Canada,2009,56
+Canada,2010,56.9
+Canada,2011,63.6
+Canada,2012,61.1
+Canada,2013,59.9
+Canada,2014,60.3
+Canada,2015,58.8
+Canada,2016,58.7
+Canada,2017,64.8
+Croatia,1990,NA
+Croatia,1995,NA
+Croatia,2000,NA
+Croatia,2001,NA
+Croatia,2002,41.7
+Croatia,2003,42.2
+Croatia,2004,41.1
+Croatia,2005,44.6
+Croatia,2006,44.1
+Croatia,2007,44.6
+Croatia,2008,45.5
+Croatia,2009,46.4
+Croatia,2010,46.9
+Croatia,2011,47.3
+Croatia,2012,47.7
+Croatia,2013,47.8
+Croatia,2014,48.9
+Croatia,2015,48.9
+Croatia,2016,47.7
+Croatia,2017,NA
+Cyprus,1990,NA
+Cyprus,1995,NA
+Cyprus,2000,26.3
+Cyprus,2001,29.3
+Cyprus,2002,29.4
+Cyprus,2003,30.9
+Cyprus,2004,32.1
+Cyprus,2005,32.6
+Cyprus,2006,32.2
+Cyprus,2007,32.6
+Cyprus,2008,33.4
+Cyprus,2009,35.6
+Cyprus,2010,36
+Cyprus,2011,36.9
+Cyprus,2012,37.3
+Cyprus,2013,38.3
+Cyprus,2014,38.2
+Cyprus,2015,37.9
+Cyprus,2016,37.3
+Cyprus,2017,NA
+Czechia,1990,NA
+Czechia,1995,NA
+Czechia,2000,27.8
+Czechia,2001,28.8
+Czechia,2002,29.5
+Czechia,2003,28.3
+Czechia,2004,28.5
+Czechia,2005,28.8
+Czechia,2006,28.5
+Czechia,2007,28.3
+Czechia,2008,28.5
+Czechia,2009,28.9
+Czechia,2010,28.1
+Czechia,2011,28.2
+Czechia,2012,27.5
+Czechia,2013,28.3
+Czechia,2014,27.2
+Czechia,2015,26.9
+Czechia,2016,26.7
+Czechia,2017,26.8
+Denmark,1990,NA
+Denmark,1995,NA
+Denmark,2000,NA
+Denmark,2001,28
+Denmark,2002,26.2
+Denmark,2003,28.1
+Denmark,2004,NA
+Denmark,2005,29.7
+Denmark,2006,NA
+Denmark,2007,30.2
+Denmark,2008,NA
+Denmark,2009,31.7
+Denmark,2010,32.6
+Denmark,2011,33.1
+Denmark,2012,35.4
+Denmark,2013,34.5
+Denmark,2014,NA
+Denmark,2015,33.8
+Denmark,2016,NA
+Denmark,2017,35.8
+Estonia,1990,NA
+Estonia,1995,NA
+Estonia,2000,43.1
+Estonia,2001,43.3
+Estonia,2002,42.6
+Estonia,2003,43.1
+Estonia,2004,42.5
+Estonia,2005,40.8
+Estonia,2006,42.4
+Estonia,2007,44.3
+Estonia,2008,41.7
+Estonia,2009,42.5
+Estonia,2010,43.4
+Estonia,2011,43.7
+Estonia,2012,44
+Estonia,2013,44.4
+Estonia,2014,44
+Estonia,2015,43.9
+Estonia,2016,43.6
+Estonia,2017,NA
+Finland,1990,NA
+Finland,1995,NA
+Finland,2000,NA
+Finland,2001,NA
+Finland,2002,NA
+Finland,2003,NA
+Finland,2004,29
+Finland,2005,30.2
+Finland,2006,31.6
+Finland,2007,31.5
+Finland,2008,30.7
+Finland,2009,31.4
+Finland,2010,31.9
+Finland,2011,32.1
+Finland,2012,32.2
+Finland,2013,31.5
+Finland,2014,32.1
+Finland,2015,32.3
+Finland,2016,32.5
+Finland,2017,NA
+France,1990,NA
+France,1995,NA
+France,2000,27.5
+France,2001,27.5
+France,2002,27.8
+France,2003,27.8
+France,2004,27.8
+France,2005,28
+France,2006,27.4
+France,2007,27.8
+France,2008,27.4
+France,2009,26.9
+France,2010,25.3
+France,2011,25.6
+France,2012,25.5
+France,2013,25.5
+France,2014,26.1
+France,2015,NA
+France,2016,NA
+France,2017,NA
+Georgia,1990,51.2
+Georgia,1995,42.4
+Georgia,2000,45.3
+Georgia,2001,46.7
+Georgia,2002,38.5
+Georgia,2003,32.6
+Georgia,2004,33.9
+Georgia,2005,31.9
+Georgia,2006,NA
+Georgia,2007,NA
+Georgia,2008,NA
+Georgia,2009,NA
+Georgia,2010,NA
+Georgia,2011,NA
+Georgia,2012,NA
+Georgia,2013,NA
+Georgia,2014,NA
+Georgia,2015,NA
+Georgia,2016,NA
+Georgia,2017,NA
+Germany,1990,NA
+Germany,1995,NA
+Germany,2000,NA
+Germany,2001,NA
+Germany,2002,NA
+Germany,2003,19.5
+Germany,2004,NA
+Germany,2005,21.4
+Germany,2006,NA
+Germany,2007,23.2
+Germany,2008,NA
+Germany,2009,25
+Germany,2010,NA
+Germany,2011,26.8
+Germany,2012,NA
+Germany,2013,27.9
+Germany,2014,NA
+Germany,2015,28
+Germany,2016,NA
+Germany,2017,NA
+Greece,1990,NA
+Greece,1995,NA
+Greece,2000,NA
+Greece,2001,35.3
+Greece,2002,NA
+Greece,2003,37.1
+Greece,2004,NA
+Greece,2005,36.4
+Greece,2006,NA
+Greece,2007,NA
+Greece,2008,NA
+Greece,2009,NA
+Greece,2010,NA
+Greece,2011,36.7
+Greece,2012,NA
+Greece,2013,39.4
+Greece,2014,NA
+Greece,2015,38
+Greece,2016,NA
+Greece,2017,NA
+Hungary,1990,28.1
+Hungary,1995,34
+Hungary,2000,34.2
+Hungary,2001,33
+Hungary,2002,33.7
+Hungary,2003,35.1
+Hungary,2004,34.5
+Hungary,2005,34.2
+Hungary,2006,33.5
+Hungary,2007,33.5
+Hungary,2008,33
+Hungary,2009,32.1
+Hungary,2010,32
+Hungary,2011,31.7
+Hungary,2012,30.9
+Hungary,2013,30.3
+Hungary,2014,30.4
+Hungary,2015,30.8
+Hungary,2016,30.8
+Hungary,2017,NA
+Iceland,1990,NA
+Iceland,1995,NA
+Iceland,2000,NA
+Iceland,2001,34.7
+Iceland,2002,NA
+Iceland,2003,39.4
+Iceland,2004,NA
+Iceland,2005,39.3
+Iceland,2006,38.6
+Iceland,2007,37.8
+Iceland,2008,37.9
+Iceland,2009,42.6
+Iceland,2010,NA
+Iceland,2011,37.3
+Iceland,2012,NA
+Iceland,2013,43.8
+Iceland,2014,NA
+Iceland,2015,45.6
+Iceland,2016,47.2
+Iceland,2017,46.4
+Ireland,1990,NA
+Ireland,1995,NA
+Ireland,2000,NA
+Ireland,2001,NA
+Ireland,2002,30.2
+Ireland,2003,30.2
+Ireland,2004,30
+Ireland,2005,30.3
+Ireland,2006,31.2
+Ireland,2007,32
+Ireland,2008,32.3
+Ireland,2009,34.2
+Ireland,2010,34.4
+Ireland,2011,32.6
+Ireland,2012,44.4
+Ireland,2013,35.3
+Ireland,2014,NA
+Ireland,2015,35.3
+Ireland,2016,NA
+Ireland,2017,NA
+Italy,1990,NA
+Italy,1995,NA
+Italy,2000,27.9
+Italy,2001,28.1
+Italy,2002,28.7
+Italy,2003,29.3
+Italy,2004,29.9
+Italy,2005,32.4
+Italy,2006,33.3
+Italy,2007,33.2
+Italy,2008,33.2
+Italy,2009,33.8
+Italy,2010,34.5
+Italy,2011,34.9
+Italy,2012,35.5
+Italy,2013,35.7
+Italy,2014,36
+Italy,2015,36
+Italy,2016,35.2
+Italy,2017,NA
+Kazakhstan,1990,NA
+Kazakhstan,1995,NA
+Kazakhstan,2000,NA
+Kazakhstan,2001,NA
+Kazakhstan,2002,NA
+Kazakhstan,2003,NA
+Kazakhstan,2004,NA
+Kazakhstan,2005,NA
+Kazakhstan,2006,50.5
+Kazakhstan,2007,53.3
+Kazakhstan,2008,53.1
+Kazakhstan,2009,50.8
+Kazakhstan,2010,50.7
+Kazakhstan,2011,51.1
+Kazakhstan,2012,49.9
+Kazakhstan,2013,51.7
+Kazakhstan,2014,52.1
+Kazakhstan,2015,52.1
+Kazakhstan,2016,53.2
+Kazakhstan,2017,51.8
+Kyrgyzstan,1990,NA
+Kyrgyzstan,1995,NA
+Kyrgyzstan,2000,NA
+Kyrgyzstan,2001,47.7
+Kyrgyzstan,2002,49.3
+Kyrgyzstan,2003,50
+Kyrgyzstan,2004,48.1
+Kyrgyzstan,2005,44.7
+Kyrgyzstan,2006,44.9
+Kyrgyzstan,2007,43.7
+Kyrgyzstan,2008,45.8
+Kyrgyzstan,2009,43.4
+Kyrgyzstan,2010,44.4
+Kyrgyzstan,2011,43.2
+Kyrgyzstan,2012,43.5
+Kyrgyzstan,2013,58
+Kyrgyzstan,2014,48
+Kyrgyzstan,2015,50.6
+Kyrgyzstan,2016,49.4
+Kyrgyzstan,2017,46.5
+Latvia,1990,NA
+Latvia,1995,45.2
+Latvia,2000,49.6
+Latvia,2001,52.7
+Latvia,2002,51.8
+Latvia,2003,53.1
+Latvia,2004,52.8
+Latvia,2005,51.5
+Latvia,2006,47.5
+Latvia,2007,52.4
+Latvia,2008,54.7
+Latvia,2009,52.4
+Latvia,2010,50.8
+Latvia,2011,53.3
+Latvia,2012,52.8
+Latvia,2013,52
+Latvia,2014,NA
+Latvia,2015,51
+Latvia,2016,52.2
+Latvia,2017,NA
+Lithuania,1990,NA
+Lithuania,1995,NA
+Lithuania,2000,45
+Lithuania,2001,47
+Lithuania,2002,47.7
+Lithuania,2003,48.3
+Lithuania,2004,48.6
+Lithuania,2005,48.6
+Lithuania,2006,49.3
+Lithuania,2007,50.4
+Lithuania,2008,51.4
+Lithuania,2009,51
+Lithuania,2010,51.2
+Lithuania,2011,52.1
+Lithuania,2012,52.4
+Lithuania,2013,51.2
+Lithuania,2014,50.2
+Lithuania,2015,50.7
+Lithuania,2016,51.6
+Lithuania,2017,NA
+Luxembourg,1990,NA
+Luxembourg,1995,NA
+Luxembourg,2000,NA
+Luxembourg,2001,NA
+Luxembourg,2002,NA
+Luxembourg,2003,17.4
+Luxembourg,2004,NA
+Luxembourg,2005,18.2
+Luxembourg,2006,NA
+Luxembourg,2007,24.1
+Luxembourg,2008,NA
+Luxembourg,2009,21.2
+Luxembourg,2010,NA
+Luxembourg,2011,22.9
+Luxembourg,2012,NA
+Luxembourg,2013,27.3
+Luxembourg,2014,NA
+Luxembourg,2015,28.9
+Luxembourg,2016,NA
+Luxembourg,2017,NA
+Malta,1990,NA
+Malta,1995,NA
+Malta,2000,NA
+Malta,2001,NA
+Malta,2002,NA
+Malta,2003,NA
+Malta,2004,23.6
+Malta,2005,26.2
+Malta,2006,26.1
+Malta,2007,25.1
+Malta,2008,27.7
+Malta,2009,29.4
+Malta,2010,28
+Malta,2011,26.8
+Malta,2012,29.4
+Malta,2013,30.4
+Malta,2014,30.4
+Malta,2015,28.5
+Malta,2016,28.7
+Malta,2017,NA
+Montenegro,1990,NA
+Montenegro,1995,NA
+Montenegro,2000,NA
+Montenegro,2001,NA
+Montenegro,2002,38.3
+Montenegro,2003,39
+Montenegro,2004,39.5
+Montenegro,2005,39.8
+Montenegro,2006,38.4
+Montenegro,2007,41.3
+Montenegro,2008,44.8
+Montenegro,2009,46.2
+Montenegro,2010,46.4
+Montenegro,2011,50.1
+Montenegro,2012,NA
+Montenegro,2013,50.9
+Montenegro,2014,49.1
+Montenegro,2015,NA
+Montenegro,2016,NA
+Montenegro,2017,NA
+Netherlands,1990,NA
+Netherlands,1995,NA
+Netherlands,2000,NA
+Netherlands,2001,17.7
+Netherlands,2002,NA
+Netherlands,2003,19.9
+Netherlands,2004,NA
+Netherlands,2005,21
+Netherlands,2006,NA
+Netherlands,2007,23
+Netherlands,2008,NA
+Netherlands,2009,25.9
+Netherlands,2010,NA
+Netherlands,2011,24.2
+Netherlands,2012,24
+Netherlands,2013,23.6
+Netherlands,2014,23.4
+Netherlands,2015,25.4
+Netherlands,2016,25.8
+Netherlands,2017,NA
+North Macedonia,1990,NA
+North Macedonia,1995,NA
+North Macedonia,2000,46.2
+North Macedonia,2001,45.9
+North Macedonia,2002,47.4
+North Macedonia,2003,48.2
+North Macedonia,2004,48.1
+North Macedonia,2005,49.1
+North Macedonia,2006,50.1
+North Macedonia,2007,50
+North Macedonia,2008,51.4
+North Macedonia,2009,51.3
+North Macedonia,2010,54.8
+North Macedonia,2011,55.6
+North Macedonia,2012,52.6
+North Macedonia,2013,NA
+North Macedonia,2014,NA
+North Macedonia,2015,49
+North Macedonia,2016,50.8
+North Macedonia,2017,NA
+Norway,1990,NA
+Norway,1995,NA
+Norway,2000,NA
+Norway,2001,28.6
+Norway,2002,NA
+Norway,2003,29.3
+Norway,2004,NA
+Norway,2005,31.6
+Norway,2006,NA
+Norway,2007,33.5
+Norway,2008,34.1
+Norway,2009,35.2
+Norway,2010,35.7
+Norway,2011,36.2
+Norway,2012,36.2
+Norway,2013,36.9
+Norway,2014,37.4
+Norway,2015,37.4
+Norway,2016,37.6
+Norway,2017,NA
+Poland,1990,NA
+Poland,1995,NA
+Poland,2000,38.1
+Poland,2001,NA
+Poland,2002,NA
+Poland,2003,39.2
+Poland,2004,38.9
+Poland,2005,39.3
+Poland,2006,39.5
+Poland,2007,39.9
+Poland,2008,39.5
+Poland,2009,39.5
+Poland,2010,39
+Poland,2011,38.6
+Poland,2012,38.3
+Poland,2013,37.8
+Poland,2014,37.2
+Poland,2015,37
+Poland,2016,36.4
+Poland,2017,NA
+Portugal,1990,NA
+Portugal,1995,NA
+Portugal,2000,43.4
+Portugal,2001,43.6
+Portugal,2002,44
+Portugal,2003,44.3
+Portugal,2004,44.4
+Portugal,2005,44.4
+Portugal,2006,43.8
+Portugal,2007,43.4
+Portugal,2008,43
+Portugal,2009,44.3
+Portugal,2010,43.9
+Portugal,2011,44
+Portugal,2012,45
+Portugal,2013,45.4
+Portugal,2014,44.3
+Portugal,2015,44.1
+Portugal,2016,43.5
+Portugal,2017,NA
+Republic of Moldova,1990,NA
+Republic of Moldova,1995,NA
+Republic of Moldova,2000,NA
+Republic of Moldova,2001,NA
+Republic of Moldova,2002,44.9
+Republic of Moldova,2003,45.4
+Republic of Moldova,2004,44.8
+Republic of Moldova,2005,43.4
+Republic of Moldova,2006,41.7
+Republic of Moldova,2007,45.1
+Republic of Moldova,2008,45.6
+Republic of Moldova,2009,47.3
+Republic of Moldova,2010,46.8
+Republic of Moldova,2011,48
+Republic of Moldova,2012,48.1
+Republic of Moldova,2013,48
+Republic of Moldova,2014,47.8
+Republic of Moldova,2015,49.1
+Republic of Moldova,2016,49.1
+Republic of Moldova,2017,48.5
+Romania,1990,NA
+Romania,1995,39.1
+Romania,2000,42.5
+Romania,2001,42.8
+Romania,2002,44.2
+Romania,2003,43
+Romania,2004,42.7
+Romania,2005,45.3
+Romania,2006,44.3
+Romania,2007,44.7
+Romania,2008,44.8
+Romania,2009,44.7
+Romania,2010,44
+Romania,2011,46.1
+Romania,2012,45.1
+Romania,2013,45.7
+Romania,2014,46
+Romania,2015,46.2
+Romania,2016,45.8
+Romania,2017,NA
+Russian Federation,1990,NA
+Russian Federation,1995,48.4
+Russian Federation,2000,44.1
+Russian Federation,2001,44
+Russian Federation,2002,43.2
+Russian Federation,2003,43.3
+Russian Federation,2004,42.9
+Russian Federation,2005,42.4
+Russian Federation,2006,42.2
+Russian Federation,2007,41.8
+Russian Federation,2008,41.8
+Russian Federation,2009,41.9
+Russian Federation,2010,41.7
+Russian Federation,2011,41.4
+Russian Federation,2012,41.2
+Russian Federation,2013,40.9
+Russian Federation,2014,NA
+Russian Federation,2015,NA
+Russian Federation,2016,NA
+Russian Federation,2017,NA
+Serbia,1990,NA
+Serbia,1995,36.2
+Serbia,2000,40.2
+Serbia,2001,42.2
+Serbia,2002,43
+Serbia,2003,43.8
+Serbia,2004,43.6
+Serbia,2005,43.7
+Serbia,2006,44.7
+Serbia,2007,47
+Serbia,2008,47.2
+Serbia,2009,47.4
+Serbia,2010,48.8
+Serbia,2011,49.4
+Serbia,2012,49.6
+Serbia,2013,50.5
+Serbia,2014,49.1
+Serbia,2015,49.2
+Serbia,2016,48.4
+Serbia,2017,50
+Slovakia,1990,NA
+Slovakia,1995,NA
+Slovakia,2000,NA
+Slovakia,2001,NA
+Slovakia,2002,39.6
+Slovakia,2003,40.6
+Slovakia,2004,41.2
+Slovakia,2005,41.5
+Slovakia,2006,41.8
+Slovakia,2007,42.3
+Slovakia,2008,42.3
+Slovakia,2009,42.5
+Slovakia,2010,42.4
+Slovakia,2011,42.6
+Slovakia,2012,42.3
+Slovakia,2013,42.7
+Slovakia,2014,42.5
+Slovakia,2015,42.2
+Slovakia,2016,41.4
+Slovakia,2017,NA
+Slovenia,1990,NA
+Slovenia,1995,31.2
+Slovenia,2000,35.9
+Slovenia,2001,35.4
+Slovenia,2002,35.1
+Slovenia,2003,32.2
+Slovenia,2004,32.5
+Slovenia,2005,34.8
+Slovenia,2006,35.3
+Slovenia,2007,34.9
+Slovenia,2008,35.1
+Slovenia,2009,35.7
+Slovenia,2010,36.3
+Slovenia,2011,36.4
+Slovenia,2012,35.8
+Slovenia,2013,36
+Slovenia,2014,36.1
+Slovenia,2015,36.5
+Slovenia,2016,34.5
+Slovenia,2017,NA
+Spain,1990,NA
+Spain,1995,NA
+Spain,2000,NA
+Spain,2001,35.4
+Spain,2002,35.2
+Spain,2003,36.3
+Spain,2004,36.1
+Spain,2005,36.7
+Spain,2006,36.7
+Spain,2007,37
+Spain,2008,37.5
+Spain,2009,38.1
+Spain,2010,38.4
+Spain,2011,38.7
+Spain,2012,38.8
+Spain,2013,39.3
+Spain,2014,39.6
+Spain,2015,40
+Spain,2016,40.2
+Spain,2017,NA
+Sweden,1990,NA
+Sweden,1995,NA
+Sweden,2000,NA
+Sweden,2001,NA
+Sweden,2002,NA
+Sweden,2003,NA
+Sweden,2004,NA
+Sweden,2005,35.7
+Sweden,2006,NA
+Sweden,2007,35
+Sweden,2008,NA
+Sweden,2009,35.7
+Sweden,2010,NA
+Sweden,2011,37.2
+Sweden,2012,NA
+Sweden,2013,33.3
+Sweden,2014,NA
+Sweden,2015,33.7
+Sweden,2016,NA
+Sweden,2017,NA
+Switzerland,1990,NA
+Switzerland,1995,NA
+Switzerland,2000,20.3
+Switzerland,2001,NA
+Switzerland,2002,NA
+Switzerland,2003,NA
+Switzerland,2004,26.7
+Switzerland,2005,NA
+Switzerland,2006,NA
+Switzerland,2007,NA
+Switzerland,2008,30.2
+Switzerland,2009,NA
+Switzerland,2010,NA
+Switzerland,2011,NA
+Switzerland,2012,32.4
+Switzerland,2013,NA
+Switzerland,2014,NA
+Switzerland,2015,33.5
+Switzerland,2016,NA
+Switzerland,2017,NA
+Tajikistan,1990,NA
+Tajikistan,1995,NA
+Tajikistan,2000,NA
+Tajikistan,2001,26.3
+Tajikistan,2002,21.3
+Tajikistan,2003,NA
+Tajikistan,2004,NA
+Tajikistan,2005,NA
+Tajikistan,2006,NA
+Tajikistan,2007,NA
+Tajikistan,2008,NA
+Tajikistan,2009,NA
+Tajikistan,2010,NA
+Tajikistan,2011,26.7
+Tajikistan,2012,31.1
+Tajikistan,2013,36.2
+Tajikistan,2014,37.6
+Tajikistan,2015,39.8
+Tajikistan,2016,41.6
+Tajikistan,2017,40
+Turkey,1990,NA
+Turkey,1995,NA
+Turkey,2000,34.3
+Turkey,2001,35.2
+Turkey,2002,35.6
+Turkey,2003,35.9
+Turkey,2004,36.4
+Turkey,2005,36.1
+Turkey,2006,36.3
+Turkey,2007,36.7
+Turkey,2008,36.5
+Turkey,2009,36.3
+Turkey,2010,35.8
+Turkey,2011,35.6
+Turkey,2012,36.2
+Turkey,2013,36.2
+Turkey,2014,36.9
+Turkey,2015,37.3
+Turkey,2016,36.7
+Turkey,2017,37
+Ukraine,1990,NA
+Ukraine,1995,NA
+Ukraine,2000,NA
+Ukraine,2001,41.9
+Ukraine,2002,42.9
+Ukraine,2003,43.1
+Ukraine,2004,43.9
+Ukraine,2005,44.1
+Ukraine,2006,44.2
+Ukraine,2007,43.9
+Ukraine,2008,45
+Ukraine,2009,44.8
+Ukraine,2010,45.2
+Ukraine,2011,45.5
+Ukraine,2012,45.8
+Ukraine,2013,45.8
+Ukraine,2014,45.8
+Ukraine,2015,46.3
+Ukraine,2016,45
+Ukraine,2017,44.7
+United Kingdom,1990,NA
+United Kingdom,1995,NA
+United Kingdom,2000,NA
+United Kingdom,2001,NA
+United Kingdom,2002,NA
+United Kingdom,2003,NA
+United Kingdom,2004,NA
+United Kingdom,2005,35.7
+United Kingdom,2006,NA
+United Kingdom,2007,36.8
+United Kingdom,2008,NA
+United Kingdom,2009,37.9
+United Kingdom,2010,38.3
+United Kingdom,2011,37.7
+United Kingdom,2012,37.8
+United Kingdom,2013,38.1
+United Kingdom,2014,37.4
+United Kingdom,2015,38.6
+United Kingdom,2016,38.7
+United Kingdom,2017,NA
+Uzbekistan,1990,NA
+Uzbekistan,1995,NA
+Uzbekistan,2000,39.6
+Uzbekistan,2001,40.9
+Uzbekistan,2002,40.3
+Uzbekistan,2003,39.7
+Uzbekistan,2004,40.5
+Uzbekistan,2005,39.4
+Uzbekistan,2006,42.3
+Uzbekistan,2007,41.2
+Uzbekistan,2008,40.8
+Uzbekistan,2009,43
+Uzbekistan,2010,41.2
+Uzbekistan,2011,40.9
+Uzbekistan,2012,41.2
+Uzbekistan,2013,41.7
+Uzbekistan,2014,40.6
+Uzbekistan,2015,41.1
+Uzbekistan,2016,41.1
+Uzbekistan,2017,41.1
